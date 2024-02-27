@@ -15,58 +15,44 @@
   },
   {
     "attributes": {
-      "objectid": 1000095,
-      "globalid": "{3FC96EDE-31D6-4117-A85D-55F4DBBD7D4F}",
-      "sighttime": 1708903320000,
-      "joeypresent": "No",
-      "numberofkoala": 2,
-      "koalacondifinal": "Healthy"
-    },
-    "geometry": {
-      "x": 17016169.9036,
-      "y": -3191962.6482999995
-    }
-  },
-  {
-    "attributes": {
-      "objectid": 1000096,
-      "globalid": "{93098983-7E00-4EFD-AD51-646F1EFFD81A}",
-      "sighttime": 1708903440000,
+      "objectid": 1000097,
+      "globalid": "{5D0A0690-B7FF-4FE3-A68B-C5D4BF3E7F28}",
+      "sighttime": 1708983780000,
       "joeypresent": "No",
       "numberofkoala": 1,
       "koalacondifinal": "Healthy"
     },
     "geometry": {
-      "x": 17040725.3402,
-      "y": -3186909.835900001
+      "x": 17035063.729199998,
+      "y": -3154896.958799999
     }
   },
   {
     "attributes": {
-      "objectid": 999291,
-      "globalid": "{11A5376D-CA6B-43D0-A26C-84201DAFBCA4}",
-      "sighttime": 1708910100000,
+      "objectid": 999293,
+      "globalid": "{EF882A2F-D158-4006-8F88-66E939D3F230}",
+      "sighttime": 1708984620000,
+      "joeypresent": "Not Sure",
+      "numberofkoala": 1,
+      "koalacondifinal": "Healthy"
+    },
+    "geometry": {
+      "x": 17059736.8692,
+      "y": -3187513.3269999996
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 1000098,
+      "globalid": "{B20A0613-B2D9-4D88-8381-52E64539FF08}",
+      "sighttime": 1708984860000,
       "joeypresent": "No",
       "numberofkoala": 1,
       "koalacondifinal": "Healthy"
     },
     "geometry": {
-      "x": 17082027.918899998,
-      "y": -3266707.515999999
-    }
-  },
-  {
-    "attributes": {
-      "objectid": 999695,
-      "globalid": "{9D140A2C-4DCC-4641-A080-21DE97A01891}",
-      "sighttime": 1708933980000,
-      "joeypresent": "No",
-      "numberofkoala": 1,
-      "koalacondifinal": "Healthy"
-    },
-    "geometry": {
-      "x": 17040050.754600003,
-      "y": -3188484.3951000012
+      "x": 16908833.061899997,
+      "y": -3194984.412700001
     }
   }
 ]
