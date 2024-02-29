@@ -15,76 +15,6 @@
   },
   {
     "attributes": {
-      "objectid": 999296,
-      "globalid": "{5EDE80D1-6989-4C9C-BD4E-1E8EA8C2C4DD}",
-      "sighttime": 1709084700000,
-      "joeypresent": "Not Sure",
-      "numberofkoala": 1,
-      "koalacondifinal": "Healthy"
-    },
-    "geometry": {
-      "x": 17051726.0828,
-      "y": -3197250.406199999
-    }
-  },
-  {
-    "attributes": {
-      "objectid": 1000100,
-      "globalid": "{0A8A72F4-D376-411D-8EE5-43CE5D4935A4}",
-      "sighttime": 1709085120000,
-      "joeypresent": "Not Sure",
-      "numberofkoala": 1,
-      "koalacondifinal": "Healthy"
-    },
-    "geometry": {
-      "x": 17069750.698299997,
-      "y": -3241784.0001000017
-    }
-  },
-  {
-    "attributes": {
-      "objectid": 1000102,
-      "globalid": "{E35D9B20-422D-49B7-9107-1C5861D1E3DE}",
-      "sighttime": 1709086080000,
-      "joeypresent": "Not Sure",
-      "numberofkoala": 1,
-      "koalacondifinal": "Healthy"
-    },
-    "geometry": {
-      "x": 17051895.356299996,
-      "y": -3197314.1011000015
-    }
-  },
-  {
-    "attributes": {
-      "objectid": 999701,
-      "globalid": "{3398FC60-4080-4144-ACC0-0BBB275717DC}",
-      "sighttime": 1709100540000,
-      "joeypresent": "Not Sure",
-      "numberofkoala": 1,
-      "koalacondifinal": "Healthy"
-    },
-    "geometry": {
-      "x": 17046827.9933,
-      "y": -3236333.329599999
-    }
-  },
-  {
-    "attributes": {
-      "objectid": 999298,
-      "globalid": "{FB8FD2A3-6FE3-4941-B97B-837EC8786DB8}",
-      "sighttime": 1709103600000,
-      "joeypresent": "Not Sure",
-      "numberofkoala": 1,
-      "koalacondifinal": "Healthy"
-    },
-    "geometry": {
-      "x": 17072401.391500004,
-      "y": -3239990.3792999983
-    }
-  },
-  {
-    "attributes": {
       "objectid": 1000103,
       "globalid": "{920B0EB3-B7B0-45D9-B1E3-66BD4B96437B}",
       "sighttime": 1709156160000,
@@ -109,6 +39,90 @@
     "geometry": {
       "x": 17042134.3513,
       "y": -3188654.4930000007
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 999299,
+      "globalid": "{DF41D4F2-50C5-48F3-9B95-35B15EA2296E}",
+      "sighttime": 1709163180000,
+      "joeypresent": "No",
+      "numberofkoala": 1,
+      "koalacondifinal": "Healthy"
+    },
+    "geometry": {
+      "x": 17040921.6537,
+      "y": -3187137.8038999997
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 1000104,
+      "globalid": "{E50241B3-444C-4D22-8882-37F5592C1155}",
+      "sighttime": 1709171580000,
+      "joeypresent": "Not Sure",
+      "numberofkoala": 1,
+      "koalacondifinal": "Healthy"
+    },
+    "geometry": {
+      "x": 17059746.078199998,
+      "y": -3187502.5612999983
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 999703,
+      "globalid": "{076C367C-0152-4EA9-AE04-29EAF3F5B730}",
+      "sighttime": 1709184540000,
+      "joeypresent": "Not Sure",
+      "numberofkoala": 1,
+      "koalacondifinal": "Healthy"
+    },
+    "geometry": {
+      "x": 16913342.777999997,
+      "y": -3259506.1202000007
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 999300,
+      "globalid": "{2AE3F84F-B569-4A9C-BEB6-C9AE65969420}",
+      "sighttime": 1709193960000,
+      "joeypresent": "Not Sure",
+      "numberofkoala": 1,
+      "koalacondifinal": "Healthy"
+    },
+    "geometry": {
+      "x": 16970231.0709,
+      "y": -3175809.8247000016
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 1000105,
+      "globalid": "{2D26EDAF-2E2C-444E-8DE3-031663E3BC1B}",
+      "sighttime": 1709198400000,
+      "joeypresent": "No",
+      "numberofkoala": 1,
+      "koalacondifinal": "Healthy"
+    },
+    "geometry": {
+      "x": 16915709.416599996,
+      "y": -3187259.341600001
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 1000106,
+      "globalid": "{B083C3CA-0B78-4E7A-A839-1E3B9099EF32}",
+      "sighttime": 1709203920000,
+      "joeypresent": "Not Sure",
+      "numberofkoala": 1,
+      "koalacondifinal": "Healthy"
+    },
+    "geometry": {
+      "x": 17016198.903399996,
+      "y": -3191814.4109999985
     }
   }
 ]
