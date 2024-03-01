@@ -15,114 +15,170 @@
   },
   {
     "attributes": {
-      "objectid": 1000103,
-      "globalid": "{920B0EB3-B7B0-45D9-B1E3-66BD4B96437B}",
-      "sighttime": 1709156160000,
+      "objectid": 999704,
+      "globalid": "{1A714C1B-52C0-413E-810C-67477C40E032}",
+      "sighttime": 1709244300000,
       "joeypresent": "No",
       "numberofkoala": 1,
       "koalacondifinal": "Healthy"
     },
     "geometry": {
-      "x": 17042083.1927,
-      "y": -3188235.053100001
+      "x": 17059750.680699997,
+      "y": -3187511.780099999
     }
   },
   {
     "attributes": {
-      "objectid": 999702,
-      "globalid": "{9DA00C48-81A2-4A56-83FE-7B3526397F03}",
-      "sighttime": 1709152800000,
+      "objectid": 999301,
+      "globalid": "{D9535CCE-8349-4919-A467-1BB36CD36300}",
+      "sighttime": 1709249340000,
+      "joeypresent": "Not Sure",
+      "numberofkoala": 1,
+      "koalacondifinal": "Healthy"
+    },
+    "geometry": {
+      "x": 17036325.6207,
+      "y": -3190617.5168000013
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 999302,
+      "globalid": "{2B8B9CF5-17D8-4083-9BFC-7770F4BCFB2B}",
+      "sighttime": 1709253240000,
       "joeypresent": "No",
       "numberofkoala": 1,
       "koalacondifinal": "Healthy"
     },
     "geometry": {
-      "x": 17042134.3513,
-      "y": -3188654.4930000007
+      "x": 17041411.762999997,
+      "y": -3187049.1537000015
     }
   },
   {
     "attributes": {
-      "objectid": 999299,
-      "globalid": "{DF41D4F2-50C5-48F3-9B95-35B15EA2296E}",
-      "sighttime": 1709163180000,
+      "objectid": 1000474,
+      "globalid": "{E52E2D11-EDD6-4198-9EC3-D2776C4DB895}",
+      "sighttime": 1709253060000,
       "joeypresent": "No",
       "numberofkoala": 1,
       "koalacondifinal": "Healthy"
     },
     "geometry": {
-      "x": 17040921.6537,
-      "y": -3187137.8038999997
+      "x": 17041409.4899,
+      "y": -3186953.221000001
     }
   },
   {
     "attributes": {
-      "objectid": 1000104,
-      "globalid": "{E50241B3-444C-4D22-8882-37F5592C1155}",
-      "sighttime": 1709171580000,
-      "joeypresent": "Not Sure",
-      "numberofkoala": 1,
-      "koalacondifinal": "Healthy"
-    },
-    "geometry": {
-      "x": 17059746.078199998,
-      "y": -3187502.5612999983
-    }
-  },
-  {
-    "attributes": {
-      "objectid": 999703,
-      "globalid": "{076C367C-0152-4EA9-AE04-29EAF3F5B730}",
-      "sighttime": 1709184540000,
-      "joeypresent": "Not Sure",
-      "numberofkoala": 1,
-      "koalacondifinal": "Healthy"
-    },
-    "geometry": {
-      "x": 16913342.777999997,
-      "y": -3259506.1202000007
-    }
-  },
-  {
-    "attributes": {
-      "objectid": 999300,
-      "globalid": "{2AE3F84F-B569-4A9C-BEB6-C9AE65969420}",
-      "sighttime": 1709193960000,
-      "joeypresent": "Not Sure",
-      "numberofkoala": 1,
-      "koalacondifinal": "Healthy"
-    },
-    "geometry": {
-      "x": 16970231.0709,
-      "y": -3175809.8247000016
-    }
-  },
-  {
-    "attributes": {
-      "objectid": 1000105,
-      "globalid": "{2D26EDAF-2E2C-444E-8DE3-031663E3BC1B}",
-      "sighttime": 1709198400000,
+      "objectid": 999706,
+      "globalid": "{0402C35B-41C4-4084-9293-0C34E2312973}",
+      "sighttime": 1709266020000,
       "joeypresent": "No",
       "numberofkoala": 1,
       "koalacondifinal": "Healthy"
     },
     "geometry": {
-      "x": 16915709.416599996,
-      "y": -3187259.341600001
+      "x": 17016250.638499998,
+      "y": -3191749.468899999
     }
   },
   {
     "attributes": {
-      "objectid": 1000106,
-      "globalid": "{B083C3CA-0B78-4E7A-A839-1E3B9099EF32}",
-      "sighttime": 1709203920000,
-      "joeypresent": "Not Sure",
+      "objectid": 999303,
+      "globalid": "{8DE80876-8906-4409-85DB-BF02114DBE3B}",
+      "sighttime": 1709275500000,
+      "joeypresent": "No",
       "numberofkoala": 1,
       "koalacondifinal": "Healthy"
     },
     "geometry": {
-      "x": 17016198.903399996,
-      "y": -3191814.4109999985
+      "x": 17041283.2072,
+      "y": -3199889.524099998
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 999304,
+      "globalid": "{B1D7E285-B5CA-4A7F-BBFE-01240D0EDA16}",
+      "sighttime": 1709279640000,
+      "joeypresent": "No",
+      "numberofkoala": 1,
+      "koalacondifinal": "Healthy"
+    },
+    "geometry": {
+      "x": 17040055.9022,
+      "y": -3188491.476399999
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 999707,
+      "globalid": "{9C703D96-CE4E-4A64-8154-3B6811B83AED}",
+      "sighttime": 1709280540000,
+      "joeypresent": "Yes",
+      "numberofkoala": 2,
+      "koalacondifinal": "Healthy"
+    },
+    "geometry": {
+      "x": 17072179.9891,
+      "y": -3240591.5251
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 999708,
+      "globalid": "{6F3A391B-54D9-45BE-9AE1-39CD51372C3F}",
+      "sighttime": 1709280780000,
+      "joeypresent": "Yes",
+      "numberofkoala": 2,
+      "koalacondifinal": "Healthy"
+    },
+    "geometry": {
+      "x": 17072176.9304,
+      "y": -3240593.6341999993
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 999709,
+      "globalid": "{EE3C9105-ACD6-4D06-B274-6F5F6690E884}",
+      "sighttime": 1709281260000,
+      "joeypresent": "Yes",
+      "numberofkoala": 2,
+      "koalacondifinal": "Healthy"
+    },
+    "geometry": {
+      "x": 17072179.9891,
+      "y": -3240591.5251
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 999710,
+      "globalid": "{E3A95467-4088-4D52-941D-68BB51F92AF2}",
+      "sighttime": 1709259840000,
+      "joeypresent": "No",
+      "numberofkoala": 1,
+      "koalacondifinal": "Healthy"
+    },
+    "geometry": {
+      "x": 17036000.6405,
+      "y": -3247844.0040000007
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 999712,
+      "globalid": "{D202B888-076B-4E4E-81E2-EE65D3514EBF}",
+      "sighttime": 1709289840000,
+      "joeypresent": "No",
+      "numberofkoala": 1,
+      "koalacondifinal": "Healthy"
+    },
+    "geometry": {
+      "x": 17039973.793799996,
+      "y": -3188873.0823
     }
   }
 ]
