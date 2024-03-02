@@ -22,25 +22,6 @@
     },
     {
       "type": "Feature",
-      "id": 999712,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.07268899966644,
-          -27.52225159993672
-        ]
-      },
-      "properties": {
-        "objectid": 999712,
-        "globalid": "{D202B888-076B-4E4E-81E2-EE65D3514EBF}",
-        "sighttime": 1709289840000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 999305,
       "geometry": {
         "type": "Point",
