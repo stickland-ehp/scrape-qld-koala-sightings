@@ -22,18 +22,37 @@
     },
     {
       "type": "Feature",
-      "id": 999312,
+      "id": 999318,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.2502492692935,
-          -27.511260151523622
+          153.25604683803374,
+          -27.512975150801445
         ]
       },
       "properties": {
-        "objectid": 999312,
-        "globalid": "{18F5830C-BBBE-4B09-A681-A1ACBE382BE3}",
-        "sighttime": 1709415540000,
+        "objectid": 999318,
+        "globalid": "{03258F9C-EDA5-4EFE-8BE1-F64D5E1DCE54}",
+        "sighttime": 1709500080000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 999722,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.2500292143883,
+          -27.51135581292579
+        ]
+      },
+      "properties": {
+        "objectid": 999722,
+        "globalid": "{A5AC0E7C-A9BF-4898-9CA0-17075CC15FCB}",
+        "sighttime": 1709501760000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy"
@@ -41,18 +60,18 @@
     },
     {
       "type": "Feature",
-      "id": 999716,
+      "id": 999724,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.42351090618956,
-          -27.235576398212135
+          153.09335997276924,
+          -27.52813946674837
         ]
       },
       "properties": {
-        "objectid": 999716,
-        "globalid": "{8B4DFC75-3EFE-41C6-A86A-A146742C2C91}",
-        "sighttime": 1709417460000,
+        "objectid": 999724,
+        "globalid": "{C47B3352-0903-4E1F-9222-31D820B746C5}",
+        "sighttime": 1709522700000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy"
@@ -60,37 +79,18 @@
     },
     {
       "type": "Feature",
-      "id": 999717,
+      "id": 999322,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.25603352050962,
-          -27.512708759496956
+          152.86048760679572,
+          -27.547964719243364
         ]
       },
       "properties": {
-        "objectid": 999717,
-        "globalid": "{F7DF0CA4-15A0-4C69-A4DC-1C5C1CF2AEA9}",
-        "sighttime": 1709417760000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 999313,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.85845419918317,
-          -27.547767206981913
-        ]
-      },
-      "properties": {
-        "objectid": 999313,
-        "globalid": "{CBCF465A-DB90-4AA3-81CF-00959AE61950}",
-        "sighttime": 1709425080000,
+        "objectid": 999322,
+        "globalid": "{2050067D-9B92-46F5-B5BB-0E5392AF12C7}",
+        "sighttime": 1709533860000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy"
@@ -98,113 +98,18 @@
     },
     {
       "type": "Feature",
-      "id": 999314,
+      "id": 999323,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.04511080841846,
-          -27.5356009554286
+          152.8596847195442,
+          -27.545683871242417
         ]
       },
       "properties": {
-        "objectid": 999314,
-        "globalid": "{F60A368F-1DE9-487D-AB83-C63806C01ADE}",
-        "sighttime": 1709426100000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 999718,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.43963329764077,
-          -27.40131598810077
-        ]
-      },
-      "properties": {
-        "objectid": 999718,
-        "globalid": "{B23E0C5F-24C2-4450-83B0-6C7121CD0A5F}",
-        "sighttime": 1709426760000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 2,
-        "koalacondifinal": "Healthy"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 999719,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.00560927762692,
-          -26.385094254867212
-        ]
-      },
-      "properties": {
-        "objectid": 999719,
-        "globalid": "{FC6B6090-6932-4A44-AB9C-6078606A8D89}",
-        "sighttime": 1709432160000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 999315,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.07746475363564,
-          -27.50729893380752
-        ]
-      },
-      "properties": {
-        "objectid": 999315,
-        "globalid": "{1E664934-E223-4670-B4FD-BE1ADB4E397D}",
-        "sighttime": 1709442840000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 999316,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.08502587338208,
-          -27.506915485589108
-        ]
-      },
-      "properties": {
-        "objectid": 999316,
-        "globalid": "{0185ED8A-58E5-4DC4-8223-E631DA393C0E}",
-        "sighttime": 1709446500000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 999720,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.07344328806104,
-          -27.519132390668087
-        ]
-      },
-      "properties": {
-        "objectid": 999720,
-        "globalid": "{E4905315-330B-46DC-924D-88A3DCBE1637}",
-        "sighttime": 1709452260000,
+        "objectid": 999323,
+        "globalid": "{DACB5196-E23D-4E5F-94E4-2E58C009DDD5}",
+        "sighttime": 1709533860000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy"
