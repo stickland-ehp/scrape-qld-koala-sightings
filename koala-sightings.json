@@ -3,18 +3,18 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1000551,
+      "id": 1000555,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.25014535667302,
-          -27.511328471430442
+          153.25030358862213,
+          -27.511405105201987
         ]
       },
       "properties": {
-        "objectid": 1000551,
-        "globalid": "{A7706B53-CFF5-4EA1-9BD5-D196751AEBE8}",
-        "sighttime": 1711147380000,
+        "objectid": 1000555,
+        "globalid": "{BB50BC62-CF2D-4A9F-80A8-9A56211BFFF1}",
+        "sighttime": 1711226700000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
@@ -30,18 +30,18 @@
     },
     {
       "type": "Feature",
-      "id": 1000552,
+      "id": 1000556,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.85924315715783,
-          -27.547967070416455
+          152.85928344210674,
+          -27.547354408912348
         ]
       },
       "properties": {
-        "objectid": 1000552,
-        "globalid": "{AF1A7508-5C8B-4A39-8E5A-D1A9AE1916C9}",
-        "sighttime": 1711152840000,
+        "objectid": 1000556,
+        "globalid": "{D42DDA73-7358-40EB-844C-7D1E9DA9E49B}",
+        "sighttime": 1711243140000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
@@ -57,129 +57,21 @@
     },
     {
       "type": "Feature",
-      "id": 999795,
+      "id": 999798,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.8591866531265,
-          -27.544942232639933
+          152.85653974468391,
+          -27.54350730630555
         ]
       },
       "properties": {
-        "objectid": 999795,
-        "globalid": "{3F009A26-245F-4AA1-B2BC-0D9403CEFC09}",
-        "sighttime": 1711152900000,
+        "objectid": 999798,
+        "globalid": "{C0D04199-28A5-47EF-86A6-A7D6B34E3D84}",
+        "sighttime": 1711243140000,
         "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "has_attachment": null,
-        "locality": null,
-        "near_koala_habitat": null,
-        "attachment_cc_lic_check": null,
-        "lga": null,
-        "sighting_lat_wgs84": null,
-        "sighting_long_wgs84": null,
-        "vetting_code": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 999796,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.37079622207216,
-          -27.963932207089496
-        ]
-      },
-      "properties": {
-        "objectid": 999796,
-        "globalid": "{62E03FA8-259F-4B0D-8D0A-E13453DFE756}",
-        "sighttime": 1711166760000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "has_attachment": null,
-        "locality": null,
-        "near_koala_habitat": null,
-        "attachment_cc_lic_check": null,
-        "lga": null,
-        "sighting_lat_wgs84": null,
-        "sighting_long_wgs84": null,
-        "vetting_code": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1000553,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.0734366423246,
-          -27.51918056331568
-        ]
-      },
-      "properties": {
-        "objectid": 1000553,
-        "globalid": "{7345A672-F425-48AD-A6FA-65E7B9DD87C9}",
-        "sighttime": 1711176900000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "has_attachment": null,
-        "locality": null,
-        "near_koala_habitat": null,
-        "attachment_cc_lic_check": null,
-        "lga": null,
-        "sighting_lat_wgs84": null,
-        "sighting_long_wgs84": null,
-        "vetting_code": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1000554,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.3666286068891,
-          -27.929110107769443
-        ]
-      },
-      "properties": {
-        "objectid": 1000554,
-        "globalid": "{54A5D3F2-12EA-4EF9-A6C6-A33F367C0576}",
-        "sighttime": 1711171200000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "has_attachment": null,
-        "locality": null,
-        "near_koala_habitat": null,
-        "attachment_cc_lic_check": null,
-        "lga": null,
-        "sighting_lat_wgs84": null,
-        "sighting_long_wgs84": null,
-        "vetting_code": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 999797,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.88478039218958,
-          -27.601678178566576
-        ]
-      },
-      "properties": {
-        "objectid": 999797,
-        "globalid": "{3A71ABEF-EB9E-4085-A296-1EE018208608}",
-        "sighttime": 1711179000000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Injured/Sick",
         "has_attachment": null,
         "locality": null,
         "near_koala_habitat": null,
