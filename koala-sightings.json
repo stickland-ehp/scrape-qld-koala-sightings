@@ -30,18 +30,45 @@
     },
     {
       "type": "Feature",
-      "id": 1010544,
+      "id": 1010546,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.01318048725057,
-          -26.388294641793756
+          153.0559382025984,
+          -27.554739930983597
         ]
       },
       "properties": {
-        "objectid": 1010544,
-        "globalid": "{408DA6E8-60E5-4A58-AADD-141C7DF828A2}",
-        "sighttime": 1713824400000,
+        "objectid": 1010546,
+        "globalid": "{CAC6AA5E-CED8-46D3-A477-2F3488F6F004}",
+        "sighttime": 1713876060000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "has_attachment": null,
+        "locality": null,
+        "near_koala_habitat": null,
+        "attachment_cc_lic_check": null,
+        "lga": null,
+        "sighting_lat_wgs84": null,
+        "sighting_long_wgs84": null,
+        "vetting_code": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1010548,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.09511923881155,
+          -27.517300430573318
+        ]
+      },
+      "properties": {
+        "objectid": 1010548,
+        "globalid": "{C22EB379-5202-41C2-891D-6E7A2CD29424}",
+        "sighttime": 1713904260000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
@@ -57,19 +84,19 @@
     },
     {
       "type": "Feature",
-      "id": 1010545,
+      "id": 1010551,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.25025486849268,
-          -27.51128299467761
+          153.23287254769508,
+          -27.935148094905276
         ]
       },
       "properties": {
-        "objectid": 1010545,
-        "globalid": "{6FFB3834-D444-4C59-851C-37BC5731EEEA}",
-        "sighttime": 1713843420000,
-        "joeypresent": "Not Sure",
+        "objectid": 1010551,
+        "globalid": "{40D80BB7-B777-42E6-8711-0E61018F9DF9}",
+        "sighttime": 1713934440000,
+        "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "has_attachment": null,
