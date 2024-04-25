@@ -1,2 +1,2 @@
 # qld-koala-sightings
-Daily scrape of sightings from: https://environment.des.qld.gov.au/wildlife/animals/living-with/koalas/report-sightings
+Daily scrape of koala sightings in Queensland, from: https://environment.desi.qld.gov.au/wildlife/animals/living-with/koalas/report-sightings
