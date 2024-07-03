@@ -3,6 +3,33 @@
   "features": [
     {
       "type": "Feature",
+      "id": 1011793,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.42372403957552,
+          -27.235365444559946
+        ]
+      },
+      "properties": {
+        "objectid": 1011793,
+        "globalid": "{D1D2B421-D446-4602-8515-827E4DDD4BBD}",
+        "sighttime": 1719975960000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "has_attachment": null,
+        "locality": null,
+        "near_koala_habitat": null,
+        "attachment_cc_lic_check": null,
+        "lga": null,
+        "sighting_lat_wgs84": null,
+        "sighting_long_wgs84": null,
+        "vetting_code": null
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1000087,
       "geometry": {
         "type": "Point",
