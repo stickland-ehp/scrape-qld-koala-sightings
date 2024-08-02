@@ -3,104 +3,37 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1013426,
+      "id": 1013429,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.1730580115408,
-          -25.360711051434315
+          153.08152327112234,
+          -27.545377194052186
         ]
       },
       "properties": {
-        "objectid": 1013426,
-        "globalid": "{B5CF7921-8423-49E6-B713-FC017A24EBD6}",
-        "sighttime": 1722482160000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Dead",
         "has_attachment": null,
         "locality": null,
-        "near_koala_habitat": null,
-        "attachment_cc_lic_check": null,
-        "lga": null,
-        "sighting_lat_wgs84": null,
-        "sighting_long_wgs84": null,
-        "vetting_code": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1013428,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.11042854168252,
-          -27.541763844366802
-        ]
-      },
-      "properties": {
-        "objectid": 1013428,
-        "globalid": "{2F714004-40E6-4260-B1EC-55342AF9A12F}",
-        "sighttime": 1722487560000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "has_attachment": null,
-        "locality": null,
-        "near_koala_habitat": null,
-        "attachment_cc_lic_check": null,
-        "lga": null,
-        "sighting_lat_wgs84": null,
-        "sighting_long_wgs84": null,
-        "vetting_code": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1013427,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.2513866756821,
-          -27.509435806289286
-        ]
-      },
-      "properties": {
-        "objectid": 1013427,
-        "globalid": "{832D1D4D-E92D-4FFB-BE33-6491EEC86156}",
-        "sighttime": 1722486720000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "has_attachment": null,
-        "locality": null,
-        "near_koala_habitat": null,
-        "attachment_cc_lic_check": null,
-        "lga": null,
-        "sighting_lat_wgs84": null,
-        "sighting_long_wgs84": null,
-        "vetting_code": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1013424,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.99335905983477,
-          -27.566514660317242
-        ]
-      },
-      "properties": {
-        "objectid": 1013424,
-        "globalid": "{86ED3DDB-9745-45BB-89EC-6D61C555200C}",
-        "sighttime": 1722468780000,
+        "objectid": 1013429,
+        "globalid": "{EC817C37-4A0D-4DCF-80ED-8923501DF44F}",
+        "sighttime": 1722546120000,
+        "koalacondi": "Healthy",
+        "needhelp": "no",
         "joeypresent": "Not Sure",
         "numberofkoala": 1,
+        "conditioncomments": "In a large tree close to Logan Road but it is fenced off from the road - signs already on road.",
+        "organisation": null,
+        "firstname": "Jan",
+        "surname": "McPike",
+        "contactnumber": "0733437629",
+        "emailaddress": "mcpikejan@yahoo.com.au",
+        "visibletopublic": "Y",
+        "lodgement": "Mobile/Web App",
+        "created_date": 1722550033000,
+        "created_user": "svc_scs_crocwatchproxy",
+        "last_edited_date": 1722550033000,
+        "last_edited_user": "svc_scs_crocwatchproxy",
         "koalacondifinal": "Healthy",
-        "has_attachment": null,
-        "locality": null,
         "near_koala_habitat": null,
         "attachment_cc_lic_check": null,
         "lga": null,
@@ -111,23 +44,37 @@
     },
     {
       "type": "Feature",
-      "id": 1012665,
+      "id": 1013431,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.98613650439952,
-          -27.16473599263428
+          153.25083762897367,
+          -27.511606299172854
         ]
       },
       "properties": {
-        "objectid": 1012665,
-        "globalid": "{98C90873-3E87-4768-9DB0-AC17A45A0258}",
-        "sighttime": 1722468900000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
         "has_attachment": null,
         "locality": null,
+        "objectid": 1013431,
+        "globalid": "{38464D6D-8384-48B9-BA2A-36EFFC320F27}",
+        "sighttime": 1722556080000,
+        "koalacondi": "Healthy",
+        "needhelp": "no",
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "conditioncomments": null,
+        "organisation": null,
+        "firstname": "Roberta ",
+        "surname": "Jays ",
+        "contactnumber": "0499011831",
+        "emailaddress": "Robertajays71@gmail.com ",
+        "visibletopublic": "Y",
+        "lodgement": "Mobile/Web App",
+        "created_date": 1722556135000,
+        "created_user": "svc_scs_crocwatchproxy",
+        "last_edited_date": 1722556135000,
+        "last_edited_user": "svc_scs_crocwatchproxy",
+        "koalacondifinal": "Healthy",
         "near_koala_habitat": null,
         "attachment_cc_lic_check": null,
         "lga": null,
@@ -138,23 +85,119 @@
     },
     {
       "type": "Feature",
-      "id": 1013425,
+      "id": 1013433,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.09050722436248,
-          -27.523274792385084
+          153.37606507028394,
+          -27.836413936551615
         ]
       },
       "properties": {
-        "objectid": 1013425,
-        "globalid": "{01E1E210-5558-4A49-9B16-66C87F50488B}",
-        "sighttime": 1722475440000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
         "has_attachment": null,
         "locality": null,
+        "objectid": 1013433,
+        "globalid": "{0AD5657E-8B91-48AD-BA98-61670FA521C5}",
+        "sighttime": 1722583800000,
+        "koalacondi": "Not sure",
+        "needhelp": "no",
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "conditioncomments": "It's hard to be 100% sure,  but this koala may have a dirty bottom",
+        "organisation": null,
+        "firstname": "Brad",
+        "surname": "S",
+        "contactnumber": null,
+        "emailaddress": "Bradsmith074@gmail.com",
+        "visibletopublic": "Y",
+        "lodgement": "Mobile/Web App",
+        "created_date": 1722584053000,
+        "created_user": "svc_scs_crocwatchproxy",
+        "last_edited_date": 1722584053000,
+        "last_edited_user": "svc_scs_crocwatchproxy",
+        "koalacondifinal": "Healthy",
+        "near_koala_habitat": null,
+        "attachment_cc_lic_check": null,
+        "lga": null,
+        "sighting_lat_wgs84": null,
+        "sighting_long_wgs84": null,
+        "vetting_code": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1013435,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.97358232821674,
+          -27.722057908242093
+        ]
+      },
+      "properties": {
+        "has_attachment": null,
+        "locality": null,
+        "objectid": 1013435,
+        "globalid": "{0063EFC4-9CF8-4BE2-86E4-B8F4C581CB7F}",
+        "sighttime": 1722583260000,
+        "koalacondi": "Healthy",
+        "needhelp": "no",
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "conditioncomments": "Koala was up in a tree and seemed to me moving around, maybe eating. Looked pretty big. Sorry the photo is rubbish",
+        "organisation": null,
+        "firstname": "Iain",
+        "surname": "Rodger",
+        "contactnumber": "0408636701",
+        "emailaddress": "iainrodger2@googlemail.com",
+        "visibletopublic": "Y",
+        "lodgement": "Mobile/Web App",
+        "created_date": 1722584208000,
+        "created_user": "svc_scs_crocwatchproxy",
+        "last_edited_date": 1722584208000,
+        "last_edited_user": "svc_scs_crocwatchproxy",
+        "koalacondifinal": "Healthy",
+        "near_koala_habitat": null,
+        "attachment_cc_lic_check": null,
+        "lga": null,
+        "sighting_lat_wgs84": null,
+        "sighting_long_wgs84": null,
+        "vetting_code": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1013436,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.61436780239518,
+          -27.709487614071335
+        ]
+      },
+      "properties": {
+        "has_attachment": null,
+        "locality": null,
+        "objectid": 1013436,
+        "globalid": "{7A902AC2-A28F-44FC-92C8-2C127787C11C}",
+        "sighttime": 1722593280000,
+        "koalacondi": "Healthy",
+        "needhelp": "no",
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "conditioncomments": null,
+        "organisation": null,
+        "firstname": null,
+        "surname": null,
+        "contactnumber": null,
+        "emailaddress": null,
+        "visibletopublic": "Y",
+        "lodgement": "Mobile/Web App",
+        "created_date": 1722593407000,
+        "created_user": "svc_scs_crocwatchproxy",
+        "last_edited_date": 1722593407000,
+        "last_edited_user": "svc_scs_crocwatchproxy",
+        "koalacondifinal": "Healthy",
         "near_koala_habitat": null,
         "attachment_cc_lic_check": null,
         "lga": null,
@@ -174,41 +217,28 @@
         ]
       },
       "properties": {
+        "has_attachment": null,
+        "locality": null,
         "objectid": 1000087,
         "globalid": "{403346B4-BA70-4C52-823A-871CC085D7AE}",
         "sighttime": 1723446420000,
+        "koalacondi": "Healthy",
+        "needhelp": "no",
         "joeypresent": "No",
         "numberofkoala": 3,
+        "conditioncomments": null,
+        "organisation": null,
+        "firstname": "Katie",
+        "surname": "Chartres",
+        "contactnumber": "0447889001",
+        "emailaddress": "bkechartres@icloud.com",
+        "visibletopublic": "Y",
+        "lodgement": "Mobile/Web App",
+        "created_date": 1708690646000,
+        "created_user": "svc_scs_crocwatchproxy",
+        "last_edited_date": 1708690646000,
+        "last_edited_user": "svc_scs_crocwatchproxy",
         "koalacondifinal": "Healthy",
-        "has_attachment": null,
-        "locality": null,
-        "near_koala_habitat": null,
-        "attachment_cc_lic_check": null,
-        "lga": null,
-        "sighting_lat_wgs84": null,
-        "sighting_long_wgs84": null,
-        "vetting_code": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1012666,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.3650129545113,
-          -27.931732295532175
-        ]
-      },
-      "properties": {
-        "objectid": 1012666,
-        "globalid": "{E9FB8969-D424-4E16-B265-AB41D194F9F2}",
-        "sighttime": 1722459600000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Injured/Sick",
-        "has_attachment": null,
-        "locality": null,
         "near_koala_habitat": null,
         "attachment_cc_lic_check": null,
         "lga": null,
