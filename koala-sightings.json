@@ -3,171 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1015047,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.40349097097968,
-          -27.493079686515408
-        ]
-      },
-      "properties": {
-        "has_attachment": null,
-        "locality": null,
-        "objectid": 1015047,
-        "globalid": "{F0D4975F-EC0D-4C08-8A66-F57051F6A85C}",
-        "sighttime": 1724046180000,
-        "koalacondi": "Healthy",
-        "needhelp": "no",
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "conditioncomments": null,
-        "organisation": null,
-        "firstname": null,
-        "surname": null,
-        "contactnumber": null,
-        "emailaddress": null,
-        "visibletopublic": "Y",
-        "lodgement": "Mobile/Web App",
-        "created_date": 1724046250000,
-        "created_user": "svc_scs_crocwatchproxy",
-        "last_edited_date": 1724046250000,
-        "last_edited_user": "svc_scs_crocwatchproxy",
-        "koalacondifinal": "Healthy",
-        "near_koala_habitat": null,
-        "attachment_cc_lic_check": null,
-        "lga": null,
-        "sighting_lat_wgs84": null,
-        "sighting_long_wgs84": null,
-        "vetting_code": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1014297,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.08657379727907,
-          -27.510595283080058
-        ]
-      },
-      "properties": {
-        "has_attachment": "Y",
-        "locality": null,
-        "objectid": 1014297,
-        "globalid": "{2A5CE7A0-E511-4769-8A75-F5D5E84A34E7}",
-        "sighttime": 1724044380000,
-        "koalacondi": "Healthy",
-        "needhelp": "no",
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "conditioncomments": null,
-        "organisation": null,
-        "firstname": null,
-        "surname": null,
-        "contactnumber": null,
-        "emailaddress": null,
-        "visibletopublic": "N",
-        "lodgement": "Mobile/Web App",
-        "created_date": 1724044465000,
-        "created_user": "svc_scs_crocwatchproxy",
-        "last_edited_date": 1724044465000,
-        "last_edited_user": "svc_scs_crocwatchproxy",
-        "koalacondifinal": "Healthy",
-        "near_koala_habitat": "N",
-        "attachment_cc_lic_check": "no",
-        "lga": null,
-        "sighting_lat_wgs84": -27.51059528,
-        "sighting_long_wgs84": 153.0865738,
-        "vetting_code": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1014646,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.211947143856,
-          -27.505540121417795
-        ]
-      },
-      "properties": {
-        "has_attachment": "Y",
-        "locality": "Birkdale",
-        "objectid": 1014646,
-        "globalid": "{41173336-16FF-4C04-9D36-CDF20CA80C1C}",
-        "sighttime": 1723987620000,
-        "koalacondi": "Healthy",
-        "needhelp": "no",
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "conditioncomments": "Crossed the road and went up a tree.",
-        "organisation": null,
-        "firstname": "Karen ",
-        "surname": "Sala",
-        "contactnumber": "0400400961",
-        "emailaddress": "fksala@hotmail.com",
-        "visibletopublic": "N",
-        "lodgement": "Mobile/Web App",
-        "created_date": 1723988021000,
-        "created_user": "svc_scs_crocwatchproxy",
-        "last_edited_date": 1723988021000,
-        "last_edited_user": "svc_scs_crocwatchproxy",
-        "koalacondifinal": "Healthy",
-        "near_koala_habitat": "N",
-        "attachment_cc_lic_check": "yes",
-        "lga": "Redland City",
-        "sighting_lat_wgs84": -27.505540120000003,
-        "sighting_long_wgs84": 153.21194714,
-        "vetting_code": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1014647,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.3578053208704,
-          -28.295614909388856
-        ]
-      },
-      "properties": {
-        "has_attachment": "Y",
-        "locality": "The Falls",
-        "objectid": 1014647,
-        "globalid": "{8F928C0A-7C50-432E-8893-814BEB3AF367}",
-        "sighttime": 1724021400000,
-        "koalacondi": "Healthy",
-        "needhelp": "no",
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "conditioncomments": null,
-        "organisation": null,
-        "firstname": "Justine",
-        "surname": "Hankin",
-        "contactnumber": "0401763747",
-        "emailaddress": "Jhankin6@icloud.com",
-        "visibletopublic": "N",
-        "lodgement": "Mobile/Web App",
-        "created_date": 1724027522000,
-        "created_user": "svc_scs_crocwatchproxy",
-        "last_edited_date": 1724027522000,
-        "last_edited_user": "svc_scs_crocwatchproxy",
-        "koalacondifinal": "Healthy",
-        "near_koala_habitat": "N",
-        "attachment_cc_lic_check": "yes",
-        "lga": "Southern Downs Regional",
-        "sighting_lat_wgs84": -28.29561491,
-        "sighting_long_wgs84": 152.35780532,
-        "vetting_code": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1014648,
+      "id": 1015052,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -176,39 +12,67 @@
         ]
       },
       "properties": {
-        "has_attachment": "N",
         "locality": null,
-        "objectid": 1014648,
-        "globalid": "{1E1A87F1-14D5-4661-9034-753836D3D4EC}",
-        "sighttime": 1724035740000,
-        "koalacondi": "Healthy",
-        "needhelp": "no",
-        "joeypresent": "Not Sure",
+        "objectid": 1015052,
+        "globalid": "{82D9EBD9-AA0B-44AD-A471-1E434AB5AD3C}",
+        "sighttime": 1724115540000,
+        "joeypresent": "No",
         "numberofkoala": 1,
-        "conditioncomments": null,
-        "organisation": "Tamborine Mountain College ",
-        "firstname": "Mike",
-        "surname": "Worton",
-        "contactnumber": "0439144332",
-        "emailaddress": "Mworton@tmc.qld.edu.au",
-        "visibletopublic": "N",
-        "lodgement": "Mobile/Web App",
-        "created_date": 1724035912000,
-        "created_user": "svc_scs_crocwatchproxy",
-        "last_edited_date": 1724035912000,
-        "last_edited_user": "svc_scs_crocwatchproxy",
         "koalacondifinal": "Healthy",
-        "near_koala_habitat": "N",
-        "attachment_cc_lic_check": null,
         "lga": null,
         "sighting_lat_wgs84": null,
-        "sighting_long_wgs84": null,
-        "vetting_code": null
+        "sighting_long_wgs84": null
       }
     },
     {
       "type": "Feature",
-      "id": 1014295,
+      "id": 1015051,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0828519027838,
+          -27.510461101848623
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1015051,
+        "globalid": "{29D98361-998E-4103-92AA-8870FF3D99D6}",
+        "sighttime": 1724112060000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": null,
+        "sighting_lat_wgs84": -27.5104611,
+        "sighting_long_wgs84": 153.08285189999998
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1015053,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.09190591024299,
+          -27.521883401665058
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1015053,
+        "globalid": "{BA0573C0-70E2-435F-B46D-15A5A92FC371}",
+        "sighttime": 1724115060000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": null,
+        "sighting_lat_wgs84": -27.5218834,
+        "sighting_long_wgs84": 153.09190591
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1015054,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -217,239 +81,108 @@
         ]
       },
       "properties": {
-        "has_attachment": "N",
         "locality": null,
-        "objectid": 1014295,
-        "globalid": "{9D30B4D8-C522-418B-840C-1D98CFEC633D}",
-        "sighttime": 1724044920000,
-        "koalacondi": "Healthy",
-        "needhelp": "no",
-        "joeypresent": "Yes",
-        "numberofkoala": 3,
-        "conditioncomments": "Koalahs were in a eucalypt on edge of paddock at 30 Kidd St Mount Tamborine.They appeared healthy",
-        "organisation": null,
-        "firstname": "Peter",
-        "surname": "Wyatt",
-        "contactnumber": null,
-        "emailaddress": "peterandroswyatt@gmail.com",
-        "visibletopublic": "N",
-        "lodgement": "Mobile/Web App",
-        "created_date": 1724037919000,
-        "created_user": "svc_scs_crocwatchproxy",
-        "last_edited_date": 1724037919000,
-        "last_edited_user": "svc_scs_crocwatchproxy",
+        "objectid": 1015054,
+        "globalid": "{7E2CA983-CB62-455B-B0AB-7B56B0C6BADC}",
+        "sighttime": 1724119140000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "near_koala_habitat": "N",
-        "attachment_cc_lic_check": "no",
         "lga": null,
         "sighting_lat_wgs84": null,
-        "sighting_long_wgs84": null,
-        "vetting_code": null
+        "sighting_long_wgs84": null
       }
     },
     {
       "type": "Feature",
-      "id": 1014296,
+      "id": 1015055,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.0855445534406,
-          -27.510370538806526
+          146.80766404015472,
+          -19.156930770996393
         ]
       },
       "properties": {
-        "has_attachment": "Y",
         "locality": null,
-        "objectid": 1014296,
-        "globalid": "{FC30559C-64CB-45DE-9E9D-2705466C7F34}",
-        "sighttime": 1724044080000,
-        "koalacondi": "Healthy",
-        "needhelp": "no",
-        "joeypresent": "Yes",
-        "numberofkoala": 2,
-        "conditioncomments": null,
-        "organisation": null,
-        "firstname": "Jenny ",
-        "surname": "Edwards ",
-        "contactnumber": "0410453669",
-        "emailaddress": "jenny_edwards1@yahoo.com.au",
-        "visibletopublic": "N",
-        "lodgement": "Mobile/Web App",
-        "created_date": 1724044207000,
-        "created_user": "svc_scs_crocwatchproxy",
-        "last_edited_date": 1724044207000,
-        "last_edited_user": "svc_scs_crocwatchproxy",
+        "objectid": 1015055,
+        "globalid": "{0B10EAA3-FE01-4219-9B2D-0E51411F0ACB}",
+        "sighttime": 1724126400000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "near_koala_habitat": "N",
-        "attachment_cc_lic_check": "yes",
         "lga": null,
-        "sighting_lat_wgs84": -27.51037054,
-        "sighting_long_wgs84": 153.08554455,
-        "vetting_code": null
+        "sighting_lat_wgs84": -19.15693077,
+        "sighting_long_wgs84": 146.80766404000002
       }
     },
     {
       "type": "Feature",
-      "id": 1015046,
+      "id": 1015056,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.7747740445189,
-          -27.392160749880667
+          153.1094830001673,
+          -27.49743489974093
         ]
       },
       "properties": {
-        "has_attachment": "Y",
-        "locality": null,
-        "objectid": 1015046,
-        "globalid": "{28C01221-7F60-499E-A7E9-850A019B85EC}",
-        "sighttime": 1724045940000,
-        "koalacondi": "Healthy",
-        "needhelp": "no",
+        "locality": "Carindale",
+        "objectid": 1015056,
+        "globalid": "{7556308C-480C-4159-8C76-462C436E7496}",
+        "sighttime": 1724132460000,
         "joeypresent": "Not Sure",
         "numberofkoala": 1,
-        "conditioncomments": null,
-        "organisation": "Pittsworth Landcare",
-        "firstname": "Lana",
-        "surname": "Bradshaw",
-        "contactnumber": "0427937029",
-        "emailaddress": null,
-        "visibletopublic": "N",
-        "lodgement": "Mobile/Web App",
-        "created_date": 1724046043000,
-        "created_user": "svc_scs_crocwatchproxy",
-        "last_edited_date": 1724046043000,
-        "last_edited_user": "svc_scs_crocwatchproxy",
         "koalacondifinal": "Healthy",
-        "near_koala_habitat": "N",
-        "attachment_cc_lic_check": "no",
-        "lga": null,
-        "sighting_lat_wgs84": -27.39216075,
-        "sighting_long_wgs84": 151.77477403999998,
-        "vetting_code": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1015048,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.09281756101748,
-          -27.521038793127847
-        ]
-      },
-      "properties": {
-        "has_attachment": "Y",
-        "locality": null,
-        "objectid": 1015048,
-        "globalid": "{8552EF63-42BB-4C49-91C9-C214A498FEC8}",
-        "sighttime": 1724049120000,
-        "koalacondi": "Healthy",
-        "needhelp": "no",
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "conditioncomments": null,
-        "organisation": null,
-        "firstname": "Leith ",
-        "surname": "Sue See ",
-        "contactnumber": null,
-        "emailaddress": "leithss@live.com.au",
-        "visibletopublic": "N",
-        "lodgement": "Mobile/Web App",
-        "created_date": 1724049701000,
-        "created_user": "svc_scs_crocwatchproxy",
-        "last_edited_date": 1724049701000,
-        "last_edited_user": "svc_scs_crocwatchproxy",
-        "koalacondifinal": "Healthy",
-        "near_koala_habitat": "N",
-        "attachment_cc_lic_check": "no",
-        "lga": null,
-        "sighting_lat_wgs84": -27.521038790000002,
-        "sighting_long_wgs84": 153.09281756000001,
-        "vetting_code": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1015049,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.16419009009263,
-          -26.97072561188449
-        ]
-      },
-      "properties": {
-        "has_attachment": "Y",
-        "locality": "Colinton",
-        "objectid": 1015049,
-        "globalid": "{A789810A-887E-4D05-9ABA-743C7CAFD63B}",
-        "sighttime": 1724031660000,
-        "koalacondi": "Healthy",
-        "needhelp": "no",
-        "joeypresent": "Yes",
-        "numberofkoala": 2,
-        "conditioncomments": "Mum and new baby, both appeared happy and healthy.",
-        "organisation": "QPWS",
-        "firstname": "Keiran ",
-        "surname": "Tirronen ",
-        "contactnumber": "0475082205",
-        "emailaddress": "Keiran.tirronen@des.qld.gov.au",
-        "visibletopublic": "Y",
-        "lodgement": "Mobile/Web App",
-        "created_date": 1724050614000,
-        "created_user": "svc_scs_crocwatchproxy",
-        "last_edited_date": 1724050614000,
-        "last_edited_user": "svc_scs_crocwatchproxy",
-        "koalacondifinal": "Healthy",
-        "near_koala_habitat": "Y",
-        "attachment_cc_lic_check": "yes",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -26.970725610000002,
-        "sighting_long_wgs84": 152.16419008999998,
-        "vetting_code": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1015050,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.11199292990207,
-          -27.552357508497156
-        ]
-      },
-      "properties": {
-        "has_attachment": "Y",
-        "locality": "Wishart",
-        "objectid": 1015050,
-        "globalid": "{766DAB37-73CA-4AB3-8F4B-BD0B1150CB49}",
-        "sighttime": 1724052120000,
-        "koalacondi": "Healthy",
-        "needhelp": "no",
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "conditioncomments": null,
-        "organisation": null,
-        "firstname": "Keith",
-        "surname": "Mckenzie",
-        "contactnumber": "0419721056",
-        "emailaddress": "kkbkmck@bigpond.com",
-        "visibletopublic": "N",
-        "lodgement": "Mobile/Web App",
-        "created_date": 1724052938000,
-        "created_user": "svc_scs_crocwatchproxy",
-        "last_edited_date": 1724052938000,
-        "last_edited_user": "svc_scs_crocwatchproxy",
-        "koalacondifinal": "Healthy",
-        "near_koala_habitat": "N",
-        "attachment_cc_lic_check": "no",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.55235751,
-        "sighting_long_wgs84": 153.11199292999999,
-        "vetting_code": null
+        "sighting_lat_wgs84": -27.4974349,
+        "sighting_long_wgs84": 153.10948299999998
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1015057,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.09108799956667,
+          -27.506376299632464
+        ]
+      },
+      "properties": {
+        "locality": "Carina Heights",
+        "objectid": 1015057,
+        "globalid": "{F1492594-B700-4821-9697-4A4B5F721DAE}",
+        "sighttime": 1724143500000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.5063763,
+        "sighting_long_wgs84": 153.091088
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1015058,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.9844033002803,
+          -26.462762600123277
+        ]
+      },
+      "properties": {
+        "locality": "Doonan",
+        "objectid": 1015058,
+        "globalid": "{1E960918-003F-40C3-81B8-2EFEAF37A99D}",
+        "sighttime": 1724147220000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": "Sunshine Coast Regional",
+        "sighting_lat_wgs84": -26.4627626,
+        "sighting_long_wgs84": 152.9844033
       }
     }
   ]
