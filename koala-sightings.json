@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1015052,
+      "id": 1015062,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,9 +13,9 @@
       },
       "properties": {
         "locality": null,
-        "objectid": 1015052,
-        "globalid": "{82D9EBD9-AA0B-44AD-A471-1E434AB5AD3C}",
-        "sighttime": 1724115540000,
+        "objectid": 1015062,
+        "globalid": "{90E68E2E-303E-433A-9E82-8BD9C753309E}",
+        "sighttime": 1724212260000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
@@ -26,53 +26,7 @@
     },
     {
       "type": "Feature",
-      "id": 1015051,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.0828519027838,
-          -27.510461101848623
-        ]
-      },
-      "properties": {
-        "locality": null,
-        "objectid": 1015051,
-        "globalid": "{29D98361-998E-4103-92AA-8870FF3D99D6}",
-        "sighttime": 1724112060000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": null,
-        "sighting_lat_wgs84": -27.5104611,
-        "sighting_long_wgs84": 153.08285189999998
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1015053,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.09190591024299,
-          -27.521883401665058
-        ]
-      },
-      "properties": {
-        "locality": null,
-        "objectid": 1015053,
-        "globalid": "{BA0573C0-70E2-435F-B46D-15A5A92FC371}",
-        "sighttime": 1724115060000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": null,
-        "sighting_lat_wgs84": -27.5218834,
-        "sighting_long_wgs84": 153.09190591
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1015054,
+      "id": 1015063,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -82,9 +36,9 @@
       },
       "properties": {
         "locality": null,
-        "objectid": 1015054,
-        "globalid": "{7E2CA983-CB62-455B-B0AB-7B56B0C6BADC}",
-        "sighttime": 1724119140000,
+        "objectid": 1015063,
+        "globalid": "{53BEB958-57A4-450C-A7F7-123B3E8D6446}",
+        "sighttime": 1724215320000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
@@ -95,94 +49,117 @@
     },
     {
       "type": "Feature",
-      "id": 1015055,
+      "id": 1015064,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.80766404015472,
-          -19.156930770996393
+          153.29624259412384,
+          -27.59526484443362
         ]
       },
       "properties": {
         "locality": null,
-        "objectid": 1015055,
-        "globalid": "{0B10EAA3-FE01-4219-9B2D-0E51411F0ACB}",
-        "sighttime": 1724126400000,
+        "objectid": 1015064,
+        "globalid": "{5798D657-1101-4FF4-93A4-C95F00E0B1DA}",
+        "sighttime": 1724220900000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
+        "lga": "Redland City",
+        "sighting_lat_wgs84": -27.59526484,
+        "sighting_long_wgs84": 153.29624259
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1015066,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.93489541571552,
+          -27.133261298449803
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1015066,
+        "globalid": "{24B04D70-B785-4A6D-B66D-FB8028100401}",
+        "sighttime": 1724224860000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
         "lga": null,
-        "sighting_lat_wgs84": -19.15693077,
-        "sighting_long_wgs84": 146.80766404000002
+        "sighting_lat_wgs84": -27.133261299999997,
+        "sighting_long_wgs84": 152.93489542
       }
     },
     {
       "type": "Feature",
-      "id": 1015056,
+      "id": 1015067,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.1094830001673,
-          -27.49743489974093
+          153.25277432845425,
+          -27.551635478739804
         ]
       },
       "properties": {
-        "locality": "Carindale",
-        "objectid": 1015056,
-        "globalid": "{7556308C-480C-4159-8C76-462C436E7496}",
-        "sighttime": 1724132460000,
+        "locality": "Thornlands",
+        "objectid": 1015067,
+        "globalid": "{79C22B1A-06C8-4DD9-A902-DFFDB4A8AF29}",
+        "sighttime": 1724225700000,
         "joeypresent": "Not Sure",
-        "numberofkoala": 1,
+        "numberofkoala": 2,
         "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.4974349,
-        "sighting_long_wgs84": 153.10948299999998
+        "lga": "Redland City",
+        "sighting_lat_wgs84": -27.55163548,
+        "sighting_long_wgs84": 153.25277433
       }
     },
     {
       "type": "Feature",
-      "id": 1015057,
+      "id": 1015467,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.09108799956667,
-          -27.506376299632464
+          153.34424729897756,
+          -28.095308889501
         ]
       },
       "properties": {
-        "locality": "Carina Heights",
-        "objectid": 1015057,
-        "globalid": "{F1492594-B700-4821-9697-4A4B5F721DAE}",
-        "sighttime": 1724143500000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.5063763,
-        "sighting_long_wgs84": 153.091088
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1015058,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.9844033002803,
-          -26.462762600123277
-        ]
-      },
-      "properties": {
-        "locality": "Doonan",
-        "objectid": 1015058,
-        "globalid": "{1E960918-003F-40C3-81B8-2EFEAF37A99D}",
-        "sighttime": 1724147220000,
+        "locality": "Mudgeeraba",
+        "objectid": 1015467,
+        "globalid": "{08476C27-38CD-4AEC-9D18-2C0FFCD6E6B4}",
+        "sighttime": 1724222520000,
         "joeypresent": "Yes",
         "numberofkoala": 2,
         "koalacondifinal": "Healthy",
-        "lga": "Sunshine Coast Regional",
-        "sighting_lat_wgs84": -26.4627626,
-        "sighting_long_wgs84": 152.9844033
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -28.095308890000002,
+        "sighting_long_wgs84": 153.3442473
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1015068,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.42665134006606,
+          -27.555513562247192
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1015068,
+        "globalid": "{0B675891-177F-4494-81B8-9D34A04C4001}",
+        "sighttime": 1724228700000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Lockyer Valley Regional",
+        "sighting_lat_wgs84": -27.555513559999998,
+        "sighting_long_wgs84": 152.42665134
       }
     }
   ]
