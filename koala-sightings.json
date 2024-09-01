@@ -3,209 +3,347 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1017128,
+      "id": 1017515,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.94947348545372,
-          -27.278641224898575
-        ]
-      },
-      "properties": {
-        "locality": "Lawnton",
-        "objectid": 1017128,
-        "globalid": "{007FADD9-6BC2-426F-B696-22EBC0C85E34}",
-        "sighttime": 1725050400000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.27864122,
-        "sighting_long_wgs84": 152.94947349
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1017130,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.97152078357294,
-          -27.288398627485076
-        ]
-      },
-      "properties": {
-        "locality": "Bray Park",
-        "objectid": 1017130,
-        "globalid": "{78418691-748D-4E67-B734-BEAF007A03EB}",
-        "sighttime": 1725057780000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.28839863,
-        "sighting_long_wgs84": 152.97152078
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1017131,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.08165069984034,
-          -27.508038299871572
-        ]
-      },
-      "properties": {
-        "locality": "Camp Hill",
-        "objectid": 1017131,
-        "globalid": "{23BA471E-1515-4081-A1D6-4B93BD2F1606}",
-        "sighttime": 1725065040000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.5080383,
-        "sighting_long_wgs84": 153.0816507
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1017132,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.0840068002692,
-          -27.50586619962317
-        ]
-      },
-      "properties": {
-        "locality": "Camp Hill",
-        "objectid": 1017132,
-        "globalid": "{7A5E543F-CF9B-4867-9D94-2FA3620E37FF}",
-        "sighttime": 1725066660000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.5058662,
-        "sighting_long_wgs84": 153.0840068
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1017133,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.85917033972092,
-          -27.545867882880284
-        ]
-      },
-      "properties": {
-        "locality": "Anstead",
-        "objectid": 1017133,
-        "globalid": "{8C96522E-B5B2-457E-9756-E7F1B4D47767}",
-        "sighttime": 1725067860000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.54586788,
-        "sighting_long_wgs84": 152.85917034000002
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1017511,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.08466359989595,
-          -27.510747499897647
-        ]
-      },
-      "properties": {
-        "locality": "Carina Heights",
-        "objectid": 1017511,
-        "globalid": "{A755CF75-65EF-4593-9832-823CAACB426A}",
-        "sighttime": 1725067860000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.5107475,
-        "sighting_long_wgs84": 153.0846636
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1017512,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.2503387001733,
-          -27.5112904999087
+          153.1737283712972,
+          -27.722162381010406
         ]
       },
       "properties": {
         "locality": null,
-        "objectid": 1017512,
-        "globalid": "{3A98A1E4-9A42-4031-A8EF-D8C28C448306}",
-        "sighttime": 1725080100000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Redland City",
-        "sighting_lat_wgs84": -27.511290499999998,
-        "sighting_long_wgs84": 153.25033870000001
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1017513,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.452702463603,
-          -28.09484402908994
-        ]
-      },
-      "properties": {
-        "locality": "Burleigh Heads",
-        "objectid": 1017513,
-        "globalid": "{98560702-1ED8-418D-BCCB-261B72B2D69F}",
-        "sighttime": 1725082680000,
+        "objectid": 1017515,
+        "globalid": "{82D25339-3BF9-40A7-BB41-0FB6D159F112}",
+        "sighttime": 1725106620000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -28.09484403,
-        "sighting_long_wgs84": 153.45270245999998
+        "lga": "Logan City",
+        "sighting_lat_wgs84": -27.72216238,
+        "sighting_long_wgs84": 153.17372837
       }
     },
     {
       "type": "Feature",
-      "id": 1017514,
+      "id": 1017516,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.93518938130742,
-          -27.462603170319678
+          153.09382972159423,
+          -27.519233566986173
         ]
       },
       "properties": {
-        "locality": "The Gap",
-        "objectid": 1017514,
-        "globalid": "{1357EBE5-79DB-4FFA-8AE5-34B59883C8EC}",
-        "sighttime": 1725044160000,
+        "locality": null,
+        "objectid": 1017516,
+        "globalid": "{813435A3-23EF-495D-B3A4-DA1EB04907CC}",
+        "sighttime": 1725135540000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": null,
+        "sighting_lat_wgs84": -27.51923357,
+        "sighting_long_wgs84": 153.09382971999997
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1017517,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.04485641181824,
+          -27.311394130735806
+        ]
+      },
+      "properties": {
+        "locality": "Pechey",
+        "objectid": 1017517,
+        "globalid": "{0282CB75-BA77-48E8-969C-CD13005D4D2D}",
+        "sighttime": 1725142260000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Toowoomba Regional",
+        "sighting_lat_wgs84": -27.31139413,
+        "sighting_long_wgs84": 152.04485641000002
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1017518,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.95156544076485,
+          -26.740595879810407
+        ]
+      },
+      "properties": {
+        "locality": "Eudlo",
+        "objectid": 1017518,
+        "globalid": "{EB8E30E9-3D81-442C-B699-9B31D96AD9B7}",
+        "sighttime": 1725146940000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Sunshine Coast Regional",
+        "sighting_lat_wgs84": -26.74059588,
+        "sighting_long_wgs84": 152.95156544
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1017918,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.25095199978074,
+          -27.509423000172923
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1017918,
+        "globalid": "{9C40B834-91E2-46AE-B141-0B74CA3B2635}",
+        "sighttime": 1725147300000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Redland City",
+        "sighting_lat_wgs84": -27.509422999999998,
+        "sighting_long_wgs84": 153.250952
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1017519,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.85640578611213,
+          -27.546374442555614
+        ]
+      },
+      "properties": {
+        "locality": "Anstead",
+        "objectid": 1017519,
+        "globalid": "{596498C7-7E1B-4042-8812-68CFE09A4E6B}",
+        "sighttime": 1725152640000,
         "joeypresent": "Not Sure",
         "numberofkoala": 2,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.462603169999998,
-        "sighting_long_wgs84": 152.93518938
+        "sighting_lat_wgs84": -27.546374439999997,
+        "sighting_long_wgs84": 152.85640579
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1017520,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.02853144769625,
+          -26.724656214922756
+        ]
+      },
+      "properties": {
+        "locality": "Tanawha",
+        "objectid": 1017520,
+        "globalid": "{3E21CF98-3D97-4968-AE22-CDE6D345148D}",
+        "sighttime": 1725127800000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Sunshine Coast Regional",
+        "sighting_lat_wgs84": -26.72465621,
+        "sighting_long_wgs84": 153.02853145
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1017522,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.07026720005098,
+          -27.525049100147456
+        ]
+      },
+      "properties": {
+        "locality": "Holland Park",
+        "objectid": 1017522,
+        "globalid": "{484229D4-1014-4309-80E3-A231D14E4F03}",
+        "sighttime": 1725157380000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.525049099999997,
+        "sighting_long_wgs84": 153.0702672
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1017524,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.24825970036522,
+          -27.511198900201293
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1017524,
+        "globalid": "{E308D951-E66A-485E-8486-CA766A056807}",
+        "sighttime": 1725171960000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Redland City",
+        "sighting_lat_wgs84": -27.5111989,
+        "sighting_long_wgs84": 153.2482597
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1017525,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.9853147031198,
+          -27.162306551730946
+        ]
+      },
+      "properties": {
+        "locality": "Burpengary East",
+        "objectid": 1017525,
+        "globalid": "{6D88AFC7-46FB-43E3-8C60-494D7F9D5182}",
+        "sighttime": 1725174360000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.162306549999997,
+        "sighting_long_wgs84": 152.9853147
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1017920,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.63113912866245,
+          -27.460099932515025
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1017920,
+        "globalid": "{C144D32E-9B55-4972-8F53-AFEF3AE4E235}",
+        "sighttime": 1725174960000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": null,
+        "sighting_lat_wgs84": null,
+        "sighting_long_wgs84": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1018320,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0666594230378,
+          -27.224835386599903
+        ]
+      },
+      "properties": {
+        "locality": "Kippa-Ring",
+        "objectid": 1018320,
+        "globalid": "{C0E77648-A1F5-4D94-A188-85B4186585FA}",
+        "sighttime": 1725174960000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.22483539,
+        "sighting_long_wgs84": 153.06665942
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1017921,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.06661068045048,
+          -27.222758522910034
+        ]
+      },
+      "properties": {
+        "locality": "Kippa-Ring",
+        "objectid": 1017921,
+        "globalid": "{A44EEB82-F9A6-47B1-A264-A5D47C530FD2}",
+        "sighttime": 1725175860000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.22275852,
+        "sighting_long_wgs84": 153.06661068
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1017526,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.1644891446406,
+          -26.971513771038822
+        ]
+      },
+      "properties": {
+        "locality": "Colinton",
+        "objectid": 1017526,
+        "globalid": "{B13441A8-3929-44A4-B7DA-C9E57B13F80C}",
+        "sighttime": 1725147000000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
+        "koalacondifinal": "Injured/Sick",
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -26.971513769999998,
+        "sighting_long_wgs84": 152.16448915
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1017923,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.95175039579698,
+          -26.74113927298547
+        ]
+      },
+      "properties": {
+        "locality": "Eudlo",
+        "objectid": 1017923,
+        "globalid": "{E673737C-6FA0-406C-B9C1-105DB5DB1720}",
+        "sighttime": 1725186420000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Sunshine Coast Regional",
+        "sighting_lat_wgs84": -26.741139269999998,
+        "sighting_long_wgs84": 152.95175039999998
       }
     }
   ]
