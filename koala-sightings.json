@@ -3,209 +3,370 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1017929,
+      "id": 1017532,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.95780649967597,
-          -27.282006600172245
+          151.85687256863963,
+          -26.340520270623536
         ]
       },
       "properties": {
-        "locality": "Lawnton",
-        "objectid": 1017929,
-        "globalid": "{C9B3476B-7272-412D-8521-6F79A4929BF0}",
-        "sighttime": 1725253380000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.2820066,
-        "sighting_long_wgs84": 152.9578065
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1017930,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.01494480721468,
-          -27.21764412327986
-        ]
-      },
-      "properties": {
-        "locality": "North Lakes",
-        "objectid": 1017930,
-        "globalid": "{A239EB75-77E8-474C-86F8-7F863800A6B2}",
-        "sighttime": 1725257640000,
-        "joeypresent": "Yes",
-        "numberofkoala": 2,
-        "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.21764412,
-        "sighting_long_wgs84": 153.01494481
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1017528,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.99798582827444,
-          -27.30143207701135
-        ]
-      },
-      "properties": {
-        "locality": "Strathpine",
-        "objectid": 1017528,
-        "globalid": "{4681CD9D-4F69-4F0C-A0C8-9DF58AF7B9D5}",
-        "sighttime": 1725262980000,
+        "locality": "Charlestown",
+        "objectid": 1017532,
+        "globalid": "{31D19335-8227-43E7-B438-3812D30EF2FB}",
+        "sighttime": 1725321600000,
         "joeypresent": "Not Sure",
         "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.30143208,
-        "sighting_long_wgs84": 152.99798582999998
+        "koalacondifinal": "Dead",
+        "lga": "South Burnett Regional",
+        "sighting_lat_wgs84": -26.34052027,
+        "sighting_long_wgs84": 151.85687256999998
       }
     },
     {
       "type": "Feature",
-      "id": 1017931,
+      "id": 1017936,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.99560032957962,
-          -27.300281817029486
+          152.85990379618414,
+          -27.546570464721675
         ]
       },
       "properties": {
-        "locality": "Strathpine",
-        "objectid": 1017931,
-        "globalid": "{CFD3618C-5BE7-4EC6-86CC-20817E01109C}",
-        "sighttime": 1725263940000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.30028182,
-        "sighting_long_wgs84": 152.99560033
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1017527,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.70822660039673,
-          -26.462279100254097
-        ]
-      },
-      "properties": {
-        "locality": "Bollier",
-        "objectid": 1017527,
-        "globalid": "{B20C84A1-09D4-4C72-B9B8-3C23DE5D9CD7}",
-        "sighttime": 1725240780000,
+        "locality": "Anstead",
+        "objectid": 1017936,
+        "globalid": "{E47A5F7B-3781-4904-A9B8-BA96B5915217}",
+        "sighttime": 1725323820000,
         "joeypresent": "No",
         "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Gympie Regional",
-        "sighting_lat_wgs84": -26.4622791,
-        "sighting_long_wgs84": 152.70822660000002
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1017925,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.24814879975008,
-          -27.511260400104582
-        ]
-      },
-      "properties": {
-        "locality": null,
-        "objectid": 1017925,
-        "globalid": "{7E1F89E4-ED5E-4ED7-B08E-8A7135EF1A24}",
-        "sighttime": 1725233460000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Redland City",
-        "sighting_lat_wgs84": -27.511260399999998,
-        "sighting_long_wgs84": 153.2481488
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1017926,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.0671108040102,
-          -27.527974384807674
-        ]
-      },
-      "properties": {
-        "locality": "Holland Park West",
-        "objectid": 1017926,
-        "globalid": "{ADCA8660-48BB-41DF-82D0-FE86BF76388B}",
-        "sighttime": 1725237060000,
-        "joeypresent": "No",
-        "numberofkoala": 2,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.52797438,
-        "sighting_long_wgs84": 153.06711080000002
+        "sighting_lat_wgs84": -27.54657046,
+        "sighting_long_wgs84": 152.8599038
       }
     },
     {
       "type": "Feature",
-      "id": 1017927,
+      "id": 1017534,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.34973494984308,
-          -27.934911821026525
-        ]
-      },
-      "properties": {
-        "locality": "Arundel",
-        "objectid": 1017927,
-        "globalid": "{50A7657A-ED12-4CBB-B353-1D992E53628C}",
-        "sighttime": 1725237960000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.93491182,
-        "sighting_long_wgs84": 153.34973495000003
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1017928,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.09334909956104,
-          -27.032666399677055
+          153.0922965767803,
+          -27.032391106518926
         ]
       },
       "properties": {
         "locality": "Toorbul",
-        "objectid": 1017928,
-        "globalid": "{C02C1802-BECA-4253-AEB2-99C7108254C6}",
-        "sighttime": 1725240600000,
+        "objectid": 1017534,
+        "globalid": "{6AF7182E-C2FA-4D77-905A-E9F644FE0489}",
+        "sighttime": 1725369960000,
         "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.0326664,
-        "sighting_long_wgs84": 153.0933491
+        "sighting_lat_wgs84": -27.03239111,
+        "sighting_long_wgs84": 153.09229657999998
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1017937,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.10676918783693,
+          -27.548542802860627
+        ]
+      },
+      "properties": {
+        "locality": "Helidon Spa",
+        "objectid": 1017937,
+        "globalid": "{479DF9EB-6A77-42E4-8BEF-536C50F9AD52}",
+        "sighttime": 1725327780000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Dead",
+        "lga": "Lockyer Valley Regional",
+        "sighting_lat_wgs84": -27.5485428,
+        "sighting_long_wgs84": 152.10676919
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1017531,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.0488045461195,
+          -27.26280403808732
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1017531,
+        "globalid": "{7CE53509-C63A-46D5-9BAF-918D7EB12382}",
+        "sighttime": 1725300000000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": null,
+        "sighting_lat_wgs84": -27.26280404,
+        "sighting_long_wgs84": 152.04880455
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1017935,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0925262526422,
+          -27.519626896427443
+        ]
+      },
+      "properties": {
+        "locality": "Mount Gravatt East",
+        "objectid": 1017935,
+        "globalid": "{2602DC48-B379-4AE0-A3EA-F3C8CC131232}",
+        "sighttime": 1725320580000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": null,
+        "sighting_lat_wgs84": -27.519626900000002,
+        "sighting_long_wgs84": 153.09252625
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1017533,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.08933427972292,
+          -27.52351962239426
+        ]
+      },
+      "properties": {
+        "locality": "Mount Gravatt East",
+        "objectid": 1017533,
+        "globalid": "{7D7E5C94-943E-4DB0-9408-C65DC8334E44}",
+        "sighttime": 1725317880000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": null,
+        "sighting_lat_wgs84": -27.52351962,
+        "sighting_long_wgs84": 153.08933428
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1017535,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.10676900008903,
+          -27.54854300038363
+        ]
+      },
+      "properties": {
+        "locality": "Helidon Spa",
+        "objectid": 1017535,
+        "globalid": "{B5D74382-964A-4436-8C87-08FE1B85B7A2}",
+        "sighttime": 1725327780000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Dead",
+        "lga": "Lockyer Valley Regional",
+        "sighting_lat_wgs84": -27.548543000000002,
+        "sighting_long_wgs84": 152.10676899999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1017938,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.24828350033033,
+          -27.51115600003464
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1017938,
+        "globalid": "{E8FFDD37-C7C9-43A3-B505-D5A48B7EFDF7}",
+        "sighttime": 1725342060000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Redland City",
+        "sighting_lat_wgs84": -27.511156,
+        "sighting_long_wgs84": 153.24828349999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1017939,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.95765374385687,
+          -27.262934421295057
+        ]
+      },
+      "properties": {
+        "locality": "Petrie",
+        "objectid": 1017939,
+        "globalid": "{CA041570-2AF2-47CE-B60B-A9004BD250D8}",
+        "sighttime": 1725311340000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.262934419999997,
+        "sighting_long_wgs84": 152.95765374
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1017537,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.96240727709912,
+          -27.429417036099125
+        ]
+      },
+      "properties": {
+        "locality": "Enoggera",
+        "objectid": 1017537,
+        "globalid": "{E5E8AFD8-0A7F-4A18-9C94-6F302AB26E48}",
+        "sighttime": 1725315300000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.42941704,
+        "sighting_long_wgs84": 152.96240728
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1017940,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.974098166904,
+          -27.2747632798403
+        ]
+      },
+      "properties": {
+        "locality": "Lawnton",
+        "objectid": 1017940,
+        "globalid": "{BFA0E997-5148-4721-8428-D0773338D836}",
+        "sighttime": 1725349440000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.27476328,
+        "sighting_long_wgs84": 152.97409817
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1017538,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.98127189980187,
+          -28.659877351490625
+        ]
+      },
+      "properties": {
+        "locality": "Dalcouth",
+        "objectid": 1017538,
+        "globalid": "{193718DF-285B-4F3D-840E-3EF4273C2E9D}",
+        "sighttime": 1725353520000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Injured/Sick",
+        "lga": "Southern Downs Regional",
+        "sighting_lat_wgs84": -28.659877350000002,
+        "sighting_long_wgs84": 151.9812719
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1017540,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.23535358491532,
+          -27.975020984974396
+        ]
+      },
+      "properties": {
+        "locality": "Clagiraba",
+        "objectid": 1017540,
+        "globalid": "{430C2845-1620-4784-BF28-9F7845F31111}",
+        "sighttime": 1725356940000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.97502099,
+        "sighting_long_wgs84": 153.23535358
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1017943,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.35449828640003,
+          -28.09322305276243
+        ]
+      },
+      "properties": {
+        "locality": "Mudgeeraba",
+        "objectid": 1017943,
+        "globalid": "{89349CA3-B9F6-4BF0-832C-4AF5E1488764}",
+        "sighttime": 1725358260000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -28.09322305,
+        "sighting_long_wgs84": 153.35449829
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1017541,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.93739860000082,
+          -27.387454699927172
+        ]
+      },
+      "properties": {
+        "locality": "Ferny Hills",
+        "objectid": 1017541,
+        "globalid": "{B5A6AA09-C314-4FB3-B971-F3CF97790A2D}",
+        "sighttime": 1725339600000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.3874547,
+        "sighting_long_wgs84": 152.9373986
       }
     }
   ]
