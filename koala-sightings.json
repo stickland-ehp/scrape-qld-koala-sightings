@@ -3,30 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1020384,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.91609389780444,
-          -26.357994716377192
-        ]
-      },
-      "properties": {
-        "locality": "Pomona",
-        "objectid": 1020384,
-        "globalid": "{2628DC89-4500-40CE-A9A2-D47952345652}",
-        "sighttime": 1727041920000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Noosa Shire",
-        "sighting_lat_wgs84": -26.35799472,
-        "sighting_long_wgs84": 152.9160939
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1020385,
+      "id": 1020400,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -36,171 +13,10 @@
       },
       "properties": {
         "locality": null,
-        "objectid": 1020385,
-        "globalid": "{D1EDD73D-27C3-445B-9236-30EA2DCF9EFA}",
-        "sighttime": 1727045340000,
-        "joeypresent": "Yes",
-        "numberofkoala": 2,
-        "koalacondifinal": "Healthy",
-        "lga": null,
-        "sighting_lat_wgs84": null,
-        "sighting_long_wgs84": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1020386,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.25065709994092,
-          -27.511634599863417
-        ]
-      },
-      "properties": {
-        "locality": null,
-        "objectid": 1020386,
-        "globalid": "{1E0EC7B5-E65A-4417-B2D9-A2DCFC059759}",
-        "sighttime": 1727047380000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Redland City",
-        "sighting_lat_wgs84": -27.5116346,
-        "sighting_long_wgs84": 153.25065709999998
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1020387,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.42402303932627,
-          -27.23559420250507
-        ]
-      },
-      "properties": {
-        "locality": "Esk",
-        "objectid": 1020387,
-        "globalid": "{5FE70FE1-128E-450D-933A-570B732BBB70}",
-        "sighttime": 1727047920000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.235594199999998,
-        "sighting_long_wgs84": 152.42402304
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1020388,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.10870440066617,
-          -27.536892611227564
-        ]
-      },
-      "properties": {
-        "locality": null,
-        "objectid": 1020388,
-        "globalid": "{7F454997-97B9-4D0C-8633-FD3FEDFAF458}",
-        "sighttime": 1727049180000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": null,
-        "sighting_lat_wgs84": -27.53689261,
-        "sighting_long_wgs84": 153.1087044
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1020389,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.20607479306338,
-          -27.490090629015697
-        ]
-      },
-      "properties": {
-        "locality": "Thorneside",
-        "objectid": 1020389,
-        "globalid": "{9E416700-802F-40FF-B09C-67D28FCFE2DA}",
-        "sighttime": 1727049720000,
-        "joeypresent": "Yes",
-        "numberofkoala": 2,
-        "koalacondifinal": "Healthy",
-        "lga": "Redland City",
-        "sighting_lat_wgs84": -27.490090629999997,
-        "sighting_long_wgs84": 153.20607479
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1020390,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.52050858032842,
-          -27.719615202231
-        ]
-      },
-      "properties": {
-        "locality": null,
-        "objectid": 1020390,
-        "globalid": "{DC7B3C0B-FC48-4B26-A113-6881C7903C10}",
-        "sighttime": 1727050020000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": null,
-        "sighting_lat_wgs84": -27.7196152,
-        "sighting_long_wgs84": 151.52050858
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1020391,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.40810519977592,
-          -28.14569979964752
-        ]
-      },
-      "properties": {
-        "locality": "Tallebudgera",
-        "objectid": 1020391,
-        "globalid": "{AB6B1585-6C77-4D8C-B508-86DB26A4368A}",
-        "sighttime": 1727038740000,
-        "joeypresent": "Yes",
-        "numberofkoala": 2,
-        "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -28.145699800000003,
-        "sighting_long_wgs84": 153.4081052
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1020392,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "locality": null,
-        "objectid": 1020392,
-        "globalid": "{03C05F22-8C53-4197-82FE-637A421DB459}",
-        "sighttime": 1727061600000,
-        "joeypresent": "Yes",
+        "objectid": 1020400,
+        "globalid": "{D9210EF2-2FE0-4DEF-AAD1-BB822BAA8735}",
+        "sighttime": 1727121120000,
+        "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": null,
@@ -210,117 +26,186 @@
     },
     {
       "type": "Feature",
-      "id": 1020383,
+      "id": 1020401,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.08016190036042,
-          -27.530472000355484
+          153.07257360028845,
+          -27.537124699620193
         ]
       },
       "properties": {
-        "locality": "Mount Gravatt East",
-        "objectid": 1020383,
-        "globalid": "{A5145D98-AED5-460D-9C5C-D32079AD9F14}",
-        "sighttime": 1727036700000,
-        "joeypresent": "Not Sure",
+        "locality": "Mount Gravatt",
+        "objectid": 1020401,
+        "globalid": "{3306B478-A7E2-4886-A904-35A183A33990}",
+        "sighttime": 1727122380000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.5371247,
+        "sighting_long_wgs84": 153.0725736
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1020402,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.86064048298903,
+          -27.54974378307291
+        ]
+      },
+      "properties": {
+        "locality": "Anstead",
+        "objectid": 1020402,
+        "globalid": "{0E16A831-39A2-4968-80BF-D41FF21655DE}",
+        "sighttime": 1727127420000,
+        "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.530472,
-        "sighting_long_wgs84": 153.08016189999998
+        "sighting_lat_wgs84": -27.54974378,
+        "sighting_long_wgs84": 152.86064048
       }
     },
     {
       "type": "Feature",
-      "id": 1020395,
+      "id": 1020403,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.50809649971765,
-          -27.39122449976499
+          152.99074799962239,
+          -27.311154999994063
         ]
       },
       "properties": {
-        "locality": "Coominya",
-        "objectid": 1020395,
-        "globalid": "{C8D5031C-BB3F-4925-A876-C79DDDA85D53}",
-        "sighttime": 1727067900000,
+        "locality": "Strathpine",
+        "objectid": 1020403,
+        "globalid": "{7AD58A26-F987-4904-8A75-7452A4CAD5EE}",
+        "sighttime": 1727131920000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.311155,
+        "sighting_long_wgs84": 152.990748
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1020404,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.55595516006576,
+          -28.06059909411166
+        ]
+      },
+      "properties": {
+        "locality": "Moogerah",
+        "objectid": 1020404,
+        "globalid": "{EF6DE36F-05BC-4BEC-96F2-CF68967C202F}",
+        "sighttime": 1727133540000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Scenic Rim Regional",
+        "sighting_lat_wgs84": -28.06059909,
+        "sighting_long_wgs84": 152.55595516
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1020405,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.6103418299729,
+          -27.333234554174396
+        ]
+      },
+      "properties": {
+        "locality": "Lake Wivenhoe",
+        "objectid": 1020405,
+        "globalid": "{59706A9C-CD3E-4D35-8CBA-8ECADB2342E3}",
+        "sighttime": 1727136540000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -27.33323455,
+        "sighting_long_wgs84": 152.61034182999998
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1020406,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.61127857787986,
+          -27.338727125206717
+        ]
+      },
+      "properties": {
+        "locality": "Lake Wivenhoe",
+        "objectid": 1020406,
+        "globalid": "{6E9C4190-902F-4F30-8481-C87257107DBE}",
+        "sighttime": 1727139480000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.3912245,
-        "sighting_long_wgs84": 152.50809650000002
+        "sighting_lat_wgs84": -27.33872713,
+        "sighting_long_wgs84": 152.61127858
       }
     },
     {
       "type": "Feature",
-      "id": 1020396,
+      "id": 1020408,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.03405100037207,
-          -27.387783800212024
+          152.99076847582097,
+          -27.3112025059547
         ]
       },
       "properties": {
-        "locality": "Mount Luke",
-        "objectid": 1020396,
-        "globalid": "{9D3A09B0-DDC7-4EC4-BED7-4E454C5FC56A}",
-        "sighttime": 1727070480000,
-        "joeypresent": "Not Sure",
+        "locality": "Strathpine",
+        "objectid": 1020408,
+        "globalid": "{5AB05144-AF47-4D99-93E4-38EDD1EAB5C7}",
+        "sighttime": 1727146140000,
+        "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Toowoomba Regional",
-        "sighting_lat_wgs84": -27.387783799999998,
-        "sighting_long_wgs84": 152.034051
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.31120251,
+        "sighting_long_wgs84": 152.99076848
       }
     },
     {
       "type": "Feature",
-      "id": 1020397,
+      "id": 1020407,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.08305478998568,
-          -27.501410880371782
+          152.61124895054346,
+          -27.338366883834016
         ]
       },
       "properties": {
-        "locality": "Camp Hill",
-        "objectid": 1020397,
-        "globalid": "{46834A3A-C9B4-4441-9B93-93BFF762C9E6}",
-        "sighttime": 1727077980000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
+        "locality": "Lake Wivenhoe",
+        "objectid": 1020407,
+        "globalid": "{007A941A-47B3-46E8-8A04-F9945F8A3FA8}",
+        "sighttime": 1727140320000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
         "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.50141088,
-        "sighting_long_wgs84": 153.08305479
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1020398,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.47313280043858,
-          -27.532656700074014
-        ]
-      },
-      "properties": {
-        "locality": "Kensington Grove",
-        "objectid": 1020398,
-        "globalid": "{264585D5-F795-43AA-AD5D-5208318227F7}",
-        "sighttime": 1727083860000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Lockyer Valley Regional",
-        "sighting_lat_wgs84": -27.532656699999997,
-        "sighting_long_wgs84": 152.4731328
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -27.33836688,
+        "sighting_long_wgs84": 152.61124895
       }
     }
   ]
