@@ -116,29 +116,6 @@
   },
   {
     "type": "Feature",
-    "id": 1022803,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        153.10324261768756,
-        -27.518091291639998
-      ]
-    },
-    "properties": {
-      "locality": "Carindale",
-      "objectid": 1022803,
-      "globalid": "{BD7BFA42-D00C-41CF-81FC-7EFA311B8F0C}",
-      "sighttime": 1727675100000,
-      "joeypresent": "No",
-      "numberofkoala": 1,
-      "koalacondifinal": "Healthy",
-      "lga": "Brisbane City",
-      "sighting_lat_wgs84": -27.51809129,
-      "sighting_long_wgs84": 153.10324261999997
-    }
-  },
-  {
-    "type": "Feature",
     "id": 1022799,
     "geometry": {
       "type": "Point",
