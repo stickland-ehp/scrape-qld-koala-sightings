@@ -3,117 +3,71 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1038587,
+      "id": 1038991,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.25388319985785,
-          -27.511754299888505
+          153.05605279978087,
+          -27.555400700096516
         ]
       },
       "properties": {
-        "locality": null,
-        "objectid": 1038587,
-        "globalid": "{50E33A35-4D6E-4FC3-913C-258532E09E96}",
-        "sighttime": 1734303960000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Redland City",
-        "sighting_lat_wgs84": -27.5117543,
-        "sighting_long_wgs84": 153.25388320000002
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1038987,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.3837858888679,
-          -27.117133955816378
-        ]
-      },
-      "properties": {
-        "locality": "Toogoolawah",
-        "objectid": 1038987,
-        "globalid": "{C50E64C3-3EEA-4D7D-B5EC-F668195DE5EA}",
-        "sighttime": 1734314520000,
+        "locality": "Nathan",
+        "objectid": 1038991,
+        "globalid": "{E60D3CA4-63D9-4525-A8FA-A23D7D1183DE}",
+        "sighttime": 1734390120000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.11713396,
-        "sighting_long_wgs84": 152.38378589
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.5554007,
+        "sighting_long_wgs84": 153.0560528
       }
     },
     {
       "type": "Feature",
-      "id": 1038588,
+      "id": 1038992,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.07689466568831,
-          -27.54219300941799
+          152.85885960887086,
+          -27.542946778224568
         ]
       },
       "properties": {
-        "locality": "Mount Gravatt",
-        "objectid": 1038588,
-        "globalid": "{0939ABAD-C317-46E9-A292-A9B2CF62E715}",
-        "sighttime": 1734316440000,
+        "locality": "Anstead",
+        "objectid": 1038992,
+        "globalid": "{3E65BB4F-D366-4E9E-9469-C7CB73062E7A}",
+        "sighttime": 1734400920000,
         "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.542193010000002,
-        "sighting_long_wgs84": 153.07689467
+        "sighting_lat_wgs84": -27.54294678,
+        "sighting_long_wgs84": 152.85885961
       }
     },
     {
       "type": "Feature",
-      "id": 1038988,
+      "id": 1038993,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.06778046481688,
-          -27.52800767047067
+          152.8607031925824,
+          -27.549114338927666
         ]
       },
       "properties": {
-        "locality": "Holland Park West",
-        "objectid": 1038988,
-        "globalid": "{A48594F1-6B95-4B56-93DF-DB377F6306D7}",
-        "sighttime": 1734302760000,
-        "joeypresent": "No",
+        "locality": "Anstead",
+        "objectid": 1038993,
+        "globalid": "{76D473BB-BD3A-48CA-9C18-AF8377AE883B}",
+        "sighttime": 1734402600000,
+        "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.528007669999997,
-        "sighting_long_wgs84": 153.06778047
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1038589,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.9334364995918,
-          -27.574456700397022
-        ]
-      },
-      "properties": {
-        "locality": "Wacol",
-        "objectid": 1038589,
-        "globalid": "{B90EC425-F2F3-40AF-A1D8-E5B7FBD775D5}",
-        "sighttime": 1734334500000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.5744567,
-        "sighting_long_wgs84": 152.9334365
+        "sighting_lat_wgs84": -27.54911434,
+        "sighting_long_wgs84": 152.86070319
       }
     }
   ]
