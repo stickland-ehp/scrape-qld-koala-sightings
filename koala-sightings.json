@@ -3,71 +3,117 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1038991,
+      "id": 1038599,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.05605279978087,
-          -27.555400700096516
+          152.85280700033664,
+          -27.278033999793106
         ]
       },
       "properties": {
-        "locality": "Nathan",
-        "objectid": 1038991,
-        "globalid": "{E60D3CA4-63D9-4525-A8FA-A23D7D1183DE}",
-        "sighttime": 1734390120000,
+        "locality": "Samsonvale",
+        "objectid": 1038599,
+        "globalid": "{E1D18488-ED94-4A0C-8B47-896E856CC7A7}",
+        "sighttime": 1734479460000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.278033999999998,
+        "sighting_long_wgs84": 152.852807
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1038999,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.425906612441,
+          -27.239423710264518
+        ]
+      },
+      "properties": {
+        "locality": "Esk",
+        "objectid": 1038999,
+        "globalid": "{A9804F95-247C-456D-AB48-6C62BED32C3A}",
+        "sighttime": 1734486600000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -27.23942371,
+        "sighting_long_wgs84": 152.42590661000003
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1038600,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.42024837958786,
+          -27.24897773538323
+        ]
+      },
+      "properties": {
+        "locality": "Esk",
+        "objectid": 1038600,
+        "globalid": "{B83F4EE3-E13E-4557-89BE-F30ADAC18303}",
+        "sighttime": 1734489120000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -27.24897773,
+        "sighting_long_wgs84": 152.42024838
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1038602,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.09161668056933,
+          -27.52071972673406
+        ]
+      },
+      "properties": {
+        "locality": "Mount Gravatt East",
+        "objectid": 1038602,
+        "globalid": "{0C7F37B1-2870-46BE-B2EC-33A1BDE5592C}",
+        "sighttime": 1734466560000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.5554007,
-        "sighting_long_wgs84": 153.0560528
+        "sighting_lat_wgs84": -27.520719730000003,
+        "sighting_long_wgs84": 153.09161668
       }
     },
     {
       "type": "Feature",
-      "id": 1038992,
+      "id": 1039001,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.85885960887086,
-          -27.542946778224568
+          153.09193097862934,
+          -27.520678394932045
         ]
       },
       "properties": {
-        "locality": "Anstead",
-        "objectid": 1038992,
-        "globalid": "{3E65BB4F-D366-4E9E-9469-C7CB73062E7A}",
-        "sighttime": 1734400920000,
-        "joeypresent": "Not Sure",
+        "locality": "Mount Gravatt East",
+        "objectid": 1039001,
+        "globalid": "{4DBDD7FD-FBFD-411A-905D-2B72BED74223}",
+        "sighttime": 1734465780000,
+        "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.54294678,
-        "sighting_long_wgs84": 152.85885961
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1038993,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.8607031925824,
-          -27.549114338927666
-        ]
-      },
-      "properties": {
-        "locality": "Anstead",
-        "objectid": 1038993,
-        "globalid": "{76D473BB-BD3A-48CA-9C18-AF8377AE883B}",
-        "sighttime": 1734402600000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.54911434,
-        "sighting_long_wgs84": 152.86070319
+        "sighting_lat_wgs84": -27.52067839,
+        "sighting_long_wgs84": 153.09193098
       }
     }
   ]
