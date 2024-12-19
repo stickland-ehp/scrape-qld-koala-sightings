@@ -3,117 +3,48 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1038599,
+      "id": 1039004,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.85280700033664,
-          -27.278033999793106
+          153.02776999972883,
+          -27.251406099970836
         ]
       },
       "properties": {
-        "locality": "Samsonvale",
-        "objectid": 1038599,
-        "globalid": "{E1D18488-ED94-4A0C-8B47-896E856CC7A7}",
-        "sighttime": 1734479460000,
+        "locality": "Mango Hill",
+        "objectid": 1039004,
+        "globalid": "{89A17831-0A56-4F7B-8E72-9E1D7B8F7DB5}",
+        "sighttime": 1734560280000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.278033999999998,
-        "sighting_long_wgs84": 152.852807
+        "sighting_lat_wgs84": -27.2514061,
+        "sighting_long_wgs84": 153.02777
       }
     },
     {
       "type": "Feature",
-      "id": 1038999,
+      "id": 1039008,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.425906612441,
-          -27.239423710264518
+          0,
+          0
         ]
       },
       "properties": {
-        "locality": "Esk",
-        "objectid": 1038999,
-        "globalid": "{A9804F95-247C-456D-AB48-6C62BED32C3A}",
-        "sighttime": 1734486600000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.23942371,
-        "sighting_long_wgs84": 152.42590661000003
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1038600,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.42024837958786,
-          -27.24897773538323
-        ]
-      },
-      "properties": {
-        "locality": "Esk",
-        "objectid": 1038600,
-        "globalid": "{B83F4EE3-E13E-4557-89BE-F30ADAC18303}",
-        "sighttime": 1734489120000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.24897773,
-        "sighting_long_wgs84": 152.42024838
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1038602,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.09161668056933,
-          -27.52071972673406
-        ]
-      },
-      "properties": {
-        "locality": "Mount Gravatt East",
-        "objectid": 1038602,
-        "globalid": "{0C7F37B1-2870-46BE-B2EC-33A1BDE5592C}",
-        "sighttime": 1734466560000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.520719730000003,
-        "sighting_long_wgs84": 153.09161668
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1039001,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.09193097862934,
-          -27.520678394932045
-        ]
-      },
-      "properties": {
-        "locality": "Mount Gravatt East",
-        "objectid": 1039001,
-        "globalid": "{4DBDD7FD-FBFD-411A-905D-2B72BED74223}",
-        "sighttime": 1734465780000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.52067839,
-        "sighting_long_wgs84": 153.09193098
+        "locality": null,
+        "objectid": 1039008,
+        "globalid": "{A8EA0D93-DE1C-4429-8A54-FDD993F8FBAF}",
+        "sighttime": 1734591960000,
+        "joeypresent": null,
+        "numberofkoala": null,
+        "koalacondifinal": null,
+        "lga": null,
+        "sighting_lat_wgs84": null,
+        "sighting_long_wgs84": null
       }
     }
   ]
