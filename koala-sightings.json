@@ -3,48 +3,71 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1039004,
+      "id": 1038208,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.02776999972883,
-          -27.251406099970836
+          153.3666050791135,
+          -27.930271537914436
         ]
       },
       "properties": {
-        "locality": "Mango Hill",
-        "objectid": 1039004,
-        "globalid": "{89A17831-0A56-4F7B-8E72-9E1D7B8F7DB5}",
-        "sighttime": 1734560280000,
-        "joeypresent": "No",
+        "locality": "Arundel",
+        "objectid": 1038208,
+        "globalid": "{B50CE74A-8435-431D-8233-C3CD1C4F84E0}",
+        "sighttime": 1734639180000,
+        "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.2514061,
-        "sighting_long_wgs84": 153.02777
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.93027154,
+        "sighting_long_wgs84": 153.36660508
       }
     },
     {
       "type": "Feature",
-      "id": 1039008,
+      "id": 1038210,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          153.44777945958904,
+          -27.391667588011384
         ]
       },
       "properties": {
         "locality": null,
-        "objectid": 1039008,
-        "globalid": "{A8EA0D93-DE1C-4429-8A54-FDD993F8FBAF}",
-        "sighttime": 1734591960000,
-        "joeypresent": null,
-        "numberofkoala": null,
-        "koalacondifinal": null,
+        "objectid": 1038210,
+        "globalid": "{A69D05F4-D32C-4927-87A8-465B4963A31E}",
+        "sighttime": 1734681600000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
         "lga": null,
         "sighting_lat_wgs84": null,
         "sighting_long_wgs84": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1039011,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0918451715534,
+          -27.521471260799714
+        ]
+      },
+      "properties": {
+        "locality": "Mount Gravatt East",
+        "objectid": 1039011,
+        "globalid": "{5E5A5C58-C2D7-4363-9C13-2A90A871DFFF}",
+        "sighttime": 1734637080000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.52147126,
+        "sighting_long_wgs84": 153.09184517
       }
     }
   ]
