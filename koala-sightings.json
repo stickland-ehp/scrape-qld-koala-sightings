@@ -3,71 +3,48 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1038208,
+      "id": 1039014,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.3666050791135,
-          -27.930271537914436
+          153.3660990033167,
+          -27.930280999349165
         ]
       },
       "properties": {
         "locality": "Arundel",
-        "objectid": 1038208,
-        "globalid": "{B50CE74A-8435-431D-8233-C3CD1C4F84E0}",
-        "sighttime": 1734639180000,
+        "objectid": 1039014,
+        "globalid": "{FCCDCC9F-0EE9-419B-8681-0B9AA4813564}",
+        "sighttime": 1734768120000,
         "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.93027154,
-        "sighting_long_wgs84": 153.36660508
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1038210,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.44777945958904,
-          -27.391667588011384
-        ]
-      },
-      "properties": {
-        "locality": null,
-        "objectid": 1038210,
-        "globalid": "{A69D05F4-D32C-4927-87A8-465B4963A31E}",
-        "sighttime": 1734681600000,
-        "joeypresent": "Yes",
         "numberofkoala": 2,
         "koalacondifinal": "Healthy",
-        "lga": null,
-        "sighting_lat_wgs84": null,
-        "sighting_long_wgs84": null
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.930281,
+        "sighting_long_wgs84": 153.36609900000002
       }
     },
     {
       "type": "Feature",
-      "id": 1039011,
+      "id": 1039015,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.0918451715534,
-          -27.521471260799714
+          153.36652829920786,
+          -27.930505871876555
         ]
       },
       "properties": {
-        "locality": "Mount Gravatt East",
-        "objectid": 1039011,
-        "globalid": "{5E5A5C58-C2D7-4363-9C13-2A90A871DFFF}",
-        "sighttime": 1734637080000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
+        "locality": "Arundel",
+        "objectid": 1039015,
+        "globalid": "{8705C3CE-C53E-4505-A18B-AF6091A41888}",
+        "sighttime": 1734768360000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 2,
         "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.52147126,
-        "sighting_long_wgs84": 153.09184517
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.930505869999998,
+        "sighting_long_wgs84": 153.3665283
       }
     }
   ]
