@@ -3,48 +3,71 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1039014,
+      "id": 1038212,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.3660990033167,
-          -27.930280999349165
+          153.19131220397597,
+          -27.70266038102034
         ]
       },
       "properties": {
-        "locality": "Arundel",
-        "objectid": 1039014,
-        "globalid": "{FCCDCC9F-0EE9-419B-8681-0B9AA4813564}",
-        "sighttime": 1734768120000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 2,
+        "locality": "Loganholme",
+        "objectid": 1038212,
+        "globalid": "{B0491297-85D4-497D-9E8E-D39696C22F95}",
+        "sighttime": 1734813120000,
+        "joeypresent": "Yes",
+        "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.930281,
-        "sighting_long_wgs84": 153.36609900000002
+        "lga": "Logan City",
+        "sighting_lat_wgs84": -27.70266038,
+        "sighting_long_wgs84": 153.1913122
       }
     },
     {
       "type": "Feature",
-      "id": 1039015,
+      "id": 1037405,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.36652829920786,
-          -27.930505871876555
+          152.62009166706133,
+          -27.307410000364587
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1037405,
+        "globalid": "{36D30E5E-458D-4E0C-B3A1-5A84DD3FB8C2}",
+        "sighttime": 1734814560000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": null,
+        "sighting_lat_wgs84": null,
+        "sighting_long_wgs84": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1037408,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.36603459321256,
+          -27.93077297455973
         ]
       },
       "properties": {
         "locality": "Arundel",
-        "objectid": 1039015,
-        "globalid": "{8705C3CE-C53E-4505-A18B-AF6091A41888}",
-        "sighttime": 1734768360000,
+        "objectid": 1037408,
+        "globalid": "{8C78CAE0-CCF1-44B5-8846-875A80269544}",
+        "sighttime": 1734856320000,
         "joeypresent": "Not Sure",
-        "numberofkoala": 2,
+        "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.930505869999998,
-        "sighting_long_wgs84": 153.3665283
+        "sighting_lat_wgs84": -27.930772970000003,
+        "sighting_long_wgs84": 153.36603459000003
       }
     }
   ]
