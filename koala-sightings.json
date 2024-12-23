@@ -3,71 +3,48 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1038212,
+      "id": 1037411,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.19131220397597,
-          -27.70266038102034
+          152.1651451932758,
+          -26.969302206561164
         ]
       },
       "properties": {
-        "locality": "Loganholme",
-        "objectid": 1038212,
-        "globalid": "{B0491297-85D4-497D-9E8E-D39696C22F95}",
-        "sighttime": 1734813120000,
-        "joeypresent": "Yes",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Logan City",
-        "sighting_lat_wgs84": -27.70266038,
-        "sighting_long_wgs84": 153.1913122
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1037405,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.62009166706133,
-          -27.307410000364587
-        ]
-      },
-      "properties": {
-        "locality": null,
-        "objectid": 1037405,
-        "globalid": "{36D30E5E-458D-4E0C-B3A1-5A84DD3FB8C2}",
-        "sighttime": 1734814560000,
+        "locality": "Colinton",
+        "objectid": 1037411,
+        "globalid": "{95372959-74CF-4069-AA64-CEB9CCCC79DB}",
+        "sighttime": 1734924720000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": null,
-        "sighting_lat_wgs84": null,
-        "sighting_long_wgs84": null
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -26.969302210000002,
+        "sighting_long_wgs84": 152.16514519
       }
     },
     {
       "type": "Feature",
-      "id": 1037408,
+      "id": 1038620,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.36603459321256,
-          -27.93077297455973
+          153.36150460213548,
+          -27.939017889066047
         ]
       },
       "properties": {
         "locality": "Arundel",
-        "objectid": 1037408,
-        "globalid": "{8C78CAE0-CCF1-44B5-8846-875A80269544}",
-        "sighttime": 1734856320000,
+        "objectid": 1038620,
+        "globalid": "{02A0962C-82F9-4230-9616-F12394930E3F}",
+        "sighttime": 1734942480000,
         "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.930772970000003,
-        "sighting_long_wgs84": 153.36603459000003
+        "sighting_lat_wgs84": -27.93901789,
+        "sighting_long_wgs84": 153.36150460000002
       }
     }
   ]
