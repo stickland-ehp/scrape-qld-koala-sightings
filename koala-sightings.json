@@ -3,48 +3,48 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1037411,
+      "id": 1038220,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.1651451932758,
-          -26.969302206561164
+          153.02941711649785,
+          -27.251841860946953
         ]
       },
       "properties": {
-        "locality": "Colinton",
-        "objectid": 1037411,
-        "globalid": "{95372959-74CF-4069-AA64-CEB9CCCC79DB}",
-        "sighttime": 1734924720000,
+        "locality": "Mango Hill",
+        "objectid": 1038220,
+        "globalid": "{897424BF-2C10-4AEF-8D34-C5E8F5A93B1F}",
+        "sighttime": 1734983580000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -26.969302210000002,
-        "sighting_long_wgs84": 152.16514519
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.25184186,
+        "sighting_long_wgs84": 153.02941712
       }
     },
     {
       "type": "Feature",
-      "id": 1038620,
+      "id": 1037414,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.36150460213548,
-          -27.939017889066047
+          152.90332686581507,
+          -27.620663870935473
         ]
       },
       "properties": {
-        "locality": "Arundel",
-        "objectid": 1038620,
-        "globalid": "{02A0962C-82F9-4230-9616-F12394930E3F}",
-        "sighttime": 1734942480000,
+        "locality": "Goodna",
+        "objectid": 1037414,
+        "globalid": "{6F80800C-95AD-4459-97A2-85F783B2F8C8}",
+        "sighttime": 1735017300000,
         "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.93901789,
-        "sighting_long_wgs84": 153.36150460000002
+        "lga": "Ipswich City",
+        "sighting_lat_wgs84": -27.62066387,
+        "sighting_long_wgs84": 152.90332687
       }
     }
   ]
