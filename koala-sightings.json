@@ -3,48 +3,48 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1038220,
+      "id": 1037416,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.02941711649785,
-          -27.251841860946953
+          153.09096659045943,
+          -27.52252957375829
         ]
       },
       "properties": {
-        "locality": "Mango Hill",
-        "objectid": 1038220,
-        "globalid": "{897424BF-2C10-4AEF-8D34-C5E8F5A93B1F}",
-        "sighttime": 1734983580000,
+        "locality": "Mount Gravatt East",
+        "objectid": 1037416,
+        "globalid": "{972EF4EA-FDA5-4644-B3F1-90144C45C040}",
+        "sighttime": 1735072140000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.25184186,
-        "sighting_long_wgs84": 153.02941712
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.52252957,
+        "sighting_long_wgs84": 153.09096659
       }
     },
     {
       "type": "Feature",
-      "id": 1037414,
+      "id": 1038626,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.90332686581507,
-          -27.620663870935473
+          153.35894277313346,
+          -27.931431606340105
         ]
       },
       "properties": {
-        "locality": "Goodna",
-        "objectid": 1037414,
-        "globalid": "{6F80800C-95AD-4459-97A2-85F783B2F8C8}",
-        "sighttime": 1735017300000,
+        "locality": "Arundel",
+        "objectid": 1038626,
+        "globalid": "{3AB47D36-88C5-4332-BAA1-4A9F2E78A653}",
+        "sighttime": 1735111800000,
         "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Ipswich City",
-        "sighting_lat_wgs84": -27.62066387,
-        "sighting_long_wgs84": 152.90332687
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.93143161,
+        "sighting_long_wgs84": 153.35894277
       }
     }
   ]
