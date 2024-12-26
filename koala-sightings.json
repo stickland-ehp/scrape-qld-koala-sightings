@@ -3,48 +3,48 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1037416,
+      "id": 1038628,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.09096659045943,
-          -27.52252957375829
+          153.07770411962454,
+          -27.527919037731614
         ]
       },
       "properties": {
         "locality": "Mount Gravatt East",
-        "objectid": 1037416,
-        "globalid": "{972EF4EA-FDA5-4644-B3F1-90144C45C040}",
-        "sighttime": 1735072140000,
-        "joeypresent": "No",
+        "objectid": 1038628,
+        "globalid": "{647A8475-82E6-4884-B21D-E2117090FFFF}",
+        "sighttime": 1735128720000,
+        "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.52252957,
-        "sighting_long_wgs84": 153.09096659
+        "sighting_lat_wgs84": -27.52791904,
+        "sighting_long_wgs84": 153.07770412
       }
     },
     {
       "type": "Feature",
-      "id": 1038626,
+      "id": 1037420,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.35894277313346,
-          -27.931431606340105
+          152.9304334450717,
+          -27.29200498164074
         ]
       },
       "properties": {
-        "locality": "Arundel",
-        "objectid": 1038626,
-        "globalid": "{3AB47D36-88C5-4332-BAA1-4A9F2E78A653}",
-        "sighttime": 1735111800000,
-        "joeypresent": "Not Sure",
+        "locality": "Cashmere",
+        "objectid": 1037420,
+        "globalid": "{20DEC8C4-2E2B-46FD-AEC4-A6160973A1A4}",
+        "sighttime": 1735199700000,
+        "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.93143161,
-        "sighting_long_wgs84": 153.35894277
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.29200498,
+        "sighting_long_wgs84": 152.93043344999998
       }
     }
   ]
