@@ -3,48 +3,71 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1038628,
+      "id": 1037422,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.07770411962454,
-          -27.527919037731614
+          152.8566817746186,
+          -27.543350756472062
         ]
       },
       "properties": {
-        "locality": "Mount Gravatt East",
-        "objectid": 1038628,
-        "globalid": "{647A8475-82E6-4884-B21D-E2117090FFFF}",
-        "sighttime": 1735128720000,
-        "joeypresent": "Not Sure",
+        "locality": "Anstead",
+        "objectid": 1037422,
+        "globalid": "{FEEE7247-BF16-4130-B39F-3A62A4C92FC0}",
+        "sighttime": 1735246680000,
+        "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.52791904,
-        "sighting_long_wgs84": 153.07770412
+        "sighting_lat_wgs84": -27.54335076,
+        "sighting_long_wgs84": 152.85668177
       }
     },
     {
       "type": "Feature",
-      "id": 1037420,
+      "id": 1038631,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.9304334450717,
-          -27.29200498164074
+          153.1052965859403,
+          -27.53011089304166
         ]
       },
       "properties": {
-        "locality": "Cashmere",
-        "objectid": 1037420,
-        "globalid": "{20DEC8C4-2E2B-46FD-AEC4-A6160973A1A4}",
-        "sighttime": 1735199700000,
+        "locality": "Mansfield",
+        "objectid": 1038631,
+        "globalid": "{7897433B-DA6A-4B7F-8469-457E59AAEDCD}",
+        "sighttime": 1735255500000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.29200498,
-        "sighting_long_wgs84": 152.93043344999998
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.53011089,
+        "sighting_long_wgs84": 153.10529659
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1038634,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.35905433580695,
+          -27.931279987589082
+        ]
+      },
+      "properties": {
+        "locality": "Arundel",
+        "objectid": 1038634,
+        "globalid": "{F5BF21BA-AB9A-4223-8C56-D7B5ADB367ED}",
+        "sighttime": 1735284600000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Injured/Sick",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.93127999,
+        "sighting_long_wgs84": 153.35905434
       }
     }
   ]
