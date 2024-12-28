@@ -3,71 +3,71 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1037422,
+      "id": 1038232,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.8566817746186,
-          -27.543350756472062
+          152.8575702299941,
+          -27.54309226600142
         ]
       },
       "properties": {
         "locality": "Anstead",
-        "objectid": 1037422,
-        "globalid": "{FEEE7247-BF16-4130-B39F-3A62A4C92FC0}",
-        "sighttime": 1735246680000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
+        "objectid": 1038232,
+        "globalid": "{B13BF61E-F3E1-4236-B493-FC2A1D47632A}",
+        "sighttime": 1735333200000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.54335076,
-        "sighting_long_wgs84": 152.85668177
+        "sighting_lat_wgs84": -27.54309227,
+        "sighting_long_wgs84": 152.85757023
       }
     },
     {
       "type": "Feature",
-      "id": 1038631,
+      "id": 1038635,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.1052965859403,
-          -27.53011089304166
+          152.8606879778164,
+          -27.548845382179653
         ]
       },
       "properties": {
-        "locality": "Mansfield",
-        "objectid": 1038631,
-        "globalid": "{7897433B-DA6A-4B7F-8469-457E59AAEDCD}",
-        "sighttime": 1735255500000,
+        "locality": "Anstead",
+        "objectid": 1038635,
+        "globalid": "{3AA048DC-F421-4A77-BD57-8934848184FE}",
+        "sighttime": 1735335720000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.53011089,
-        "sighting_long_wgs84": 153.10529659
+        "sighting_lat_wgs84": -27.54884538,
+        "sighting_long_wgs84": 152.86068798
       }
     },
     {
       "type": "Feature",
-      "id": 1038634,
+      "id": 1039035,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.35905433580695,
-          -27.931279987589082
+          153.08645993402018,
+          -27.50691470236879
         ]
       },
       "properties": {
-        "locality": "Arundel",
-        "objectid": 1038634,
-        "globalid": "{F5BF21BA-AB9A-4223-8C56-D7B5ADB367ED}",
-        "sighttime": 1735284600000,
+        "locality": "Camp Hill",
+        "objectid": 1039035,
+        "globalid": "{A096E1D6-49DF-4577-AD81-714B1F5F7A21}",
+        "sighttime": 1735336800000,
         "joeypresent": "No",
         "numberofkoala": 1,
-        "koalacondifinal": "Injured/Sick",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.93127999,
-        "sighting_long_wgs84": 153.35905434
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.506914700000003,
+        "sighting_long_wgs84": 153.08645993
       }
     }
   ]
