@@ -3,71 +3,25 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1038232,
+      "id": 1037428,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.8575702299941,
-          -27.54309226600142
+          152.86072319177558,
+          -27.549348584593822
         ]
       },
       "properties": {
         "locality": "Anstead",
-        "objectid": 1038232,
-        "globalid": "{B13BF61E-F3E1-4236-B493-FC2A1D47632A}",
-        "sighttime": 1735333200000,
-        "joeypresent": "Yes",
-        "numberofkoala": 2,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.54309227,
-        "sighting_long_wgs84": 152.85757023
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1038635,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.8606879778164,
-          -27.548845382179653
-        ]
-      },
-      "properties": {
-        "locality": "Anstead",
-        "objectid": 1038635,
-        "globalid": "{3AA048DC-F421-4A77-BD57-8934848184FE}",
-        "sighttime": 1735335720000,
+        "objectid": 1037428,
+        "globalid": "{3A20EE55-D076-4A5B-AD50-6201EA8D1236}",
+        "sighttime": 1735421940000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.54884538,
-        "sighting_long_wgs84": 152.86068798
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1039035,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.08645993402018,
-          -27.50691470236879
-        ]
-      },
-      "properties": {
-        "locality": "Camp Hill",
-        "objectid": 1039035,
-        "globalid": "{A096E1D6-49DF-4577-AD81-714B1F5F7A21}",
-        "sighttime": 1735336800000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.506914700000003,
-        "sighting_long_wgs84": 153.08645993
+        "sighting_lat_wgs84": -27.54934858,
+        "sighting_long_wgs84": 152.86072319000002
       }
     }
   ]
