@@ -3,25 +3,117 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1037428,
+      "id": 1039039,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.86072319177558,
-          -27.549348584593822
+          152.85766726780776,
+          -27.54344504466491
         ]
       },
       "properties": {
         "locality": "Anstead",
-        "objectid": 1037428,
-        "globalid": "{3A20EE55-D076-4A5B-AD50-6201EA8D1236}",
-        "sighttime": 1735421940000,
+        "objectid": 1039039,
+        "globalid": "{61ED53E3-BBE4-456D-A5F9-FE1C8DA649BE}",
+        "sighttime": 1735505760000,
+        "joeypresent": "No",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.543445039999998,
+        "sighting_long_wgs84": 152.85766726999998
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1038639,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.242085900116,
+          -27.514438899989127
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1038639,
+        "globalid": "{B246EFC0-A1FC-4D75-B911-03F23A35F079}",
+        "sighttime": 1735506120000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Redland City",
+        "sighting_lat_wgs84": -27.5144389,
+        "sighting_long_wgs84": 153.24208589999998
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1037430,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.86048868657062,
+          -27.549250801032954
+        ]
+      },
+      "properties": {
+        "locality": "Anstead",
+        "objectid": 1037430,
+        "globalid": "{DE62A697-3CAC-4487-BE28-15A5A9F0C837}",
+        "sighttime": 1735507620000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.54934858,
-        "sighting_long_wgs84": 152.86072319000002
+        "sighting_lat_wgs84": -27.5492508,
+        "sighting_long_wgs84": 152.86048869
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1037431,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0931005635697,
+          -27.528564216829977
+        ]
+      },
+      "properties": {
+        "locality": "Mount Gravatt East",
+        "objectid": 1037431,
+        "globalid": "{2A2E4C84-90A6-47DE-A95B-29D0AAEABF1E}",
+        "sighttime": 1735510980000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Dead",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.52856422,
+        "sighting_long_wgs84": 153.09310055999998
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1038641,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.25043717079978,
+          -27.510054066731247
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1038641,
+        "globalid": "{C65AA33B-4AC6-4253-AF12-6A23C9521806}",
+        "sighttime": 1735513080000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Redland City",
+        "sighting_lat_wgs84": -27.510054070000002,
+        "sighting_long_wgs84": 153.25043717000003
       }
     }
   ]
