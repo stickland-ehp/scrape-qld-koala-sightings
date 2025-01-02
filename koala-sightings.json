@@ -3,48 +3,48 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1038244,
+      "id": 1039384,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.2418019004339,
-          -27.514764900034486
+          153.1106159661834,
+          -27.538284901641603
         ]
       },
       "properties": {
-        "locality": null,
-        "objectid": 1038244,
-        "globalid": "{B1508CD8-527E-4E6D-824B-A9908A9AB398}",
-        "sighttime": 1735678560000,
-        "joeypresent": "Not Sure",
+        "locality": "Mansfield",
+        "objectid": 1039384,
+        "globalid": "{1C09A090-9A87-46B2-89E2-54A27CC4D68C}",
+        "sighttime": 1735782600000,
+        "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Redland City",
-        "sighting_lat_wgs84": -27.514764900000003,
-        "sighting_long_wgs84": 153.2418019
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.5382849,
+        "sighting_long_wgs84": 153.11061597
       }
     },
     {
       "type": "Feature",
-      "id": 1038649,
+      "id": 1039388,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.9935054448019,
-          -27.58147720580291
+          153.08382876046815,
+          -27.512903362193217
         ]
       },
       "properties": {
-        "locality": "Rangeville",
-        "objectid": 1038649,
-        "globalid": "{2E70ADD4-2B0C-4C5B-BECA-6A3C782E5E95}",
-        "sighttime": 1735715280000,
+        "locality": "Carina Heights",
+        "objectid": 1039388,
+        "globalid": "{348B1155-A413-4A30-936B-4BBDE096341C}",
+        "sighttime": 1735799820000,
         "joeypresent": "No",
         "numberofkoala": 1,
-        "koalacondifinal": "Injured/Sick",
-        "lga": "Toowoomba Regional",
-        "sighting_lat_wgs84": -27.58147721,
-        "sighting_long_wgs84": 151.99350544
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.51290336,
+        "sighting_long_wgs84": 153.08382876
       }
     }
   ]
