@@ -3,48 +3,94 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1039384,
+      "id": 1039393,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.1106159661834,
-          -27.538284901641603
+          153.02943344427644,
+          -27.251771271477406
         ]
       },
       "properties": {
-        "locality": "Mansfield",
-        "objectid": 1039384,
-        "globalid": "{1C09A090-9A87-46B2-89E2-54A27CC4D68C}",
-        "sighttime": 1735782600000,
+        "locality": "Mango Hill",
+        "objectid": 1039393,
+        "globalid": "{F8C0563F-D39A-412A-BDC9-B571216B8797}",
+        "sighttime": 1735851360000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.5382849,
-        "sighting_long_wgs84": 153.11061597
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.25177127,
+        "sighting_long_wgs84": 153.02943344000002
       }
     },
     {
       "type": "Feature",
-      "id": 1039388,
+      "id": 1039395,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.08382876046815,
-          -27.512903362193217
+          152.98190757919835,
+          -27.240309128081712
         ]
       },
       "properties": {
-        "locality": "Carina Heights",
-        "objectid": 1039388,
-        "globalid": "{348B1155-A413-4A30-936B-4BBDE096341C}",
-        "sighttime": 1735799820000,
+        "locality": "Kallangur",
+        "objectid": 1039395,
+        "globalid": "{A032217C-64EA-44F7-896E-4C6FB0DB38A3}",
+        "sighttime": 1735857900000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.24030913,
+        "sighting_long_wgs84": 152.98190757999998
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1039397,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.08873552024673,
+          -27.522268550347615
+        ]
+      },
+      "properties": {
+        "locality": "Mount Gravatt East",
+        "objectid": 1039397,
+        "globalid": "{A40C4F1A-33D3-49B5-BF52-3A5FA681F116}",
+        "sighttime": 1735864440000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.51290336,
-        "sighting_long_wgs84": 153.08382876
+        "sighting_lat_wgs84": -27.522268550000003,
+        "sighting_long_wgs84": 153.08873552
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1039401,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.11073895542725,
+          -27.538087950264586
+        ]
+      },
+      "properties": {
+        "locality": "Mansfield",
+        "objectid": 1039401,
+        "globalid": "{E8525D01-5E0F-40F8-AE56-F0C63BFDB0B9}",
+        "sighttime": 1735888680000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.53808795,
+        "sighting_long_wgs84": 153.11073896000002
       }
     }
   ]
