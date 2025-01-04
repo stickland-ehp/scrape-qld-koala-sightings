@@ -3,94 +3,117 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1039393,
+      "id": 1039406,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.02943344427644,
-          -27.251771271477406
+          152.85734675250765,
+          -27.543199034016766
         ]
       },
       "properties": {
-        "locality": "Mango Hill",
-        "objectid": 1039393,
-        "globalid": "{F8C0563F-D39A-412A-BDC9-B571216B8797}",
-        "sighttime": 1735851360000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.25177127,
-        "sighting_long_wgs84": 153.02943344000002
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1039395,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.98190757919835,
-          -27.240309128081712
-        ]
-      },
-      "properties": {
-        "locality": "Kallangur",
-        "objectid": 1039395,
-        "globalid": "{A032217C-64EA-44F7-896E-4C6FB0DB38A3}",
-        "sighttime": 1735857900000,
+        "locality": "Anstead",
+        "objectid": 1039406,
+        "globalid": "{B2003A63-14D3-41AC-B76C-2456AE683745}",
+        "sighttime": 1735937880000,
         "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.24030913,
-        "sighting_long_wgs84": 152.98190757999998
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.54319903,
+        "sighting_long_wgs84": 152.85734675
       }
     },
     {
       "type": "Feature",
-      "id": 1039397,
+      "id": 1039407,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.08873552024673,
-          -27.522268550347615
+          152.860709633503,
+          -27.54932581943726
         ]
       },
       "properties": {
-        "locality": "Mount Gravatt East",
-        "objectid": 1039397,
-        "globalid": "{A40C4F1A-33D3-49B5-BF52-3A5FA681F116}",
-        "sighttime": 1735864440000,
+        "locality": "Anstead",
+        "objectid": 1039407,
+        "globalid": "{FAC951B8-AB3F-45F8-81C4-EF5984AB0914}",
+        "sighttime": 1735939380000,
         "joeypresent": "No",
-        "numberofkoala": 1,
+        "numberofkoala": 2,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.522268550000003,
-        "sighting_long_wgs84": 153.08873552
+        "sighting_lat_wgs84": -27.54932582,
+        "sighting_long_wgs84": 152.86070963
       }
     },
     {
       "type": "Feature",
-      "id": 1039401,
+      "id": 1039410,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.11073895542725,
-          -27.538087950264586
+          152.8748264174444,
+          -27.576748953479587
         ]
       },
       "properties": {
-        "locality": "Mansfield",
-        "objectid": 1039401,
-        "globalid": "{E8525D01-5E0F-40F8-AE56-F0C63BFDB0B9}",
-        "sighttime": 1735888680000,
+        "locality": "Moggill",
+        "objectid": 1039410,
+        "globalid": "{648704D7-F994-4631-84A8-8072196AEDDE}",
+        "sighttime": 1735957140000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.53808795,
-        "sighting_long_wgs84": 153.11073896000002
+        "sighting_lat_wgs84": -27.57674895,
+        "sighting_long_wgs84": 152.87482642
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1039411,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.44109003355334,
+          -28.10691257058694
+        ]
+      },
+      "properties": {
+        "locality": "Burleigh Heads",
+        "objectid": 1039411,
+        "globalid": "{2E943FBD-A809-426A-84D5-1310F6AD2E2B}",
+        "sighttime": 1735970040000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -28.10691257,
+        "sighting_long_wgs84": 153.44109003
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1039414,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.35875240485345,
+          -27.931545515307814
+        ]
+      },
+      "properties": {
+        "locality": "Arundel",
+        "objectid": 1039414,
+        "globalid": "{BC99BA76-995D-4053-BA73-F8CA410EBCF8}",
+        "sighttime": 1735982880000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.93154552,
+        "sighting_long_wgs84": 153.3587524
       }
     }
   ]
