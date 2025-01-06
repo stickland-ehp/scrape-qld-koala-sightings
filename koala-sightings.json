@@ -3,94 +3,94 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1039416,
+      "id": 1039440,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.85760976395144,
-          -27.54314329794925
+          152.37922867973603,
+          -27.095588701933487
         ]
       },
       "properties": {
-        "locality": "Anstead",
-        "objectid": 1039416,
-        "globalid": "{9FFDCD94-B384-4CC5-A8CB-8EC578C67F45}",
-        "sighttime": 1736024220000,
+        "locality": "Toogoolawah",
+        "objectid": 1039440,
+        "globalid": "{0A433F9B-D442-4A9B-AD25-F66C7C69DE55}",
+        "sighttime": 1736151300000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.5431433,
-        "sighting_long_wgs84": 152.85760976
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -27.0955887,
+        "sighting_long_wgs84": 152.37922868
       }
     },
     {
       "type": "Feature",
-      "id": 1039422,
+      "id": 1039431,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.09086438553626,
-          -27.522686378703508
+          153.0289793000862,
+          -27.25173790016652
         ]
       },
       "properties": {
-        "locality": "Mount Gravatt East",
-        "objectid": 1039422,
-        "globalid": "{CFE9BEDE-BA63-44A2-AA08-FA77F132E593}",
-        "sighttime": 1736018880000,
+        "locality": "Mango Hill",
+        "objectid": 1039431,
+        "globalid": "{834A68FD-7EE6-4C16-AEBB-556213C9B9D1}",
+        "sighttime": 1736119440000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.52268638,
-        "sighting_long_wgs84": 153.09086439
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.2517379,
+        "sighting_long_wgs84": 153.0289793
       }
     },
     {
       "type": "Feature",
-      "id": 1037442,
+      "id": 1039437,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.0905279188517,
-          -27.522940662266585
+          153.1536987737477,
+          -27.62259669404751
         ]
       },
       "properties": {
-        "locality": "Mount Gravatt East",
-        "objectid": 1037442,
-        "globalid": "{BF25A5E3-5009-4618-BCCB-97BC5276552C}",
-        "sighttime": 1736021700000,
+        "locality": "Daisy Hill",
+        "objectid": 1039437,
+        "globalid": "{E60246B2-AE6C-4983-A9E7-93E16443DC57}",
+        "sighttime": 1736140620000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.52294066,
-        "sighting_long_wgs84": 153.09052792
+        "lga": "Logan City",
+        "sighting_lat_wgs84": -27.622596689999998,
+        "sighting_long_wgs84": 153.15369877
       }
     },
     {
       "type": "Feature",
-      "id": 1039051,
+      "id": 1039438,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.09185623969603,
-          -27.521594808339408
+          153.00113964974366,
+          -27.241451657896487
         ]
       },
       "properties": {
-        "locality": "Mount Gravatt East",
-        "objectid": 1039051,
-        "globalid": "{6D5BB44A-D0E6-4693-8AF1-1F442C15E933}",
-        "sighttime": 1736055360000,
+        "locality": "Kallangur",
+        "objectid": 1039438,
+        "globalid": "{FC257265-76F2-4C70-A6C9-98E5B8785134}",
+        "sighttime": 1736145000000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.52159481,
-        "sighting_long_wgs84": 153.09185624
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.24145166,
+        "sighting_long_wgs84": 153.00113965
       }
     }
   ]
