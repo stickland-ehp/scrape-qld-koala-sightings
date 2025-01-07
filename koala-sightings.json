@@ -3,94 +3,25 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1039440,
+      "id": 1039445,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.37922867973603,
-          -27.095588701933487
+          152.57284835447942,
+          -27.38072228607207
         ]
       },
       "properties": {
-        "locality": "Toogoolawah",
-        "objectid": 1039440,
-        "globalid": "{0A433F9B-D442-4A9B-AD25-F66C7C69DE55}",
-        "sighttime": 1736151300000,
-        "joeypresent": "No",
+        "locality": "Lake Wivenhoe",
+        "objectid": 1039445,
+        "globalid": "{50659E03-69C3-4A86-8E96-37E6404DDFA2}",
+        "sighttime": 1736237820000,
+        "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.0955887,
-        "sighting_long_wgs84": 152.37922868
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1039431,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.0289793000862,
-          -27.25173790016652
-        ]
-      },
-      "properties": {
-        "locality": "Mango Hill",
-        "objectid": 1039431,
-        "globalid": "{834A68FD-7EE6-4C16-AEBB-556213C9B9D1}",
-        "sighttime": 1736119440000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.2517379,
-        "sighting_long_wgs84": 153.0289793
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1039437,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.1536987737477,
-          -27.62259669404751
-        ]
-      },
-      "properties": {
-        "locality": "Daisy Hill",
-        "objectid": 1039437,
-        "globalid": "{E60246B2-AE6C-4983-A9E7-93E16443DC57}",
-        "sighttime": 1736140620000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Logan City",
-        "sighting_lat_wgs84": -27.622596689999998,
-        "sighting_long_wgs84": 153.15369877
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1039438,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.00113964974366,
-          -27.241451657896487
-        ]
-      },
-      "properties": {
-        "locality": "Kallangur",
-        "objectid": 1039438,
-        "globalid": "{FC257265-76F2-4C70-A6C9-98E5B8785134}",
-        "sighttime": 1736145000000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.24145166,
-        "sighting_long_wgs84": 153.00113965
+        "sighting_lat_wgs84": -27.38072229,
+        "sighting_long_wgs84": 152.57284835
       }
     }
   ]
