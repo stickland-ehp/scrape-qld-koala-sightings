@@ -3,25 +3,94 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1039445,
+      "id": 1039056,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.57284835447942,
-          -27.38072228607207
+          153.04687278024684,
+          -27.54189619046862
         ]
       },
       "properties": {
-        "locality": "Lake Wivenhoe",
-        "objectid": 1039445,
-        "globalid": "{50659E03-69C3-4A86-8E96-37E6404DDFA2}",
-        "sighttime": 1736237820000,
+        "locality": "Nathan",
+        "objectid": 1039056,
+        "globalid": "{D5CD9B41-D48C-404F-899C-78D1559347D1}",
+        "sighttime": 1736253900000,
+        "joeypresent": "No",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.54189619,
+        "sighting_long_wgs84": 153.04687278
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1037445,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.36633249791697,
+          -27.929776551574285
+        ]
+      },
+      "properties": {
+        "locality": "Arundel",
+        "objectid": 1037445,
+        "globalid": "{7C9E7850-168D-4E4D-B748-0AAC86197727}",
+        "sighttime": 1736284680000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.92977655,
+        "sighting_long_wgs84": 153.3663325
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1038654,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.02943105924933,
+          -27.2518229452
+        ]
+      },
+      "properties": {
+        "locality": "Mango Hill",
+        "objectid": 1038654,
+        "globalid": "{0B0571AE-7BCD-4D32-8A2B-3FF61A0C276B}",
+        "sighttime": 1736282640000,
         "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.38072229,
-        "sighting_long_wgs84": 152.57284835
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.25182294,
+        "sighting_long_wgs84": 153.02943106
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1037447,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.63850986575582,
+          -27.616316769105424
+        ]
+      },
+      "properties": {
+        "locality": "Thagoona",
+        "objectid": 1037447,
+        "globalid": "{BC4A4958-74C8-4525-882C-7A38AFD8ED81}",
+        "sighttime": 1736326380000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Ipswich City",
+        "sighting_lat_wgs84": -27.616316769999997,
+        "sighting_long_wgs84": 152.63850987
       }
     }
   ]
