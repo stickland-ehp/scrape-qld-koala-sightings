@@ -3,25 +3,25 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1038657,
+      "id": 1037452,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.6091024001209,
-          -27.39631489988798
+          153.0907620701204,
+          -27.522615603401505
         ]
       },
       "properties": {
-        "locality": "Lake Wivenhoe",
-        "objectid": 1038657,
-        "globalid": "{54BD72DE-D469-48FE-AEF8-06FB506FFF57}",
-        "sighttime": 1736375100000,
-        "joeypresent": "Not Sure",
+        "locality": "Mount Gravatt East",
+        "objectid": 1037452,
+        "globalid": "{3B0E80D9-17BB-41C9-8C5C-151A8047994F}",
+        "sighttime": 1736455380000,
+        "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.3963149,
-        "sighting_long_wgs84": 152.6091024
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.5226156,
+        "sighting_long_wgs84": 153.09076207
       }
     }
   ]
