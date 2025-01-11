@@ -3,25 +3,94 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1037452,
+      "id": 1039062,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.0907620701204,
-          -27.522615603401505
+          153.0772465995655,
+          -27.54144169985784
         ]
       },
       "properties": {
-        "locality": "Mount Gravatt East",
-        "objectid": 1037452,
-        "globalid": "{3B0E80D9-17BB-41C9-8C5C-151A8047994F}",
-        "sighttime": 1736455380000,
+        "locality": "Mount Gravatt",
+        "objectid": 1039062,
+        "globalid": "{95747B19-7839-40EE-B9D0-ECDF3EDFA7DD}",
+        "sighttime": 1736551020000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.5414417,
+        "sighting_long_wgs84": 153.0772466
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1038260,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.07207959964575,
+          -27.54526120005033
+        ]
+      },
+      "properties": {
+        "locality": "Mount Gravatt",
+        "objectid": 1038260,
+        "globalid": "{6C51546E-EB71-413A-9AC8-E70D380749A6}",
+        "sighttime": 1736553900000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.545261200000002,
+        "sighting_long_wgs84": 153.0720796
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1039063,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.90334902006663,
+          -27.620646574360464
+        ]
+      },
+      "properties": {
+        "locality": "Goodna",
+        "objectid": 1039063,
+        "globalid": "{8D0C445B-4BAB-4C5E-94AB-716BD8695BE1}",
+        "sighttime": 1736556300000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Ipswich City",
+        "sighting_lat_wgs84": -27.620646569999998,
+        "sighting_long_wgs84": 152.90334902
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1037453,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.11031911879607,
+          -27.537423371476578
+        ]
+      },
+      "properties": {
+        "locality": "Mansfield",
+        "objectid": 1037453,
+        "globalid": "{CAAC8265-778D-45FC-9847-A3A9FE7370A6}",
+        "sighttime": 1736549760000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.5226156,
-        "sighting_long_wgs84": 153.09076207
+        "sighting_lat_wgs84": -27.537423370000003,
+        "sighting_long_wgs84": 153.11031911999999
       }
     }
   ]
