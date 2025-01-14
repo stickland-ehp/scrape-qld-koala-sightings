@@ -3,48 +3,48 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1037455,
+      "id": 1038672,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.02859089999845,
-          -27.251542100364745
+          153.00319298198914,
+          -26.384427376723
         ]
       },
       "properties": {
-        "locality": "Mango Hill",
-        "objectid": 1037455,
-        "globalid": "{664A83A0-9313-4D44-9EDD-C1B8C703EC2B}",
-        "sighttime": 1736638140000,
+        "locality": null,
+        "objectid": 1038672,
+        "globalid": "{CC4DB829-C4C1-4A39-B06E-7E125E17C768}",
+        "sighttime": 1736836320000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.2515421,
-        "sighting_long_wgs84": 153.0285909
+        "lga": "Noosa Shire",
+        "sighting_lat_wgs84": -26.384427379999998,
+        "sighting_long_wgs84": 153.00319298
       }
     },
     {
       "type": "Feature",
-      "id": 1037458,
+      "id": 1037464,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.85736066471642,
-          -27.54314422268901
+          153.07560127763045,
+          -27.540748965252593
         ]
       },
       "properties": {
-        "locality": "Anstead",
-        "objectid": 1037458,
-        "globalid": "{E67D377B-19A5-41D3-BE0C-5296AEDCEABD}",
-        "sighttime": 1736661300000,
+        "locality": "Mount Gravatt",
+        "objectid": 1037464,
+        "globalid": "{4CF7F58E-2BF4-426E-BA70-880CF8BE29ED}",
+        "sighttime": 1736845200000,
         "joeypresent": "No",
-        "numberofkoala": 2,
+        "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.54314422,
-        "sighting_long_wgs84": 152.85736067000002
+        "sighting_lat_wgs84": -27.540748970000003,
+        "sighting_long_wgs84": 153.07560128
       }
     }
   ]
