@@ -3,48 +3,71 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1038676,
+      "id": 1037468,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.07247399958132,
-          -27.5436403002505
+          153.02805190004815,
+          -27.251573800251215
         ]
       },
       "properties": {
-        "locality": "Mount Gravatt",
-        "objectid": 1038676,
-        "globalid": "{C03BE1AC-F345-464D-A0BA-418A8794101C}",
-        "sighttime": 1736927280000,
+        "locality": "Mango Hill",
+        "objectid": 1037468,
+        "globalid": "{9B055929-E6D8-4948-985F-EB0464107070}",
+        "sighttime": 1736977680000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.5436403,
-        "sighting_long_wgs84": 153.072474
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.251573799999999,
+        "sighting_long_wgs84": 153.02805189999998
       }
     },
     {
       "type": "Feature",
-      "id": 1039075,
+      "id": 1039078,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.07902183406028,
-          -27.50700688887487
+          153.05197723496497,
+          -27.550013967344373
         ]
       },
       "properties": {
-        "locality": "Camp Hill",
-        "objectid": 1039075,
-        "globalid": "{233ED47C-7A89-4C54-8026-E1714D7DEE3B}",
-        "sighttime": 1736889180000,
+        "locality": "Nathan",
+        "objectid": 1039078,
+        "globalid": "{F6E11DE7-CA0C-44EB-8A27-692EE2306C6A}",
+        "sighttime": 1736997900000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.507006890000003,
-        "sighting_long_wgs84": 153.07902183000002
+        "sighting_lat_wgs84": -27.550013970000002,
+        "sighting_long_wgs84": 153.05197722999998
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1037469,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.36820372278976,
+          -27.93028050091943
+        ]
+      },
+      "properties": {
+        "locality": "Arundel",
+        "objectid": 1037469,
+        "globalid": "{7C38434E-687F-4ACC-A661-1D345408E666}",
+        "sighttime": 1737010980000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.930280499999999,
+        "sighting_long_wgs84": 153.36820372
       }
     }
   ]
