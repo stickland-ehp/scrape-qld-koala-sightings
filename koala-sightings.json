@@ -3,71 +3,94 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1037468,
+      "id": 1039080,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.02805190004815,
-          -27.251573800251215
+          151.96491176118624,
+          -27.375234118995884
         ]
       },
       "properties": {
-        "locality": "Mango Hill",
-        "objectid": 1037468,
-        "globalid": "{9B055929-E6D8-4948-985F-EB0464107070}",
-        "sighttime": 1736977680000,
+        "locality": null,
+        "objectid": 1039080,
+        "globalid": "{1C2D0C0D-6FA4-472D-A031-2C5E1E9A2BF7}",
+        "sighttime": 1737072360000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.251573799999999,
-        "sighting_long_wgs84": 153.02805189999998
+        "lga": null,
+        "sighting_lat_wgs84": null,
+        "sighting_long_wgs84": null
       }
     },
     {
       "type": "Feature",
-      "id": 1039078,
+      "id": 1038280,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.05197723496497,
-          -27.550013967344373
+          153.14428232122413,
+          -27.654525321928762
         ]
       },
       "properties": {
-        "locality": "Nathan",
-        "objectid": 1039078,
-        "globalid": "{F6E11DE7-CA0C-44EB-8A27-692EE2306C6A}",
-        "sighttime": 1736997900000,
+        "locality": "Slacks Creek",
+        "objectid": 1038280,
+        "globalid": "{29CC4DB9-4464-4F91-BC1E-5E24A8408D7C}",
+        "sighttime": 1737108780000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.550013970000002,
-        "sighting_long_wgs84": 153.05197722999998
+        "lga": "Logan City",
+        "sighting_lat_wgs84": -27.654525319999998,
+        "sighting_long_wgs84": 153.14428232
       }
     },
     {
       "type": "Feature",
-      "id": 1037469,
+      "id": 1038278,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.36820372278976,
-          -27.93028050091943
+          153.36121636150688,
+          -27.943461117191266
         ]
       },
       "properties": {
         "locality": "Arundel",
-        "objectid": 1037469,
-        "globalid": "{7C38434E-687F-4ACC-A661-1D345408E666}",
-        "sighttime": 1737010980000,
+        "objectid": 1038278,
+        "globalid": "{44D3422A-474E-479B-A81F-D710235955D3}",
+        "sighttime": 1737052320000,
         "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.930280499999999,
-        "sighting_long_wgs84": 153.36820372
+        "sighting_lat_wgs84": -27.943461120000002,
+        "sighting_long_wgs84": 153.36121635999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1038681,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.36695086941242,
+          -27.931184274844266
+        ]
+      },
+      "properties": {
+        "locality": "Arundel",
+        "objectid": 1038681,
+        "globalid": "{D244F8B5-C716-49F5-9E30-2C2B283D26FA}",
+        "sighttime": 1737096300000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.931184269999999,
+        "sighting_long_wgs84": 153.36695086999998
       }
     }
   ]
