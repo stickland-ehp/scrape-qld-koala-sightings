@@ -1,4 +1,74 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1038285,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.09050928689436,
+          -27.523146627769375
+        ]
+      },
+      "properties": {
+        "locality": "Mount Gravatt East",
+        "objectid": 1038285,
+        "globalid": "{5A88AB96-A52F-40B3-BFC0-27BC301FBC11}",
+        "sighttime": 1737233580000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.523146629999999,
+        "sighting_long_wgs84": 153.09050929
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1039086,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.29259254329173,
+          -27.626826753777369
+        ]
+      },
+      "properties": {
+        "locality": "Redland Bay",
+        "objectid": 1039086,
+        "globalid": "{028373F8-F1B3-493F-8249-B4675518B985}",
+        "sighttime": 1737258240000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Redland City",
+        "sighting_lat_wgs84": -27.626826749999999,
+        "sighting_long_wgs84": 153.29259253999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1037479,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.60973486977645,
+          -27.39612893316157
+        ]
+      },
+      "properties": {
+        "locality": "Lake Wivenhoe",
+        "objectid": 1037479,
+        "globalid": "{037ADA3B-72CB-464D-8C8F-651A2538ED56}",
+        "sighttime": 1737250500000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Injured/Sick",
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -27.39612893,
+        "sighting_long_wgs84": 152.60973487000001
+      }
+    }
+  ]
 }
