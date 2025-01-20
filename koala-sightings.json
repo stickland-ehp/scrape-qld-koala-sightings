@@ -3,71 +3,48 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1038285,
+      "id": 1039090,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.09050928689436,
-          -27.523146627769375
+          153.0712627804225,
+          -27.544358248762094
         ]
       },
       "properties": {
-        "locality": "Mount Gravatt East",
-        "objectid": 1038285,
-        "globalid": "{5A88AB96-A52F-40B3-BFC0-27BC301FBC11}",
-        "sighttime": 1737233580000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
+        "locality": "Mount Gravatt",
+        "objectid": 1039090,
+        "globalid": "{0779B449-AE53-4C79-B3CC-ED934E41E5EC}",
+        "sighttime": 1737356220000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.523146629999999,
-        "sighting_long_wgs84": 153.09050929
+        "sighting_lat_wgs84": -27.544358249999998,
+        "sighting_long_wgs84": 153.07126278000001
       }
     },
     {
       "type": "Feature",
-      "id": 1039086,
+      "id": 1037482,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.29259254329173,
-          -27.626826753777369
+          153.07221011228009,
+          -27.545056915957801
         ]
       },
       "properties": {
-        "locality": "Redland Bay",
-        "objectid": 1039086,
-        "globalid": "{028373F8-F1B3-493F-8249-B4675518B985}",
-        "sighttime": 1737258240000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
+        "locality": "Mount Gravatt",
+        "objectid": 1037482,
+        "globalid": "{1CB022D2-5220-438B-8633-EF16245191DD}",
+        "sighttime": 1737356640000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
         "koalacondifinal": "Healthy",
-        "lga": "Redland City",
-        "sighting_lat_wgs84": -27.626826749999999,
-        "sighting_long_wgs84": 153.29259253999999
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1037479,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.60973486977645,
-          -27.39612893316157
-        ]
-      },
-      "properties": {
-        "locality": "Lake Wivenhoe",
-        "objectid": 1037479,
-        "globalid": "{037ADA3B-72CB-464D-8C8F-651A2538ED56}",
-        "sighttime": 1737250500000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Injured/Sick",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.39612893,
-        "sighting_long_wgs84": 152.60973487000001
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.54505692,
+        "sighting_long_wgs84": 153.07221011000001
       }
     }
   ]
