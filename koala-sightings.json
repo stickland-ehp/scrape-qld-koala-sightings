@@ -3,48 +3,25 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1038293,
+      "id": 1038296,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.13074052374324,
-          -27.083513206864108
+          152.49993643723872,
+          -28.045249846587147
         ]
       },
       "properties": {
-        "locality": null,
-        "objectid": 1038293,
-        "globalid": "{DEDFB9A8-D16C-45BC-8AEA-06CA41A875F4}",
-        "sighttime": 1737501960000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay",
-        "sighting_lat_wgs84": null,
-        "sighting_long_wgs84": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1037488,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.36645277245205,
-          -27.930181052237831
-        ]
-      },
-      "properties": {
-        "locality": "Arundel",
-        "objectid": 1037488,
-        "globalid": "{FB55E503-E128-46B7-AF3E-FCA8A6D69B61}",
-        "sighttime": 1737535980000,
+        "locality": "Moogerah",
+        "objectid": 1038296,
+        "globalid": "{36EF4D56-6302-4FC9-8D54-FE4DD242DF47}",
+        "sighttime": 1737616860000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.930181049999998,
-        "sighting_long_wgs84": 153.36645277
+        "lga": "Scenic Rim Regional",
+        "sighting_lat_wgs84": -28.045249850000001,
+        "sighting_long_wgs84": 152.49993644
       }
     }
   ]
