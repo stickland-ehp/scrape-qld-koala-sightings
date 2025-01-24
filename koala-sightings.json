@@ -3,25 +3,48 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1038296,
+      "id": 1037492,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.49993643723872,
-          -28.045249846587147
+          153.06785551816051,
+          -27.527770029543436
         ]
       },
       "properties": {
-        "locality": "Moogerah",
-        "objectid": 1038296,
-        "globalid": "{36EF4D56-6302-4FC9-8D54-FE4DD242DF47}",
-        "sighttime": 1737616860000,
+        "locality": "Holland Park West",
+        "objectid": 1037492,
+        "globalid": "{FF2388EB-0127-4F71-A464-F244ED1BE636}",
+        "sighttime": 1737679800000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.527770029999999,
+        "sighting_long_wgs84": 153.06785551999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1037493,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.37916047694466,
+          -27.095481606940197
+        ]
+      },
+      "properties": {
+        "locality": "Toogoolawah",
+        "objectid": 1037493,
+        "globalid": "{7BBDFDCC-5702-4DC0-A61D-C1EBC3EF1148}",
+        "sighttime": 1737705780000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Scenic Rim Regional",
-        "sighting_lat_wgs84": -28.045249850000001,
-        "sighting_long_wgs84": 152.49993644
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -27.09548161,
+        "sighting_long_wgs84": 152.37916048
       }
     }
   ]
