@@ -3,48 +3,25 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1037492,
+      "id": 1037494,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.06785551816051,
-          -27.527770029543436
+          153.03911207281061,
+          -27.534767081622256
         ]
       },
       "properties": {
-        "locality": "Holland Park West",
-        "objectid": 1037492,
-        "globalid": "{FF2388EB-0127-4F71-A464-F244ED1BE636}",
-        "sighttime": 1737679800000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.527770029999999,
-        "sighting_long_wgs84": 153.06785551999999
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1037493,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.37916047694466,
-          -27.095481606940197
-        ]
-      },
-      "properties": {
-        "locality": "Toogoolawah",
-        "objectid": 1037493,
-        "globalid": "{7BBDFDCC-5702-4DC0-A61D-C1EBC3EF1148}",
-        "sighttime": 1737705780000,
+        "locality": null,
+        "objectid": 1037494,
+        "globalid": "{602BAA25-4CA1-4D7F-8B09-266306A617FC}",
+        "sighttime": 1737749460000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.09548161,
-        "sighting_long_wgs84": 152.37916048
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.534767080000002,
+        "sighting_long_wgs84": 153.03911206999999
       }
     }
   ]
