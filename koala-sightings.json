@@ -3,48 +3,25 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1037501,
+      "id": 1039113,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.42793166661966,
-          -27.536065000172187
+          153.15594811479491,
+          -27.653881248074295
         ]
       },
       "properties": {
-        "locality": null,
-        "objectid": 1037501,
-        "globalid": "{2E1B9A73-9222-4C21-B3CF-1B7B1B7E037C}",
-        "sighttime": 1737954060000,
+        "locality": "Slacks Creek",
+        "objectid": 1039113,
+        "globalid": "{B742ABBA-40CD-4C4C-B105-E92BA7E52526}",
+        "sighttime": 1738014900000,
         "joeypresent": "No",
         "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": null,
-        "sighting_lat_wgs84": null,
-        "sighting_long_wgs84": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1039112,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.37945855861722,
-          -27.095538810386259
-        ]
-      },
-      "properties": {
-        "locality": "Toogoolawah",
-        "objectid": 1039112,
-        "globalid": "{F0048713-AAFD-463B-A259-DCD4F655D275}",
-        "sighttime": 1737963600000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.095538810000001,
-        "sighting_long_wgs84": 152.37945856000002
+        "koalacondifinal": "Dead",
+        "lga": "Logan City",
+        "sighting_lat_wgs84": -27.653881250000001,
+        "sighting_long_wgs84": 153.15594812000001
       }
     }
   ]
