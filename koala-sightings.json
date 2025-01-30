@@ -3,71 +3,48 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1038320,
+      "id": 1040178,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.07905167699238,
-          -27.515557932023796
-        ]
-      },
-      "properties": {
-        "locality": "Holland Park",
-        "objectid": 1038320,
-        "globalid": "{AE7C5A8E-F33C-4C56-A6D1-03EAF1E3B451}",
-        "sighttime": 1738137540000,
-        "joeypresent": "Yes",
-        "numberofkoala": 2,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.51555793,
-        "sighting_long_wgs84": 153.07905168000002
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1039777,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.36636577690498,
-          -27.930184780146359
+          153.36604515021378,
+          -27.929871864756933
         ]
       },
       "properties": {
         "locality": "Arundel",
-        "objectid": 1039777,
-        "globalid": "{D20A9870-82C9-4B8F-B09C-E9D8353B1B92}",
-        "sighttime": 1738136700000,
-        "joeypresent": "No",
+        "objectid": 1040178,
+        "globalid": "{156D20D8-5299-4DC6-88DF-F5BB5E1C5B35}",
+        "sighttime": 1738191900000,
+        "joeypresent": "Not Sure",
         "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
+        "koalacondifinal": "Injured/Sick",
         "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.930184780000001,
-        "sighting_long_wgs84": 153.36636578
+        "sighting_lat_wgs84": -27.929871869999999,
+        "sighting_long_wgs84": 153.36604515000002
       }
     },
     {
       "type": "Feature",
-      "id": 1039122,
+      "id": 1040579,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.37949988471354,
-          -27.095440260400107
+          153.36576026030122,
+          -27.931374474822825
         ]
       },
       "properties": {
-        "locality": "Toogoolawah",
-        "objectid": 1039122,
-        "globalid": "{DBD56DF7-7FC7-4963-9227-B0BA7A23E8A2}",
-        "sighttime": 1738137600000,
+        "locality": "Arundel",
+        "objectid": 1040579,
+        "globalid": "{AD410BC5-0F5B-4BFB-AE70-441A4196A26C}",
+        "sighttime": 1738189980000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.09544026,
-        "sighting_long_wgs84": 152.37949988
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.931374479999999,
+        "sighting_long_wgs84": 153.36576026
       }
     }
   ]
