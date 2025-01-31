@@ -3,48 +3,48 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1040178,
+      "id": 1039125,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.36604515021378,
-          -27.929871864756933
+          153.19194551804787,
+          -27.703310179281981
         ]
       },
       "properties": {
-        "locality": "Arundel",
-        "objectid": 1040178,
-        "globalid": "{156D20D8-5299-4DC6-88DF-F5BB5E1C5B35}",
-        "sighttime": 1738191900000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Injured/Sick",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.929871869999999,
-        "sighting_long_wgs84": 153.36604515000002
+        "locality": "Loganholme",
+        "objectid": 1039125,
+        "globalid": "{AA0049ED-81EF-4DF8-98D9-6FBAFA1AF928}",
+        "sighttime": 1738312140000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": "Logan City",
+        "sighting_lat_wgs84": -27.703310179999999,
+        "sighting_long_wgs84": 153.19194551999999
       }
     },
     {
       "type": "Feature",
-      "id": 1040579,
+      "id": 1040589,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.36576026030122,
-          -27.931374474822825
+          152.78756399977814,
+          -26.518318999744434
         ]
       },
       "properties": {
-        "locality": "Arundel",
-        "objectid": 1040579,
-        "globalid": "{AD410BC5-0F5B-4BFB-AE70-441A4196A26C}",
-        "sighttime": 1738189980000,
+        "locality": "Belli Park",
+        "objectid": 1040589,
+        "globalid": "{A2259B2D-A2EB-4BA3-A2AF-B3E5282FA5CA}",
+        "sighttime": 1738303500000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.931374479999999,
-        "sighting_long_wgs84": 153.36576026
+        "lga": "Sunshine Coast Regional",
+        "sighting_lat_wgs84": -26.518319000000002,
+        "sighting_long_wgs84": 152.787564
       }
     }
   ]
