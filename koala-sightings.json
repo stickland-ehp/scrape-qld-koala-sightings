@@ -3,25 +3,71 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1041396,
+      "id": 1041404,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.37954532419559,
-          -27.095427647147183
+          152.28522302605018,
+          -26.894464789376979
         ]
       },
       "properties": {
-        "locality": "Toogoolawah",
-        "objectid": 1041396,
-        "globalid": "{F28E4B94-B270-4F62-A53D-36623CAF6CF6}",
-        "sighttime": 1738568700000,
+        "locality": null,
+        "objectid": 1041404,
+        "globalid": "{F779EC92-1C1C-4B99-A60C-A10CB3A28156}",
+        "sighttime": 1738702620000,
+        "joeypresent": "Yes",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": null,
+        "sighting_lat_wgs84": null,
+        "sighting_long_wgs84": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1041402,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.36644454747727,
+          -27.930566388880383
+        ]
+      },
+      "properties": {
+        "locality": "Arundel",
+        "objectid": 1041402,
+        "globalid": "{12E7722F-ACE0-4B44-8DF2-BD34C1D8A7A9}",
+        "sighttime": 1738702800000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.930566389999999,
+        "sighting_long_wgs84": 153.36644455000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1041406,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.36587417206908,
+          -27.930566919055845
+        ]
+      },
+      "properties": {
+        "locality": "Arundel",
+        "objectid": 1041406,
+        "globalid": "{83681D61-EBAE-46B0-B0BA-E99E375E0D16}",
+        "sighttime": 1738738800000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.095427650000001,
-        "sighting_long_wgs84": 152.37954532000001
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.930566919999997,
+        "sighting_long_wgs84": 153.36587417000001
       }
     }
   ]
