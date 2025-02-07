@@ -1,4 +1,74 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1042197,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.14911741430774,
+          -27.748447581213338
+        ]
+      },
+      "properties": {
+        "locality": "Buccan",
+        "objectid": 1042197,
+        "globalid": "{99791CBA-F934-4E51-B1E0-92B1EE0333E2}",
+        "sighttime": 1769898060000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Logan City",
+        "sighting_lat_wgs84": -27.748447580000001,
+        "sighting_long_wgs84": 153.14911741
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1042597,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.36758280457045,
+          -27.929666637726779
+        ]
+      },
+      "properties": {
+        "locality": "Arundel",
+        "objectid": 1042597,
+        "globalid": "{1C4F03BE-94B0-4C30-970D-FD8DA05FFC9C}",
+        "sighttime": 1738911600000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.929666640000001,
+        "sighting_long_wgs84": 153.36758280000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1043397,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.07469040300037,
+          -27.207351012528633
+        ]
+      },
+      "properties": {
+        "locality": "Rothwell",
+        "objectid": 1043397,
+        "globalid": "{CF1B6573-5E90-4541-8460-82EBE81D64A5}",
+        "sighttime": 1738884600000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.20735101,
+        "sighting_long_wgs84": 153.07469040000001
+      }
+    }
+  ]
 }
