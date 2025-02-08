@@ -26,48 +26,94 @@
     },
     {
       "type": "Feature",
-      "id": 1042597,
+      "id": 1042598,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.36758280457045,
-          -27.929666637726779
+          153.08896217237944,
+          -27.509328817447624
         ]
       },
       "properties": {
-        "locality": "Arundel",
-        "objectid": 1042597,
-        "globalid": "{1C4F03BE-94B0-4C30-970D-FD8DA05FFC9C}",
-        "sighttime": 1738911600000,
+        "locality": "Carina Heights",
+        "objectid": 1042598,
+        "globalid": "{ECD8BBDD-85F8-4FA4-B755-9EA4B02E18B5}",
+        "sighttime": 1738964520000,
         "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.929666640000001,
-        "sighting_long_wgs84": 153.36758280000001
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.50932882,
+        "sighting_long_wgs84": 153.08896217
       }
     },
     {
       "type": "Feature",
-      "id": 1043397,
+      "id": 1042599,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.07469040300037,
-          -27.207351012528633
+          153.02874260029708,
+          -27.25166630039482
         ]
       },
       "properties": {
-        "locality": "Rothwell",
-        "objectid": 1043397,
-        "globalid": "{CF1B6573-5E90-4541-8460-82EBE81D64A5}",
-        "sighttime": 1738884600000,
+        "locality": "Mango Hill",
+        "objectid": 1042599,
+        "globalid": "{0860C5F2-869F-485A-9C54-E4C09AD27BD8}",
+        "sighttime": 1738969140000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.20735101,
-        "sighting_long_wgs84": 153.07469040000001
+        "sighting_lat_wgs84": -27.2516663,
+        "sighting_long_wgs84": 153.02874259999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1043000,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.25173609966637,
+          -27.509275400272376
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1043000,
+        "globalid": "{B48A4A27-629A-43FE-92A1-D4EE1A8CF8CF}",
+        "sighttime": 1738969500000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Redland City",
+        "sighting_lat_wgs84": -27.5092754,
+        "sighting_long_wgs84": 153.25173609999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1041801,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0466258962573,
+          -27.54098323035036
+        ]
+      },
+      "properties": {
+        "locality": "Nathan",
+        "objectid": 1041801,
+        "globalid": "{242B1B01-14CE-4436-98B9-BED43C3B625C}",
+        "sighttime": 1739004720000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.540983230000002,
+        "sighting_long_wgs84": 153.04662590000001
       }
     }
   ]
