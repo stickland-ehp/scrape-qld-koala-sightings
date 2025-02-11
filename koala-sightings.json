@@ -26,25 +26,25 @@
     },
     {
       "type": "Feature",
-      "id": 1042605,
+      "id": 1043007,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.0494572997946,
-          -27.548341799935656
+          153.44487003377611,
+          -28.108732817041272
         ]
       },
       "properties": {
-        "locality": "Nathan",
-        "objectid": 1042605,
-        "globalid": "{5E01F30A-490E-4695-9AD1-C7341514D92D}",
-        "sighttime": 1739141040000,
-        "joeypresent": "No",
+        "locality": "Burleigh Heads",
+        "objectid": 1043007,
+        "globalid": "{3A75C496-9EC6-4392-AB25-3C3D215C2F3C}",
+        "sighttime": 1739240040000,
+        "joeypresent": "Yes",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.548341800000003,
-        "sighting_long_wgs84": 153.0494573
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -28.10873282,
+        "sighting_long_wgs84": 153.44487002999998
       }
     }
   ]
