@@ -3,6 +3,29 @@
   "features": [
     {
       "type": "Feature",
+      "id": 1041808,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.10404426436563,
+          -27.530360139288312
+        ]
+      },
+      "properties": {
+        "locality": "Mansfield",
+        "objectid": 1041808,
+        "globalid": "{DE0A8C43-40BE-42DF-8A61-59B56125DA9B}",
+        "sighttime": 1739400180000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.530360139999999,
+        "sighting_long_wgs84": 153.10404426000002
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1042197,
       "geometry": {
         "type": "Point",
@@ -22,29 +45,6 @@
         "lga": "Logan City",
         "sighting_lat_wgs84": -27.748447580000001,
         "sighting_long_wgs84": 153.14911741
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1043007,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.44487003377611,
-          -28.108732817041272
-        ]
-      },
-      "properties": {
-        "locality": "Burleigh Heads",
-        "objectid": 1043007,
-        "globalid": "{3A75C496-9EC6-4392-AB25-3C3D215C2F3C}",
-        "sighttime": 1739240040000,
-        "joeypresent": "Yes",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -28.10873282,
-        "sighting_long_wgs84": 153.44487002999998
       }
     }
   ]
