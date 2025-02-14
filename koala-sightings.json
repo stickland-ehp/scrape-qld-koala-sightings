@@ -3,25 +3,25 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1041808,
+      "id": 1042610,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.10404426436563,
-          -27.530360139288312
+          153.07337092247676,
+          -27.540592882232783
         ]
       },
       "properties": {
-        "locality": "Mansfield",
-        "objectid": 1041808,
-        "globalid": "{DE0A8C43-40BE-42DF-8A61-59B56125DA9B}",
-        "sighttime": 1739400180000,
-        "joeypresent": "No",
+        "locality": "Mount Gravatt",
+        "objectid": 1042610,
+        "globalid": "{F4CAEAF2-D4B9-4F38-BFB3-7E9FA1838699}",
+        "sighttime": 1739486460000,
+        "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.530360139999999,
-        "sighting_long_wgs84": 153.10404426000002
+        "sighting_lat_wgs84": -27.540592880000002,
+        "sighting_long_wgs84": 153.07337092
       }
     },
     {
