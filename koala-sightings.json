@@ -23,52 +23,6 @@
         "sighting_lat_wgs84": -27.748447580000001,
         "sighting_long_wgs84": 153.14911741
       }
-    },
-    {
-      "type": "Feature",
-      "id": 1042613,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.03684010409961,
-          -27.53799306803473
-        ]
-      },
-      "properties": {
-        "locality": "Salisbury",
-        "objectid": 1042613,
-        "globalid": "{B469F9A6-DDBB-4384-A03E-385C229FD2E9}",
-        "sighttime": 1739655660000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.537993069999999,
-        "sighting_long_wgs84": 153.03684010000001
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1042615,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.52159553469613,
-          -28.102018787791561
-        ]
-      },
-      "properties": {
-        "locality": "Moogerah",
-        "objectid": 1042615,
-        "globalid": "{2BDB7286-5B04-4E69-B9FC-19A6D4063E01}",
-        "sighttime": 1739680980000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Scenic Rim Regional",
-        "sighting_lat_wgs84": -28.102018789999999,
-        "sighting_long_wgs84": 152.52159553000001
-      }
     }
   ]
 }
