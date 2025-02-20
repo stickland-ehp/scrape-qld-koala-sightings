@@ -3,29 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1042221,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.73378709999773,
-          -27.693303197786953
-        ]
-      },
-      "properties": {
-        "locality": "Purga",
-        "objectid": 1042221,
-        "globalid": "{AB5E17E4-6F37-4C4F-AC41-9688CD44239E}",
-        "sighttime": 1739951160000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Ipswich City",
-        "sighting_lat_wgs84": -27.693303199999999,
-        "sighting_long_wgs84": 152.7337871
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1042197,
       "geometry": {
         "type": "Point",
