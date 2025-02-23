@@ -3,117 +3,48 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1044200,
+      "id": 1043809,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.11016879741135,
-          -27.529235728657643
-        ]
-      },
-      "properties": {
-        "locality": "Mansfield",
-        "objectid": 1044200,
-        "globalid": "{5DD53BAE-7CAB-427E-8416-85336A223151}",
-        "sighttime": 1740168600000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.52923573,
-        "sighting_long_wgs84": 153.1101688
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1043401,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.02948265219104,
-          -27.251847453573848
-        ]
-      },
-      "properties": {
-        "locality": "Mango Hill",
-        "objectid": 1043401,
-        "globalid": "{B6B459BE-8972-499E-8A36-7F629016E65F}",
-        "sighttime": 1740169860000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.25184745,
-        "sighting_long_wgs84": 153.02948265000001
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1043801,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.10532944900831,
-          -27.529921246961429
-        ]
-      },
-      "properties": {
-        "locality": "Mansfield",
-        "objectid": 1043801,
-        "globalid": "{5670F10C-A0CB-474E-9C97-C26D8322F866}",
-        "sighttime": 1740172860000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.529921250000001,
-        "sighting_long_wgs84": 153.10532945
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1043404,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.60977126322354,
-          -27.397848840681149
-        ]
-      },
-      "properties": {
-        "locality": "Lake Wivenhoe",
-        "objectid": 1043404,
-        "globalid": "{C77A5C59-0ACA-415E-A766-6E185D32B242}",
-        "sighttime": 1740211980000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.397848840000002,
-        "sighting_long_wgs84": 152.60977126
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1043804,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.2819635178482,
-          -27.531817262087657
+          153.28200105934224,
+          -27.531830765794442
         ]
       },
       "properties": {
         "locality": "Cleveland",
-        "objectid": 1043804,
-        "globalid": "{0AC63C60-6EC7-4881-8887-A1C3299C3534}",
-        "sighttime": 1740208200000,
-        "joeypresent": "Not Sure",
+        "objectid": 1043809,
+        "globalid": "{6EAEA1B9-8A0F-48E4-8C63-061219DC95AA}",
+        "sighttime": 1740299640000,
+        "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Redland City",
-        "sighting_lat_wgs84": -27.53181726,
-        "sighting_long_wgs84": 153.28196352000001
+        "sighting_lat_wgs84": -27.531830769999999,
+        "sighting_long_wgs84": 153.28200106
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1047003,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.08302099985625,
+          -27.506981000394607
+        ]
+      },
+      "properties": {
+        "locality": "Camp Hill",
+        "objectid": 1047003,
+        "globalid": "{D5D20567-B188-4119-8445-89C05FD10ED4}",
+        "sighttime": 1764640800000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.506981000000003,
+        "sighting_long_wgs84": 153.083021
       }
     },
     {
