@@ -3,29 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1043809,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.28200105934224,
-          -27.531830765794442
-        ]
-      },
-      "properties": {
-        "locality": "Cleveland",
-        "objectid": 1043809,
-        "globalid": "{6EAEA1B9-8A0F-48E4-8C63-061219DC95AA}",
-        "sighttime": 1740299640000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Redland City",
-        "sighting_lat_wgs84": -27.531830769999999,
-        "sighting_long_wgs84": 153.28200106
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1047003,
       "geometry": {
         "type": "Point",
@@ -45,6 +22,29 @@
         "lga": "Brisbane City",
         "sighting_lat_wgs84": -27.506981000000003,
         "sighting_long_wgs84": 153.083021
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1045402,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.06114987214397,
+          -27.533124393616291
+        ]
+      },
+      "properties": {
+        "locality": "Holland Park West",
+        "objectid": 1045402,
+        "globalid": "{EF47A47C-9490-42DF-B21D-68754C0ED5E6}",
+        "sighttime": 1740351060000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.533124390000001,
+        "sighting_long_wgs84": 153.06114987000001
       }
     },
     {
