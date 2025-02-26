@@ -26,52 +26,6 @@
     },
     {
       "type": "Feature",
-      "id": 1046206,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.06959068330207,
-          -27.510590877911877
-        ]
-      },
-      "properties": {
-        "locality": "Coorparoo",
-        "objectid": 1046206,
-        "globalid": "{CD3BE679-7598-44DB-8BD8-FDB51C18369B}",
-        "sighttime": 1740400020000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.510590879999999,
-        "sighting_long_wgs84": 153.06959068
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1045407,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.5976953545896,
-          -27.391385534580486
-        ]
-      },
-      "properties": {
-        "locality": "Lake Wivenhoe",
-        "objectid": 1045407,
-        "globalid": "{11809F71-5B97-4828-BB35-D2CAD2B6AC3E}",
-        "sighttime": 1740458940000,
-        "joeypresent": "Yes",
-        "numberofkoala": 3,
-        "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.391385530000001,
-        "sighting_long_wgs84": 152.59769535000001
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1042197,
       "geometry": {
         "type": "Point",
