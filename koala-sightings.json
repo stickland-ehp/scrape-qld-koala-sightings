@@ -26,6 +26,29 @@
     },
     {
       "type": "Feature",
+      "id": 1045811,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.62027459998581,
+          -27.40110500010406
+        ]
+      },
+      "properties": {
+        "locality": "Lake Wivenhoe",
+        "objectid": 1045811,
+        "globalid": "{7EB19690-4AEF-4A2F-B37F-2AC776BF64DC}",
+        "sighttime": 1740630960000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -27.401105000000001,
+        "sighting_long_wgs84": 152.62027460000002
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1042197,
       "geometry": {
         "type": "Point",
