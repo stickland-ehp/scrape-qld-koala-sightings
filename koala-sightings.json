@@ -26,25 +26,48 @@
     },
     {
       "type": "Feature",
-      "id": 1045811,
+      "id": 1047013,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.62027459998581,
-          -27.40110500010406
+          153.04750969027486,
+          -27.54188588121503
         ]
       },
       "properties": {
-        "locality": "Lake Wivenhoe",
-        "objectid": 1045811,
-        "globalid": "{7EB19690-4AEF-4A2F-B37F-2AC776BF64DC}",
-        "sighttime": 1740630960000,
+        "locality": "Nathan",
+        "objectid": 1047013,
+        "globalid": "{F3CEE475-57AC-4E5D-BB48-426A7AFF5E50}",
+        "sighttime": 1740660300000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.401105000000001,
-        "sighting_long_wgs84": 152.62027460000002
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.541885879999999,
+        "sighting_long_wgs84": 153.04750969000003
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1045812,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.44887979969241,
+          -28.095641700331907
+        ]
+      },
+      "properties": {
+        "locality": "Burleigh Heads",
+        "objectid": 1045812,
+        "globalid": "{87B23DA3-950C-49DB-AB89-1C8163FDCFCC}",
+        "sighttime": 1740700500000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -28.095641700000002,
+        "sighting_long_wgs84": 153.44887980000001
       }
     },
     {
