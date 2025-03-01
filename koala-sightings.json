@@ -26,48 +26,48 @@
     },
     {
       "type": "Feature",
-      "id": 1047013,
+      "id": 1045412,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.04750969027486,
-          -27.54188588121503
+          152.77323654563122,
+          -26.974381183734586
         ]
       },
       "properties": {
-        "locality": "Nathan",
-        "objectid": 1047013,
-        "globalid": "{F3CEE475-57AC-4E5D-BB48-426A7AFF5E50}",
-        "sighttime": 1740660300000,
+        "locality": "Woodford",
+        "objectid": 1045412,
+        "globalid": "{5E4775AA-9F0B-4268-8677-E47BB8D0F323}",
+        "sighttime": 1740756660000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.541885879999999,
-        "sighting_long_wgs84": 153.04750969000003
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -26.974381179999998,
+        "sighting_long_wgs84": 152.77323655000001
       }
     },
     {
       "type": "Feature",
-      "id": 1045812,
+      "id": 1045013,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.44887979969241,
-          -28.095641700331907
+          152.42128818761407,
+          -27.23369648655153
         ]
       },
       "properties": {
-        "locality": "Burleigh Heads",
-        "objectid": 1045812,
-        "globalid": "{87B23DA3-950C-49DB-AB89-1C8163FDCFCC}",
-        "sighttime": 1740700500000,
+        "locality": "Esk",
+        "objectid": 1045013,
+        "globalid": "{28F5A321-5B70-4749-BB55-3A2D959DC542}",
+        "sighttime": 1740788220000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -28.095641700000002,
-        "sighting_long_wgs84": 153.44887980000001
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -27.23369649,
+        "sighting_long_wgs84": 152.42128819000001
       }
     },
     {
