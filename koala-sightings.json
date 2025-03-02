@@ -26,48 +26,48 @@
     },
     {
       "type": "Feature",
-      "id": 1045412,
+      "id": 1046215,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.77323654563122,
-          -26.974381183734586
+          153.3430330920221,
+          -27.940732304930577
         ]
       },
       "properties": {
-        "locality": "Woodford",
-        "objectid": 1045412,
-        "globalid": "{5E4775AA-9F0B-4268-8677-E47BB8D0F323}",
-        "sighttime": 1740756660000,
-        "joeypresent": "No",
+        "locality": "Arundel",
+        "objectid": 1046215,
+        "globalid": "{10039539-B92C-44C0-9898-8B72CE275E00}",
+        "sighttime": 1740867300000,
+        "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -26.974381179999998,
-        "sighting_long_wgs84": 152.77323655000001
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.940732300000001,
+        "sighting_long_wgs84": 153.34303308999998
       }
     },
     {
       "type": "Feature",
-      "id": 1045013,
+      "id": 1044614,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.42128818761407,
-          -27.23369648655153
+          153.07670172283665,
+          -27.543491176379113
         ]
       },
       "properties": {
-        "locality": "Esk",
-        "objectid": 1045013,
-        "globalid": "{28F5A321-5B70-4749-BB55-3A2D959DC542}",
-        "sighttime": 1740788220000,
-        "joeypresent": "No",
+        "locality": "Mount Gravatt",
+        "objectid": 1044614,
+        "globalid": "{BC9680CE-DE03-40A1-BB6B-9C6B61A72FF4}",
+        "sighttime": 1740871200000,
+        "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.23369649,
-        "sighting_long_wgs84": 152.42128819000001
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.543491179999997,
+        "sighting_long_wgs84": 153.07670171999999
       }
     },
     {
