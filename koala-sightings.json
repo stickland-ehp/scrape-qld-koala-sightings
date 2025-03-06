@@ -26,6 +26,52 @@
     },
     {
       "type": "Feature",
+      "id": 1046217,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.02941278212657,
+          -27.251772558828641
+        ]
+      },
+      "properties": {
+        "locality": "Mango Hill",
+        "objectid": 1046217,
+        "globalid": "{969D8663-C3A1-42E9-B624-E3AEF289DEC2}",
+        "sighttime": 1741206720000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.251772559999999,
+        "sighting_long_wgs84": 153.02941278
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1045016,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.996064700191,
+          -27.435021400340442
+        ]
+      },
+      "properties": {
+        "locality": "Alderley",
+        "objectid": 1045016,
+        "globalid": "{4644BFFD-D05A-46FF-8528-4A08C98C6CC7}",
+        "sighttime": 1741230120000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.4350214,
+        "sighting_long_wgs84": 152.99606470000001
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1042197,
       "geometry": {
         "type": "Point",
