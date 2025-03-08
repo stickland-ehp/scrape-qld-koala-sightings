@@ -26,25 +26,25 @@
     },
     {
       "type": "Feature",
-      "id": 1043816,
+      "id": 1044217,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.425952681642,
-          -27.24002868946868
+          153.0257565481904,
+          -27.250703957967261
         ]
       },
       "properties": {
-        "locality": "Esk",
-        "objectid": 1043816,
-        "globalid": "{7FA801BE-070A-40BD-8634-87F74433CABD}",
-        "sighttime": 1741330560000,
+        "locality": "Mango Hill",
+        "objectid": 1044217,
+        "globalid": "{7470479F-3CDA-4895-B492-52F9EEEDA434}",
+        "sighttime": 1741420800000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.240028689999999,
-        "sighting_long_wgs84": 152.42595268000002
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.250703959999999,
+        "sighting_long_wgs84": 153.02575655000001
       }
     },
     {
