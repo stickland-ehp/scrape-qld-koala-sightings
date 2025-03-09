@@ -26,29 +26,6 @@
     },
     {
       "type": "Feature",
-      "id": 1044217,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.0257565481904,
-          -27.250703957967261
-        ]
-      },
-      "properties": {
-        "locality": "Mango Hill",
-        "objectid": 1044217,
-        "globalid": "{7470479F-3CDA-4895-B492-52F9EEEDA434}",
-        "sighttime": 1741420800000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.250703959999999,
-        "sighting_long_wgs84": 153.02575655000001
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1042197,
       "geometry": {
         "type": "Point",
