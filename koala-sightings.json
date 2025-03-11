@@ -26,6 +26,29 @@
     },
     {
       "type": "Feature",
+      "id": 1043818,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.03797976166626,
+          -27.532315669008874
+        ]
+      },
+      "properties": {
+        "locality": "Moorooka",
+        "objectid": 1043818,
+        "globalid": "{2CD264D3-06E3-4737-97AC-9A26E39835E1}",
+        "sighttime": 1741674960000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.532315669999999,
+        "sighting_long_wgs84": 153.03797976000001
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1042197,
       "geometry": {
         "type": "Point",
