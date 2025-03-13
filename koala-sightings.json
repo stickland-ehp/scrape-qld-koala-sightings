@@ -26,48 +26,48 @@
     },
     {
       "type": "Feature",
-      "id": 1046221,
+      "id": 1046222,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.05746390037859,
-          -27.551388599993814
+          153.36734747381377,
+          -27.93449519844723
         ]
       },
       "properties": {
-        "locality": "Nathan",
-        "objectid": 1046221,
-        "globalid": "{0F695F4F-E0C3-47B5-996E-7178B41AA2DA}",
-        "sighttime": 1741731060000,
-        "joeypresent": "No",
+        "locality": "Arundel",
+        "objectid": 1046222,
+        "globalid": "{779452C7-9512-41DB-950E-C0F7B7BC0153}",
+        "sighttime": 1741846800000,
+        "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.551388600000003,
-        "sighting_long_wgs84": 153.05746389999999
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.934495200000001,
+        "sighting_long_wgs84": 153.36734747
       }
     },
     {
       "type": "Feature",
-      "id": 1044219,
+      "id": 1045421,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.37377806108017,
-          -28.105821030069393
+          153.44108239967005,
+          -27.39493499983443
         ]
       },
       "properties": {
-        "locality": null,
-        "objectid": 1044219,
-        "globalid": "{BD96F3A6-998B-464A-803A-D6C8E782167C}",
-        "sighttime": 1741765440000,
+        "locality": "Amity",
+        "objectid": 1045421,
+        "globalid": "{59C547D1-F694-4F74-9AFB-6B4CEF85E681}",
+        "sighttime": 1741852380000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -28.105821029999998,
-        "sighting_long_wgs84": 153.37377806000001
+        "lga": "Redland City",
+        "sighting_lat_wgs84": -27.394935,
+        "sighting_long_wgs84": 153.4410824
       }
     },
     {
