@@ -26,25 +26,48 @@
     },
     {
       "type": "Feature",
-      "id": 1045422,
+      "id": 1045423,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.36765038752421,
-          -27.934609810530695
+          153.10536657458235,
+          -27.529861615162506
         ]
       },
       "properties": {
-        "locality": "Arundel",
-        "objectid": 1045422,
-        "globalid": "{DF3245CF-B075-4A56-9721-0AD995E5B32D}",
-        "sighttime": 1741933080000,
-        "joeypresent": "Not Sure",
+        "locality": "Mansfield",
+        "objectid": 1045423,
+        "globalid": "{2724F27B-85C8-4BE6-9167-F1BC05FB986A}",
+        "sighttime": 1741987980000,
+        "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.934609810000001,
-        "sighting_long_wgs84": 153.36765039000002
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.529861620000002,
+        "sighting_long_wgs84": 153.10536657
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1045023,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.24789880040319,
+          -27.510067200235309
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1045023,
+        "globalid": "{FD164B72-FB15-42A3-809D-BEE7B16AD9F1}",
+        "sighttime": 1741998600000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Redland City",
+        "sighting_lat_wgs84": -27.510067200000002,
+        "sighting_long_wgs84": 153.2478988
       }
     },
     {
