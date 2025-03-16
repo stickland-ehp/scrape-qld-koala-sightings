@@ -26,48 +26,48 @@
     },
     {
       "type": "Feature",
-      "id": 1045423,
+      "id": 1046225,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.10536657458235,
-          -27.529861615162506
+          152.41881860032041,
+          -27.248383299619626
         ]
       },
       "properties": {
-        "locality": "Mansfield",
-        "objectid": 1045423,
-        "globalid": "{2724F27B-85C8-4BE6-9167-F1BC05FB986A}",
-        "sighttime": 1741987980000,
-        "joeypresent": "No",
+        "locality": "Esk",
+        "objectid": 1046225,
+        "globalid": "{569F68F8-1DFC-4A16-B728-80EED20C52EC}",
+        "sighttime": 1742074980000,
+        "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.529861620000002,
-        "sighting_long_wgs84": 153.10536657
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -27.2483833,
+        "sighting_long_wgs84": 152.41881860000001
       }
     },
     {
       "type": "Feature",
-      "id": 1045023,
+      "id": 1045025,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.24789880040319,
-          -27.510067200235309
+          152.99295924761,
+          -26.483884496232985
         ]
       },
       "properties": {
-        "locality": null,
-        "objectid": 1045023,
-        "globalid": "{FD164B72-FB15-42A3-809D-BEE7B16AD9F1}",
-        "sighttime": 1741998600000,
+        "locality": "Verrierdale",
+        "objectid": 1045025,
+        "globalid": "{21197845-08E4-474B-98CD-22CCEED4411E}",
+        "sighttime": 1742106300000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Redland City",
-        "sighting_lat_wgs84": -27.510067200000002,
-        "sighting_long_wgs84": 153.2478988
+        "lga": null,
+        "sighting_lat_wgs84": -26.483884499999998,
+        "sighting_long_wgs84": 152.99295924999998
       }
     },
     {
