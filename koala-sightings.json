@@ -26,52 +26,6 @@
     },
     {
       "type": "Feature",
-      "id": 1046225,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.41881860032041,
-          -27.248383299619626
-        ]
-      },
-      "properties": {
-        "locality": "Esk",
-        "objectid": 1046225,
-        "globalid": "{569F68F8-1DFC-4A16-B728-80EED20C52EC}",
-        "sighttime": 1742074980000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.2483833,
-        "sighting_long_wgs84": 152.41881860000001
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1045025,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.99295924761,
-          -26.483884496232985
-        ]
-      },
-      "properties": {
-        "locality": "Verrierdale",
-        "objectid": 1045025,
-        "globalid": "{21197845-08E4-474B-98CD-22CCEED4411E}",
-        "sighttime": 1742106300000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": null,
-        "sighting_lat_wgs84": -26.483884499999998,
-        "sighting_long_wgs84": 152.99295924999998
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1042197,
       "geometry": {
         "type": "Point",
