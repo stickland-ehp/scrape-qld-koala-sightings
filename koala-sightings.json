@@ -26,6 +26,29 @@
     },
     {
       "type": "Feature",
+      "id": 1044226,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.1353830584541,
+          -27.643247843325142
+        ]
+      },
+      "properties": {
+        "locality": "Slacks Creek",
+        "objectid": 1044226,
+        "globalid": "{E8C8692B-0B0C-4B1B-936D-91F6813F0EFD}",
+        "sighttime": 1742279100000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Logan City",
+        "sighting_lat_wgs84": -27.643247840000001,
+        "sighting_long_wgs84": 153.13538306000001
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1042197,
       "geometry": {
         "type": "Point",
