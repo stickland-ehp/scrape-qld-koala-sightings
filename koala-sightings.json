@@ -26,6 +26,29 @@
     },
     {
       "type": "Feature",
+      "id": 1045836,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.05412833625275,
+          -27.542441594242952
+        ]
+      },
+      "properties": {
+        "locality": "Nathan",
+        "objectid": 1045836,
+        "globalid": "{1FFABB1C-44EE-443B-A8FE-15D51248412F}",
+        "sighttime": 1742689920000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.542441589999999,
+        "sighting_long_wgs84": 153.05412834000001
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1042197,
       "geometry": {
         "type": "Point",
