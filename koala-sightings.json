@@ -26,25 +26,71 @@
     },
     {
       "type": "Feature",
-      "id": 1045836,
+      "id": 1046239,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.05412833625275,
-          -27.542441594242952
+          153.09280159256502,
+          -27.032113953076728
         ]
       },
       "properties": {
-        "locality": "Nathan",
-        "objectid": 1045836,
-        "globalid": "{1FFABB1C-44EE-443B-A8FE-15D51248412F}",
-        "sighttime": 1742689920000,
+        "locality": "Toorbul",
+        "objectid": 1046239,
+        "globalid": "{76D1BB84-BB10-4383-A130-0C9C7F5859E7}",
+        "sighttime": 1742797920000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.032113949999999,
+        "sighting_long_wgs84": 153.09280159000002
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1041431,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.60996299963779,
+          -27.402103800028858
+        ]
+      },
+      "properties": {
+        "locality": "Lake Wivenhoe",
+        "objectid": 1041431,
+        "globalid": "{DBECB289-9C45-43C1-BD44-769F6CF1F496}",
+        "sighttime": 1742785500000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.542441589999999,
-        "sighting_long_wgs84": 153.05412834000001
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -27.402103800000003,
+        "sighting_long_wgs84": 152.60996300000002
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1043838,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.36685362678298,
+          -27.930090207742449
+        ]
+      },
+      "properties": {
+        "locality": "Arundel",
+        "objectid": 1043838,
+        "globalid": "{CB230823-7AE8-4F2C-8E64-501CAA09C832}",
+        "sighttime": 1742801640000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.930090209999999,
+        "sighting_long_wgs84": 153.36685363000001
       }
     },
     {
