@@ -26,71 +26,25 @@
     },
     {
       "type": "Feature",
-      "id": 1046239,
+      "id": 1046241,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.09280159256502,
-          -27.032113953076728
-        ]
-      },
-      "properties": {
-        "locality": "Toorbul",
-        "objectid": 1046239,
-        "globalid": "{76D1BB84-BB10-4383-A130-0C9C7F5859E7}",
-        "sighttime": 1742797920000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.032113949999999,
-        "sighting_long_wgs84": 153.09280159000002
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1041431,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.60996299963779,
-          -27.402103800028858
-        ]
-      },
-      "properties": {
-        "locality": "Lake Wivenhoe",
-        "objectid": 1041431,
-        "globalid": "{DBECB289-9C45-43C1-BD44-769F6CF1F496}",
-        "sighttime": 1742785500000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.402103800000003,
-        "sighting_long_wgs84": 152.60996300000002
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1043838,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.36685362678298,
-          -27.930090207742449
+          153.36669198123579,
+          -27.93027315225542
         ]
       },
       "properties": {
         "locality": "Arundel",
-        "objectid": 1043838,
-        "globalid": "{CB230823-7AE8-4F2C-8E64-501CAA09C832}",
-        "sighttime": 1742801640000,
-        "joeypresent": "Not Sure",
+        "objectid": 1046241,
+        "globalid": "{0F0AD86D-94DA-4695-8325-E364D1C45109}",
+        "sighttime": 1742884440000,
+        "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.930090209999999,
-        "sighting_long_wgs84": 153.36685363000001
+        "sighting_lat_wgs84": -27.930273149999998,
+        "sighting_long_wgs84": 153.36669198000001
       }
     },
     {
