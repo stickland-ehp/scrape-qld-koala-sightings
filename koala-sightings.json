@@ -26,25 +26,25 @@
     },
     {
       "type": "Feature",
-      "id": 1046241,
+      "id": 1042639,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.36669198123579,
-          -27.93027315225542
+          152.91479701709673,
+          -26.649618421427579
         ]
       },
       "properties": {
-        "locality": "Arundel",
-        "objectid": 1046241,
-        "globalid": "{0F0AD86D-94DA-4695-8325-E364D1C45109}",
-        "sighttime": 1742884440000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
+        "locality": "Towen Mountain",
+        "objectid": 1042639,
+        "globalid": "{8ED85752-E21D-4C5B-97B3-C5A9F597E6FD}",
+        "sighttime": 1742962380000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
         "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.930273149999998,
-        "sighting_long_wgs84": 153.36669198000001
+        "lga": "Sunshine Coast Regional",
+        "sighting_lat_wgs84": -26.649618419999999,
+        "sighting_long_wgs84": 152.91479702000001
       }
     },
     {
