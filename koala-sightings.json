@@ -26,25 +26,25 @@
     },
     {
       "type": "Feature",
-      "id": 1042639,
+      "id": 1043841,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.91479701709673,
-          -26.649618421427579
+          153.10533034642529,
+          -27.529851147849904
         ]
       },
       "properties": {
-        "locality": "Towen Mountain",
-        "objectid": 1042639,
-        "globalid": "{8ED85752-E21D-4C5B-97B3-C5A9F597E6FD}",
-        "sighttime": 1742962380000,
-        "joeypresent": "Yes",
-        "numberofkoala": 2,
+        "locality": "Mansfield",
+        "objectid": 1043841,
+        "globalid": "{BB45B435-54F3-4A73-9CB1-201B2C374A7C}",
+        "sighttime": 1743025860000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Sunshine Coast Regional",
-        "sighting_lat_wgs84": -26.649618419999999,
-        "sighting_long_wgs84": 152.91479702000001
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.529851150000002,
+        "sighting_long_wgs84": 153.10533035
       }
     },
     {
