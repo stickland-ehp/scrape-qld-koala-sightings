@@ -26,6 +26,29 @@
     },
     {
       "type": "Feature",
+      "id": 1046245,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.03207288053241,
+          -27.606360590390739
+        ]
+      },
+      "properties": {
+        "locality": "Algester",
+        "objectid": 1046245,
+        "globalid": "{417F83A1-4929-4E2E-942A-DD97A149C933}",
+        "sighttime": 1743200700000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.606360590000001,
+        "sighting_long_wgs84": 153.03207288000002
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1042197,
       "geometry": {
         "type": "Point",
