@@ -26,140 +26,71 @@
     },
     {
       "type": "Feature",
-      "id": 1045447,
+      "id": 1045850,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.18705246296724,
-          -28.183506272683047
+          153.11686365466133,
+          -27.53180558415205
         ]
       },
       "properties": {
-        "locality": "Binna Burra",
-        "objectid": 1045447,
-        "globalid": "{1310DC22-B46A-4DC1-9B60-B6C23E7C1BE7}",
-        "sighttime": 1743369720000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Scenic Rim Regional",
-        "sighting_lat_wgs84": -28.183506269999999,
-        "sighting_long_wgs84": 153.18705246000002
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1045448,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.36788443458832,
-          -27.929633861018942
-        ]
-      },
-      "properties": {
-        "locality": "Arundel",
-        "objectid": 1045448,
-        "globalid": "{298DD195-FBE2-40EC-ADA5-2B0FDEAC7AF2}",
-        "sighttime": 1743404520000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.929633859999999,
-        "sighting_long_wgs84": 153.36788442999998
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1045848,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.07198655214859,
-          -27.542846906900891
-        ]
-      },
-      "properties": {
-        "locality": "Mount Gravatt",
-        "objectid": 1045848,
-        "globalid": "{FD694769-E6A1-4486-B65E-B04D0276AC46}",
-        "sighttime": 1743374700000,
+        "locality": "Carindale",
+        "objectid": 1045850,
+        "globalid": "{CC404038-17FA-45CE-952B-C32F5860A4B9}",
+        "sighttime": 1743492000000,
         "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.542846909999998,
-        "sighting_long_wgs84": 153.07198654999999
+        "sighting_lat_wgs84": -27.53180558,
+        "sighting_long_wgs84": 153.11686365
       }
     },
     {
       "type": "Feature",
-      "id": 1043847,
+      "id": 1043849,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.36615733811468,
-          -27.930285665381504
+          153.39779230495566,
+          -28.188750044722486
         ]
       },
       "properties": {
-        "locality": "Arundel",
-        "objectid": 1043847,
-        "globalid": "{10E00634-0CD2-43FE-BA83-E21FB4375626}",
-        "sighttime": 1743406140000,
-        "joeypresent": "Not Sure",
+        "locality": "Tallebudgera Valley",
+        "objectid": 1043849,
+        "globalid": "{9751901C-75DB-4FAD-8DB7-2CE14E6AF63E}",
+        "sighttime": 1743489360000,
+        "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.93028567,
-        "sighting_long_wgs84": 153.36615734
+        "sighting_lat_wgs84": -28.188750040000002,
+        "sighting_long_wgs84": 153.39779229999999
       }
     },
     {
       "type": "Feature",
-      "id": 1045849,
+      "id": 1045450,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.88392065505536,
-          -26.410365054774907
+          153.11727655450196,
+          -27.532040168627454
         ]
       },
       "properties": {
-        "locality": "Black Mountain",
-        "objectid": 1045849,
-        "globalid": "{B5E0C89C-8CF1-4E86-B9E8-63DE147F5220}",
-        "sighttime": 1743406500000,
-        "joeypresent": "No",
+        "locality": "Carindale",
+        "objectid": 1045450,
+        "globalid": "{2B24966E-4C45-4E7A-901B-16F58B2FE199}",
+        "sighttime": 1743492120000,
+        "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Noosa Shire",
-        "sighting_lat_wgs84": -26.410365049999999,
-        "sighting_long_wgs84": 152.88392065000002
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1045449,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.88321683670833,
-          -26.407890644751092
-        ]
-      },
-      "properties": {
-        "locality": "Black Mountain",
-        "objectid": 1045449,
-        "globalid": "{D9EE0DB5-3E94-43D1-9C1F-A85306C6D9AA}",
-        "sighttime": 1743380100000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Noosa Shire",
-        "sighting_lat_wgs84": -26.407890640000002,
-        "sighting_long_wgs84": 152.88321683999999
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.532040169999998,
+        "sighting_long_wgs84": 153.11727654999999
       }
     },
     {
