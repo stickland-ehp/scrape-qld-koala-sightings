@@ -26,6 +26,29 @@
     },
     {
       "type": "Feature",
+      "id": 1045452,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.95959786881158,
+          -27.264986645458158
+        ]
+      },
+      "properties": {
+        "locality": "Petrie",
+        "objectid": 1045452,
+        "globalid": "{303A0347-D479-42D2-8170-514AA961D478}",
+        "sighttime": 1743625740000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.264986650000001,
+        "sighting_long_wgs84": 152.95959786999998
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1042197,
       "geometry": {
         "type": "Point",
