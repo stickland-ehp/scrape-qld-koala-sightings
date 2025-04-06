@@ -26,25 +26,48 @@
     },
     {
       "type": "Feature",
-      "id": 1043855,
+      "id": 1048207,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.36623386918694,
-          -27.93026085103995
+          153.36647591215549,
+          -27.930755770874374
         ]
       },
       "properties": {
         "locality": "Arundel",
-        "objectid": 1043855,
-        "globalid": "{4767D3D2-4D82-4AC1-97DE-A0649C611728}",
-        "sighttime": 1743837600000,
+        "objectid": 1048207,
+        "globalid": "{09495314-80AD-4D5D-B948-3AA5044D19F9}",
+        "sighttime": 1743913980000,
         "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.93026085,
-        "sighting_long_wgs84": 153.36623387
+        "sighting_lat_wgs84": -27.930755770000001,
+        "sighting_long_wgs84": 153.36647590999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1047407,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.44931819731397,
+          -28.097257671480154
+        ]
+      },
+      "properties": {
+        "locality": "Burleigh Heads",
+        "objectid": 1047407,
+        "globalid": "{0FDCA67F-CAEE-43EF-9FE7-4E7DA72B506A}",
+        "sighttime": 1743892740000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -28.097257670000001,
+        "sighting_long_wgs84": 153.44931819999999
       }
     },
     {
