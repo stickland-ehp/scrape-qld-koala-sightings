@@ -26,48 +26,71 @@
     },
     {
       "type": "Feature",
-      "id": 1048207,
+      "id": 1047809,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.36647591215549,
-          -27.930755770874374
+          153.07218132307185,
+          -27.545411508283745
         ]
       },
       "properties": {
-        "locality": "Arundel",
-        "objectid": 1048207,
-        "globalid": "{09495314-80AD-4D5D-B948-3AA5044D19F9}",
-        "sighttime": 1743913980000,
-        "joeypresent": "Not Sure",
+        "locality": "Mount Gravatt",
+        "objectid": 1047809,
+        "globalid": "{30A30789-D2B4-4F9E-8005-9098CEFCA7E2}",
+        "sighttime": 1744008060000,
+        "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.930755770000001,
-        "sighting_long_wgs84": 153.36647590999999
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.545411510000001,
+        "sighting_long_wgs84": 153.07218132
       }
     },
     {
       "type": "Feature",
-      "id": 1047407,
+      "id": 1047410,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.44931819731397,
-          -28.097257671480154
+          153.07306303928615,
+          -27.54647421270554
         ]
       },
       "properties": {
-        "locality": "Burleigh Heads",
-        "objectid": 1047407,
-        "globalid": "{0FDCA67F-CAEE-43EF-9FE7-4E7DA72B506A}",
-        "sighttime": 1743892740000,
+        "locality": "Mount Gravatt",
+        "objectid": 1047410,
+        "globalid": "{32AAC31D-40A7-42B2-88A7-25B583435F32}",
+        "sighttime": 1744008300000,
         "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -28.097257670000001,
-        "sighting_long_wgs84": 153.44931819999999
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.54647421,
+        "sighting_long_wgs84": 153.07306303999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1049011,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.07301835349065,
+          -27.546490736450853
+        ]
+      },
+      "properties": {
+        "locality": "Mount Gravatt",
+        "objectid": 1049011,
+        "globalid": "{16347BB7-DC7E-40AC-9CF9-7F5E76C83C3B}",
+        "sighttime": 1744008420000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.546490739999999,
+        "sighting_long_wgs84": 153.07301835000001
       }
     },
     {
