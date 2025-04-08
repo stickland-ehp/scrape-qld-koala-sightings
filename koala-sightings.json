@@ -26,71 +26,48 @@
     },
     {
       "type": "Feature",
-      "id": 1047809,
+      "id": 1048211,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.07218132307185,
-          -27.545411508283745
+          153.44099080025717,
+          -27.39272220007928
         ]
       },
       "properties": {
-        "locality": "Mount Gravatt",
-        "objectid": 1047809,
-        "globalid": "{30A30789-D2B4-4F9E-8005-9098CEFCA7E2}",
-        "sighttime": 1744008060000,
+        "locality": "Amity",
+        "objectid": 1048211,
+        "globalid": "{A14CBCD8-CE2E-478B-9C0C-F6CF4144021A}",
+        "sighttime": 1744098480000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.545411510000001,
-        "sighting_long_wgs84": 153.07218132
+        "lga": "Redland City",
+        "sighting_lat_wgs84": -27.392722200000001,
+        "sighting_long_wgs84": 153.44099080000001
       }
     },
     {
       "type": "Feature",
-      "id": 1047410,
+      "id": 1047811,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.07306303928615,
-          -27.54647421270554
+          153.44101279999848,
+          -27.395009900046528
         ]
       },
       "properties": {
-        "locality": "Mount Gravatt",
-        "objectid": 1047410,
-        "globalid": "{32AAC31D-40A7-42B2-88A7-25B583435F32}",
-        "sighttime": 1744008300000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.54647421,
-        "sighting_long_wgs84": 153.07306303999999
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1049011,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.07301835349065,
-          -27.546490736450853
-        ]
-      },
-      "properties": {
-        "locality": "Mount Gravatt",
-        "objectid": 1049011,
-        "globalid": "{16347BB7-DC7E-40AC-9CF9-7F5E76C83C3B}",
-        "sighttime": 1744008420000,
+        "locality": "Amity",
+        "objectid": 1047811,
+        "globalid": "{C0AC2D61-A64F-4FD5-AAF9-7706770ED00F}",
+        "sighttime": 1744098180000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.546490739999999,
-        "sighting_long_wgs84": 153.07301835000001
+        "lga": "Redland City",
+        "sighting_lat_wgs84": -27.395009899999998,
+        "sighting_long_wgs84": 153.44101280000001
       }
     },
     {
