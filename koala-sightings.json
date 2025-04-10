@@ -26,25 +26,48 @@
     },
     {
       "type": "Feature",
-      "id": 1047814,
+      "id": 1048616,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.36790220236634,
-          -27.929646048809193
+          153.31393138685877,
+          -28.009253021022104
         ]
       },
       "properties": {
-        "locality": "Arundel",
-        "objectid": 1047814,
-        "globalid": "{74ACC0C7-F00B-4D00-B90A-0A45F01AD378}",
-        "sighttime": 1744176900000,
+        "locality": "Nerang",
+        "objectid": 1048616,
+        "globalid": "{F6902498-1C69-4F7E-8329-8BB34C381EC6}",
+        "sighttime": 1744272600000,
         "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.929646050000002,
-        "sighting_long_wgs84": 153.3679022
+        "sighting_lat_wgs84": -28.009253019999999,
+        "sighting_long_wgs84": 153.31393138999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1047816,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.64100000021494,
+          -27.452000000068512
+        ]
+      },
+      "properties": {
+        "locality": "Fernvale",
+        "objectid": 1047816,
+        "globalid": "{CD2E8DF9-BD43-42DF-8DEF-3EA22B3E6177}",
+        "sighttime": 1744271640000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -27.452000000000002,
+        "sighting_long_wgs84": 152.64099999999999
       }
     },
     {
