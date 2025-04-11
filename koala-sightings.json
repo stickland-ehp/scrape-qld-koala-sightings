@@ -26,48 +26,48 @@
     },
     {
       "type": "Feature",
-      "id": 1048616,
+      "id": 1047818,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.31393138685877,
-          -28.009253021022104
+          153.3660974222818,
+          -27.930044655302673
         ]
       },
       "properties": {
-        "locality": "Nerang",
-        "objectid": 1048616,
-        "globalid": "{F6902498-1C69-4F7E-8329-8BB34C381EC6}",
-        "sighttime": 1744272600000,
+        "locality": "Arundel",
+        "objectid": 1047818,
+        "globalid": "{E7E37023-18FC-4BD3-B1C4-2E81445A4AAE}",
+        "sighttime": 1744354380000,
         "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -28.009253019999999,
-        "sighting_long_wgs84": 153.31393138999999
+        "sighting_lat_wgs84": -27.93004466,
+        "sighting_long_wgs84": 153.36609742000002
       }
     },
     {
       "type": "Feature",
-      "id": 1047816,
+      "id": 1047419,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.64100000021494,
-          -27.452000000068512
+          153.05046469750366,
+          -27.542672742985356
         ]
       },
       "properties": {
-        "locality": "Fernvale",
-        "objectid": 1047816,
-        "globalid": "{CD2E8DF9-BD43-42DF-8DEF-3EA22B3E6177}",
-        "sighttime": 1744271640000,
+        "locality": "Nathan",
+        "objectid": 1047419,
+        "globalid": "{236D62DA-5D68-48FB-8D33-A0DBF18CD497}",
+        "sighttime": 1744327800000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.452000000000002,
-        "sighting_long_wgs84": 152.64099999999999
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.54267274,
+        "sighting_long_wgs84": 153.05046469999999
       }
     },
     {
