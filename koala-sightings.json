@@ -26,48 +26,25 @@
     },
     {
       "type": "Feature",
-      "id": 1047818,
+      "id": 1048620,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.3660974222818,
-          -27.930044655302673
+          153.02939835069157,
+          -27.251762636960148
         ]
       },
       "properties": {
-        "locality": "Arundel",
-        "objectid": 1047818,
-        "globalid": "{E7E37023-18FC-4BD3-B1C4-2E81445A4AAE}",
-        "sighttime": 1744354380000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.93004466,
-        "sighting_long_wgs84": 153.36609742000002
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1047419,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.05046469750366,
-          -27.542672742985356
-        ]
-      },
-      "properties": {
-        "locality": "Nathan",
-        "objectid": 1047419,
-        "globalid": "{236D62DA-5D68-48FB-8D33-A0DBF18CD497}",
-        "sighttime": 1744327800000,
+        "locality": "Mango Hill",
+        "objectid": 1048620,
+        "globalid": "{212443CE-0306-4B75-9224-49D72FBC266B}",
+        "sighttime": 1744404540000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.54267274,
-        "sighting_long_wgs84": 153.05046469999999
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.251762639999999,
+        "sighting_long_wgs84": 153.02939835000001
       }
     },
     {
