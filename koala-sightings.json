@@ -26,25 +26,71 @@
     },
     {
       "type": "Feature",
-      "id": 1048620,
+      "id": 1048622,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.02939835069157,
-          -27.251762636960148
+          152.98841468046913,
+          -26.483128623845122
         ]
       },
       "properties": {
-        "locality": "Mango Hill",
-        "objectid": 1048620,
-        "globalid": "{212443CE-0306-4B75-9224-49D72FBC266B}",
-        "sighttime": 1744404540000,
-        "joeypresent": "No",
+        "locality": "Verrierdale",
+        "objectid": 1048622,
+        "globalid": "{C2A8EAA7-7D06-45F9-993C-E9E68C8ECF38}",
+        "sighttime": 1744509120000,
+        "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.251762639999999,
-        "sighting_long_wgs84": 153.02939835000001
+        "lga": null,
+        "sighting_lat_wgs84": -26.483128619999999,
+        "sighting_long_wgs84": 152.98841468000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1048623,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.35689287335063,
+          -27.950189576149796
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1048623,
+        "globalid": "{835BF3DC-4CBE-41E8-A161-ED8CB80606DA}",
+        "sighttime": 1744525500000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.95018958,
+        "sighting_long_wgs84": 153.35689287
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1048624,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.11735313318491,
+          -27.531964354581593
+        ]
+      },
+      "properties": {
+        "locality": "Carindale",
+        "objectid": 1048624,
+        "globalid": "{A99E0DCE-726C-4BF0-AF8C-93460812B642}",
+        "sighttime": 1744526580000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.531964349999999,
+        "sighting_long_wgs84": 153.11735313
       }
     },
     {
