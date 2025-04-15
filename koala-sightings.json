@@ -26,6 +26,29 @@
     },
     {
       "type": "Feature",
+      "id": 1047427,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.35769716646556,
+          -27.950629711552637
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1047427,
+        "globalid": "{20C1201C-4F54-4A09-9444-02E09C0907AF}",
+        "sighttime": 1744699980000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.950629710000001,
+        "sighting_long_wgs84": 153.35769716999999
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1042197,
       "geometry": {
         "type": "Point",
