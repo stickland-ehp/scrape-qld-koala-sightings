@@ -26,6 +26,52 @@
     },
     {
       "type": "Feature",
+      "id": 1047435,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.0671156997681,
+          -27.688982800130692
+        ]
+      },
+      "properties": {
+        "locality": "Rockmount",
+        "objectid": 1047435,
+        "globalid": "{277EA987-049E-4744-B133-D127B4371C4B}",
+        "sighttime": 1744941840000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Lockyer Valley Regional",
+        "sighting_lat_wgs84": -27.688982800000002,
+        "sighting_long_wgs84": 152.06711570000002
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1048636,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.07372390019628,
+          -27.54553709977721
+        ]
+      },
+      "properties": {
+        "locality": "Mount Gravatt",
+        "objectid": 1048636,
+        "globalid": "{0898FB5C-1232-43F2-981F-9BE997C11225}",
+        "sighttime": 1744959480000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.545537100000001,
+        "sighting_long_wgs84": 153.0737239
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1042197,
       "geometry": {
         "type": "Point",
