@@ -26,48 +26,48 @@
     },
     {
       "type": "Feature",
-      "id": 1047435,
+      "id": 1049042,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.0671156997681,
-          -27.688982800130692
+          153.0795197711206,
+          -27.51494663785035
         ]
       },
       "properties": {
-        "locality": "Rockmount",
-        "objectid": 1047435,
-        "globalid": "{277EA987-049E-4744-B133-D127B4371C4B}",
-        "sighttime": 1744941840000,
-        "joeypresent": "No",
+        "locality": "Carina Heights",
+        "objectid": 1049042,
+        "globalid": "{59455866-7BCE-4329-A5D7-6E65360A6E2A}",
+        "sighttime": 1745035200000,
+        "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Lockyer Valley Regional",
-        "sighting_lat_wgs84": -27.688982800000002,
-        "sighting_long_wgs84": 152.06711570000002
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.514946640000002,
+        "sighting_long_wgs84": 153.07951976999999
       }
     },
     {
       "type": "Feature",
-      "id": 1048636,
+      "id": 1049043,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.07372390019628,
-          -27.54553709977721
+          152.93835829986324,
+          -27.273332099946288
         ]
       },
       "properties": {
-        "locality": "Mount Gravatt",
-        "objectid": 1048636,
-        "globalid": "{0898FB5C-1232-43F2-981F-9BE997C11225}",
-        "sighttime": 1744959480000,
-        "joeypresent": "No",
+        "locality": "Joyner",
+        "objectid": 1049043,
+        "globalid": "{F6511C63-9BBD-4AB5-9818-6835286AA505}",
+        "sighttime": 1745048040000,
+        "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.545537100000001,
-        "sighting_long_wgs84": 153.0737239
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.273332099999998,
+        "sighting_long_wgs84": 152.9383583
       }
     },
     {
