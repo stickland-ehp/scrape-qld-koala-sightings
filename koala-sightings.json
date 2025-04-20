@@ -26,48 +26,48 @@
     },
     {
       "type": "Feature",
-      "id": 1049042,
+      "id": 1043856,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.0795197711206,
-          -27.51494663785035
+          153.04521510378169,
+          -27.538880584631766
         ]
       },
       "properties": {
-        "locality": "Carina Heights",
-        "objectid": 1049042,
-        "globalid": "{59455866-7BCE-4329-A5D7-6E65360A6E2A}",
-        "sighttime": 1745035200000,
-        "joeypresent": "Not Sure",
+        "locality": "Nathan",
+        "objectid": 1043856,
+        "globalid": "{B91EB8BB-3CFF-4D81-A5C3-9156E9CB73BC}",
+        "sighttime": 1745126880000,
+        "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.514946640000002,
-        "sighting_long_wgs84": 153.07951976999999
+        "sighting_lat_wgs84": -27.538880579999997,
+        "sighting_long_wgs84": 153.04521510000001
       }
     },
     {
       "type": "Feature",
-      "id": 1049043,
+      "id": 1049405,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.93835829986324,
-          -27.273332099946288
+          152.47329720022043,
+          -27.53287830011795
         ]
       },
       "properties": {
-        "locality": "Joyner",
-        "objectid": 1049043,
-        "globalid": "{F6511C63-9BBD-4AB5-9818-6835286AA505}",
-        "sighttime": 1745048040000,
+        "locality": "Kensington Grove",
+        "objectid": 1049405,
+        "globalid": "{51127277-679F-49BB-8606-EA97B5311A56}",
+        "sighttime": 1745137920000,
         "joeypresent": "Not Sure",
-        "numberofkoala": 1,
+        "numberofkoala": 2,
         "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.273332099999998,
-        "sighting_long_wgs84": 152.9383583
+        "lga": "Lockyer Valley Regional",
+        "sighting_lat_wgs84": -27.5328783,
+        "sighting_long_wgs84": 152.47329719999999
       }
     },
     {
