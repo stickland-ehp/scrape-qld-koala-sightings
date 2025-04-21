@@ -26,52 +26,6 @@
     },
     {
       "type": "Feature",
-      "id": 1043856,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.04521510378169,
-          -27.538880584631766
-        ]
-      },
-      "properties": {
-        "locality": "Nathan",
-        "objectid": 1043856,
-        "globalid": "{B91EB8BB-3CFF-4D81-A5C3-9156E9CB73BC}",
-        "sighttime": 1745126880000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.538880579999997,
-        "sighting_long_wgs84": 153.04521510000001
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1049405,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.47329720022043,
-          -27.53287830011795
-        ]
-      },
-      "properties": {
-        "locality": "Kensington Grove",
-        "objectid": 1049405,
-        "globalid": "{51127277-679F-49BB-8606-EA97B5311A56}",
-        "sighttime": 1745137920000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 2,
-        "koalacondifinal": "Healthy",
-        "lga": "Lockyer Valley Regional",
-        "sighting_lat_wgs84": -27.5328783,
-        "sighting_long_wgs84": 152.47329719999999
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1042197,
       "geometry": {
         "type": "Point",
