@@ -26,48 +26,163 @@
     },
     {
       "type": "Feature",
-      "id": 1048672,
+      "id": 1049810,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.36104041208546,
-          -27.938758612766673
-        ]
-      },
-      "properties": {
-        "locality": "Arundel",
-        "objectid": 1048672,
-        "globalid": "{9A506DB3-A28C-4F93-8C23-9E9768F1124D}",
-        "sighttime": 1745470920000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.938758610000001,
-        "sighting_long_wgs84": 153.36104040999999
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1049809,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.25192910001022,
-          -27.509269599945107
+          153.25169110035881,
+          -27.509453800023564
         ]
       },
       "properties": {
         "locality": null,
-        "objectid": 1049809,
-        "globalid": "{F5E14A9F-06F7-48A4-AFA2-961EB69E5679}",
-        "sighttime": 1745473140000,
+        "objectid": 1049810,
+        "globalid": "{6C8888C3-2A05-4E83-BD29-8E380B6F0FB0}",
+        "sighttime": 1745536260000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Redland City",
-        "sighting_lat_wgs84": -27.5092696,
-        "sighting_long_wgs84": 153.25192910000001
+        "sighting_lat_wgs84": -27.509453799999999,
+        "sighting_long_wgs84": 153.25169109999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1049812,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.44099969986669,
+          -27.395092799870707
+        ]
+      },
+      "properties": {
+        "locality": "Amity",
+        "objectid": 1049812,
+        "globalid": "{B3A26679-6A99-44EC-A12E-A0405BC8AD95}",
+        "sighttime": 1745561580000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Redland City",
+        "sighting_lat_wgs84": -27.3950928,
+        "sighting_long_wgs84": 153.44099969999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1050211,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.36499843054978,
+          -27.932213877459482
+        ]
+      },
+      "properties": {
+        "locality": "Arundel",
+        "objectid": 1050211,
+        "globalid": "{3C543DDC-DD4B-422B-A6D6-19DFAD2B9890}",
+        "sighttime": 1745545380000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.932213880000003,
+        "sighting_long_wgs84": 153.36499843000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1050213,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.44094369979015,
+          -27.393012600055304
+        ]
+      },
+      "properties": {
+        "locality": "Amity",
+        "objectid": 1050213,
+        "globalid": "{57BEA9A3-67E8-4FCF-A98C-1E4F572D84B7}",
+        "sighttime": 1745562000000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Redland City",
+        "sighting_lat_wgs84": -27.393012600000002,
+        "sighting_long_wgs84": 153.44094369999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1050613,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.44063509974399,
+          -27.39310460025991
+        ]
+      },
+      "properties": {
+        "locality": "Amity",
+        "objectid": 1050613,
+        "globalid": "{275E9509-A2DB-4ED2-BFE8-F1D2E257EF4D}",
+        "sighttime": 1745562060000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Redland City",
+        "sighting_lat_wgs84": -27.393104600000001,
+        "sighting_long_wgs84": 153.44063509999998
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1051013,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.44195529981815,
+          -27.39294779995538
+        ]
+      },
+      "properties": {
+        "locality": "Amity",
+        "objectid": 1051013,
+        "globalid": "{9784CB7B-BFFB-486C-B41B-DFB08F75E397}",
+        "sighttime": 1745562480000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Redland City",
+        "sighting_lat_wgs84": -27.392947800000002,
+        "sighting_long_wgs84": 153.44195530000002
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1051413,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.44110429969837,
+          -27.394858900018477
+        ]
+      },
+      "properties": {
+        "locality": "Amity",
+        "objectid": 1051413,
+        "globalid": "{F2130E48-58C6-4BDF-8A39-EBABECAF7C7C}",
+        "sighttime": 1745563320000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Redland City",
+        "sighting_lat_wgs84": -27.394858899999999,
+        "sighting_long_wgs84": 153.44110430000001
       }
     },
     {
