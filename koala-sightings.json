@@ -26,6 +26,98 @@
     },
     {
       "type": "Feature",
+      "id": 1051417,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.1082472668827,
+          -27.5375005462361
+        ]
+      },
+      "properties": {
+        "locality": "Mansfield",
+        "objectid": 1051417,
+        "globalid": "{7CB1EBE3-3C01-4A7B-A0DC-34D4DDDC843A}",
+        "sighttime": 1745882340000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.537500550000001,
+        "sighting_long_wgs84": 153.10824727000002
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1049815,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.16710280290167,
+          -27.839279136227962
+        ]
+      },
+      "properties": {
+        "locality": "Cedar Creek",
+        "objectid": 1049815,
+        "globalid": "{FD802888-18E6-4157-987C-7EFBA165DBE5}",
+        "sighttime": 1745894280000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Logan City",
+        "sighting_lat_wgs84": -27.839279140000002,
+        "sighting_long_wgs84": 153.16710280000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1052217,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.07580199989249,
+          -27.506442400384071
+        ]
+      },
+      "properties": {
+        "locality": "Camp Hill",
+        "objectid": 1052217,
+        "globalid": "{92BAC32B-596E-4D8C-9237-4BCBB13ED5F0}",
+        "sighttime": 1745895660000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.506442400000001,
+        "sighting_long_wgs84": 153.07580199999998
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1050217,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.36650820658994,
+          -27.930136603843799
+        ]
+      },
+      "properties": {
+        "locality": "Arundel",
+        "objectid": 1050217,
+        "globalid": "{9C764A84-2B71-4F93-A3EC-457238065987}",
+        "sighttime": 1745905320000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.930136600000001,
+        "sighting_long_wgs84": 153.36650821000001
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1042197,
       "geometry": {
         "type": "Point",
