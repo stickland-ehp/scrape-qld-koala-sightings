@@ -46,6 +46,29 @@
         "sighting_lat_wgs84": -27.748447580000001,
         "sighting_long_wgs84": 153.14911741
       }
+    },
+    {
+      "type": "Feature",
+      "id": 1050220,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.64067580002552,
+          -27.452330900176158
+        ]
+      },
+      "properties": {
+        "locality": "Fernvale",
+        "objectid": 1050220,
+        "globalid": "{F748FD5F-7829-4BF6-B081-A80A264E4DDC}",
+        "sighttime": 1746232380000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -27.4523309,
+        "sighting_long_wgs84": 152.6406758
+      }
     }
   ]
 }
