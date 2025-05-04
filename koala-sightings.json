@@ -49,25 +49,71 @@
     },
     {
       "type": "Feature",
-      "id": 1050220,
+      "id": 1049818,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.64067580002552,
-          -27.452330900176158
+          152.42567290044849,
+          -27.239077099865547
         ]
       },
       "properties": {
-        "locality": "Fernvale",
-        "objectid": 1050220,
-        "globalid": "{F748FD5F-7829-4BF6-B081-A80A264E4DDC}",
-        "sighttime": 1746232380000,
+        "locality": "Esk",
+        "objectid": 1049818,
+        "globalid": "{9635546D-1A40-40E7-8F30-7126935709ED}",
+        "sighttime": 1746307320000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.4523309,
-        "sighting_long_wgs84": 152.6406758
+        "sighting_lat_wgs84": -27.239077099999999,
+        "sighting_long_wgs84": 152.4256729
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1050621,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.42564985686479,
+          -27.239599551306689
+        ]
+      },
+      "properties": {
+        "locality": "Esk",
+        "objectid": 1050621,
+        "globalid": "{1A7DEAE6-77AD-4503-93A1-B1403BD9BFBE}",
+        "sighttime": 1746335280000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -27.239599550000001,
+        "sighting_long_wgs84": 152.42564985999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1050222,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.17137193040682,
+          -27.798255481362496
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1050222,
+        "globalid": "{8390737F-2CA5-4176-A669-F4DD13AA9121}",
+        "sighttime": 1746345600000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Logan City",
+        "sighting_lat_wgs84": -27.798255480000002,
+        "sighting_long_wgs84": 153.17137192999999
       }
     }
   ]
