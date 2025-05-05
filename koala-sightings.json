@@ -49,71 +49,71 @@
     },
     {
       "type": "Feature",
-      "id": 1049818,
+      "id": 1050622,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.42567290044849,
-          -27.239077099865547
+          153.07680660743429,
+          -27.539985388084318
         ]
       },
       "properties": {
-        "locality": "Esk",
-        "objectid": 1049818,
-        "globalid": "{9635546D-1A40-40E7-8F30-7126935709ED}",
-        "sighttime": 1746307320000,
+        "locality": "Mount Gravatt",
+        "objectid": 1050622,
+        "globalid": "{2AAD8EC4-187D-451F-BD06-DE7FFEF7FD65}",
+        "sighttime": 1746395280000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.239077099999999,
-        "sighting_long_wgs84": 152.4256729
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.539985389999998,
+        "sighting_long_wgs84": 153.07680661000001
       }
     },
     {
       "type": "Feature",
-      "id": 1050621,
+      "id": 1050223,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.42564985686479,
-          -27.239599551306689
+          153.01290441430251,
+          -27.251125301201103
         ]
       },
       "properties": {
-        "locality": "Esk",
-        "objectid": 1050621,
-        "globalid": "{1A7DEAE6-77AD-4503-93A1-B1403BD9BFBE}",
-        "sighttime": 1746335280000,
+        "locality": "Murrumba Downs",
+        "objectid": 1050223,
+        "globalid": "{B26BA66E-F815-427F-8095-8D1D5FD72684}",
+        "sighttime": 1746421500000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.239599550000001,
-        "sighting_long_wgs84": 152.42564985999999
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.251125300000002,
+        "sighting_long_wgs84": 153.01290441
       }
     },
     {
       "type": "Feature",
-      "id": 1050222,
+      "id": 1051423,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.17137193040682,
-          -27.798255481362496
+          153.03816989368948,
+          -27.532334351228741
         ]
       },
       "properties": {
-        "locality": null,
-        "objectid": 1050222,
-        "globalid": "{8390737F-2CA5-4176-A669-F4DD13AA9121}",
-        "sighttime": 1746345600000,
-        "joeypresent": "No",
+        "locality": "Moorooka",
+        "objectid": 1051423,
+        "globalid": "{572FE389-5DD5-4991-946F-3C27D75C3EE4}",
+        "sighttime": 1746413520000,
+        "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Logan City",
-        "sighting_lat_wgs84": -27.798255480000002,
-        "sighting_long_wgs84": 153.17137192999999
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.532334349999999,
+        "sighting_long_wgs84": 153.03816988999998
       }
     }
   ]
