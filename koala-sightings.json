@@ -49,71 +49,25 @@
     },
     {
       "type": "Feature",
-      "id": 1050622,
+      "id": 1049822,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.07680660743429,
-          -27.539985388084318
+          153.366873400499,
+          -27.930562799084644
         ]
       },
       "properties": {
-        "locality": "Mount Gravatt",
-        "objectid": 1050622,
-        "globalid": "{2AAD8EC4-187D-451F-BD06-DE7FFEF7FD65}",
-        "sighttime": 1746395280000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.539985389999998,
-        "sighting_long_wgs84": 153.07680661000001
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1050223,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.01290441430251,
-          -27.251125301201103
-        ]
-      },
-      "properties": {
-        "locality": "Murrumba Downs",
-        "objectid": 1050223,
-        "globalid": "{B26BA66E-F815-427F-8095-8D1D5FD72684}",
-        "sighttime": 1746421500000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.251125300000002,
-        "sighting_long_wgs84": 153.01290441
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1051423,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.03816989368948,
-          -27.532334351228741
-        ]
-      },
-      "properties": {
-        "locality": "Moorooka",
-        "objectid": 1051423,
-        "globalid": "{572FE389-5DD5-4991-946F-3C27D75C3EE4}",
-        "sighttime": 1746413520000,
+        "locality": "Arundel",
+        "objectid": 1049822,
+        "globalid": "{2C93E932-4208-4EC5-AE85-A4D5F6E7B02D}",
+        "sighttime": 1746514140000,
         "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.532334349999999,
-        "sighting_long_wgs84": 153.03816988999998
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.930562799999997,
+        "sighting_long_wgs84": 153.3668734
       }
     }
   ]
