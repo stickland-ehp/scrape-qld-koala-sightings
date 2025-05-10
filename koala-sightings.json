@@ -49,48 +49,48 @@
     },
     {
       "type": "Feature",
-      "id": 1051825,
+      "id": 1051426,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.36593818421966,
-          -27.930563076077497
+          153.05113976796497,
+          -27.548167356410968
         ]
       },
       "properties": {
-        "locality": "Arundel",
-        "objectid": 1051825,
-        "globalid": "{8783A59B-CACA-4612-BC98-FAC25C99821E}",
-        "sighttime": 1746740040000,
-        "joeypresent": "Not Sure",
+        "locality": "Nathan",
+        "objectid": 1051426,
+        "globalid": "{94F37B18-1F32-47E4-B6CA-018C72B07633}",
+        "sighttime": 1746851460000,
+        "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.930563079999999,
-        "sighting_long_wgs84": 153.36593818
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.548167360000001,
+        "sighting_long_wgs84": 153.05113976999999
       }
     },
     {
       "type": "Feature",
-      "id": 1052226,
+      "id": 1051826,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.36172176985539,
-          -27.939729370960599
+          153.3646654637015,
+          -27.930705716198151
         ]
       },
       "properties": {
         "locality": "Arundel",
-        "objectid": 1052226,
-        "globalid": "{EFB5B37B-1FCC-4856-84B2-6190931DFDDD}",
-        "sighttime": 1746771480000,
-        "joeypresent": "Yes",
+        "objectid": 1051826,
+        "globalid": "{E6A1DB21-D87F-4F9E-93ED-F30E429C0FD9}",
+        "sighttime": 1746857160000,
+        "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.939729369999998,
-        "sighting_long_wgs84": 153.36172177
+        "sighting_lat_wgs84": -27.930705720000002,
+        "sighting_long_wgs84": 153.36466546
       }
     }
   ]
