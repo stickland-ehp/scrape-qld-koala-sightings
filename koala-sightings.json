@@ -49,71 +49,48 @@
     },
     {
       "type": "Feature",
-      "id": 1051029,
+      "id": 1053030,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.62966514240159,
-          -27.460354402110884
+          153.36155290724321,
+          -27.939663726819219
         ]
       },
       "properties": {
-        "locality": null,
-        "objectid": 1051029,
-        "globalid": "{61A797D2-FE68-49AF-BC26-E0A773C860C8}",
-        "sighttime": 1747017840000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.4603544,
-        "sighting_long_wgs84": 152.62966514000001
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1049827,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.07656229981302,
-          -27.513807399676093
-        ]
-      },
-      "properties": {
-        "locality": "Carina Heights",
-        "objectid": 1049827,
-        "globalid": "{21338C82-E461-414A-97EB-995A53BFF7BE}",
-        "sighttime": 1747020420000,
+        "locality": "Arundel",
+        "objectid": 1053030,
+        "globalid": "{46B5E8B7-63B3-4B39-9A82-4AFEDD6A690C}",
+        "sighttime": 1747085520000,
         "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.513807400000001,
-        "sighting_long_wgs84": 153.07656230000001
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.939663729999999,
+        "sighting_long_wgs84": 153.36155291
       }
     },
     {
       "type": "Feature",
-      "id": 1052229,
+      "id": 1049828,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.05600790018633,
-          -27.542435900007767
+          153.44854836357339,
+          -28.094472113793941
         ]
       },
       "properties": {
-        "locality": "Nathan",
-        "objectid": 1052229,
-        "globalid": "{CC0571C9-8968-4B31-B565-779CCBAFBE34}",
-        "sighttime": 1747033200000,
-        "joeypresent": "No",
+        "locality": "Burleigh Heads",
+        "objectid": 1049828,
+        "globalid": "{38E27DDA-FF6B-4CA1-8B39-79E9CF03DF9D}",
+        "sighttime": 1747116060000,
+        "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.542435900000001,
-        "sighting_long_wgs84": 153.05600790000003
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -28.094472110000002,
+        "sighting_long_wgs84": 153.44854835999999
       }
     }
   ]
