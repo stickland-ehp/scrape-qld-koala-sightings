@@ -26,25 +26,25 @@
     },
     {
       "type": "Feature",
-      "id": 1053034,
+      "id": 1049833,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.36639732394113,
-          -27.930697777862637
+          153.04229596089235,
+          -27.549460434295931
         ]
       },
       "properties": {
-        "locality": "Arundel",
-        "objectid": 1053034,
-        "globalid": "{531BDA96-6C73-4D2E-B79A-3A8EA804662F}",
-        "sighttime": 1747376160000,
-        "joeypresent": "Not Sure",
+        "locality": "Nathan",
+        "objectid": 1049833,
+        "globalid": "{86562298-CD7C-40C2-919A-5F7780883B0E}",
+        "sighttime": 1747441860000,
+        "joeypresent": "No",
         "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.930697779999999,
-        "sighting_long_wgs84": 153.36639732
+        "koalacondifinal": "Dead",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.54946043,
+        "sighting_long_wgs84": 153.04229596000002
       }
     },
     {
