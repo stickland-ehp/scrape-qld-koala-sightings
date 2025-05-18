@@ -26,25 +26,48 @@
     },
     {
       "type": "Feature",
-      "id": 1049833,
+      "id": 1053036,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.04229596089235,
-          -27.549460434295931
+          153.0770412051657,
+          -27.545508534618662
         ]
       },
       "properties": {
-        "locality": "Nathan",
-        "objectid": 1049833,
-        "globalid": "{86562298-CD7C-40C2-919A-5F7780883B0E}",
-        "sighttime": 1747441860000,
+        "locality": "Mount Gravatt",
+        "objectid": 1053036,
+        "globalid": "{12E952EE-2A3F-49E3-BDB9-67FA59E4CE62}",
+        "sighttime": 1747519680000,
         "joeypresent": "No",
         "numberofkoala": 1,
-        "koalacondifinal": "Dead",
+        "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.54946043,
-        "sighting_long_wgs84": 153.04229596000002
+        "sighting_lat_wgs84": -27.545508529999999,
+        "sighting_long_wgs84": 153.0770412
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1051036,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.44758836996181,
+          -28.09480038480206
+        ]
+      },
+      "properties": {
+        "locality": "Burleigh Heads",
+        "objectid": 1051036,
+        "globalid": "{3B69A863-DBA0-477D-8E96-5E8A8068EC15}",
+        "sighttime": 1747526640000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -28.094800379999999,
+        "sighting_long_wgs84": 153.44758836999998
       }
     },
     {
