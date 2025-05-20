@@ -26,48 +26,25 @@
     },
     {
       "type": "Feature",
-      "id": 1053036,
+      "id": 1050237,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.0770412051657,
-          -27.545508534618662
+          153.19130380023645,
+          -27.701349000077222
         ]
       },
       "properties": {
-        "locality": "Mount Gravatt",
-        "objectid": 1053036,
-        "globalid": "{12E952EE-2A3F-49E3-BDB9-67FA59E4CE62}",
-        "sighttime": 1747519680000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.545508529999999,
-        "sighting_long_wgs84": 153.0770412
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1051036,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.44758836996181,
-          -28.09480038480206
-        ]
-      },
-      "properties": {
-        "locality": "Burleigh Heads",
-        "objectid": 1051036,
-        "globalid": "{3B69A863-DBA0-477D-8E96-5E8A8068EC15}",
-        "sighttime": 1747526640000,
+        "locality": "Loganholme",
+        "objectid": 1050237,
+        "globalid": "{3BFCC0D7-765A-49C4-8408-F07317374F9A}",
+        "sighttime": 1747706880000,
         "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -28.094800379999999,
-        "sighting_long_wgs84": 153.44758836999998
+        "lga": "Logan City",
+        "sighting_lat_wgs84": -27.701349,
+        "sighting_long_wgs84": 153.19130380000001
       }
     },
     {
@@ -91,6 +68,29 @@
         "lga": "Logan City",
         "sighting_lat_wgs84": -27.748447580000001,
         "sighting_long_wgs84": 153.14911741
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1050637,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.36139192555109,
+          -27.939388773491803
+        ]
+      },
+      "properties": {
+        "locality": "Arundel",
+        "objectid": 1050637,
+        "globalid": "{1885013C-5087-4E48-8113-8C48B6368EB4}",
+        "sighttime": 1747722660000,
+        "joeypresent": "Yes",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.939388770000001,
+        "sighting_long_wgs84": 153.36139193
       }
     }
   ]
