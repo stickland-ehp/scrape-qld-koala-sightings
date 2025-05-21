@@ -26,29 +26,6 @@
     },
     {
       "type": "Feature",
-      "id": 1050237,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.19130380023645,
-          -27.701349000077222
-        ]
-      },
-      "properties": {
-        "locality": "Loganholme",
-        "objectid": 1050237,
-        "globalid": "{3BFCC0D7-765A-49C4-8408-F07317374F9A}",
-        "sighttime": 1747706880000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Logan City",
-        "sighting_lat_wgs84": -27.701349,
-        "sighting_long_wgs84": 153.19130380000001
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1042197,
       "geometry": {
         "type": "Point",
@@ -68,29 +45,6 @@
         "lga": "Logan City",
         "sighting_lat_wgs84": -27.748447580000001,
         "sighting_long_wgs84": 153.14911741
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1050637,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.36139192555109,
-          -27.939388773491803
-        ]
-      },
-      "properties": {
-        "locality": "Arundel",
-        "objectid": 1050637,
-        "globalid": "{1885013C-5087-4E48-8113-8C48B6368EB4}",
-        "sighttime": 1747722660000,
-        "joeypresent": "Yes",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.939388770000001,
-        "sighting_long_wgs84": 153.36139193
       }
     }
   ]
