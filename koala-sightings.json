@@ -49,25 +49,25 @@
     },
     {
       "type": "Feature",
-      "id": 1051041,
+      "id": 1050243,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.64100000021494,
-          -27.452000000068512
+          152.7608300003788,
+          -27.314999999660984
         ]
       },
       "properties": {
-        "locality": "Fernvale",
-        "objectid": 1051041,
-        "globalid": "{0CA3B6B4-9A6E-43D5-BE0D-8719D180C41D}",
-        "sighttime": 1747961400000,
+        "locality": "Mount Glorious",
+        "objectid": 1050243,
+        "globalid": "{4A1E83F8-1EF6-49EB-A334-3A533C62D5C9}",
+        "sighttime": 1748060520000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.452000000000002,
-        "sighting_long_wgs84": 152.64099999999999
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.315000000000001,
+        "sighting_long_wgs84": 152.76083
       }
     }
   ]
