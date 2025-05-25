@@ -46,29 +46,6 @@
         "sighting_lat_wgs84": -27.748447580000001,
         "sighting_long_wgs84": 153.14911741
       }
-    },
-    {
-      "type": "Feature",
-      "id": 1050243,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.7608300003788,
-          -27.314999999660984
-        ]
-      },
-      "properties": {
-        "locality": "Mount Glorious",
-        "objectid": 1050243,
-        "globalid": "{4A1E83F8-1EF6-49EB-A334-3A533C62D5C9}",
-        "sighttime": 1748060520000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.315000000000001,
-        "sighting_long_wgs84": 152.76083
-      }
     }
   ]
 }
