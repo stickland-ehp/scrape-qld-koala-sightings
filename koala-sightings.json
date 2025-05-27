@@ -46,29 +46,6 @@
         "sighting_lat_wgs84": -27.748447580000001,
         "sighting_long_wgs84": 153.14911741
       }
-    },
-    {
-      "type": "Feature",
-      "id": 1050247,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.57057944722703,
-          -27.443452457140648
-        ]
-      },
-      "properties": {
-        "locality": "Patrick Estate",
-        "objectid": 1050247,
-        "globalid": "{2F852EAF-4529-442A-A92E-511C7A89121E}",
-        "sighttime": 1748214000000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.44345246,
-        "sighting_long_wgs84": 152.57057945
-      }
     }
   ]
 }
