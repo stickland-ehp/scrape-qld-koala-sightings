@@ -26,6 +26,98 @@
     },
     {
       "type": "Feature",
+      "id": 1054223,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.09061438169778,
+          -27.522804655036825
+        ]
+      },
+      "properties": {
+        "locality": "Mount Gravatt East",
+        "objectid": 1054223,
+        "globalid": "{4BBC4CB7-132B-494A-B462-9E8329AB1450}",
+        "sighttime": 1748724420000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.522804650000001,
+        "sighting_long_wgs84": 153.09061438000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1054626,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.98763815607629,
+          -27.294274000638232
+        ]
+      },
+      "properties": {
+        "locality": "Strathpine",
+        "objectid": 1054626,
+        "globalid": "{5A11483F-58F8-4CBF-950A-AF6FD3E1138B}",
+        "sighttime": 1748740500000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.294274000000001,
+        "sighting_long_wgs84": 152.98763815999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1054227,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.40998400642968,
+          -28.116791496541264
+        ]
+      },
+      "properties": {
+        "locality": "Reedy Creek",
+        "objectid": 1054227,
+        "globalid": "{D6A95ACA-1B78-460D-8214-02435B6891FD}",
+        "sighttime": 1748749980000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -28.116791500000001,
+        "sighting_long_wgs84": 153.40998400999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1054627,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.93257173907847,
+          -27.573670376138882
+        ]
+      },
+      "properties": {
+        "locality": "Wacol",
+        "objectid": 1054627,
+        "globalid": "{F740BE7D-013D-4CB1-8AA0-5DD18374CD8C}",
+        "sighttime": 1748757780000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.573670379999999,
+        "sighting_long_wgs84": 152.93257174000001
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1042197,
       "geometry": {
         "type": "Point",
