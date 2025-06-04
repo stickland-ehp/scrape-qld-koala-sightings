@@ -26,94 +26,25 @@
     },
     {
       "type": "Feature",
-      "id": 1054237,
+      "id": 1054238,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.3664551161566,
-          -27.930303723932635
+          153.09130029482455,
+          -27.522244545563225
         ]
       },
       "properties": {
-        "locality": "Arundel",
-        "objectid": 1054237,
-        "globalid": "{6A07B219-C5A4-4A2C-B8F0-884F290746B6}",
-        "sighttime": 1748929440000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.930303719999998,
-        "sighting_long_wgs84": 153.36645512000001
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1054232,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.44099289962,
-          -27.395063599902198
-        ]
-      },
-      "properties": {
-        "locality": "Amity",
-        "objectid": 1054232,
-        "globalid": "{505854AD-D3C5-4B3F-B52E-E0A3A24972CF}",
-        "sighttime": 1748897640000,
+        "locality": "Mount Gravatt East",
+        "objectid": 1054238,
+        "globalid": "{7ED6A186-AC25-4715-8607-298A896C3CA4}",
+        "sighttime": 1748984340000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Redland City",
-        "sighting_lat_wgs84": -27.3950636,
-        "sighting_long_wgs84": 153.4409929
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1054633,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.44194230029763,
-          -27.392948500238507
-        ]
-      },
-      "properties": {
-        "locality": "Amity",
-        "objectid": 1054633,
-        "globalid": "{F8FF4821-CB0A-4260-85DC-5EEAA8707A2B}",
-        "sighttime": 1748898180000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Redland City",
-        "sighting_lat_wgs84": -27.392948499999999,
-        "sighting_long_wgs84": 153.44194229999999
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1054235,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.44142150021506,
-          -28.107855200302403
-        ]
-      },
-      "properties": {
-        "locality": "Burleigh Heads",
-        "objectid": 1054235,
-        "globalid": "{9C76C6E6-678F-42F6-B86C-D4B1A985E5FA}",
-        "sighttime": 1748906760000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Dead",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -28.107855199999999,
-        "sighting_long_wgs84": 153.44142149999999
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.52224455,
+        "sighting_long_wgs84": 153.09130028999999
       }
     },
     {
