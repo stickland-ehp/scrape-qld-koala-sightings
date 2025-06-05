@@ -26,29 +26,6 @@
     },
     {
       "type": "Feature",
-      "id": 1054238,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.09130029482455,
-          -27.522244545563225
-        ]
-      },
-      "properties": {
-        "locality": "Mount Gravatt East",
-        "objectid": 1054238,
-        "globalid": "{7ED6A186-AC25-4715-8607-298A896C3CA4}",
-        "sighttime": 1748984340000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.52224455,
-        "sighting_long_wgs84": 153.09130028999999
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1042197,
       "geometry": {
         "type": "Point",
