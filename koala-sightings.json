@@ -26,6 +26,52 @@
     },
     {
       "type": "Feature",
+      "id": 1054648,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.37257170270536,
+          -27.913755057408054
+        ]
+      },
+      "properties": {
+        "locality": "Coombabah",
+        "objectid": 1054648,
+        "globalid": "{77C386BC-BD10-4485-A70F-C310B47A2433}",
+        "sighttime": 1749264180000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.91375506,
+        "sighting_long_wgs84": 153.37257170000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1054650,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.37857595307079,
+          -27.095703973186986
+        ]
+      },
+      "properties": {
+        "locality": "Toogoolawah",
+        "objectid": 1054650,
+        "globalid": "{4827C703-9C40-4A13-A8C1-32F6F4E3E009}",
+        "sighttime": 1749276000000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -27.095703970000002,
+        "sighting_long_wgs84": 152.37857595
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1042197,
       "geometry": {
         "type": "Point",
@@ -45,29 +91,6 @@
         "lga": "Logan City",
         "sighting_lat_wgs84": -27.748447580000001,
         "sighting_long_wgs84": 153.14911741
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1055022,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.36689357306702,
-          -27.930219918673874
-        ]
-      },
-      "properties": {
-        "locality": "Arundel",
-        "objectid": 1055022,
-        "globalid": "{9D42A390-AC70-4277-BA4D-7A3091744972}",
-        "sighttime": 1749192000000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.930219919999999,
-        "sighting_long_wgs84": 153.36689357
       }
     }
   ]
