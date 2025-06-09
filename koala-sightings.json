@@ -26,25 +26,25 @@
     },
     {
       "type": "Feature",
-      "id": 1054256,
+      "id": 1054258,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.37910823991092,
-          -27.09553075476985
+          153.44101150013623,
+          -27.39500239965912
         ]
       },
       "properties": {
-        "locality": "Toogoolawah",
-        "objectid": 1054256,
-        "globalid": "{BA1A6500-146D-4E2E-9DFA-3192D00CD169}",
-        "sighttime": 1749362400000,
+        "locality": "Amity",
+        "objectid": 1054258,
+        "globalid": "{422E3D6C-762C-4070-9F25-0210CF23201D}",
+        "sighttime": 1749416820000,
         "joeypresent": "No",
-        "numberofkoala": 1,
+        "numberofkoala": 2,
         "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.095530760000003,
-        "sighting_long_wgs84": 152.37910823999999
+        "lga": "Redland City",
+        "sighting_lat_wgs84": -27.395002399999999,
+        "sighting_long_wgs84": 153.4410115
       }
     },
     {
@@ -68,29 +68,6 @@
         "lga": "Logan City",
         "sighting_lat_wgs84": -27.748447580000001,
         "sighting_long_wgs84": 153.14911741
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1054252,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.24214169986817,
-          -27.51298369962209
-        ]
-      },
-      "properties": {
-        "locality": null,
-        "objectid": 1054252,
-        "globalid": "{6C184628-6C1F-402F-B1C0-31838ED108C2}",
-        "sighttime": 1749344460000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Redland City",
-        "sighting_lat_wgs84": -27.512983699999999,
-        "sighting_long_wgs84": 153.24214169999999
       }
     }
   ]
