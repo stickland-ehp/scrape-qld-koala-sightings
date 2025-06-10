@@ -26,25 +26,25 @@
     },
     {
       "type": "Feature",
-      "id": 1054258,
+      "id": 1054261,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.44101150013623,
-          -27.39500239965912
+          153.36480985081542,
+          -27.930594342138807
         ]
       },
       "properties": {
-        "locality": "Amity",
-        "objectid": 1054258,
-        "globalid": "{422E3D6C-762C-4070-9F25-0210CF23201D}",
-        "sighttime": 1749416820000,
+        "locality": "Arundel",
+        "objectid": 1054261,
+        "globalid": "{385BAFBC-85C6-4562-ACE1-3DE5B44D0B74}",
+        "sighttime": 1749511920000,
         "joeypresent": "No",
-        "numberofkoala": 2,
+        "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Redland City",
-        "sighting_lat_wgs84": -27.395002399999999,
-        "sighting_long_wgs84": 153.4410115
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.930594339999999,
+        "sighting_long_wgs84": 153.36480985
       }
     },
     {
@@ -68,6 +68,29 @@
         "lga": "Logan City",
         "sighting_lat_wgs84": -27.748447580000001,
         "sighting_long_wgs84": 153.14911741
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1054661,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.90397669631182,
+          -27.654635986966159
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1054661,
+        "globalid": "{32E8917F-0D28-47B5-85B6-1531F4A9C878}",
+        "sighttime": 1749500400000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Ipswich City",
+        "sighting_lat_wgs84": -27.654635989999999,
+        "sighting_long_wgs84": 152.90397669999999
       }
     }
   ]
