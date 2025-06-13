@@ -46,6 +46,29 @@
         "sighting_lat_wgs84": -27.748447580000001,
         "sighting_long_wgs84": 153.14911741
       }
+    },
+    {
+      "type": "Feature",
+      "id": 1054267,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.44628824364105,
+          -28.096875191665866
+        ]
+      },
+      "properties": {
+        "locality": "Burleigh Heads",
+        "objectid": 1054267,
+        "globalid": "{F53D9907-EF5A-4E00-BE65-50CFCC4052E5}",
+        "sighttime": 1749764460000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -28.096875190000002,
+        "sighting_long_wgs84": 153.44628824
+      }
     }
   ]
 }
