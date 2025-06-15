@@ -49,71 +49,25 @@
     },
     {
       "type": "Feature",
-      "id": 1054670,
+      "id": 1054273,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.89578616112135,
-          -27.597918309184902
+          151.89503514259437,
+          -27.596568148405272
         ]
       },
       "properties": {
         "locality": "Drayton",
-        "objectid": 1054670,
-        "globalid": "{5CAC37D8-BE12-47EB-8B21-DD5395E94AC1}",
-        "sighttime": 1749860400000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Toowoomba Regional",
-        "sighting_lat_wgs84": -27.597918310000001,
-        "sighting_long_wgs84": 151.89578616
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1055025,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.6410999997741,
-          -27.452489999688758
-        ]
-      },
-      "properties": {
-        "locality": "Fernvale",
-        "objectid": 1055025,
-        "globalid": "{495DC8A5-8946-4F7B-B68C-9CA1D3DC2C8C}",
-        "sighttime": 1749875820000,
+        "objectid": 1054273,
+        "globalid": "{1F85B14E-89ED-4E99-8430-A564793353A9}",
+        "sighttime": 1749952200000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.452490000000001,
-        "sighting_long_wgs84": 152.64109999999999
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1054672,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.54647729960774,
-          -27.450638700200361
-        ]
-      },
-      "properties": {
-        "locality": "Rifle Range",
-        "objectid": 1054672,
-        "globalid": "{C5AB07CE-183C-42EA-8C0E-B2B41696A372}",
-        "sighttime": 1749889980000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.450638700000003,
-        "sighting_long_wgs84": 152.54647729999999
+        "lga": "Toowoomba Regional",
+        "sighting_lat_wgs84": -27.59656815,
+        "sighting_long_wgs84": 151.89503514
       }
     }
   ]
