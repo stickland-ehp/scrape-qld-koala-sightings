@@ -26,6 +26,29 @@
     },
     {
       "type": "Feature",
+      "id": 1055031,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.44097450032629,
+          -27.39273960031521
+        ]
+      },
+      "properties": {
+        "locality": "Amity",
+        "objectid": 1055031,
+        "globalid": "{C6105F19-89B5-4B74-B722-3905C0C01B8E}",
+        "sighttime": 1750147200000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": "Redland City",
+        "sighting_lat_wgs84": -27.392739600000002,
+        "sighting_long_wgs84": 153.44097450000001
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1042197,
       "geometry": {
         "type": "Point",
@@ -45,6 +68,29 @@
         "lga": "Logan City",
         "sighting_lat_wgs84": -27.748447580000001,
         "sighting_long_wgs84": 153.14911741
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1055028,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.12270771391246,
+          -27.513099330124231
+        ]
+      },
+      "properties": {
+        "locality": "Carindale",
+        "objectid": 1055028,
+        "globalid": "{545ED4ED-9AB4-4BBD-8E7F-0A2709A26CDA}",
+        "sighttime": 1750113600000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.513099330000003,
+        "sighting_long_wgs84": 153.12270771000001
       }
     }
   ]
