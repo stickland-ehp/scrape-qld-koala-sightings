@@ -26,52 +26,6 @@
     },
     {
       "type": "Feature",
-      "id": 1055436,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.07204683179907,
-          -27.543364543112546
-        ]
-      },
-      "properties": {
-        "locality": "Mount Gravatt",
-        "objectid": 1055436,
-        "globalid": "{334ADFDC-D088-4582-A824-B667F25C6BDC}",
-        "sighttime": 1750372860000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.543364539999999,
-        "sighting_long_wgs84": 153.07204683000001
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1055440,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.25170759971564,
-          -27.509315899774144
-        ]
-      },
-      "properties": {
-        "locality": null,
-        "objectid": 1055440,
-        "globalid": "{C6A68154-0A64-4EF2-8DFA-BAA6AB63614C}",
-        "sighttime": 1750396380000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Redland City",
-        "sighting_lat_wgs84": -27.509315900000001,
-        "sighting_long_wgs84": 153.2517076
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1042197,
       "geometry": {
         "type": "Point",
@@ -95,48 +49,25 @@
     },
     {
       "type": "Feature",
-      "id": 1055438,
+      "id": 1055046,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.94185523824504,
-          -27.163292092380384
+          153.44098050017411,
+          -27.392940300225682
         ]
       },
       "properties": {
-        "locality": "Burpengary",
-        "objectid": 1055438,
-        "globalid": "{83CBD052-06EA-453A-A166-9492C686A0E2}",
-        "sighttime": 1750381320000,
-        "joeypresent": "Not Sure",
+        "locality": "Amity",
+        "objectid": 1055046,
+        "globalid": "{0155C241-1315-4F4B-8B45-6AD23EC89189}",
+        "sighttime": 1750475820000,
+        "joeypresent": "Yes",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.163292089999999,
-        "sighting_long_wgs84": 152.94185524
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1055045,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.36643509360724,
-          -27.929793300636018
-        ]
-      },
-      "properties": {
-        "locality": "Arundel",
-        "objectid": 1055045,
-        "globalid": "{40EFFA28-CE1B-4089-9757-601444380C94}",
-        "sighttime": 1750399800000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.9297933,
-        "sighting_long_wgs84": 153.36643509000001
+        "lga": "Redland City",
+        "sighting_lat_wgs84": -27.392940299999999,
+        "sighting_long_wgs84": 153.44098049999999
       }
     }
   ]
