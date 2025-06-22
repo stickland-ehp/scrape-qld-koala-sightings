@@ -26,6 +26,52 @@
     },
     {
       "type": "Feature",
+      "id": 1054692,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.24763259994003,
+          -27.511484200026061
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1054692,
+        "globalid": "{A22F119E-BABE-4D6F-9A36-62BCCF1AF38F}",
+        "sighttime": 1750557240000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Redland City",
+        "sighting_lat_wgs84": -27.511484200000002,
+        "sighting_long_wgs84": 153.2476326
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1054693,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.25182969962739,
+          -27.51519459992538
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1054693,
+        "globalid": "{31568676-FC35-4BDE-898B-729029B88364}",
+        "sighttime": 1750561020000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Redland City",
+        "sighting_lat_wgs84": -27.515194600000001,
+        "sighting_long_wgs84": 153.2518297
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1042197,
       "geometry": {
         "type": "Point",
@@ -49,25 +95,25 @@
     },
     {
       "type": "Feature",
-      "id": 1055046,
+      "id": 1055449,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.44098050017411,
-          -27.392940300225682
+          153.07374490011264,
+          -27.545550299930099
         ]
       },
       "properties": {
-        "locality": "Amity",
-        "objectid": 1055046,
-        "globalid": "{0155C241-1315-4F4B-8B45-6AD23EC89189}",
-        "sighttime": 1750475820000,
-        "joeypresent": "Yes",
+        "locality": "Mount Gravatt",
+        "objectid": 1055449,
+        "globalid": "{013AD478-11FC-4700-BA96-6545D1E8EF48}",
+        "sighttime": 1750554180000,
+        "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Redland City",
-        "sighting_lat_wgs84": -27.392940299999999,
-        "sighting_long_wgs84": 153.44098049999999
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.545550300000002,
+        "sighting_long_wgs84": 153.07374490000001
       }
     }
   ]
