@@ -26,75 +26,6 @@
     },
     {
       "type": "Feature",
-      "id": 1055453,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.44102150018199,
-          -27.393009900218079
-        ]
-      },
-      "properties": {
-        "locality": "Amity",
-        "objectid": 1055453,
-        "globalid": "{7BFC0093-4735-4418-9B21-149A9680CD08}",
-        "sighttime": 1750628820000,
-        "joeypresent": "Yes",
-        "numberofkoala": 3,
-        "koalacondifinal": "Healthy",
-        "lga": "Redland City",
-        "sighting_lat_wgs84": -27.393009899999999,
-        "sighting_long_wgs84": 153.44102150000001
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1055455,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.07230809691805,
-          -27.545091282061151
-        ]
-      },
-      "properties": {
-        "locality": "Mount Gravatt",
-        "objectid": 1055455,
-        "globalid": "{6673928D-3610-4FD0-AC25-5603CE91E800}",
-        "sighttime": 1750643520000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.545091280000001,
-        "sighting_long_wgs84": 153.07230810000001
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1055456,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.072192845762,
-          -27.544052596147733
-        ]
-      },
-      "properties": {
-        "locality": "Mount Gravatt",
-        "objectid": 1055456,
-        "globalid": "{606FE692-EDFD-41CE-AD55-35A0B0E06642}",
-        "sighttime": 1750644060000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.544052600000001,
-        "sighting_long_wgs84": 153.07219284999999
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1042197,
       "geometry": {
         "type": "Point",
@@ -114,6 +45,29 @@
         "lga": "Logan City",
         "sighting_lat_wgs84": -27.748447580000001,
         "sighting_long_wgs84": 153.14911741
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1055462,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.04924449968357,
+          -27.549449200269095
+        ]
+      },
+      "properties": {
+        "locality": "Nathan",
+        "objectid": 1055462,
+        "globalid": "{5E178073-1C19-4584-9151-46B2ACB35D06}",
+        "sighttime": 1750734240000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.549449199999998,
+        "sighting_long_wgs84": 153.04924450000001
       }
     }
   ]
