@@ -46,6 +46,75 @@
         "sighting_lat_wgs84": -27.748447580000001,
         "sighting_long_wgs84": 153.14911741
       }
+    },
+    {
+      "type": "Feature",
+      "id": 1054700,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.06975810950811,
+          -27.510478940051026
+        ]
+      },
+      "properties": {
+        "locality": "Coorparoo",
+        "objectid": 1054700,
+        "globalid": "{398626E6-3691-40C9-AB96-B808132579C1}",
+        "sighttime": 1750851480000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.510478940000002,
+        "sighting_long_wgs84": 153.06975811000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1054701,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.72759169975751,
+          -27.681991399981207
+        ]
+      },
+      "properties": {
+        "locality": "Purga",
+        "objectid": 1054701,
+        "globalid": "{B4C101D9-2A1A-41DB-837F-5F874F006EDF}",
+        "sighttime": 1750896120000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Ipswich City",
+        "sighting_lat_wgs84": -27.681991399999998,
+        "sighting_long_wgs84": 152.7275917
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1054706,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.09272184193071,
+          -27.031976732399201
+        ]
+      },
+      "properties": {
+        "locality": "Toorbul",
+        "objectid": 1054706,
+        "globalid": "{9754B24E-4A58-482B-9E1A-77EFD036ED89}",
+        "sighttime": 1750920180000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.03197673,
+        "sighting_long_wgs84": 153.09272184
+      }
     }
   ]
 }
