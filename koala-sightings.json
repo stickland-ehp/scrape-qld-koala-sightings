@@ -46,29 +46,6 @@
         "sighting_lat_wgs84": -27.748447580000001,
         "sighting_long_wgs84": 153.14911741
       }
-    },
-    {
-      "type": "Feature",
-      "id": 1055834,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.74099589959138,
-          -27.883416599980588
-        ]
-      },
-      "properties": {
-        "locality": "Milbong",
-        "objectid": 1055834,
-        "globalid": "{ADC4154E-60AD-4783-B0F3-DDEC2C92D88A}",
-        "sighttime": 1750982940000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Scenic Rim Regional",
-        "sighting_lat_wgs84": -27.8834166,
-        "sighting_long_wgs84": 152.7409959
-      }
     }
   ]
 }
