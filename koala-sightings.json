@@ -46,6 +46,29 @@
         "sighting_lat_wgs84": -27.748447580000001,
         "sighting_long_wgs84": 153.14911741
       }
+    },
+    {
+      "type": "Feature",
+      "id": 1056250,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.92748299769133,
+          -27.327354682878219
+        ]
+      },
+      "properties": {
+        "locality": "Cashmere",
+        "objectid": 1056250,
+        "globalid": "{1FA327A4-0E4D-43DD-A260-1F7791B6A20E}",
+        "sighttime": 1751412360000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.327354680000003,
+        "sighting_long_wgs84": 152.927483
+      }
     }
   ]
 }
