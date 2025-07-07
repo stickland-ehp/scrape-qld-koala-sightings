@@ -26,94 +26,25 @@
     },
     {
       "type": "Feature",
-      "id": 1057852,
+      "id": 1058253,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.44148540007617,
-          -27.394184200367469
-        ]
-      },
-      "properties": {
-        "locality": "Amity",
-        "objectid": 1057852,
-        "globalid": "{756FC840-CEB3-4593-A085-BD1115270F7C}",
-        "sighttime": 1751748960000,
-        "joeypresent": "Yes",
-        "numberofkoala": 2,
-        "koalacondifinal": "Healthy",
-        "lga": "Redland City",
-        "sighting_lat_wgs84": -27.394184200000002,
-        "sighting_long_wgs84": 153.44148539999998
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1057853,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.44091589962704,
-          -27.395090999747215
-        ]
-      },
-      "properties": {
-        "locality": "Amity",
-        "objectid": 1057853,
-        "globalid": "{5B6C61E2-8BF5-479B-BAD2-6C90AB5999BB}",
-        "sighttime": 1751750220000,
-        "joeypresent": "No",
-        "numberofkoala": 3,
-        "koalacondifinal": "Healthy",
-        "lga": "Redland City",
-        "sighting_lat_wgs84": -27.395091000000001,
-        "sighting_long_wgs84": 153.44091589999999
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1058246,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.4398196998589,
-          -27.396782900302718
-        ]
-      },
-      "properties": {
-        "locality": "Amity",
-        "objectid": 1058246,
-        "globalid": "{2E7D646F-6DEA-49E2-AF2E-A3913038F06D}",
-        "sighttime": 1751750460000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Redland City",
-        "sighting_lat_wgs84": -27.396782899999998,
-        "sighting_long_wgs84": 153.43981969999999
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1057855,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.24946369976411,
-          -27.51151420017742
+          153.24747030041939,
+          -27.511491600074752
         ]
       },
       "properties": {
         "locality": null,
-        "objectid": 1057855,
-        "globalid": "{B88D815B-3BE9-4B7B-BF78-7F1A8783D58D}",
-        "sighttime": 1751769060000,
+        "objectid": 1058253,
+        "globalid": "{59ACE392-ADB9-4055-8875-13A3B995A2CC}",
+        "sighttime": 1751845860000,
         "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Redland City",
-        "sighting_lat_wgs84": -27.511514200000001,
-        "sighting_long_wgs84": 153.24946370000001
+        "sighting_lat_wgs84": -27.511491600000003,
+        "sighting_long_wgs84": 153.2474703
       }
     },
     {
@@ -141,48 +72,48 @@
     },
     {
       "type": "Feature",
-      "id": 1057454,
+      "id": 1058259,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.44099349969457,
-          -27.392870700189494
+          152.95174217082223,
+          -26.784425771020171
         ]
       },
       "properties": {
-        "locality": "Amity",
-        "objectid": 1057454,
-        "globalid": "{D0DE8C5D-CDAD-4D0A-B625-C5816AEED727}",
-        "sighttime": 1751749200000,
+        "locality": "Landsborough",
+        "objectid": 1058259,
+        "globalid": "{43E88FFF-FE91-46F6-96AA-75C851E89FBA}",
+        "sighttime": 1751872680000,
         "joeypresent": "No",
-        "numberofkoala": 2,
+        "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Redland City",
-        "sighting_lat_wgs84": -27.3928707,
-        "sighting_long_wgs84": 153.44099349999999
+        "lga": "Sunshine Coast Regional",
+        "sighting_lat_wgs84": -26.784425770000002,
+        "sighting_long_wgs84": 152.95174216999999
       }
     },
     {
       "type": "Feature",
-      "id": 1058248,
+      "id": 1057858,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.01967529956823,
-          -27.748834800117052
+          153.07894747421599,
+          -27.506933518777071
         ]
       },
       "properties": {
-        "locality": null,
-        "objectid": 1058248,
-        "globalid": "{85C01430-88D3-4EB2-9935-00BBF78B1E0E}",
-        "sighttime": 1751759520000,
+        "locality": "Camp Hill",
+        "objectid": 1057858,
+        "globalid": "{0E428B0D-9B01-4E7B-A749-8531982FABA1}",
+        "sighttime": 1751857200000,
         "joeypresent": "No",
-        "numberofkoala": 1,
+        "numberofkoala": 2,
         "koalacondifinal": "Healthy",
-        "lga": "Logan City",
-        "sighting_lat_wgs84": -27.748834800000001,
-        "sighting_long_wgs84": 153.01967529999999
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.50693352,
+        "sighting_long_wgs84": 153.07894747
       }
     }
   ]
