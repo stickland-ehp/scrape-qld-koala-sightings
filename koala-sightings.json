@@ -26,29 +26,6 @@
     },
     {
       "type": "Feature",
-      "id": 1057466,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.24842759998339,
-          -27.511468299639724
-        ]
-      },
-      "properties": {
-        "locality": null,
-        "objectid": 1057466,
-        "globalid": "{27D72C34-0F47-4FDD-BDB4-D1DDED899101}",
-        "sighttime": 1752037920000,
-        "joeypresent": "Yes",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Redland City",
-        "sighting_lat_wgs84": -27.511468300000001,
-        "sighting_long_wgs84": 153.24842760000001
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1042197,
       "geometry": {
         "type": "Point",
@@ -68,52 +45,6 @@
         "lga": "Logan City",
         "sighting_lat_wgs84": -27.748447580000001,
         "sighting_long_wgs84": 153.14911741
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1057465,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.1671573998097,
-          -27.792714200094721
-        ]
-      },
-      "properties": {
-        "locality": "Wolffdene",
-        "objectid": 1057465,
-        "globalid": "{CAC39397-9B71-4166-9300-A0442E25C658}",
-        "sighttime": 1752026100000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Logan City",
-        "sighting_lat_wgs84": -27.792714199999999,
-        "sighting_long_wgs84": 153.16715740000001
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1058268,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.11624499929823,
-          -27.50877830633619
-        ]
-      },
-      "properties": {
-        "locality": "Carindale",
-        "objectid": 1058268,
-        "globalid": "{ADDB2160-94F7-4593-83A6-1AD10A18325E}",
-        "sighttime": 1752033360000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.50877831,
-        "sighting_long_wgs84": 153.11624499999999
       }
     }
   ]
