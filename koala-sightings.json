@@ -49,48 +49,48 @@
     },
     {
       "type": "Feature",
-      "id": 1057468,
+      "id": 1058275,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.36644435074624,
-          -27.930011756482781
+          153.09236752302647,
+          -27.032011441673564
         ]
       },
       "properties": {
-        "locality": "Arundel",
-        "objectid": 1057468,
-        "globalid": "{E9C8144B-A1BD-431A-871F-EA67C9CAFF1B}",
-        "sighttime": 1752181020000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
+        "locality": "Toorbul",
+        "objectid": 1058275,
+        "globalid": "{5598B1B5-59E9-48FC-AFB8-87919CDA3271}",
+        "sighttime": 1752301080000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
         "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.930011759999999,
-        "sighting_long_wgs84": 153.36644434999999
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.032011440000002,
+        "sighting_long_wgs84": 153.09236751999998
       }
     },
     {
       "type": "Feature",
-      "id": 1057469,
+      "id": 1058648,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.3534831218571,
-          -27.934318260268956
+          152.17587096547874,
+          -27.550072528925426
         ]
       },
       "properties": {
-        "locality": "Arundel",
-        "objectid": 1057469,
-        "globalid": "{8221F309-DE4A-4399-B58C-52025185287C}",
-        "sighttime": 1752199380000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
+        "locality": "Grantham",
+        "objectid": 1058648,
+        "globalid": "{C2D51940-66E9-44EF-842E-9F3F24682F1E}",
+        "sighttime": 1752317160000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 2,
         "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.934318260000001,
-        "sighting_long_wgs84": 153.35348311999999
+        "lga": "Lockyer Valley Regional",
+        "sighting_lat_wgs84": -27.550072530000001,
+        "sighting_long_wgs84": 152.17587097000001
       }
     }
   ]
