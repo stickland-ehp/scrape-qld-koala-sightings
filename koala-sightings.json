@@ -49,48 +49,25 @@
     },
     {
       "type": "Feature",
-      "id": 1058275,
+      "id": 1058651,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.09236752302647,
-          -27.032011441673564
+          153.2474658995728,
+          -27.511448900002087
         ]
       },
       "properties": {
-        "locality": "Toorbul",
-        "objectid": 1058275,
-        "globalid": "{5598B1B5-59E9-48FC-AFB8-87919CDA3271}",
-        "sighttime": 1752301080000,
-        "joeypresent": "Yes",
-        "numberofkoala": 2,
-        "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.032011440000002,
-        "sighting_long_wgs84": 153.09236751999998
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1058648,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.17587096547874,
-          -27.550072528925426
-        ]
-      },
-      "properties": {
-        "locality": "Grantham",
-        "objectid": 1058648,
-        "globalid": "{C2D51940-66E9-44EF-842E-9F3F24682F1E}",
-        "sighttime": 1752317160000,
+        "locality": null,
+        "objectid": 1058651,
+        "globalid": "{E9D447E4-91CC-49CC-9EE3-491AAB0948F3}",
+        "sighttime": 1752370320000,
         "joeypresent": "Not Sure",
-        "numberofkoala": 2,
+        "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Lockyer Valley Regional",
-        "sighting_lat_wgs84": -27.550072530000001,
-        "sighting_long_wgs84": 152.17587097000001
+        "lga": "Redland City",
+        "sighting_lat_wgs84": -27.511448900000001,
+        "sighting_long_wgs84": 153.24746590000001
       }
     }
   ]
