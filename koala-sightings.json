@@ -49,25 +49,48 @@
     },
     {
       "type": "Feature",
-      "id": 1058651,
+      "id": 1058662,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.2474658995728,
-          -27.511448900002087
+          153.05814929697408,
+          -27.545612456834537
         ]
       },
       "properties": {
-        "locality": null,
-        "objectid": 1058651,
-        "globalid": "{E9D447E4-91CC-49CC-9EE3-491AAB0948F3}",
-        "sighttime": 1752370320000,
+        "locality": "Nathan",
+        "objectid": 1058662,
+        "globalid": "{77337D41-EF7C-4427-870B-4F760B908D0A}",
+        "sighttime": 1752474960000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Injured/Sick",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.545612460000001,
+        "sighting_long_wgs84": 153.0581493
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1058663,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.36240410948395,
+          -27.940715620258892
+        ]
+      },
+      "properties": {
+        "locality": "Arundel",
+        "objectid": 1058663,
+        "globalid": "{3B959F21-4839-4F48-A050-12E881D61AE3}",
+        "sighttime": 1752477000000,
         "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Redland City",
-        "sighting_lat_wgs84": -27.511448900000001,
-        "sighting_long_wgs84": 153.24746590000001
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.940715619999999,
+        "sighting_long_wgs84": 153.36240411
       }
     }
   ]
