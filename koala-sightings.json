@@ -49,48 +49,25 @@
     },
     {
       "type": "Feature",
-      "id": 1058662,
+      "id": 1058670,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.05814929697408,
-          -27.545612456834537
+          152.89767259992223,
+          -26.806821799606876
         ]
       },
       "properties": {
-        "locality": "Nathan",
-        "objectid": 1058662,
-        "globalid": "{77337D41-EF7C-4427-870B-4F760B908D0A}",
-        "sighttime": 1752474960000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Injured/Sick",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.545612460000001,
-        "sighting_long_wgs84": 153.0581493
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1058663,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.36240410948395,
-          -27.940715620258892
-        ]
-      },
-      "properties": {
-        "locality": "Arundel",
-        "objectid": 1058663,
-        "globalid": "{3B959F21-4839-4F48-A050-12E881D61AE3}",
-        "sighttime": 1752477000000,
+        "locality": "Bald Knob",
+        "objectid": 1058670,
+        "globalid": "{7A481324-989A-40DF-93BE-4030E626CDC7}",
+        "sighttime": 1752567480000,
         "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.940715619999999,
-        "sighting_long_wgs84": 153.36240411
+        "lga": "Sunshine Coast Regional",
+        "sighting_lat_wgs84": -26.806821799999998,
+        "sighting_long_wgs84": 152.89767260000002
       }
     }
   ]
