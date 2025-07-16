@@ -46,29 +46,6 @@
         "sighting_lat_wgs84": -27.748447580000001,
         "sighting_long_wgs84": 153.14911741
       }
-    },
-    {
-      "type": "Feature",
-      "id": 1058670,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.89767259992223,
-          -26.806821799606876
-        ]
-      },
-      "properties": {
-        "locality": "Bald Knob",
-        "objectid": 1058670,
-        "globalid": "{7A481324-989A-40DF-93BE-4030E626CDC7}",
-        "sighttime": 1752567480000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Sunshine Coast Regional",
-        "sighting_lat_wgs84": -26.806821799999998,
-        "sighting_long_wgs84": 152.89767260000002
-      }
     }
   ]
 }
