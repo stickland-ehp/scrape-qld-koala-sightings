@@ -46,6 +46,52 @@
         "sighting_lat_wgs84": -27.748447580000001,
         "sighting_long_wgs84": 153.14911741
       }
+    },
+    {
+      "type": "Feature",
+      "id": 1058677,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.36618096829821,
+          -27.933063883189671
+        ]
+      },
+      "properties": {
+        "locality": "Arundel",
+        "objectid": 1058677,
+        "globalid": "{0A4EF0BE-FEA9-4A9F-BAB4-E0BA82A41029}",
+        "sighttime": 1752703680000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.933063879999999,
+        "sighting_long_wgs84": 153.36618096999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1058678,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.08341335163297,
+          -27.042260099258957
+        ]
+      },
+      "properties": {
+        "locality": "Toorbul",
+        "objectid": 1058678,
+        "globalid": "{88C4C233-D791-4154-8469-3EB60C93F3BE}",
+        "sighttime": 1752712200000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 3,
+        "koalacondifinal": "Healthy",
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.0422601,
+        "sighting_long_wgs84": 153.08341335
+      }
     }
   ]
 }
