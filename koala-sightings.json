@@ -46,6 +46,52 @@
         "sighting_lat_wgs84": -27.748447580000001,
         "sighting_long_wgs84": 153.14911741
       }
+    },
+    {
+      "type": "Feature",
+      "id": 1059465,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.31265423135807,
+          -28.018393697756238
+        ]
+      },
+      "properties": {
+        "locality": "Gilston",
+        "objectid": 1059465,
+        "globalid": "{97BAB01F-74AB-4960-8B63-A710C51CD1B5}",
+        "sighttime": 1752991800000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -28.018393700000001,
+        "sighting_long_wgs84": 153.31265422999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1059865,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.07285761075039,
+          -27.546050385673521
+        ]
+      },
+      "properties": {
+        "locality": "Mount Gravatt",
+        "objectid": 1059865,
+        "globalid": "{157BBCCA-900C-4884-ACBE-7CB71314BC81}",
+        "sighttime": 1752975660000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.546050389999998,
+        "sighting_long_wgs84": 153.07285761
+      }
     }
   ]
 }
