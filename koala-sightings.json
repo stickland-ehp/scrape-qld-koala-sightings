@@ -49,25 +49,48 @@
     },
     {
       "type": "Feature",
-      "id": 1059471,
+      "id": 1059474,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.43976701815905,
-          -28.143750405671071
+          153.24764910019522,
+          -27.511443299769287
         ]
       },
       "properties": {
-        "locality": "Elanora",
-        "objectid": 1059471,
-        "globalid": "{2AA468C8-1F12-4F4A-84FE-7942583C91A7}",
-        "sighttime": 1753061400000,
-        "joeypresent": "Yes",
-        "numberofkoala": 2,
+        "locality": null,
+        "objectid": 1059474,
+        "globalid": "{6EA424DB-CE92-43C7-80F3-FF41184EB3BB}",
+        "sighttime": 1753145220000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -28.143750409999999,
-        "sighting_long_wgs84": 153.43976701999998
+        "lga": "Redland City",
+        "sighting_lat_wgs84": -27.511443300000003,
+        "sighting_long_wgs84": 153.24764910000002
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1059866,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.94790286023115,
+          -27.368117883471335
+        ]
+      },
+      "properties": {
+        "locality": "Bunya",
+        "objectid": 1059866,
+        "globalid": "{C5F1626F-B8AE-4AB8-8630-C6792FF4EF30}",
+        "sighttime": 1753165800000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.36811788,
+        "sighting_long_wgs84": 152.94790286
       }
     }
   ]
