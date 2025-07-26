@@ -49,48 +49,48 @@
     },
     {
       "type": "Feature",
-      "id": 1059088,
+      "id": 1059495,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.36636516335562,
-          -27.930426758992123
+          153.07257876200808,
+          -27.541297862666408
         ]
       },
       "properties": {
-        "locality": "Arundel",
-        "objectid": 1059088,
-        "globalid": "{F6DED1B9-C699-4A41-A49B-FAD617EC5964}",
-        "sighttime": 1753391580000,
-        "joeypresent": "Not Sure",
+        "locality": "Mount Gravatt",
+        "objectid": 1059495,
+        "globalid": "{AD9C0BF8-D6BB-4649-9540-1FFAC61F98E9}",
+        "sighttime": 1753481340000,
+        "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.93042676,
-        "sighting_long_wgs84": 153.36636515999999
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.54129786,
+        "sighting_long_wgs84": 153.07257876
       }
     },
     {
       "type": "Feature",
-      "id": 1059092,
+      "id": 1059499,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.36704268891262,
-          -27.934617665246016
+          153.41955724102149,
+          -28.151077644158594
         ]
       },
       "properties": {
-        "locality": "Arundel",
-        "objectid": 1059092,
-        "globalid": "{49BA595A-12BC-4E92-945A-62FC6F9E965B}",
-        "sighttime": 1753422000000,
+        "locality": "Tallebudgera",
+        "objectid": 1059499,
+        "globalid": "{EF40F3A9-4522-4870-991E-173704C4F1ED}",
+        "sighttime": 1753509720000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.934617669999998,
-        "sighting_long_wgs84": 153.36704268999998
+        "sighting_lat_wgs84": -28.15107764,
+        "sighting_long_wgs84": 153.41955723999999
       }
     }
   ]
