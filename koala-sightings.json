@@ -49,25 +49,25 @@
     },
     {
       "type": "Feature",
-      "id": 1059525,
+      "id": 1059534,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.24437459994911,
-          -27.511708200268338
+          153.24689019984996,
+          -27.51142889962464
         ]
       },
       "properties": {
         "locality": null,
-        "objectid": 1059525,
-        "globalid": "{8DE6B6DF-5C76-41EF-B999-1E22A5A625F8}",
-        "sighttime": 1753848660000,
+        "objectid": 1059534,
+        "globalid": "{42FF3AB0-2A40-4C5B-9EB8-6BA4DE44E701}",
+        "sighttime": 1753935420000,
         "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Redland City",
-        "sighting_lat_wgs84": -27.511708200000001,
-        "sighting_long_wgs84": 153.24437460000001
+        "sighting_lat_wgs84": -27.511428900000002,
+        "sighting_long_wgs84": 153.2468902
       }
     }
   ]
