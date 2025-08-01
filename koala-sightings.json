@@ -49,25 +49,25 @@
     },
     {
       "type": "Feature",
-      "id": 1059534,
+      "id": 1060281,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.24689019984996,
-          -27.51142889962464
+          153.0464864112499,
+          -27.542084932554751
         ]
       },
       "properties": {
-        "locality": null,
-        "objectid": 1059534,
-        "globalid": "{42FF3AB0-2A40-4C5B-9EB8-6BA4DE44E701}",
-        "sighttime": 1753935420000,
-        "joeypresent": "Not Sure",
+        "locality": "Nathan",
+        "objectid": 1060281,
+        "globalid": "{5C3F6D3A-6106-456F-AE3E-58F41B60F47F}",
+        "sighttime": 1754002800000,
+        "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Redland City",
-        "sighting_lat_wgs84": -27.511428900000002,
-        "sighting_long_wgs84": 153.2468902
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.542084930000001,
+        "sighting_long_wgs84": 153.04648641
       }
     }
   ]
