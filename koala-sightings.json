@@ -49,25 +49,48 @@
     },
     {
       "type": "Feature",
-      "id": 1060288,
+      "id": 1060694,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.03567614081629,
-          -27.876053070246279
+          153.24705919990436,
+          -27.511422199899737
         ]
       },
       "properties": {
-        "locality": "Cedar Vale",
-        "objectid": 1060288,
-        "globalid": "{C5345F4E-FA2B-475E-8CF4-8DBCE3175F6A}",
-        "sighttime": 1754157600000,
+        "locality": null,
+        "objectid": 1060694,
+        "globalid": "{2ECFA863-4382-4907-BBEE-4504D91D510B}",
+        "sighttime": 1754266920000,
         "joeypresent": "Not Sure",
-        "numberofkoala": 2,
+        "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Logan City",
-        "sighting_lat_wgs84": -27.876053070000001,
-        "sighting_long_wgs84": 153.03567613999999
+        "lga": "Redland City",
+        "sighting_lat_wgs84": -27.511422200000002,
+        "sighting_long_wgs84": 153.24705920000002
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1060298,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.07521034609019,
+          -27.475670884496481
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1060298,
+        "globalid": "{B7CF2224-DF3D-433C-BADD-F6085C511E1F}",
+        "sighttime": 1754301180000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.475670879999999,
+        "sighting_long_wgs84": 153.07521034999999
       }
     }
   ]
