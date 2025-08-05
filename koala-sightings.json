@@ -49,48 +49,25 @@
     },
     {
       "type": "Feature",
-      "id": 1060694,
+      "id": 1060700,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.24705919990436,
-          -27.511422199899737
+          152.93243617611563,
+          -27.426119812769347
         ]
       },
       "properties": {
-        "locality": null,
-        "objectid": 1060694,
-        "globalid": "{2ECFA863-4382-4907-BBEE-4504D91D510B}",
-        "sighttime": 1754266920000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Redland City",
-        "sighting_lat_wgs84": -27.511422200000002,
-        "sighting_long_wgs84": 153.24705920000002
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1060298,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.07521034609019,
-          -27.475670884496481
-        ]
-      },
-      "properties": {
-        "locality": null,
-        "objectid": 1060298,
-        "globalid": "{B7CF2224-DF3D-433C-BADD-F6085C511E1F}",
-        "sighttime": 1754301180000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
+        "locality": "The Gap",
+        "objectid": 1060700,
+        "globalid": "{D2A5217C-E8E3-420A-97FE-6D5FD94298CF}",
+        "sighttime": 1754340180000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.475670879999999,
-        "sighting_long_wgs84": 153.07521034999999
+        "sighting_lat_wgs84": -27.426119810000003,
+        "sighting_long_wgs84": 152.93243618
       }
     }
   ]
