@@ -46,29 +46,6 @@
         "sighting_lat_wgs84": -27.748447580000001,
         "sighting_long_wgs84": 153.14911741
       }
-    },
-    {
-      "type": "Feature",
-      "id": 1060700,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.93243617611563,
-          -27.426119812769347
-        ]
-      },
-      "properties": {
-        "locality": "The Gap",
-        "objectid": 1060700,
-        "globalid": "{D2A5217C-E8E3-420A-97FE-6D5FD94298CF}",
-        "sighttime": 1754340180000,
-        "joeypresent": "Yes",
-        "numberofkoala": 2,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.426119810000003,
-        "sighting_long_wgs84": 152.93243618
-      }
     }
   ]
 }
