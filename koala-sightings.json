@@ -46,6 +46,52 @@
         "sighting_lat_wgs84": -27.748447580000001,
         "sighting_long_wgs84": 153.14911741
       }
+    },
+    {
+      "type": "Feature",
+      "id": 1060323,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.96311347418501,
+          -27.45729941134778
+        ]
+      },
+      "properties": {
+        "locality": "Bardon",
+        "objectid": 1060323,
+        "globalid": "{373EB981-EFF1-4666-B0FD-FAC27CCFE285}",
+        "sighttime": 1754603820000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.457299410000001,
+        "sighting_long_wgs84": 152.96311347
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1060326,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0625874874157,
+          -27.556710825864645
+        ]
+      },
+      "properties": {
+        "locality": "Nathan",
+        "objectid": 1060326,
+        "globalid": "{1FFDF41F-D71D-480B-B66B-54F038BBF649}",
+        "sighttime": 1754633100000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.55671083,
+        "sighting_long_wgs84": 153.06258749
+      }
     }
   ]
 }
