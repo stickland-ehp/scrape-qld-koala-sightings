@@ -49,48 +49,48 @@
     },
     {
       "type": "Feature",
-      "id": 1060323,
+      "id": 1060334,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.96311347418501,
-          -27.45729941134778
+          153.35700370030386,
+          -28.106928797674179
         ]
       },
       "properties": {
-        "locality": "Bardon",
-        "objectid": 1060323,
-        "globalid": "{373EB981-EFF1-4666-B0FD-FAC27CCFE285}",
-        "sighttime": 1754603820000,
-        "joeypresent": "No",
+        "locality": "Mudgeeraba",
+        "objectid": 1060334,
+        "globalid": "{766382C9-6FCA-4794-817F-3D313773D7B3}",
+        "sighttime": 1754709360000,
+        "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.457299410000001,
-        "sighting_long_wgs84": 152.96311347
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -28.106928799999999,
+        "sighting_long_wgs84": 153.35700370000001
       }
     },
     {
       "type": "Feature",
-      "id": 1060326,
+      "id": 1060338,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.0625874874157,
-          -27.556710825864645
+          152.94237902971756,
+          -27.324417702911685
         ]
       },
       "properties": {
-        "locality": "Nathan",
-        "objectid": 1060326,
-        "globalid": "{1FFDF41F-D71D-480B-B66B-54F038BBF649}",
-        "sighttime": 1754633100000,
+        "locality": "Warner",
+        "objectid": 1060338,
+        "globalid": "{B519A304-BBE9-400D-BC57-C02FBDE416C9}",
+        "sighttime": 1754730300000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.55671083,
-        "sighting_long_wgs84": 153.06258749
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.324417700000001,
+        "sighting_long_wgs84": 152.94237902999998
       }
     }
   ]
