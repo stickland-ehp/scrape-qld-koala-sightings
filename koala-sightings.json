@@ -49,48 +49,25 @@
     },
     {
       "type": "Feature",
-      "id": 1060341,
+      "id": 1061091,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.25129370005018,
-          -27.51558269991536
+          152.73465152454108,
+          -27.693009897383067
         ]
       },
       "properties": {
-        "locality": null,
-        "objectid": 1060341,
-        "globalid": "{1441B134-B15C-47E0-B1BF-6D87E53BFAB1}",
-        "sighttime": 1754776680000,
+        "locality": "Purga",
+        "objectid": 1061091,
+        "globalid": "{FBEF50A8-1F86-4E74-AED4-7A7A9E3066A4}",
+        "sighttime": 1754896440000,
         "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Redland City",
-        "sighting_lat_wgs84": -27.5155827,
-        "sighting_long_wgs84": 153.25129370000002
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1060342,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.24791740002109,
-          -27.511378000348635
-        ]
-      },
-      "properties": {
-        "locality": null,
-        "objectid": 1060342,
-        "globalid": "{9CE086C6-554B-477E-ACCC-D191A146B6A8}",
-        "sighttime": 1754778540000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Redland City",
-        "sighting_lat_wgs84": -27.511377999999997,
-        "sighting_long_wgs84": 153.24791739999998
+        "lga": "Ipswich City",
+        "sighting_lat_wgs84": -27.6930099,
+        "sighting_long_wgs84": 152.73465152
       }
     }
   ]
