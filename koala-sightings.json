@@ -49,25 +49,48 @@
     },
     {
       "type": "Feature",
-      "id": 1061091,
+      "id": 1061099,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.73465152454108,
-          -27.693009897383067
+          153.08376159972255,
+          -27.530844666626319
         ]
       },
       "properties": {
-        "locality": "Purga",
-        "objectid": 1061091,
-        "globalid": "{FBEF50A8-1F86-4E74-AED4-7A7A9E3066A4}",
-        "sighttime": 1754896440000,
+        "locality": "Mount Gravatt East",
+        "objectid": 1061099,
+        "globalid": "{FDEB74BF-CDCF-4AC5-BF68-7D343932273B}",
+        "sighttime": 1754944680000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.53084467,
+        "sighting_long_wgs84": 153.0837616
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1060349,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.36856395620185,
+          -27.936308780807853
+        ]
+      },
+      "properties": {
+        "locality": "Arundel",
+        "objectid": 1060349,
+        "globalid": "{D1C7E331-C2DB-4012-A225-4148A163DB45}",
+        "sighttime": 1754981940000,
         "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Ipswich City",
-        "sighting_lat_wgs84": -27.6930099,
-        "sighting_long_wgs84": 152.73465152
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.936308780000001,
+        "sighting_long_wgs84": 153.36856396000002
       }
     }
   ]
