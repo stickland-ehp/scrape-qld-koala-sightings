@@ -49,48 +49,71 @@
     },
     {
       "type": "Feature",
-      "id": 1061099,
+      "id": 1061106,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.08376159972255,
-          -27.530844666626319
+          152.55490796968454,
+          -27.214100329904856
         ]
       },
       "properties": {
-        "locality": "Mount Gravatt East",
-        "objectid": 1061099,
-        "globalid": "{FDEB74BF-CDCF-4AC5-BF68-7D343932273B}",
-        "sighttime": 1754944680000,
+        "locality": null,
+        "objectid": 1061106,
+        "globalid": "{5D256FC7-AFE3-49D3-8709-1ACE89030F62}",
+        "sighttime": 1755028440000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.53084467,
-        "sighting_long_wgs84": 153.0837616
+        "lga": null,
+        "sighting_lat_wgs84": null,
+        "sighting_long_wgs84": null
       }
     },
     {
       "type": "Feature",
-      "id": 1060349,
+      "id": 1061109,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.36856395620185,
-          -27.936308780807853
+          153.1682936024558,
+          -27.550066260843419
         ]
       },
       "properties": {
-        "locality": "Arundel",
-        "objectid": 1060349,
-        "globalid": "{D1C7E331-C2DB-4012-A225-4148A163DB45}",
-        "sighttime": 1754981940000,
-        "joeypresent": "Not Sure",
+        "locality": "Burbank",
+        "objectid": 1061109,
+        "globalid": "{5F6FAD09-D023-402D-A1D1-CF8E7E9656E2}",
+        "sighttime": 1755050640000,
+        "joeypresent": "Yes",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.936308780000001,
-        "sighting_long_wgs84": 153.36856396000002
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.550066260000001,
+        "sighting_long_wgs84": 153.16829360000003
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1061113,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.49791635074354,
+          -28.045335790334722
+        ]
+      },
+      "properties": {
+        "locality": "Moogerah",
+        "objectid": 1061113,
+        "globalid": "{BC5D2A88-D3FA-478E-929F-1BC57CDDEC14}",
+        "sighttime": 1755067560000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Scenic Rim Regional",
+        "sighting_lat_wgs84": -28.045335789999999,
+        "sighting_long_wgs84": 152.49791635
       }
     }
   ]
