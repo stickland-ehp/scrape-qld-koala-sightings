@@ -49,71 +49,48 @@
     },
     {
       "type": "Feature",
-      "id": 1061106,
+      "id": 1061119,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.55490796968454,
-          -27.214100329904856
+          153.04671057415095,
+          -27.541996800225849
+        ]
+      },
+      "properties": {
+        "locality": "Nathan",
+        "objectid": 1061119,
+        "globalid": "{A005D14C-8080-41C6-8566-1919803F82A0}",
+        "sighttime": 1755133200000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.5419968,
+        "sighting_long_wgs84": 153.04671056999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1061123,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.14357000032297,
+          -27.624789999840534
         ]
       },
       "properties": {
         "locality": null,
-        "objectid": 1061106,
-        "globalid": "{5D256FC7-AFE3-49D3-8709-1ACE89030F62}",
-        "sighttime": 1755028440000,
-        "joeypresent": "No",
+        "objectid": 1061123,
+        "globalid": "{C5518E82-2463-41F8-9B07-817F55763F5D}",
+        "sighttime": 1755146100000,
+        "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": null,
-        "sighting_lat_wgs84": null,
-        "sighting_long_wgs84": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1061109,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.1682936024558,
-          -27.550066260843419
-        ]
-      },
-      "properties": {
-        "locality": "Burbank",
-        "objectid": 1061109,
-        "globalid": "{5F6FAD09-D023-402D-A1D1-CF8E7E9656E2}",
-        "sighttime": 1755050640000,
-        "joeypresent": "Yes",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.550066260000001,
-        "sighting_long_wgs84": 153.16829360000003
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1061113,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.49791635074354,
-          -28.045335790334722
-        ]
-      },
-      "properties": {
-        "locality": "Moogerah",
-        "objectid": 1061113,
-        "globalid": "{BC5D2A88-D3FA-478E-929F-1BC57CDDEC14}",
-        "sighttime": 1755067560000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Scenic Rim Regional",
-        "sighting_lat_wgs84": -28.045335789999999,
-        "sighting_long_wgs84": 152.49791635
+        "lga": "Logan City",
+        "sighting_lat_wgs84": -27.624790000000001,
+        "sighting_long_wgs84": 153.14356999999998
       }
     }
   ]
