@@ -46,29 +46,6 @@
         "sighting_lat_wgs84": -27.748447580000001,
         "sighting_long_wgs84": 153.14911741
       }
-    },
-    {
-      "type": "Feature",
-      "id": 1061498,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.37517319592041,
-          -27.91553919458752
-        ]
-      },
-      "properties": {
-        "locality": "Coombabah",
-        "objectid": 1061498,
-        "globalid": "{3199978A-8647-434C-B53E-203DFAF8BC60}",
-        "sighttime": 1755236340000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.915539190000001,
-        "sighting_long_wgs84": 153.37517320000001
-      }
     }
   ]
 }
