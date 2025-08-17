@@ -46,6 +46,75 @@
         "sighting_lat_wgs84": -27.748447580000001,
         "sighting_long_wgs84": 153.14911741
       }
+    },
+    {
+      "type": "Feature",
+      "id": 1062698,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.08658549963224,
+          -27.509485500189363
+        ]
+      },
+      "properties": {
+        "locality": "Carina Heights",
+        "objectid": 1062698,
+        "globalid": "{25BAED23-DF04-447E-888E-393D3BEE5061}",
+        "sighttime": 1755404940000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.5094855,
+        "sighting_long_wgs84": 153.08658550000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1061908,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.08274959994429,
+          -27.510584399629305
+        ]
+      },
+      "properties": {
+        "locality": "Carina Heights",
+        "objectid": 1061908,
+        "globalid": "{B7071583-FC0F-401D-8ABD-6B494868DDDF}",
+        "sighttime": 1755407520000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.510584399999999,
+        "sighting_long_wgs84": 153.0827496
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1062298,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.08669170026178,
+          -27.509570500282216
+        ]
+      },
+      "properties": {
+        "locality": "Carina Heights",
+        "objectid": 1062298,
+        "globalid": "{2BFD02D2-2417-4D9E-BB32-1ECDA8EDCB04}",
+        "sighttime": 1755404820000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.509570499999999,
+        "sighting_long_wgs84": 153.08669170000002
+      }
     }
   ]
 }
