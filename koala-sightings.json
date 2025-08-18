@@ -49,71 +49,48 @@
     },
     {
       "type": "Feature",
-      "id": 1062698,
+      "id": 1061912,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.08658549963224,
-          -27.509485500189363
+          153.24728130027347,
+          -27.511473000360489
         ]
       },
       "properties": {
-        "locality": "Carina Heights",
-        "objectid": 1062698,
-        "globalid": "{25BAED23-DF04-447E-888E-393D3BEE5061}",
-        "sighttime": 1755404940000,
-        "joeypresent": "No",
+        "locality": null,
+        "objectid": 1061912,
+        "globalid": "{3377728F-3184-43FC-A05A-72079B35DF38}",
+        "sighttime": 1755474720000,
+        "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.5094855,
-        "sighting_long_wgs84": 153.08658550000001
+        "lga": "Redland City",
+        "sighting_lat_wgs84": -27.511473000000002,
+        "sighting_long_wgs84": 153.2472813
       }
     },
     {
       "type": "Feature",
-      "id": 1061908,
+      "id": 1062306,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.08274959994429,
-          -27.510584399629305
+          152.93298372263746,
+          -27.388975267952794
         ]
       },
       "properties": {
-        "locality": "Carina Heights",
-        "objectid": 1061908,
-        "globalid": "{B7071583-FC0F-401D-8ABD-6B494868DDDF}",
-        "sighttime": 1755407520000,
-        "joeypresent": "No",
+        "locality": "Ferny Hills",
+        "objectid": 1062306,
+        "globalid": "{925DF336-BA0B-421A-8A46-990293BA9326}",
+        "sighttime": 1755500280000,
+        "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.510584399999999,
-        "sighting_long_wgs84": 153.0827496
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1062298,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.08669170026178,
-          -27.509570500282216
-        ]
-      },
-      "properties": {
-        "locality": "Carina Heights",
-        "objectid": 1062298,
-        "globalid": "{2BFD02D2-2417-4D9E-BB32-1ECDA8EDCB04}",
-        "sighttime": 1755404820000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.509570499999999,
-        "sighting_long_wgs84": 153.08669170000002
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.38897527,
+        "sighting_long_wgs84": 152.93298371999998
       }
     }
   ]
