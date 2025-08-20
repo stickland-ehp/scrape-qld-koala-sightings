@@ -46,29 +46,6 @@
         "sighting_lat_wgs84": -27.748447580000001,
         "sighting_long_wgs84": 153.14911741
       }
-    },
-    {
-      "type": "Feature",
-      "id": 1062312,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.11057402923271,
-          -27.54085423410606
-        ]
-      },
-      "properties": {
-        "locality": "Mansfield",
-        "objectid": 1062312,
-        "globalid": "{FCBE3A00-EEF7-40E7-8F15-8F5D9D672529}",
-        "sighttime": 1755586080000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.540854230000001,
-        "sighting_long_wgs84": 153.11057403000001
-      }
     }
   ]
 }
