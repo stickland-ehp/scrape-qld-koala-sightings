@@ -46,6 +46,52 @@
         "sighting_lat_wgs84": -27.748447580000001,
         "sighting_long_wgs84": 153.14911741
       }
+    },
+    {
+      "type": "Feature",
+      "id": 1062321,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.07760395836871,
+          -27.542315128626452
+        ]
+      },
+      "properties": {
+        "locality": "Mount Gravatt",
+        "objectid": 1062321,
+        "globalid": "{749F62C6-BE65-4166-AE2D-D1EA9C06FE89}",
+        "sighttime": 1755752280000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.542315130000002,
+        "sighting_long_wgs84": 153.07760395999998
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1061921,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.07910723599605,
+          -27.543164659356425
+        ]
+      },
+      "properties": {
+        "locality": "Mount Gravatt",
+        "objectid": 1061921,
+        "globalid": "{1FCB1F09-1EC9-442D-BA33-9DA67A7F7798}",
+        "sighttime": 1755752820000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.543164659999999,
+        "sighting_long_wgs84": 153.07910724000001
+      }
     }
   ]
 }
