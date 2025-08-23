@@ -49,25 +49,186 @@
     },
     {
       "type": "Feature",
-      "id": 1061924,
+      "id": 1062328,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.16932430336163,
-          -27.621393471745389
+          151.89757787700668,
+          -27.59847928656195
         ]
       },
       "properties": {
-        "locality": "Daisy Hill",
-        "objectid": 1061924,
-        "globalid": "{1ABBF4C2-BDF1-424C-A83D-DB9EE79C6DA5}",
-        "sighttime": 1755829560000,
-        "joeypresent": "Not Sure",
+        "locality": "Drayton",
+        "objectid": 1062328,
+        "globalid": "{72092545-FC09-4493-8FA0-18E372971CE2}",
+        "sighttime": 1755909120000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": "Toowoomba Regional",
+        "sighting_lat_wgs84": -27.59847929,
+        "sighting_long_wgs84": 151.89757788
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1061928,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.08172619964671,
+          -27.514839099859486
+        ]
+      },
+      "properties": {
+        "locality": "Carina Heights",
+        "objectid": 1061928,
+        "globalid": "{57C44E12-BECD-4629-8BED-E563165BC231}",
+        "sighttime": 1755920460000,
+        "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Logan City",
-        "sighting_lat_wgs84": -27.621393470000001,
-        "sighting_long_wgs84": 153.1693243
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.5148391,
+        "sighting_long_wgs84": 153.08172620000002
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1062329,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.08278099965671,
+          -27.506634900340853
+        ]
+      },
+      "properties": {
+        "locality": "Camp Hill",
+        "objectid": 1062329,
+        "globalid": "{0A8E9988-BDDC-4DCA-B260-860387AECC6C}",
+        "sighttime": 1755922560000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.506634899999998,
+        "sighting_long_wgs84": 153.08278099999998
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1063101,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.08272920010248,
+          -27.506699699816803
+        ]
+      },
+      "properties": {
+        "locality": "Camp Hill",
+        "objectid": 1063101,
+        "globalid": "{D8AC6CB3-26C6-44EE-8F8D-23A0A520FC81}",
+        "sighttime": 1755922620000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.506699699999999,
+        "sighting_long_wgs84": 153.08272919999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1063501,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.08190100012291,
+          -27.507777700205992
+        ]
+      },
+      "properties": {
+        "locality": "Camp Hill",
+        "objectid": 1063501,
+        "globalid": "{443C4485-3F29-43B7-B890-914D1FA136E7}",
+        "sighttime": 1755924300000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.507777699999998,
+        "sighting_long_wgs84": 153.08190099999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1063102,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.08317330022948,
+          -27.510424999976077
+        ]
+      },
+      "properties": {
+        "locality": "Carina Heights",
+        "objectid": 1063102,
+        "globalid": "{8ECDBEAD-C3C9-42B5-BF58-38FA08FA7256}",
+        "sighttime": 1755924840000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.510425000000001,
+        "sighting_long_wgs84": 153.0831733
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1063901,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.08326100005576,
+          -27.510272899833193
+        ]
+      },
+      "properties": {
+        "locality": "Carina Heights",
+        "objectid": 1063901,
+        "globalid": "{B249703A-A9B4-407F-AFCB-1CDC26F9DBFE}",
+        "sighttime": 1755925020000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.5102729,
+        "sighting_long_wgs84": 153.08326099999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1064301,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.08256770008236,
+          -27.512637000193671
+        ]
+      },
+      "properties": {
+        "locality": "Carina Heights",
+        "objectid": 1064301,
+        "globalid": "{65761131-D5C5-4C20-80BE-F33B95C8C47E}",
+        "sighttime": 1755925200000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.512636999999998,
+        "sighting_long_wgs84": 153.0825677
       }
     }
   ]
