@@ -49,48 +49,25 @@
     },
     {
       "type": "Feature",
-      "id": 1062704,
+      "id": 1062711,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.9088927608401,
-          -26.709735579507967
-        ]
-      },
-      "properties": {
-        "locality": "Montville",
-        "objectid": 1062704,
-        "globalid": "{619B3788-6FBD-41AF-8101-EEB652585896}",
-        "sighttime": 1756005180000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Sunshine Coast Regional",
-        "sighting_lat_wgs84": -26.70973558,
-        "sighting_long_wgs84": 152.90889276000001
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1062707,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.45038246730323,
-          -27.528329762750015
+          153.24762859974209,
+          -27.511382799868116
         ]
       },
       "properties": {
         "locality": null,
-        "objectid": 1062707,
-        "globalid": "{09EB9EC5-0F96-4403-80D1-C79C5319F0B1}",
-        "sighttime": 1756013580000,
+        "objectid": 1062711,
+        "globalid": "{581E0539-E7E0-49D9-85B0-4B4CB1AB4762}",
+        "sighttime": 1756096320000,
         "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": null,
-        "sighting_lat_wgs84": null,
-        "sighting_long_wgs84": null
+        "lga": "Redland City",
+        "sighting_lat_wgs84": -27.5113828,
+        "sighting_long_wgs84": 153.24762860000001
       }
     }
   ]
