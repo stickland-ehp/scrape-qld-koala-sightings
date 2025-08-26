@@ -49,25 +49,71 @@
     },
     {
       "type": "Feature",
-      "id": 1062711,
+      "id": 1062715,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.24762859974209,
-          -27.511382799868116
+          153.11043762634503,
+          -27.538846680168472
         ]
       },
       "properties": {
-        "locality": null,
-        "objectid": 1062711,
-        "globalid": "{581E0539-E7E0-49D9-85B0-4B4CB1AB4762}",
-        "sighttime": 1756096320000,
+        "locality": "Mansfield",
+        "objectid": 1062715,
+        "globalid": "{7EA20F1C-4B72-4C65-A4FF-7E928E933E1B}",
+        "sighttime": 1756167060000,
+        "joeypresent": "Yes",
+        "numberofkoala": 3,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.538846679999999,
+        "sighting_long_wgs84": 153.11043763000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1062718,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.14748092101527,
+          -27.630096687605448
+        ]
+      },
+      "properties": {
+        "locality": "Daisy Hill",
+        "objectid": 1062718,
+        "globalid": "{450A127B-C29E-49C5-BACD-1DA2EB7AC26F}",
+        "sighttime": 1756197900000,
         "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Redland City",
-        "sighting_lat_wgs84": -27.5113828,
-        "sighting_long_wgs84": 153.24762860000001
+        "lga": "Logan City",
+        "sighting_lat_wgs84": -27.630096689999998,
+        "sighting_long_wgs84": 153.14748091999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1063517,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.99342012646989,
+          -27.143448012128356
+        ]
+      },
+      "properties": {
+        "locality": "Burpengary East",
+        "objectid": 1063517,
+        "globalid": "{DC66C4B7-DF9C-44A8-8EAC-F145662DE822}",
+        "sighttime": 1756207200000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.14344801,
+        "sighting_long_wgs84": 152.99342013
       }
     }
   ]
