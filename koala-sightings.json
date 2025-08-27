@@ -49,71 +49,71 @@
     },
     {
       "type": "Feature",
-      "id": 1062715,
+      "id": 1062720,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.11043762634503,
-          -27.538846680168472
+          153.24852089990708,
+          -27.511465699902057
         ]
       },
       "properties": {
-        "locality": "Mansfield",
-        "objectid": 1062715,
-        "globalid": "{7EA20F1C-4B72-4C65-A4FF-7E928E933E1B}",
-        "sighttime": 1756167060000,
-        "joeypresent": "Yes",
-        "numberofkoala": 3,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.538846679999999,
-        "sighting_long_wgs84": 153.11043763000001
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1062718,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.14748092101527,
-          -27.630096687605448
-        ]
-      },
-      "properties": {
-        "locality": "Daisy Hill",
-        "objectid": 1062718,
-        "globalid": "{450A127B-C29E-49C5-BACD-1DA2EB7AC26F}",
-        "sighttime": 1756197900000,
+        "locality": null,
+        "objectid": 1062720,
+        "globalid": "{510EC657-D87D-47C7-8E45-9CD6C45D765A}",
+        "sighttime": 1756252020000,
         "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Logan City",
-        "sighting_lat_wgs84": -27.630096689999998,
-        "sighting_long_wgs84": 153.14748091999999
+        "lga": "Redland City",
+        "sighting_lat_wgs84": -27.511465700000002,
+        "sighting_long_wgs84": 153.24852090000002
       }
     },
     {
       "type": "Feature",
-      "id": 1063517,
+      "id": 1063520,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.99342012646989,
-          -27.143448012128356
+          152.99664023731879,
+          -27.435243805240461
         ]
       },
       "properties": {
-        "locality": "Burpengary East",
-        "objectid": 1063517,
-        "globalid": "{DC66C4B7-DF9C-44A8-8EAC-F145662DE822}",
-        "sighttime": 1756207200000,
+        "locality": "Alderley",
+        "objectid": 1063520,
+        "globalid": "{9ECEECE3-2332-4636-937D-74EA2B932CF7}",
+        "sighttime": 1756255680000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.14344801,
-        "sighting_long_wgs84": 152.99342013
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.435243810000003,
+        "sighting_long_wgs84": 152.99664024
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1062722,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.03955649992434,
+          -27.294225099986356
+        ]
+      },
+      "properties": {
+        "locality": "Bald Hills",
+        "objectid": 1062722,
+        "globalid": "{841A44CF-A66F-42ED-ABF8-66DD6FA44F05}",
+        "sighttime": 1756264380000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.294225099999998,
+        "sighting_long_wgs84": 153.0395565
       }
     }
   ]
