@@ -26,6 +26,144 @@
     },
     {
       "type": "Feature",
+      "id": 1063527,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.24748860000005,
+          -27.511437000005014
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1063527,
+        "globalid": "{47F7709E-CAFF-4031-AD0B-2C4CF2F2AC66}",
+        "sighttime": 1756338900000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Redland City",
+        "sighting_lat_wgs84": -27.511437000000001,
+        "sighting_long_wgs84": 153.2474886
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1062727,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.35914553546951,
+          -27.933630764248431
+        ]
+      },
+      "properties": {
+        "locality": "Arundel",
+        "objectid": 1062727,
+        "globalid": "{5B72994F-2B3E-4D48-9569-AEF86536E5AF}",
+        "sighttime": 1756331880000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.93363076,
+        "sighting_long_wgs84": 153.35914554000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1046604,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.07462433999603,
+          -27.513701444443228
+        ]
+      },
+      "properties": {
+        "locality": "Coorparoo",
+        "objectid": 1046604,
+        "globalid": "{25AC57B6-14FE-4EAC-82B6-C76CB838377C}",
+        "sighttime": 1765746000000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.513701439999998,
+        "sighting_long_wgs84": 153.07462434000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1042223,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.07810439993202,
+          -27.511279100243257
+        ]
+      },
+      "properties": {
+        "locality": "Camp Hill",
+        "objectid": 1042223,
+        "globalid": "{17943C75-B809-4349-9A69-ADF9AC3AF133}",
+        "sighttime": 1771452660000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.511279099999999,
+        "sighting_long_wgs84": 153.0781044
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1043414,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.07065159994082,
+          -27.521149499755833
+        ]
+      },
+      "properties": {
+        "locality": "Holland Park",
+        "objectid": 1043414,
+        "globalid": "{DC78DBC4-2846-4903-8A46-113C01BCB487}",
+        "sighttime": 1766361600000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.5211495,
+        "sighting_long_wgs84": 153.07065160000002
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1062730,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.36683924565358,
+          -27.929808693293694
+        ]
+      },
+      "properties": {
+        "locality": "Arundel",
+        "objectid": 1062730,
+        "globalid": "{557CB2BE-BF70-4702-B42C-F566867F7900}",
+        "sighttime": 1756363500000,
+        "joeypresent": "Yes",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.929808690000002,
+        "sighting_long_wgs84": 153.36683925
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1042197,
       "geometry": {
         "type": "Point",
@@ -45,75 +183,6 @@
         "lga": "Logan City",
         "sighting_lat_wgs84": -27.748447580000001,
         "sighting_long_wgs84": 153.14911741
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1062720,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.24852089990708,
-          -27.511465699902057
-        ]
-      },
-      "properties": {
-        "locality": null,
-        "objectid": 1062720,
-        "globalid": "{510EC657-D87D-47C7-8E45-9CD6C45D765A}",
-        "sighttime": 1756252020000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Redland City",
-        "sighting_lat_wgs84": -27.511465700000002,
-        "sighting_long_wgs84": 153.24852090000002
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1063520,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.99664023731879,
-          -27.435243805240461
-        ]
-      },
-      "properties": {
-        "locality": "Alderley",
-        "objectid": 1063520,
-        "globalid": "{9ECEECE3-2332-4636-937D-74EA2B932CF7}",
-        "sighttime": 1756255680000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.435243810000003,
-        "sighting_long_wgs84": 152.99664024
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1062722,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.03955649992434,
-          -27.294225099986356
-        ]
-      },
-      "properties": {
-        "locality": "Bald Hills",
-        "objectid": 1062722,
-        "globalid": "{841A44CF-A66F-42ED-ABF8-66DD6FA44F05}",
-        "sighttime": 1756264380000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.294225099999998,
-        "sighting_long_wgs84": 153.0395565
       }
     }
   ]
