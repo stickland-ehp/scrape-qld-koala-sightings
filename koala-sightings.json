@@ -26,52 +26,6 @@
     },
     {
       "type": "Feature",
-      "id": 1063527,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.24748860000005,
-          -27.511437000005014
-        ]
-      },
-      "properties": {
-        "locality": null,
-        "objectid": 1063527,
-        "globalid": "{47F7709E-CAFF-4031-AD0B-2C4CF2F2AC66}",
-        "sighttime": 1756338900000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Redland City",
-        "sighting_lat_wgs84": -27.511437000000001,
-        "sighting_long_wgs84": 153.2474886
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1062727,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.35914553546951,
-          -27.933630764248431
-        ]
-      },
-      "properties": {
-        "locality": "Arundel",
-        "objectid": 1062727,
-        "globalid": "{5B72994F-2B3E-4D48-9569-AEF86536E5AF}",
-        "sighttime": 1756331880000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.93363076,
-        "sighting_long_wgs84": 153.35914554000001
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1046604,
       "geometry": {
         "type": "Point",
@@ -141,25 +95,48 @@
     },
     {
       "type": "Feature",
-      "id": 1062730,
+      "id": 1062734,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.36683924565358,
-          -27.929808693293694
+          153.29423341587119,
+          -27.986582120272509
         ]
       },
       "properties": {
-        "locality": "Arundel",
-        "objectid": 1062730,
-        "globalid": "{557CB2BE-BF70-4702-B42C-F566867F7900}",
-        "sighttime": 1756363500000,
-        "joeypresent": "Yes",
+        "locality": "Nerang",
+        "objectid": 1062734,
+        "globalid": "{A738650D-5CCC-4A56-B4C0-6FC40F0DB599}",
+        "sighttime": 1756423620000,
+        "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.929808690000002,
-        "sighting_long_wgs84": 153.36683925
+        "sighting_lat_wgs84": -27.986582119999998,
+        "sighting_long_wgs84": 153.29423341999998
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1063535,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.81497222252744,
+          -27.066472222144178
+        ]
+      },
+      "properties": {
+        "locality": "Campbells Pocket",
+        "objectid": 1063535,
+        "globalid": "{56E96191-269D-4F7D-BA76-278C9DFEAD93}",
+        "sighttime": 1756440300000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Dead",
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.066472220000001,
+        "sighting_long_wgs84": 152.81497221999999
       }
     },
     {
