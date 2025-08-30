@@ -3,6 +3,29 @@
   "features": [
     {
       "type": "Feature",
+      "id": 1062315,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.04422146640573,
+          -28.258204400714465
+        ]
+      },
+      "properties": {
+        "locality": "Morgan Park",
+        "objectid": 1062315,
+        "globalid": "{917BAEC0-C86B-4A85-AC8F-869A194E1AF4}",
+        "sighttime": 1787006280000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Injured/Sick",
+        "lga": "Southern Downs Regional",
+        "sighting_lat_wgs84": -28.2582044,
+        "sighting_long_wgs84": 152.04422147
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1047003,
       "geometry": {
         "type": "Point",
@@ -22,6 +45,29 @@
         "lga": "Brisbane City",
         "sighting_lat_wgs84": -27.506981000000003,
         "sighting_long_wgs84": 153.083021
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1063538,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.38135359962479,
+          -27.324833400309529
+        ]
+      },
+      "properties": {
+        "locality": "Mount Hallen",
+        "objectid": 1063538,
+        "globalid": "{A90479BF-EB17-4F3B-BE2F-53889C105F30}",
+        "sighttime": 1756524300000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -27.324833399999999,
+        "sighting_long_wgs84": 152.38135360000001
       }
     },
     {
@@ -95,48 +141,48 @@
     },
     {
       "type": "Feature",
-      "id": 1062734,
+      "id": 1062737,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.29423341587119,
-          -27.986582120272509
+          151.97100397105143,
+          -26.164956988938624
         ]
       },
       "properties": {
-        "locality": "Nerang",
-        "objectid": 1062734,
-        "globalid": "{A738650D-5CCC-4A56-B4C0-6FC40F0DB599}",
-        "sighttime": 1756423620000,
+        "locality": "Tablelands",
+        "objectid": 1062737,
+        "globalid": "{1DB840A1-C0D8-4851-A6FE-4792C13421AB}",
+        "sighttime": 1756516560000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.986582119999998,
-        "sighting_long_wgs84": 153.29423341999998
+        "lga": "South Burnett Regional",
+        "sighting_lat_wgs84": -26.16495699,
+        "sighting_long_wgs84": 151.97100397
       }
     },
     {
       "type": "Feature",
-      "id": 1063535,
+      "id": 1061934,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.81497222252744,
-          -27.066472222144178
+          153.24759270036841,
+          -27.511374500300494
         ]
       },
       "properties": {
-        "locality": "Campbells Pocket",
-        "objectid": 1063535,
-        "globalid": "{56E96191-269D-4F7D-BA76-278C9DFEAD93}",
-        "sighttime": 1756440300000,
-        "joeypresent": "No",
+        "locality": null,
+        "objectid": 1061934,
+        "globalid": "{5F57621A-F3D0-480B-849F-2EAA6A71394D}",
+        "sighttime": 1756532820000,
+        "joeypresent": "Not Sure",
         "numberofkoala": 1,
-        "koalacondifinal": "Dead",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.066472220000001,
-        "sighting_long_wgs84": 152.81497221999999
+        "koalacondifinal": "Healthy",
+        "lga": "Redland City",
+        "sighting_lat_wgs84": -27.511374499999999,
+        "sighting_long_wgs84": 153.24759270000001
       }
     },
     {
