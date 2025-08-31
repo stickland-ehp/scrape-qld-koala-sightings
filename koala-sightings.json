@@ -49,29 +49,6 @@
     },
     {
       "type": "Feature",
-      "id": 1063538,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.38135359962479,
-          -27.324833400309529
-        ]
-      },
-      "properties": {
-        "locality": "Mount Hallen",
-        "objectid": 1063538,
-        "globalid": "{A90479BF-EB17-4F3B-BE2F-53889C105F30}",
-        "sighttime": 1756524300000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.324833399999999,
-        "sighting_long_wgs84": 152.38135360000001
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1046604,
       "geometry": {
         "type": "Point",
@@ -141,48 +118,94 @@
     },
     {
       "type": "Feature",
-      "id": 1062737,
+      "id": 1062740,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.97100397105143,
-          -26.164956988938624
+          153.08550600044356,
+          -27.507383099786342
         ]
       },
       "properties": {
-        "locality": "Tablelands",
-        "objectid": 1062737,
-        "globalid": "{1DB840A1-C0D8-4851-A6FE-4792C13421AB}",
-        "sighttime": 1756516560000,
+        "locality": "Camp Hill",
+        "objectid": 1062740,
+        "globalid": "{CF3D6E2A-B17E-4B9E-8F99-3C3528D9DD30}",
+        "sighttime": 1756599600000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "South Burnett Regional",
-        "sighting_lat_wgs84": -26.16495699,
-        "sighting_long_wgs84": 151.97100397
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.507383100000002,
+        "sighting_long_wgs84": 153.08550600000001
       }
     },
     {
       "type": "Feature",
-      "id": 1061934,
+      "id": 1063541,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.24759270036841,
-          -27.511374500300494
+          153.07823540035159,
+          -27.505928199693365
         ]
       },
       "properties": {
-        "locality": null,
-        "objectid": 1061934,
-        "globalid": "{5F57621A-F3D0-480B-849F-2EAA6A71394D}",
-        "sighttime": 1756532820000,
-        "joeypresent": "Not Sure",
+        "locality": "Camp Hill",
+        "objectid": 1063541,
+        "globalid": "{517ECAE9-B250-4C0A-8FA1-CDBE913285DC}",
+        "sighttime": 1756601520000,
+        "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Redland City",
-        "sighting_lat_wgs84": -27.511374499999999,
-        "sighting_long_wgs84": 153.24759270000001
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.5059282,
+        "sighting_long_wgs84": 153.07823540000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1062741,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.01264730029854,
+          -27.266791899977378
+        ]
+      },
+      "properties": {
+        "locality": "Murrumba Downs",
+        "objectid": 1062741,
+        "globalid": "{A07F1520-5B68-4B6A-A1F1-5B87864987A1}",
+        "sighttime": 1756603260000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.266791900000001,
+        "sighting_long_wgs84": 153.0126473
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1062742,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.07823540035159,
+          -27.505928199693365
+        ]
+      },
+      "properties": {
+        "locality": "Camp Hill",
+        "objectid": 1062742,
+        "globalid": "{2677C2B2-8659-43E0-BF73-551F13237AE8}",
+        "sighttime": 1756601520000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.5059282,
+        "sighting_long_wgs84": 153.07823540000001
       }
     },
     {
