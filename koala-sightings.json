@@ -118,94 +118,25 @@
     },
     {
       "type": "Feature",
-      "id": 1062740,
+      "id": 1062744,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.08550600044356,
-          -27.507383099786342
+          153.02844762679544,
+          -27.283622372023149
         ]
       },
       "properties": {
-        "locality": "Camp Hill",
-        "objectid": 1062740,
-        "globalid": "{CF3D6E2A-B17E-4B9E-8F99-3C3528D9DD30}",
-        "sighttime": 1756599600000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.507383100000002,
-        "sighting_long_wgs84": 153.08550600000001
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1063541,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.07823540035159,
-          -27.505928199693365
-        ]
-      },
-      "properties": {
-        "locality": "Camp Hill",
-        "objectid": 1063541,
-        "globalid": "{517ECAE9-B250-4C0A-8FA1-CDBE913285DC}",
-        "sighttime": 1756601520000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.5059282,
-        "sighting_long_wgs84": 153.07823540000001
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1062741,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.01264730029854,
-          -27.266791899977378
-        ]
-      },
-      "properties": {
-        "locality": "Murrumba Downs",
-        "objectid": 1062741,
-        "globalid": "{A07F1520-5B68-4B6A-A1F1-5B87864987A1}",
-        "sighttime": 1756603260000,
+        "locality": "Griffin",
+        "objectid": 1062744,
+        "globalid": "{8A67AB05-4FE0-4EC4-98EB-8258A3C99133}",
+        "sighttime": 1756687140000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.266791900000001,
-        "sighting_long_wgs84": 153.0126473
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1062742,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.07823540035159,
-          -27.505928199693365
-        ]
-      },
-      "properties": {
-        "locality": "Camp Hill",
-        "objectid": 1062742,
-        "globalid": "{2677C2B2-8659-43E0-BF73-551F13237AE8}",
-        "sighttime": 1756601520000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.5059282,
-        "sighting_long_wgs84": 153.07823540000001
+        "sighting_lat_wgs84": -27.28362237,
+        "sighting_long_wgs84": 153.02844763000002
       }
     },
     {
