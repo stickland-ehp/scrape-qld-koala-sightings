@@ -118,25 +118,48 @@
     },
     {
       "type": "Feature",
-      "id": 1062744,
+      "id": 1062343,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.02844762679544,
-          -27.283622372023149
+          153.0534886719901,
+          -27.543459372913933
         ]
       },
       "properties": {
-        "locality": "Griffin",
-        "objectid": 1062744,
-        "globalid": "{8A67AB05-4FE0-4EC4-98EB-8258A3C99133}",
-        "sighttime": 1756687140000,
+        "locality": "Nathan",
+        "objectid": 1062343,
+        "globalid": "{46299A36-85EC-4D9B-ACD0-21D3323417DB}",
+        "sighttime": 1756763400000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.28362237,
-        "sighting_long_wgs84": 153.02844763000002
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.543459369999997,
+        "sighting_long_wgs84": 153.05348867000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1063546,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.36106205070399,
+          -27.938121687514545
+        ]
+      },
+      "properties": {
+        "locality": "Arundel",
+        "objectid": 1063546,
+        "globalid": "{26009B4B-8427-49E5-BB18-803DA57BF9B0}",
+        "sighttime": 1756792200000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.938121689999999,
+        "sighting_long_wgs84": 153.36106204999999
       }
     },
     {
