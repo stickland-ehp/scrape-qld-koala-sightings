@@ -118,48 +118,140 @@
     },
     {
       "type": "Feature",
-      "id": 1062343,
+      "id": 1063547,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.0534886719901,
-          -27.543459372913933
+          152.035193661905,
+          -27.174673848915585
         ]
       },
       "properties": {
-        "locality": "Nathan",
-        "objectid": 1062343,
-        "globalid": "{46299A36-85EC-4D9B-ACD0-21D3323417DB}",
-        "sighttime": 1756763400000,
-        "joeypresent": "No",
+        "locality": "Crows Nest",
+        "objectid": 1063547,
+        "globalid": "{DCD51235-A28F-44CB-832A-BDF9DB1B1E4A}",
+        "sighttime": 1756850160000,
+        "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.543459369999997,
-        "sighting_long_wgs84": 153.05348867000001
+        "lga": "Toowoomba Regional",
+        "sighting_lat_wgs84": -27.26539623,
+        "sighting_long_wgs84": 152.05023548999998
       }
     },
     {
       "type": "Feature",
-      "id": 1063546,
+      "id": 1061944,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.36106205070399,
-          -27.938121687514545
+          148.88999700043095,
+          -21.778193999894256
         ]
       },
       "properties": {
-        "locality": "Arundel",
-        "objectid": 1063546,
-        "globalid": "{26009B4B-8427-49E5-BB18-803DA57BF9B0}",
-        "sighttime": 1756792200000,
-        "joeypresent": "Not Sure",
+        "locality": "Nebo",
+        "objectid": 1061944,
+        "globalid": "{4B01308E-039A-4D1B-BF77-4E881F68BA59}",
+        "sighttime": 1756866720000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Injured/Sick",
+        "lga": "Isaac Regional",
+        "sighting_lat_wgs84": -21.778193999999999,
+        "sighting_long_wgs84": 148.88999700000002
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1063548,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.58054961769841,
+          -27.959745604179695
+        ]
+      },
+      "properties": {
+        "locality": "Fassifern",
+        "objectid": 1063548,
+        "globalid": "{0CA03E32-269B-463D-A846-5F729F678E71}",
+        "sighttime": 1756871160000,
+        "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.938121689999999,
-        "sighting_long_wgs84": 153.36106204999999
+        "lga": "Scenic Rim Regional",
+        "sighting_lat_wgs84": -27.959745600000002,
+        "sighting_long_wgs84": 152.58054962
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1062346,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.30426226962638,
+          -27.595656640539044
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1062346,
+        "globalid": "{B0A49E1E-8EE0-43ED-BA26-EAB5B3325C9E}",
+        "sighttime": 1756875900000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Lockyer Valley Regional",
+        "sighting_lat_wgs84": -27.595656640000001,
+        "sighting_long_wgs84": 152.30426227000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1061945,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.37820227996369,
+          -27.087598004200888
+        ]
+      },
+      "properties": {
+        "locality": "Toogoolawah",
+        "objectid": 1061945,
+        "globalid": "{E6CFA3E3-F7B0-4A1C-98DF-5ED5E52BCFA8}",
+        "sighttime": 1756873200000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -27.087598,
+        "sighting_long_wgs84": 152.37820227999998
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1062749,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.07955198111347,
+          -27.515016757618078
+        ]
+      },
+      "properties": {
+        "locality": "Carina Heights",
+        "objectid": 1062749,
+        "globalid": "{A5431969-9FBD-4115-8D9D-4F84F42D3371}",
+        "sighttime": 1756868940000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.515016760000002,
+        "sighting_long_wgs84": 153.07955197999999
       }
     },
     {
