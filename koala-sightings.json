@@ -118,29 +118,6 @@
     },
     {
       "type": "Feature",
-      "id": 1063550,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.98882826841916,
-          -26.457456360542437
-        ]
-      },
-      "properties": {
-        "locality": "Doonan",
-        "objectid": 1063550,
-        "globalid": "{EE536DDF-BDAD-4068-8149-850562A76A1C}",
-        "sighttime": 1756936680000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Sunshine Coast Regional",
-        "sighting_lat_wgs84": -26.457456359999998,
-        "sighting_long_wgs84": 152.98882827
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1046603,
       "geometry": {
         "type": "Point",
@@ -210,71 +187,71 @@
     },
     {
       "type": "Feature",
-      "id": 1061946,
+      "id": 1062754,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.06701181685244,
-          -27.580074533121625
+          152.99613836384091,
+          -26.403294312317932
         ]
       },
       "properties": {
-        "locality": "Sunnybank",
-        "objectid": 1061946,
-        "globalid": "{AB73F284-3FF6-40A3-96A2-1A845AD6968A}",
-        "sighttime": 1756910400000,
-        "joeypresent": "Not Sure",
+        "locality": "Tewantin",
+        "objectid": 1062754,
+        "globalid": "{AB3A42D0-236A-4A2F-9237-2C6B47CCE018}",
+        "sighttime": 1757040300000,
+        "joeypresent": "No",
         "numberofkoala": 1,
-        "koalacondifinal": "Injured/Sick",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.580074529999997,
-        "sighting_long_wgs84": 153.06701182
+        "koalacondifinal": "Healthy",
+        "lga": "Noosa Shire",
+        "sighting_lat_wgs84": -26.40329431,
+        "sighting_long_wgs84": 152.99613836
       }
     },
     {
       "type": "Feature",
-      "id": 1061947,
+      "id": 1061950,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.0784442119427,
-          -27.489154815795136
+          153.09863799727162,
+          -27.509510055920146
         ]
       },
       "properties": {
-        "locality": "Camp Hill",
-        "objectid": 1061947,
-        "globalid": "{03A4EC2B-A7BD-43F0-89C6-48C841A69553}",
-        "sighttime": 1756946880000,
+        "locality": "Carina Heights",
+        "objectid": 1061950,
+        "globalid": "{5D77249E-2481-4B8E-8013-5D33DA70323D}",
+        "sighttime": 1757042760000,
         "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.488997780000002,
-        "sighting_long_wgs84": 153.07568154000001
+        "sighting_lat_wgs84": -27.50951006,
+        "sighting_long_wgs84": 153.09863799999999
       }
     },
     {
       "type": "Feature",
-      "id": 1063551,
+      "id": 1062351,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.73256634612042,
-          -27.695690958598
+          152.90547268500899,
+          -26.709646037711728
         ]
       },
       "properties": {
-        "locality": "Purga",
-        "objectid": 1063551,
-        "globalid": "{186D2CFC-6528-4D60-9D26-CA016377008D}",
-        "sighttime": 1756960200000,
-        "joeypresent": "Yes",
-        "numberofkoala": 2,
+        "locality": "Montville",
+        "objectid": 1062351,
+        "globalid": "{6A39DCC9-B6B7-4783-A631-8488F7E75671}",
+        "sighttime": 1757050860000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Ipswich City",
-        "sighting_lat_wgs84": -27.69569096,
-        "sighting_long_wgs84": 152.73256634999998
+        "lga": "Sunshine Coast Regional",
+        "sighting_lat_wgs84": -26.709646040000003,
+        "sighting_long_wgs84": 152.90547267999997
       }
     },
     {
