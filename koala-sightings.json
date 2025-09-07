@@ -187,163 +187,48 @@
     },
     {
       "type": "Feature",
-      "id": 1063556,
+      "id": 1064304,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.42448494585886,
-          -27.236828923394651
+          153.08290540015389,
+          -27.506199999958991
         ]
       },
       "properties": {
-        "locality": "Esk",
-        "objectid": 1063556,
-        "globalid": "{5BE41A67-390A-48B4-A713-9E192A6F20F7}",
-        "sighttime": 1757120940000,
+        "locality": "Camp Hill",
+        "objectid": 1064304,
+        "globalid": "{E8CD29E9-6DBE-478D-BF76-318A50EB502A}",
+        "sighttime": 1757206140000,
         "joeypresent": "Yes",
         "numberofkoala": 2,
         "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.236828919999997,
-        "sighting_long_wgs84": 152.42448494999999
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.5062,
+        "sighting_long_wgs84": 153.08290539999999
       }
     },
     {
       "type": "Feature",
-      "id": 1063557,
+      "id": 1062762,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.41787153352624,
-          -28.118805001810614
+          153.08200300023017,
+          -27.507943199689397
         ]
       },
       "properties": {
-        "locality": "Burleigh Heads",
-        "objectid": 1063557,
-        "globalid": "{334E99EF-75AF-45AA-84D3-B61D8551DEBA}",
-        "sighttime": 1757120400000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -28.118805000000002,
-        "sighting_long_wgs84": 153.41787153000001
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1062757,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.36650441929268,
-          -27.930770247494845
-        ]
-      },
-      "properties": {
-        "locality": "Arundel",
-        "objectid": 1062757,
-        "globalid": "{A94E133E-A590-4FE1-91A5-4FF20C832450}",
-        "sighttime": 1757137740000,
-        "joeypresent": "Yes",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.930770250000002,
-        "sighting_long_wgs84": 153.36650442000001
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1063558,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.07164789986288,
-          -27.544559099678001
-        ]
-      },
-      "properties": {
-        "locality": "Mount Gravatt",
-        "objectid": 1063558,
-        "globalid": "{F934138B-85FE-4814-BC02-F1AF21B553CF}",
-        "sighttime": 1757142900000,
+        "locality": "Camp Hill",
+        "objectid": 1062762,
+        "globalid": "{D5F9D281-EA40-4511-9D7A-5E0BBCBA29F8}",
+        "sighttime": 1757207580000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.544559100000001,
-        "sighting_long_wgs84": 153.07164789999999
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1062758,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.07249329988517,
-          -27.5457868996378
-        ]
-      },
-      "properties": {
-        "locality": "Mount Gravatt",
-        "objectid": 1062758,
-        "globalid": "{65031E65-B7DC-472B-8011-5FCC1ABD67BB}",
-        "sighttime": 1757143680000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.5457869,
-        "sighting_long_wgs84": 153.07249329999999
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1062759,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.07216099958686,
-          -27.544983999759655
-        ]
-      },
-      "properties": {
-        "locality": "Mount Gravatt",
-        "objectid": 1062759,
-        "globalid": "{BDCD259B-B79E-41C8-A43C-2DA1B669180C}",
-        "sighttime": 1757145120000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.544983999999999,
-        "sighting_long_wgs84": 153.07216099999999
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1062356,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.90934890018863,
-          -26.696492000058232
-        ]
-      },
-      "properties": {
-        "locality": "Montville",
-        "objectid": 1062356,
-        "globalid": "{D2EAAD7F-74B7-4C58-9330-F258C143B30F}",
-        "sighttime": 1757152380000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Sunshine Coast Regional",
-        "sighting_lat_wgs84": -26.696491999999999,
-        "sighting_long_wgs84": 152.9093489
+        "sighting_lat_wgs84": -27.5079432,
+        "sighting_long_wgs84": 153.08200299999999
       }
     },
     {
