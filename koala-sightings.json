@@ -187,48 +187,71 @@
     },
     {
       "type": "Feature",
-      "id": 1064304,
+      "id": 1062752,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.08290540015389,
-          -27.506199999958991
+          146.4609015008642,
+          -19.353893428235025
         ]
       },
       "properties": {
-        "locality": "Camp Hill",
-        "objectid": 1064304,
-        "globalid": "{E8CD29E9-6DBE-478D-BF76-318A50EB502A}",
-        "sighttime": 1757206140000,
-        "joeypresent": "Yes",
-        "numberofkoala": 2,
+        "locality": "Hervey Range",
+        "objectid": 1062752,
+        "globalid": "{CB6E7E95-0F89-4A00-881D-1C19E073124F}",
+        "sighttime": 1759741380000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.5062,
-        "sighting_long_wgs84": 153.08290539999999
+        "lga": "Townsville City",
+        "sighting_lat_wgs84": -19.353893429999999,
+        "sighting_long_wgs84": 146.46090150000001
       }
     },
     {
       "type": "Feature",
-      "id": 1062762,
+      "id": 1044604,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.08200300023017,
-          -27.507943199689397
+          153.0380417750653,
+          -27.52769723570556
         ]
       },
       "properties": {
-        "locality": "Camp Hill",
-        "objectid": 1062762,
-        "globalid": "{D5F9D281-EA40-4511-9D7A-5E0BBCBA29F8}",
-        "sighttime": 1757207580000,
+        "locality": "Tarragindi",
+        "objectid": 1044604,
+        "globalid": "{458B3DD1-9F0C-4CE4-83C0-11727A92FB0C}",
+        "sighttime": 1763654400000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Injured/Sick",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.527518839999999,
+        "sighting_long_wgs84": 153.03674358999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1045800,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.05818832607824,
+          -27.534033153402131
+        ]
+      },
+      "properties": {
+        "locality": "Holland Park West",
+        "objectid": 1045800,
+        "globalid": "{330426DD-B316-441B-8412-12E826D1D6C3}",
+        "sighttime": 1763538900000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.5079432,
-        "sighting_long_wgs84": 153.08200299999999
+        "sighting_lat_wgs84": -27.534033149999999,
+        "sighting_long_wgs84": 153.05818833000001
       }
     },
     {
@@ -252,6 +275,75 @@
         "lga": "Logan City",
         "sighting_lat_wgs84": -27.748447580000001,
         "sighting_long_wgs84": 153.14911741
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1045803,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.06661124010097,
+          -27.526527034230426
+        ]
+      },
+      "properties": {
+        "locality": "Holland Park West",
+        "objectid": 1045803,
+        "globalid": "{1CC282AE-41B2-44F7-822C-0C3EB2B7C362}",
+        "sighttime": 1765474200000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Injured/Sick",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.526527029999997,
+        "sighting_long_wgs84": 153.06661123999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1062765,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.20997839967262,
+          -27.923669599872458
+        ]
+      },
+      "properties": {
+        "locality": "Tamborine Mountain",
+        "objectid": 1062765,
+        "globalid": "{2698E3FC-8AB2-4BA7-80AE-B0D9F2C66371}",
+        "sighttime": 1757297700000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Scenic Rim Regional",
+        "sighting_lat_wgs84": -27.9236696,
+        "sighting_long_wgs84": 153.20997840000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1062767,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.8902751244745,
+          -27.645184318065848
+        ]
+      },
+      "properties": {
+        "locality": "Bellbird Park",
+        "objectid": 1062767,
+        "globalid": "{7ACDE9FC-5D73-45D1-BBED-D3E7657CFDF4}",
+        "sighttime": 1757316060000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Ipswich City",
+        "sighting_lat_wgs84": -27.645184319999998,
+        "sighting_long_wgs84": 152.89027511999998
       }
     }
   ]
