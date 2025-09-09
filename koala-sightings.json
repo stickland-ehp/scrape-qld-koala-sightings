@@ -26,29 +26,6 @@
     },
     {
       "type": "Feature",
-      "id": 1047003,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.08302099985625,
-          -27.506981000394607
-        ]
-      },
-      "properties": {
-        "locality": "Camp Hill",
-        "objectid": 1047003,
-        "globalid": "{D5D20567-B188-4119-8445-89C05FD10ED4}",
-        "sighttime": 1764640800000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.506981000000003,
-        "sighting_long_wgs84": 153.083021
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1046604,
       "geometry": {
         "type": "Point",
@@ -256,29 +233,6 @@
     },
     {
       "type": "Feature",
-      "id": 1042197,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.14911741430774,
-          -27.748447581213338
-        ]
-      },
-      "properties": {
-        "locality": "Buccan",
-        "objectid": 1042197,
-        "globalid": "{99791CBA-F934-4E51-B1E0-92B1EE0333E2}",
-        "sighttime": 1769898060000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Logan City",
-        "sighting_lat_wgs84": -27.748447580000001,
-        "sighting_long_wgs84": 153.14911741
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1045803,
       "geometry": {
         "type": "Point",
@@ -302,48 +256,94 @@
     },
     {
       "type": "Feature",
-      "id": 1062765,
+      "id": 1042197,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.20997839967262,
-          -27.923669599872458
+          153.14911741430774,
+          -27.748447581213338
         ]
       },
       "properties": {
-        "locality": "Tamborine Mountain",
-        "objectid": 1062765,
-        "globalid": "{2698E3FC-8AB2-4BA7-80AE-B0D9F2C66371}",
-        "sighttime": 1757297700000,
+        "locality": "Buccan",
+        "objectid": 1042197,
+        "globalid": "{99791CBA-F934-4E51-B1E0-92B1EE0333E2}",
+        "sighttime": 1769898060000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Scenic Rim Regional",
-        "sighting_lat_wgs84": -27.9236696,
-        "sighting_long_wgs84": 153.20997840000001
+        "lga": "Logan City",
+        "sighting_lat_wgs84": -27.748447580000001,
+        "sighting_long_wgs84": 153.14911741
       }
     },
     {
       "type": "Feature",
-      "id": 1062767,
+      "id": 1062768,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.8902751244745,
-          -27.645184318065848
+          152.6247867244702,
+          -27.626291737344584
         ]
       },
       "properties": {
-        "locality": "Bellbird Park",
-        "objectid": 1062767,
-        "globalid": "{7ACDE9FC-5D73-45D1-BBED-D3E7657CFDF4}",
-        "sighttime": 1757316060000,
+        "locality": "Thagoona",
+        "objectid": 1062768,
+        "globalid": "{6110C254-D3FE-475B-8A34-ED31B5F94098}",
+        "sighttime": 1757340240000,
         "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Ipswich City",
-        "sighting_lat_wgs84": -27.645184319999998,
-        "sighting_long_wgs84": 152.89027511999998
+        "sighting_lat_wgs84": -27.626291739999999,
+        "sighting_long_wgs84": 152.62478672
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1061964,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.10374886775747,
+          -27.528404085659606
+        ]
+      },
+      "properties": {
+        "locality": "Mansfield",
+        "objectid": 1061964,
+        "globalid": "{6031DB9E-6BC8-4C6C-B07D-530EDA11A161}",
+        "sighttime": 1757371140000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.528404090000002,
+        "sighting_long_wgs84": 153.10374887
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1062769,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.45416065029463,
+          -28.152776319286687
+        ]
+      },
+      "properties": {
+        "locality": "Currumbin Waters",
+        "objectid": 1062769,
+        "globalid": "{1A44CDA9-E2FA-46AF-AEBC-7EFEB9C06EAC}",
+        "sighttime": 1757388660000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -28.152776320000001,
+        "sighting_long_wgs84": 153.45416065000001
       }
     }
   ]
