@@ -279,71 +279,71 @@
     },
     {
       "type": "Feature",
-      "id": 1062768,
+      "id": 1061966,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.6247867244702,
-          -27.626291737344584
+          152.87681286293048,
+          -28.188075668472724
         ]
       },
       "properties": {
-        "locality": "Thagoona",
-        "objectid": 1062768,
-        "globalid": "{6110C254-D3FE-475B-8A34-ED31B5F94098}",
-        "sighttime": 1757340240000,
-        "joeypresent": "Not Sure",
+        "locality": null,
+        "objectid": 1061966,
+        "globalid": "{A4F72352-38F2-47E9-813B-E466AAF24108}",
+        "sighttime": 1757449680000,
+        "joeypresent": "No",
         "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Ipswich City",
-        "sighting_lat_wgs84": -27.626291739999999,
-        "sighting_long_wgs84": 152.62478672
+        "koalacondifinal": "Dead",
+        "lga": null,
+        "sighting_lat_wgs84": null,
+        "sighting_long_wgs84": null
       }
     },
     {
       "type": "Feature",
-      "id": 1061964,
+      "id": 1062368,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.10374886775747,
-          -27.528404085659606
+          152.93715584107505,
+          -27.271775699765595
         ]
       },
       "properties": {
-        "locality": "Mansfield",
-        "objectid": 1061964,
-        "globalid": "{6031DB9E-6BC8-4C6C-B07D-530EDA11A161}",
-        "sighttime": 1757371140000,
+        "locality": "Joyner",
+        "objectid": 1062368,
+        "globalid": "{545C5E44-94DB-4C49-9ABF-4287E31F664A}",
+        "sighttime": 1757467320000,
         "joeypresent": "No",
-        "numberofkoala": 1,
+        "numberofkoala": 2,
         "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.528404090000002,
-        "sighting_long_wgs84": 153.10374887
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.271775699999999,
+        "sighting_long_wgs84": 152.93715583999997
       }
     },
     {
       "type": "Feature",
-      "id": 1062769,
+      "id": 1062773,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.45416065029463,
-          -28.152776319286687
+          152.91700709547789,
+          -27.394285020027773
         ]
       },
       "properties": {
-        "locality": "Currumbin Waters",
-        "objectid": 1062769,
-        "globalid": "{1A44CDA9-E2FA-46AF-AEBC-7EFEB9C06EAC}",
-        "sighttime": 1757388660000,
+        "locality": null,
+        "objectid": 1062773,
+        "globalid": "{A785B6C7-5DC7-418B-B13A-8B25B0729336}",
+        "sighttime": 1757489760000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -28.152776320000001,
-        "sighting_long_wgs84": 153.45416065000001
+        "lga": null,
+        "sighting_lat_wgs84": null,
+        "sighting_long_wgs84": null
       }
     }
   ]
