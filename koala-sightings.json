@@ -279,48 +279,94 @@
     },
     {
       "type": "Feature",
-      "id": 1061972,
+      "id": 1062780,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.07660149959702,
-          -27.542198998374364
+          151.98813877275063,
+          -27.570540113513804
         ]
       },
       "properties": {
-        "locality": "Mount Gravatt",
-        "objectid": 1061972,
-        "globalid": "{0415DEBF-C545-48A9-BA53-BD43AEEC79DB}",
-        "sighttime": 1757568420000,
-        "joeypresent": "No",
-        "numberofkoala": 3,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.542199,
-        "sighting_long_wgs84": 153.07660150000001
+        "locality": "Redwood",
+        "objectid": 1062780,
+        "globalid": "{46C618D5-AE96-42FE-AC15-C9495CC840F8}",
+        "sighttime": 1757590800000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Injured/Sick",
+        "lga": "Toowoomba Regional",
+        "sighting_lat_wgs84": -27.57054011,
+        "sighting_long_wgs84": 151.98813877000001
       }
     },
     {
       "type": "Feature",
-      "id": 1063578,
+      "id": 1062378,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.02405339990383,
-          -26.718418399883351
+          152.61189370016891,
+          -27.41219929993612
         ]
       },
       "properties": {
-        "locality": "Tanawha",
-        "objectid": 1063578,
-        "globalid": "{70238A8D-E881-42FB-8FE4-B37C8A4265A3}",
-        "sighttime": 1757572200000,
+        "locality": "Wivenhoe Pocket",
+        "objectid": 1062378,
+        "globalid": "{56103EE5-5575-4D39-98FE-58B92135D767}",
+        "sighttime": 1757638080000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -27.412199299999997,
+        "sighting_long_wgs84": 152.6118937
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1063582,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.25647631628286,
+          -27.876328688043674
+        ]
+      },
+      "properties": {
+        "locality": "Wongawallan",
+        "objectid": 1063582,
+        "globalid": "{4C9C86FB-981F-4D2B-AA5E-0F6030D227B9}",
+        "sighttime": 1757639700000,
         "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Sunshine Coast Regional",
-        "sighting_lat_wgs84": -26.718418399999997,
-        "sighting_long_wgs84": 153.02405340000001
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.876328690000001,
+        "sighting_long_wgs84": 153.25647632000002
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1062781,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.08476887346407,
+          -27.53826926320906
+        ]
+      },
+      "properties": {
+        "locality": "Mount Gravatt East",
+        "objectid": 1062781,
+        "globalid": "{49DDA401-5D8F-45AE-8ABC-EF3DCE568A32}",
+        "sighttime": 1757630700000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.53826926,
+        "sighting_long_wgs84": 153.08476887
       }
     }
   ]
