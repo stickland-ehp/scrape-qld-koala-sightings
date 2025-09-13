@@ -279,94 +279,25 @@
     },
     {
       "type": "Feature",
-      "id": 1062780,
+      "id": 1062787,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.98813877275063,
-          -27.570540113513804
+          151.89333000004794,
+          -27.601669999660597
         ]
       },
       "properties": {
-        "locality": "Redwood",
-        "objectid": 1062780,
-        "globalid": "{46C618D5-AE96-42FE-AC15-C9495CC840F8}",
-        "sighttime": 1757590800000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Injured/Sick",
-        "lga": "Toowoomba Regional",
-        "sighting_lat_wgs84": -27.57054011,
-        "sighting_long_wgs84": 151.98813877000001
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1062378,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.61189370016891,
-          -27.41219929993612
-        ]
-      },
-      "properties": {
-        "locality": "Wivenhoe Pocket",
-        "objectid": 1062378,
-        "globalid": "{56103EE5-5575-4D39-98FE-58B92135D767}",
-        "sighttime": 1757638080000,
+        "locality": "Drayton",
+        "objectid": 1062787,
+        "globalid": "{D44B1259-F952-4566-8CB7-FF652F160C5B}",
+        "sighttime": 1757708640000,
         "joeypresent": "No",
-        "numberofkoala": 1,
+        "numberofkoala": 2,
         "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.412199299999997,
-        "sighting_long_wgs84": 152.6118937
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1063582,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.25647631628286,
-          -27.876328688043674
-        ]
-      },
-      "properties": {
-        "locality": "Wongawallan",
-        "objectid": 1063582,
-        "globalid": "{4C9C86FB-981F-4D2B-AA5E-0F6030D227B9}",
-        "sighttime": 1757639700000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.876328690000001,
-        "sighting_long_wgs84": 153.25647632000002
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1062781,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.08476887346407,
-          -27.53826926320906
-        ]
-      },
-      "properties": {
-        "locality": "Mount Gravatt East",
-        "objectid": 1062781,
-        "globalid": "{49DDA401-5D8F-45AE-8ABC-EF3DCE568A32}",
-        "sighttime": 1757630700000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.53826926,
-        "sighting_long_wgs84": 153.08476887
+        "lga": "Toowoomba Regional",
+        "sighting_lat_wgs84": -27.601670000000002,
+        "sighting_long_wgs84": 151.89333000000002
       }
     }
   ]
