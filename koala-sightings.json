@@ -279,25 +279,25 @@
     },
     {
       "type": "Feature",
-      "id": 1063593,
+      "id": 1064313,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.15998153425093,
-          -27.515970090269928
+          153.25005760025297,
+          -27.510939099977776
         ]
       },
       "properties": {
-        "locality": "Chandler",
-        "objectid": 1063593,
-        "globalid": "{07CF3F8F-7855-441C-923A-05E4171EC63F}",
-        "sighttime": 1757813400000,
-        "joeypresent": "No",
+        "locality": null,
+        "objectid": 1064313,
+        "globalid": "{FEBC3246-5191-45EF-9C68-D64EAA1F04A9}",
+        "sighttime": 1757897100000,
+        "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.51597009,
-        "sighting_long_wgs84": 153.15998152999998
+        "lga": "Redland City",
+        "sighting_lat_wgs84": -27.510939099999998,
+        "sighting_long_wgs84": 153.25005759999999
       }
     }
   ]
