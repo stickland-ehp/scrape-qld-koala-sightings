@@ -279,25 +279,71 @@
     },
     {
       "type": "Feature",
-      "id": 1064313,
+      "id": 1064319,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.25005760025297,
-          -27.510939099977776
+          153.36665560036508,
+          -27.930111244210469
         ]
       },
       "properties": {
-        "locality": null,
-        "objectid": 1064313,
-        "globalid": "{FEBC3246-5191-45EF-9C68-D64EAA1F04A9}",
-        "sighttime": 1757897100000,
-        "joeypresent": "Not Sure",
+        "locality": "Arundel",
+        "objectid": 1064319,
+        "globalid": "{A8B8DEFE-4FF5-4CF1-9FDD-118CF9A61ED7}",
+        "sighttime": 1757970360000,
+        "joeypresent": "Yes",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Redland City",
-        "sighting_lat_wgs84": -27.510939099999998,
-        "sighting_long_wgs84": 153.25005759999999
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.930111239999999,
+        "sighting_long_wgs84": 153.3666556
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1064320,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.11055227473145,
+          -27.539756501401641
+        ]
+      },
+      "properties": {
+        "locality": "Mansfield",
+        "objectid": 1064320,
+        "globalid": "{F389A3D5-371E-4BF1-A667-22AB3CD735F6}",
+        "sighttime": 1757975880000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.539756499999999,
+        "sighting_long_wgs84": 153.11055228000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1064326,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.37293591295921,
+          -27.91413403237566
+        ]
+      },
+      "properties": {
+        "locality": "Coombabah",
+        "objectid": 1064326,
+        "globalid": "{C2AA2B88-8189-43BB-AB41-B2CD6257FA83}",
+        "sighttime": 1758004560000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.91413403,
+        "sighting_long_wgs84": 153.37293591
       }
     }
   ]
