@@ -276,29 +276,6 @@
         "sighting_lat_wgs84": -27.748447580000001,
         "sighting_long_wgs84": 153.14911741
       }
-    },
-    {
-      "type": "Feature",
-      "id": 1064331,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.66360606661058,
-          -26.452154278150729
-        ]
-      },
-      "properties": {
-        "locality": "Imbil",
-        "objectid": 1064331,
-        "globalid": "{1253005B-612A-4AFE-AFB2-D0CC161CEA7C}",
-        "sighttime": 1758064680000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Gympie Regional",
-        "sighting_lat_wgs84": -26.452154280000002,
-        "sighting_long_wgs84": 152.66360607000001
-      }
     }
   ]
 }
