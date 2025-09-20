@@ -276,6 +276,98 @@
         "sighting_lat_wgs84": -27.748447580000001,
         "sighting_long_wgs84": 153.14911741
       }
+    },
+    {
+      "type": "Feature",
+      "id": 1063602,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.90781838923505,
+          -27.393695557061054
+        ]
+      },
+      "properties": {
+        "locality": "Ferny Hills",
+        "objectid": 1063602,
+        "globalid": "{B6A1F665-1618-4FC5-8046-2452BEC68493}",
+        "sighttime": 1758286980000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Injured/Sick",
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.393695559999998,
+        "sighting_long_wgs84": 152.90781839000002
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1063611,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.04707497125432,
+          -27.541904043278812
+        ]
+      },
+      "properties": {
+        "locality": "Nathan",
+        "objectid": 1063611,
+        "globalid": "{5B78B4EE-E7CB-4A95-B2B5-E2BDD62D4C62}",
+        "sighttime": 1758350700000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.541904039999999,
+        "sighting_long_wgs84": 153.04707496999998
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1064711,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.04501810952806,
+          -27.538301947554455
+        ]
+      },
+      "properties": {
+        "locality": "Nathan",
+        "objectid": 1064711,
+        "globalid": "{931230A7-98FD-4DCE-9102-382088E2FEC6}",
+        "sighttime": 1758355200000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.538301950000001,
+        "sighting_long_wgs84": 153.04501811
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1063613,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.09699853594549,
+          -27.551070943007463
+        ]
+      },
+      "properties": {
+        "locality": "Wishart",
+        "objectid": 1063613,
+        "globalid": "{AB1D81DC-61E3-448F-8C59-2D6DC2B08FBE}",
+        "sighttime": 1758351180000,
+        "joeypresent": "No",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.551070939999999,
+        "sighting_long_wgs84": 153.09699854000002
+      }
     }
   ]
 }
