@@ -276,6 +276,52 @@
         "sighting_lat_wgs84": -27.748447580000001,
         "sighting_long_wgs84": 153.14911741
       }
+    },
+    {
+      "type": "Feature",
+      "id": 1063646,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.13891959996349,
+          -27.556496299784584
+        ]
+      },
+      "properties": {
+        "locality": "Burbank",
+        "objectid": 1063646,
+        "globalid": "{26F6EF88-4DEB-40A3-A559-4DBD5C57C5D2}",
+        "sighttime": 1758650880000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.556496299999999,
+        "sighting_long_wgs84": 153.13891960000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1064724,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.91136612465129,
+          -27.29697057928156
+        ]
+      },
+      "properties": {
+        "locality": "Cashmere",
+        "objectid": 1064724,
+        "globalid": "{E045A426-D22F-4512-BA6E-79136DCBF99D}",
+        "sighttime": 1758682200000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.29697058,
+        "sighting_long_wgs84": 152.91136612000003
+      }
     }
   ]
 }
