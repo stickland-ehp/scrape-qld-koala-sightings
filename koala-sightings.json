@@ -279,71 +279,48 @@
     },
     {
       "type": "Feature",
-      "id": 1064734,
+      "id": 1065931,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.3649199680996,
-          -27.931916351572369
+          153.03655066511851,
+          -27.539151291861227
         ]
       },
       "properties": {
-        "locality": "Arundel",
-        "objectid": 1064734,
-        "globalid": "{0BCD2B47-BF3B-42FE-8732-D2803FC7FFEB}",
-        "sighttime": 1758839220000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.931916349999998,
-        "sighting_long_wgs84": 153.36491997000002
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1064735,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.10149244618918,
-          -27.48315553797131
-        ]
-      },
-      "properties": {
-        "locality": "Cannon Hill",
-        "objectid": 1064735,
-        "globalid": "{5F63EE67-CBED-48BC-88AB-7D1FFF3E4EA1}",
-        "sighttime": 1758842100000,
+        "locality": "Salisbury",
+        "objectid": 1065931,
+        "globalid": "{010CDA6B-97CB-4B03-8B1D-7AB3C79DFD63}",
+        "sighttime": 1758920040000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.483155540000002,
-        "sighting_long_wgs84": 153.10149245000002
+        "sighting_lat_wgs84": -27.53915129,
+        "sighting_long_wgs84": 153.03655065999999
       }
     },
     {
       "type": "Feature",
-      "id": 1064733,
+      "id": 1065132,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.3589814069789,
-          -27.931288400496765
+          153.04677330889712,
+          -27.541818306714251
         ]
       },
       "properties": {
-        "locality": "Arundel",
-        "objectid": 1064733,
-        "globalid": "{F343AA55-9553-4A87-BBCD-C77DD76E1798}",
-        "sighttime": 1758835980000,
-        "joeypresent": "Not Sure",
+        "locality": "Nathan",
+        "objectid": 1065132,
+        "globalid": "{2FC29198-D206-489F-A1C9-F71B17EC12AC}",
+        "sighttime": 1758930000000,
+        "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.9312884,
-        "sighting_long_wgs84": 153.35898141000001
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.54181831,
+        "sighting_long_wgs84": 153.04677330999999
       }
     }
   ]
