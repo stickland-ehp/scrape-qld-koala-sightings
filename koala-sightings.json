@@ -279,48 +279,94 @@
     },
     {
       "type": "Feature",
-      "id": 1065931,
+      "id": 1065139,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.03655066511851,
-          -27.539151291861227
+          153.08200029989442,
+          -27.507703299615244
         ]
       },
       "properties": {
-        "locality": "Salisbury",
-        "objectid": 1065931,
-        "globalid": "{010CDA6B-97CB-4B03-8B1D-7AB3C79DFD63}",
-        "sighttime": 1758920040000,
+        "locality": "Camp Hill",
+        "objectid": 1065139,
+        "globalid": "{B0FE57F1-F7FC-46C7-A565-C2BB7E29E00B}",
+        "sighttime": 1759016520000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.53915129,
-        "sighting_long_wgs84": 153.03655065999999
+        "sighting_lat_wgs84": -27.507703299999999,
+        "sighting_long_wgs84": 153.0820003
       }
     },
     {
       "type": "Feature",
-      "id": 1065132,
+      "id": 1065140,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.04677330889712,
-          -27.541818306714251
+          153.08287290000521,
+          -27.510446500000246
         ]
       },
       "properties": {
-        "locality": "Nathan",
-        "objectid": 1065132,
-        "globalid": "{2FC29198-D206-489F-A1C9-F71B17EC12AC}",
-        "sighttime": 1758930000000,
+        "locality": "Carina Heights",
+        "objectid": 1065140,
+        "globalid": "{423D6BAB-8DD9-4207-BDA0-C2A7BFFE5C47}",
+        "sighttime": 1759018200000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.54181831,
-        "sighting_long_wgs84": 153.04677330999999
+        "sighting_lat_wgs84": -27.5104465,
+        "sighting_long_wgs84": 153.08287289999998
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1063682,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.76825358805525,
+          -26.104272981452155
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1063682,
+        "globalid": "{D2510154-95A0-420F-9407-48D0B52FBE7B}",
+        "sighttime": 1759011000000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": null,
+        "sighting_lat_wgs84": null,
+        "sighting_long_wgs84": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1066334,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.08335760038986,
+          -27.511986599899593
+        ]
+      },
+      "properties": {
+        "locality": "Carina Heights",
+        "objectid": 1066334,
+        "globalid": "{63E0AA6B-71C1-410A-9005-41DD312FE267}",
+        "sighttime": 1759018500000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.5119866,
+        "sighting_long_wgs84": 153.0833576
       }
     }
   ]
