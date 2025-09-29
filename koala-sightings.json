@@ -279,94 +279,71 @@
     },
     {
       "type": "Feature",
-      "id": 1065139,
+      "id": 1065156,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.08200029989442,
-          -27.507703299615244
+          152.99342012646989,
+          -27.143448012128356
         ]
       },
       "properties": {
-        "locality": "Camp Hill",
-        "objectid": 1065139,
-        "globalid": "{B0FE57F1-F7FC-46C7-A565-C2BB7E29E00B}",
-        "sighttime": 1759016520000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
+        "locality": "Burpengary East",
+        "objectid": 1065156,
+        "globalid": "{1FC0E13C-F853-455B-90E4-1A7F3B516842}",
+        "sighttime": 1759086000000,
+        "joeypresent": "Yes",
+        "numberofkoala": 3,
         "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.507703299999999,
-        "sighting_long_wgs84": 153.0820003
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.14344801,
+        "sighting_long_wgs84": 152.99342013
       }
     },
     {
       "type": "Feature",
-      "id": 1065140,
+      "id": 1063688,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.08287290000521,
-          -27.510446500000246
+          152.8952061962579,
+          -27.129007782114716
         ]
       },
       "properties": {
-        "locality": "Carina Heights",
-        "objectid": 1065140,
-        "globalid": "{423D6BAB-8DD9-4207-BDA0-C2A7BFFE5C47}",
-        "sighttime": 1759018200000,
+        "locality": "Upper Caboolture",
+        "objectid": 1063688,
+        "globalid": "{604DFA31-678A-46CF-BD81-B1273AECD558}",
+        "sighttime": 1759092900000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.5104465,
-        "sighting_long_wgs84": 153.08287289999998
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.129007780000002,
+        "sighting_long_wgs84": 152.89520619999999
       }
     },
     {
       "type": "Feature",
-      "id": 1063682,
+      "id": 1063691,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.76825358805525,
-          -26.104272981452155
+          152.16511116868605,
+          -26.969317564914395
         ]
       },
       "properties": {
-        "locality": null,
-        "objectid": 1063682,
-        "globalid": "{D2510154-95A0-420F-9407-48D0B52FBE7B}",
-        "sighttime": 1759011000000,
+        "locality": "Colinton",
+        "objectid": 1063691,
+        "globalid": "{E9680C02-BDF1-498B-B6C8-590734B6A426}",
+        "sighttime": 1759110600000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": null,
-        "sighting_lat_wgs84": null,
-        "sighting_long_wgs84": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1066334,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.08335760038986,
-          -27.511986599899593
-        ]
-      },
-      "properties": {
-        "locality": "Carina Heights",
-        "objectid": 1066334,
-        "globalid": "{63E0AA6B-71C1-410A-9005-41DD312FE267}",
-        "sighttime": 1759018500000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.5119866,
-        "sighting_long_wgs84": 153.0833576
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -26.96931756,
+        "sighting_long_wgs84": 152.16511116999999
       }
     }
   ]
