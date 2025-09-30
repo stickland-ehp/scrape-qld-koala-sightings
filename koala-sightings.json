@@ -279,71 +279,25 @@
     },
     {
       "type": "Feature",
-      "id": 1065156,
+      "id": 1063692,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.99342012646989,
-          -27.143448012128356
+          152.53571198176934,
+          -27.473456127407218
         ]
       },
       "properties": {
-        "locality": "Burpengary East",
-        "objectid": 1065156,
-        "globalid": "{1FC0E13C-F853-455B-90E4-1A7F3B516842}",
-        "sighttime": 1759086000000,
-        "joeypresent": "Yes",
-        "numberofkoala": 3,
-        "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.14344801,
-        "sighting_long_wgs84": 152.99342013
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1063688,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.8952061962579,
-          -27.129007782114716
-        ]
-      },
-      "properties": {
-        "locality": "Upper Caboolture",
-        "objectid": 1063688,
-        "globalid": "{604DFA31-678A-46CF-BD81-B1273AECD558}",
-        "sighttime": 1759092900000,
+        "locality": "Brightview",
+        "objectid": 1063692,
+        "globalid": "{0DCDE6CF-8384-478C-9F4F-7DB233620DB4}",
+        "sighttime": 1759207800000,
         "joeypresent": "No",
         "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.129007780000002,
-        "sighting_long_wgs84": 152.89520619999999
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1063691,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.16511116868605,
-          -26.969317564914395
-        ]
-      },
-      "properties": {
-        "locality": "Colinton",
-        "objectid": 1063691,
-        "globalid": "{E9680C02-BDF1-498B-B6C8-590734B6A426}",
-        "sighttime": 1759110600000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
+        "koalacondifinal": "Injured/Sick",
         "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -26.96931756,
-        "sighting_long_wgs84": 152.16511116999999
+        "sighting_lat_wgs84": -27.473456130000002,
+        "sighting_long_wgs84": 152.53571198
       }
     }
   ]
