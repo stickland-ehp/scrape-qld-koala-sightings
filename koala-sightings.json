@@ -279,25 +279,117 @@
     },
     {
       "type": "Feature",
-      "id": 1063692,
+      "id": 1063697,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.53571198176934,
-          -27.473456127407218
+          153.09200180000968,
+          -27.513408700256321
         ]
       },
       "properties": {
-        "locality": "Brightview",
-        "objectid": 1063692,
-        "globalid": "{0DCDE6CF-8384-478C-9F4F-7DB233620DB4}",
-        "sighttime": 1759207800000,
+        "locality": "Carina Heights",
+        "objectid": 1063697,
+        "globalid": "{36CC3376-D6E9-4FDF-A41F-049DD3A4D9F9}",
+        "sighttime": 1759263480000,
         "joeypresent": "No",
         "numberofkoala": 1,
-        "koalacondifinal": "Injured/Sick",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.473456130000002,
-        "sighting_long_wgs84": 152.53571198
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.513408699999999,
+        "sighting_long_wgs84": 153.09200180000002
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1063705,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.99361930003639,
+          -26.438499300237112
+        ]
+      },
+      "properties": {
+        "locality": "Doonan",
+        "objectid": 1063705,
+        "globalid": "{9677B8C7-B23C-45E8-95E6-245199D12DA6}",
+        "sighttime": 1759298640000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": null,
+        "sighting_lat_wgs84": -26.4384993,
+        "sighting_long_wgs84": 152.99361929999998
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1066339,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.85868783481888,
+          -26.728516761088059
+        ]
+      },
+      "properties": {
+        "locality": "North Maleny",
+        "objectid": 1066339,
+        "globalid": "{E9EDAC9A-68E5-4A28-BED2-0CD6F7F14071}",
+        "sighttime": 1759290240000,
+        "joeypresent": "Yes",
+        "numberofkoala": 3,
+        "koalacondifinal": "Healthy",
+        "lga": "Sunshine Coast Regional",
+        "sighting_lat_wgs84": -26.728516760000002,
+        "sighting_long_wgs84": 152.85868783000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1063708,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.06482577014137,
+          -27.527647471965615
+        ]
+      },
+      "properties": {
+        "locality": "Postmans Ridge",
+        "objectid": 1063708,
+        "globalid": "{3A6F8DDC-1CDA-4CC6-974B-A4D54FA16ADE}",
+        "sighttime": 1759314480000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Lockyer Valley Regional",
+        "sighting_lat_wgs84": -27.527647469999998,
+        "sighting_long_wgs84": 152.06482577
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1066342,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.89837717548858,
+          -27.59772933510898
+        ]
+      },
+      "properties": {
+        "locality": "Drayton",
+        "objectid": 1066342,
+        "globalid": "{892A91E1-6902-4FD4-8CC7-75793AD0881E}",
+        "sighttime": 1759270200000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Toowoomba Regional",
+        "sighting_lat_wgs84": -27.59772933,
+        "sighting_long_wgs84": 151.89837718000001
       }
     }
   ]
