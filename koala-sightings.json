@@ -279,94 +279,117 @@
     },
     {
       "type": "Feature",
-      "id": 1063714,
+      "id": 1066749,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.49769085564094,
-          -27.338695512435482
+          153.08645264239499,
+          -27.544231004786866
         ]
       },
       "properties": {
         "locality": null,
-        "objectid": 1063714,
-        "globalid": "{49DD053C-8DCF-49A2-8B67-2575DA9FD335}",
-        "sighttime": 1759356840000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Dead",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.338695510000001,
-        "sighting_long_wgs84": 152.49769086000001
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1063709,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.62529763050819,
-          -27.626566210784134
-        ]
-      },
-      "properties": {
-        "locality": "Thagoona",
-        "objectid": 1063709,
-        "globalid": "{019E3733-DA08-4AF9-873F-B499139B42BD}",
-        "sighttime": 1759322400000,
+        "objectid": 1066749,
+        "globalid": "{59261ECD-D25E-467A-9A3D-30E147395D0B}",
+        "sighttime": 1759449540000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Ipswich City",
-        "sighting_lat_wgs84": -27.62656621,
-        "sighting_long_wgs84": 152.62529763000001
+        "lga": null,
+        "sighting_lat_wgs84": null,
+        "sighting_long_wgs84": null
       }
     },
     {
       "type": "Feature",
-      "id": 1066349,
+      "id": 1066750,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.24472070016682,
-          -27.511502599758675
+          153.44733517440912,
+          -28.094576934391991
         ]
       },
       "properties": {
-        "locality": null,
-        "objectid": 1066349,
-        "globalid": "{F4625CBB-91BD-45C8-8367-4ED48938C9F2}",
-        "sighttime": 1759381140000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Redland City",
-        "sighting_lat_wgs84": -27.5115026,
-        "sighting_long_wgs84": 153.24472069999999
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1066745,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.58549591951922,
-          -26.909657452363369
-        ]
-      },
-      "properties": {
-        "locality": "Mount Kilcoy",
-        "objectid": 1066745,
-        "globalid": "{34500876-F366-42C6-AF8E-9C501E77A1EC}",
-        "sighttime": 1759381740000,
+        "locality": "Burleigh Heads",
+        "objectid": 1066750,
+        "globalid": "{1B6A7904-E657-488C-A0F1-6B8D80A8C74E}",
+        "sighttime": 1759449420000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -26.909657450000001,
-        "sighting_long_wgs84": 152.58549592
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -28.094576929999999,
+        "sighting_long_wgs84": 153.44733517
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1066751,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.99314699999599,
+          -27.82375340013877
+        ]
+      },
+      "properties": {
+        "locality": "Riverbend",
+        "objectid": 1066751,
+        "globalid": "{D61B20EF-ED49-4A40-9A56-8DDB001D3E96}",
+        "sighttime": 1759453680000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Logan City",
+        "sighting_lat_wgs84": -27.823753399999998,
+        "sighting_long_wgs84": 152.99314699999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1066358,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.92870372192417,
+          -27.124393584547438
+        ]
+      },
+      "properties": {
+        "locality": "Morayfield",
+        "objectid": 1066358,
+        "globalid": "{7F4A7357-56A7-4A25-87A9-D6E86385CB21}",
+        "sighttime": 1759479720000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.124393580000003,
+        "sighting_long_wgs84": 152.92870371999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1066359,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.99767721116027,
+          -27.893970160707543
+        ]
+      },
+      "properties": {
+        "locality": "Woodhill",
+        "objectid": 1066359,
+        "globalid": "{831AFA46-DD03-40FF-8DE0-E7C7BF500DBF}",
+        "sighttime": 1759473360000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Logan City",
+        "sighting_lat_wgs84": -27.893970159999999,
+        "sighting_long_wgs84": 152.99767721000001
       }
     }
   ]
