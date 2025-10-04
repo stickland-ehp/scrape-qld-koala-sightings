@@ -279,117 +279,25 @@
     },
     {
       "type": "Feature",
-      "id": 1066749,
+      "id": 1066365,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.08645264239499,
-          -27.544231004786866
+          153.21691385899334,
+          -27.878005908144637
         ]
       },
       "properties": {
-        "locality": null,
-        "objectid": 1066749,
-        "globalid": "{59261ECD-D25E-467A-9A3D-30E147395D0B}",
-        "sighttime": 1759449540000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": null,
-        "sighting_lat_wgs84": null,
-        "sighting_long_wgs84": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1066750,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.44733517440912,
-          -28.094576934391991
-        ]
-      },
-      "properties": {
-        "locality": "Burleigh Heads",
-        "objectid": 1066750,
-        "globalid": "{1B6A7904-E657-488C-A0F1-6B8D80A8C74E}",
-        "sighttime": 1759449420000,
-        "joeypresent": "No",
+        "locality": "Wongawallan",
+        "objectid": 1066365,
+        "globalid": "{455D9058-6C7E-46FA-9A79-381D6EFDAF31}",
+        "sighttime": 1759540620000,
+        "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -28.094576929999999,
-        "sighting_long_wgs84": 153.44733517
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1066751,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.99314699999599,
-          -27.82375340013877
-        ]
-      },
-      "properties": {
-        "locality": "Riverbend",
-        "objectid": 1066751,
-        "globalid": "{D61B20EF-ED49-4A40-9A56-8DDB001D3E96}",
-        "sighttime": 1759453680000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Logan City",
-        "sighting_lat_wgs84": -27.823753399999998,
-        "sighting_long_wgs84": 152.99314699999999
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1066358,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.92870372192417,
-          -27.124393584547438
-        ]
-      },
-      "properties": {
-        "locality": "Morayfield",
-        "objectid": 1066358,
-        "globalid": "{7F4A7357-56A7-4A25-87A9-D6E86385CB21}",
-        "sighttime": 1759479720000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 2,
-        "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.124393580000003,
-        "sighting_long_wgs84": 152.92870371999999
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1066359,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.99767721116027,
-          -27.893970160707543
-        ]
-      },
-      "properties": {
-        "locality": "Woodhill",
-        "objectid": 1066359,
-        "globalid": "{831AFA46-DD03-40FF-8DE0-E7C7BF500DBF}",
-        "sighttime": 1759473360000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Logan City",
-        "sighting_lat_wgs84": -27.893970159999999,
-        "sighting_long_wgs84": 152.99767721000001
+        "sighting_lat_wgs84": -27.878005909999999,
+        "sighting_long_wgs84": 153.21691386000001
       }
     }
   ]
