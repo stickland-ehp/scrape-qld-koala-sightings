@@ -141,29 +141,6 @@
     },
     {
       "type": "Feature",
-      "id": 1062752,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.4609015008642,
-          -19.353893428235025
-        ]
-      },
-      "properties": {
-        "locality": "Hervey Range",
-        "objectid": 1062752,
-        "globalid": "{CB6E7E95-0F89-4A00-881D-1C19E073124F}",
-        "sighttime": 1759741380000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Townsville City",
-        "sighting_lat_wgs84": -19.353893429999999,
-        "sighting_long_wgs84": 146.46090150000001
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1044604,
       "geometry": {
         "type": "Point",
@@ -252,52 +229,6 @@
         "lga": "Logan City",
         "sighting_lat_wgs84": -27.748447580000001,
         "sighting_long_wgs84": 153.14911741
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1067949,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.91123068116431,
-          -27.297871471581335
-        ]
-      },
-      "properties": {
-        "locality": "Cashmere",
-        "objectid": 1067949,
-        "globalid": "{B37A38B6-AF10-406C-8FF2-229964BCFA6A}",
-        "sighttime": 1759711800000,
-        "joeypresent": "Yes",
-        "numberofkoala": 2,
-        "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.29787147,
-        "sighting_long_wgs84": 152.91123068000002
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1067173,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.08549729307347,
-          -27.477462792821125
-        ]
-      },
-      "properties": {
-        "locality": null,
-        "objectid": 1067173,
-        "globalid": "{DDA67B6D-A6D7-4B7F-9512-0752313F6212}",
-        "sighttime": 1759735320000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.477462790000001,
-        "sighting_long_wgs84": 153.08549729000001
       }
     }
   ]
