@@ -233,48 +233,48 @@
     },
     {
       "type": "Feature",
-      "id": 1068350,
+      "id": 1069956,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.444210417931,
-          -28.105799435989709
+          153.09843731543376,
+          -27.514641677049788
         ]
       },
       "properties": {
-        "locality": "Burleigh Heads",
-        "objectid": 1068350,
-        "globalid": "{B658D926-FD5E-42D0-8802-1D7386533CC4}",
-        "sighttime": 1759885500000,
-        "joeypresent": "Not Sure",
+        "locality": "Carindale",
+        "objectid": 1069956,
+        "globalid": "{161A403A-AE73-4F2C-9C22-379AAFAF0AEE}",
+        "sighttime": 1759994640000,
+        "joeypresent": "No",
         "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -28.105799439999998,
-        "sighting_long_wgs84": 153.44421041999999
+        "koalacondifinal": "Dead",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.51464168,
+        "sighting_long_wgs84": 153.09843731999999
       }
     },
     {
       "type": "Feature",
-      "id": 1069153,
+      "id": 1069159,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.38044224619267,
-          -27.095482213130996
+          153.44910405781488,
+          -28.110776154994483
         ]
       },
       "properties": {
-        "locality": "Toogoolawah",
-        "objectid": 1069153,
-        "globalid": "{56A4A168-498B-4B42-A4A9-0F38484439EE}",
-        "sighttime": 1759905900000,
-        "joeypresent": "Not Sure",
+        "locality": "Palm Beach",
+        "objectid": 1069159,
+        "globalid": "{1D4D3129-0C54-4805-87CA-865B8CF97661}",
+        "sighttime": 1759990260000,
+        "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.09548221,
-        "sighting_long_wgs84": 152.38044225000002
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -28.11077616,
+        "sighting_long_wgs84": 153.44910406
       }
     }
   ]
