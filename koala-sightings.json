@@ -233,48 +233,71 @@
     },
     {
       "type": "Feature",
-      "id": 1069956,
+      "id": 1069160,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.09843731543376,
-          -27.514641677049788
+          152.03833320016119,
+          -27.259503000227884
         ]
       },
       "properties": {
-        "locality": "Carindale",
-        "objectid": 1069956,
-        "globalid": "{161A403A-AE73-4F2C-9C22-379AAFAF0AEE}",
-        "sighttime": 1759994640000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Dead",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.51464168,
-        "sighting_long_wgs84": 153.09843731999999
+        "locality": "Crows Nest",
+        "objectid": 1069160,
+        "globalid": "{FD8E9B72-A388-472A-9216-F09346299C3A}",
+        "sighttime": 1760037600000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": "Toowoomba Regional",
+        "sighting_lat_wgs84": -27.259502999999999,
+        "sighting_long_wgs84": 152.03833319999998
       }
     },
     {
       "type": "Feature",
-      "id": 1069159,
+      "id": 1069161,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.44910405781488,
-          -28.110776154994483
+          152.80573180925688,
+          -26.750532668217751
         ]
       },
       "properties": {
-        "locality": "Palm Beach",
-        "objectid": 1069159,
-        "globalid": "{1D4D3129-0C54-4805-87CA-865B8CF97661}",
-        "sighttime": 1759990260000,
+        "locality": "Reesville",
+        "objectid": 1069161,
+        "globalid": "{6DEAD5E1-FA11-493F-8E17-910FF38BFAE1}",
+        "sighttime": 1760062500000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -28.11077616,
-        "sighting_long_wgs84": 153.44910406
+        "lga": "Sunshine Coast Regional",
+        "sighting_lat_wgs84": -26.750532669999998,
+        "sighting_long_wgs84": 152.80573181
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1069164,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.02938042031849,
+          -27.251785577685922
+        ]
+      },
+      "properties": {
+        "locality": "Mango Hill",
+        "objectid": 1069164,
+        "globalid": "{4EEB777D-343D-4DC4-944A-0504B128C50F}",
+        "sighttime": 1760072760000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.25178558,
+        "sighting_long_wgs84": 153.02938042
       }
     }
   ]
