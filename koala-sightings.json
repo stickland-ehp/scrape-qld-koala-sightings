@@ -233,163 +233,48 @@
     },
     {
       "type": "Feature",
-      "id": 1070359,
+      "id": 1070373,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.0906350860684,
-          -27.903300775106558
+          153.07526228937488,
+          -27.513188293496551
         ]
       },
       "properties": {
-        "locality": "Mundoolun",
-        "objectid": 1070359,
-        "globalid": "{D1794F8A-3A02-45CD-80DC-70CEC763733C}",
-        "sighttime": 1760127240000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Logan City",
-        "sighting_lat_wgs84": -27.903300780000002,
-        "sighting_long_wgs84": 153.09063509000001
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1069167,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.99340814024907,
-          -27.159620559576958
-        ]
-      },
-      "properties": {
-        "locality": "Burpengary East",
-        "objectid": 1069167,
-        "globalid": "{D584FC4C-B98D-4EAC-9F50-6D57BDD566BB}",
-        "sighttime": 1760141760000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Injured/Sick",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.15962056,
-        "sighting_long_wgs84": 152.99340814000001
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1071159,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.97742393490171,
-          -27.271736896136321
-        ]
-      },
-      "properties": {
-        "locality": "Petrie",
-        "objectid": 1071159,
-        "globalid": "{9676DBC9-0253-473C-B317-BFBA5201F97C}",
-        "sighttime": 1760141460000,
+        "locality": "Camp Hill",
+        "objectid": 1070373,
+        "globalid": "{C8CC658A-0F96-4546-AD9A-496EEE283A8C}",
+        "sighttime": 1760236020000,
         "joeypresent": "Yes",
-        "numberofkoala": 1,
-        "koalacondifinal": "Injured/Sick",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.271736900000001,
-        "sighting_long_wgs84": 152.97742392999999
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1069166,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.02814098687321,
-          -27.219973285423084
-        ]
-      },
-      "properties": {
-        "locality": "Mango Hill",
-        "objectid": 1069166,
-        "globalid": "{7AE3B863-9CFD-4714-9EB8-9398CD3822CA}",
-        "sighttime": 1760140980000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.22014025,
-        "sighting_long_wgs84": 153.02821072
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1069168,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.07120821136223,
-          -27.548120681877247
-        ]
-      },
-      "properties": {
-        "locality": "Upper Mount Gravatt",
-        "objectid": 1069168,
-        "globalid": "{BCC3AC27-4C3C-4D81-86D9-DF98DFC6F7C6}",
-        "sighttime": 1760142420000,
-        "joeypresent": "Yes",
-        "numberofkoala": 1,
+        "numberofkoala": 2,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.54812068,
-        "sighting_long_wgs84": 153.07120821000001
+        "sighting_lat_wgs84": -27.513188290000002,
+        "sighting_long_wgs84": 153.07526228999998
       }
     },
     {
       "type": "Feature",
-      "id": 1070360,
+      "id": 1069170,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.35902912279187,
-          -27.931241488210198
+          153.07577879910363,
+          -27.512297218444381
         ]
       },
       "properties": {
-        "locality": "Arundel",
-        "objectid": 1070360,
-        "globalid": "{DA3AD381-8290-474F-A22E-D2067B9F5ACB}",
-        "sighttime": 1760139240000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
+        "locality": "Camp Hill",
+        "objectid": 1069170,
+        "globalid": "{6B67D7D5-A14A-4C55-A393-7837EFD636E6}",
+        "sighttime": 1760236260000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
         "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.931241490000001,
-        "sighting_long_wgs84": 153.35902912
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1070361,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.35839804013509,
-          -27.932261527430899
-        ]
-      },
-      "properties": {
-        "locality": "Arundel",
-        "objectid": 1070361,
-        "globalid": "{161AF939-3362-47B9-8DE5-B171D4D04CF4}",
-        "sighttime": 1760150640000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.932261530000002,
-        "sighting_long_wgs84": 153.35839804000003
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.512297220000001,
+        "sighting_long_wgs84": 153.07577880000002
       }
     }
   ]
