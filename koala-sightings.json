@@ -233,48 +233,25 @@
     },
     {
       "type": "Feature",
-      "id": 1070373,
+      "id": 1069176,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.07526228937488,
-          -27.513188293496551
+          153.35894524619547,
+          -27.931608880204553
         ]
       },
       "properties": {
-        "locality": "Camp Hill",
-        "objectid": 1070373,
-        "globalid": "{C8CC658A-0F96-4546-AD9A-496EEE283A8C}",
-        "sighttime": 1760236020000,
-        "joeypresent": "Yes",
-        "numberofkoala": 2,
+        "locality": "Arundel",
+        "objectid": 1069176,
+        "globalid": "{EA54A931-4D3D-4DDD-8673-A3AE9F20A233}",
+        "sighttime": 1760338500000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.513188290000002,
-        "sighting_long_wgs84": 153.07526228999998
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1069170,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.07577879910363,
-          -27.512297218444381
-        ]
-      },
-      "properties": {
-        "locality": "Camp Hill",
-        "objectid": 1069170,
-        "globalid": "{6B67D7D5-A14A-4C55-A393-7837EFD636E6}",
-        "sighttime": 1760236260000,
-        "joeypresent": "Yes",
-        "numberofkoala": 2,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.512297220000001,
-        "sighting_long_wgs84": 153.07577880000002
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.931608879999999,
+        "sighting_long_wgs84": 153.35894525
       }
     }
   ]
