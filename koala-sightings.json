@@ -233,25 +233,117 @@
     },
     {
       "type": "Feature",
-      "id": 1069176,
+      "id": 1071162,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.35894524619547,
-          -27.931608880204553
+          152.0478079147191,
+          -27.543195454534828
+        ]
+      },
+      "properties": {
+        "locality": "Postmans Ridge",
+        "objectid": 1071162,
+        "globalid": "{70AA0F2D-9BE7-4B40-8E72-25BA0C19E9AB}",
+        "sighttime": 1760355120000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Lockyer Valley Regional",
+        "sighting_lat_wgs84": -27.543195449999999,
+        "sighting_long_wgs84": 152.04780790999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1071167,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.96919820647381,
+          -27.275077579650091
+        ]
+      },
+      "properties": {
+        "locality": "Lawnton",
+        "objectid": 1071167,
+        "globalid": "{51842577-E05D-466A-8880-2CEE55E3D5D9}",
+        "sighttime": 1760390520000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.275077579999998,
+        "sighting_long_wgs84": 152.96919821
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1071165,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.3622633479705,
+          -27.929837110257932
         ]
       },
       "properties": {
         "locality": "Arundel",
-        "objectid": 1069176,
-        "globalid": "{EA54A931-4D3D-4DDD-8673-A3AE9F20A233}",
-        "sighttime": 1760338500000,
+        "objectid": 1071165,
+        "globalid": "{5B424BC7-B20C-4975-BD78-7B82F9CF796A}",
+        "sighttime": 1760387280000,
         "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.931608879999999,
-        "sighting_long_wgs84": 153.35894525
+        "sighting_lat_wgs84": -27.929837110000001,
+        "sighting_long_wgs84": 153.36226335000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1071168,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.28879134552321,
+          -28.00674700220349
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1071168,
+        "globalid": "{093A4E15-A8E7-417F-AE29-A39336E46A99}",
+        "sighttime": 1760395500000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -28.006746999999997,
+        "sighting_long_wgs84": 153.28879135
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1070386,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.07135574886783,
+          -27.544434890575555
+        ]
+      },
+      "properties": {
+        "locality": "Mount Gravatt",
+        "objectid": 1070386,
+        "globalid": "{9C5D393A-2CD5-4EA9-9679-BEC4B52DE0B6}",
+        "sighttime": 1760428200000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.544434889999998,
+        "sighting_long_wgs84": 153.07135575000001
       }
     }
   ]
