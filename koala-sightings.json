@@ -233,48 +233,94 @@
     },
     {
       "type": "Feature",
-      "id": 1071185,
+      "id": 1071566,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.43985974765258,
-          -27.396772499304756
+          153.36561174093694,
+          -27.930831878668734
         ]
       },
       "properties": {
-        "locality": "Amity",
-        "objectid": 1071185,
-        "globalid": "{A81104AC-C557-42A2-AC29-57DE9C6B46F4}",
-        "sighttime": 1760503620000,
-        "joeypresent": "Yes",
-        "numberofkoala": 2,
+        "locality": "Arundel",
+        "objectid": 1071566,
+        "globalid": "{30EDA71B-AD1E-401E-BC4B-C28D1C175578}",
+        "sighttime": 1760564160000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Redland City",
-        "sighting_lat_wgs84": -27.396772500000001,
-        "sighting_long_wgs84": 153.43985974999998
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.930831880000003,
+        "sighting_long_wgs84": 153.36561173999999
       }
     },
     {
       "type": "Feature",
-      "id": 1071189,
+      "id": 1069199,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.08230263149656,
-          -27.510199912755802
+          152.99333333304378,
+          -26.409166666332766
         ]
       },
       "properties": {
-        "locality": "Carina Heights",
-        "objectid": 1071189,
-        "globalid": "{56BD6343-62FD-43FD-9D26-79939109D374}",
-        "sighttime": 1760513220000,
+        "locality": "Tewantin",
+        "objectid": 1069199,
+        "globalid": "{A7FD4CE9-D443-4EC2-BD72-4E58BE3AFCCD}",
+        "sighttime": 1760563200000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Noosa Shire",
+        "sighting_lat_wgs84": -26.409166669999998,
+        "sighting_long_wgs84": 152.99333333000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1069200,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.99729488811499,
+          -27.550840590065619
+        ]
+      },
+      "properties": {
+        "locality": "Prince Henry Heights",
+        "objectid": 1069200,
+        "globalid": "{1E041EAA-05E9-47B1-8A93-F820D9A95014}",
+        "sighttime": 1760599140000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Toowoomba Regional",
+        "sighting_lat_wgs84": -27.55084059,
+        "sighting_long_wgs84": 151.99729489000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1069204,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.99342012646989,
+          -27.143448012128356
+        ]
+      },
+      "properties": {
+        "locality": "Burpengary East",
+        "objectid": 1069204,
+        "globalid": "{24ED3F9D-348D-48E4-B9DF-A9A1F35DD8C7}",
+        "sighttime": 1760611980000,
         "joeypresent": "Yes",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.510199910000001,
-        "sighting_long_wgs84": 153.08230263000002
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.14344801,
+        "sighting_long_wgs84": 152.99342013
       }
     }
   ]
