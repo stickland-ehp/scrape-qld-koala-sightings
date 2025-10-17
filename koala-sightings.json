@@ -233,94 +233,94 @@
     },
     {
       "type": "Feature",
-      "id": 1071566,
+      "id": 1069206,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.36561174093694,
-          -27.930831878668734
+          153.07547534909898,
+          -27.512990886048627
         ]
       },
       "properties": {
-        "locality": "Arundel",
-        "objectid": 1071566,
-        "globalid": "{30EDA71B-AD1E-401E-BC4B-C28D1C175578}",
-        "sighttime": 1760564160000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.930831880000003,
-        "sighting_long_wgs84": 153.36561173999999
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1069199,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.99333333304378,
-          -26.409166666332766
-        ]
-      },
-      "properties": {
-        "locality": "Tewantin",
-        "objectid": 1069199,
-        "globalid": "{A7FD4CE9-D443-4EC2-BD72-4E58BE3AFCCD}",
-        "sighttime": 1760563200000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Noosa Shire",
-        "sighting_lat_wgs84": -26.409166669999998,
-        "sighting_long_wgs84": 152.99333333000001
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1069200,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.99729488811499,
-          -27.550840590065619
-        ]
-      },
-      "properties": {
-        "locality": "Prince Henry Heights",
-        "objectid": 1069200,
-        "globalid": "{1E041EAA-05E9-47B1-8A93-F820D9A95014}",
-        "sighttime": 1760599140000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Toowoomba Regional",
-        "sighting_lat_wgs84": -27.55084059,
-        "sighting_long_wgs84": 151.99729489000001
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1069204,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.99342012646989,
-          -27.143448012128356
-        ]
-      },
-      "properties": {
-        "locality": "Burpengary East",
-        "objectid": 1069204,
-        "globalid": "{24ED3F9D-348D-48E4-B9DF-A9A1F35DD8C7}",
-        "sighttime": 1760611980000,
+        "locality": "Camp Hill",
+        "objectid": 1069206,
+        "globalid": "{D29E1B31-D284-425E-9EF5-98C5F8104A24}",
+        "sighttime": 1760658720000,
         "joeypresent": "Yes",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.14344801,
-        "sighting_long_wgs84": 152.99342013
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.512990889999998,
+        "sighting_long_wgs84": 153.07547535
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1071573,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.04169452443656,
+          -26.751901444451704
+        ]
+      },
+      "properties": {
+        "locality": "Palmview",
+        "objectid": 1071573,
+        "globalid": "{7DE138F1-FFFA-428A-9C01-8BC9808A167B}",
+        "sighttime": 1760666820000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Sunshine Coast Regional",
+        "sighting_lat_wgs84": -26.751853539999999,
+        "sighting_long_wgs84": 153.04124123
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1069208,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.04124123095096,
+          -26.751853542463081
+        ]
+      },
+      "properties": {
+        "locality": "Palmview",
+        "objectid": 1069208,
+        "globalid": "{E5B52C06-F6CA-46AA-9A46-E6E3919807D2}",
+        "sighttime": 1760660280000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Sunshine Coast Regional",
+        "sighting_lat_wgs84": -26.751853539999999,
+        "sighting_long_wgs84": 153.04124123
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1071570,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.98908957755552,
+          -27.439200135819316
+        ]
+      },
+      "properties": {
+        "locality": "Ashgrove",
+        "objectid": 1071570,
+        "globalid": "{20B70631-AD70-4D86-9D0B-60600B5DCF07}",
+        "sighttime": 1760647980000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.440399880000001,
+        "sighting_long_wgs84": 152.99097785000001
       }
     }
   ]
