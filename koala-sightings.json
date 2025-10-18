@@ -233,94 +233,94 @@
     },
     {
       "type": "Feature",
-      "id": 1069206,
+      "id": 1071582,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.07547534909898,
-          -27.512990886048627
+          153.05020443310792,
+          -27.540099784251911
         ]
       },
       "properties": {
-        "locality": "Camp Hill",
-        "objectid": 1069206,
-        "globalid": "{D29E1B31-D284-425E-9EF5-98C5F8104A24}",
-        "sighttime": 1760658720000,
-        "joeypresent": "Yes",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.512990889999998,
-        "sighting_long_wgs84": 153.07547535
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1071573,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.04169452443656,
-          -26.751901444451704
-        ]
-      },
-      "properties": {
-        "locality": "Palmview",
-        "objectid": 1071573,
-        "globalid": "{7DE138F1-FFFA-428A-9C01-8BC9808A167B}",
-        "sighttime": 1760666820000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Sunshine Coast Regional",
-        "sighting_lat_wgs84": -26.751853539999999,
-        "sighting_long_wgs84": 153.04124123
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1069208,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.04124123095096,
-          -26.751853542463081
-        ]
-      },
-      "properties": {
-        "locality": "Palmview",
-        "objectid": 1069208,
-        "globalid": "{E5B52C06-F6CA-46AA-9A46-E6E3919807D2}",
-        "sighttime": 1760660280000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Sunshine Coast Regional",
-        "sighting_lat_wgs84": -26.751853539999999,
-        "sighting_long_wgs84": 153.04124123
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1071570,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.98908957755552,
-          -27.439200135819316
-        ]
-      },
-      "properties": {
-        "locality": "Ashgrove",
-        "objectid": 1071570,
-        "globalid": "{20B70631-AD70-4D86-9D0B-60600B5DCF07}",
-        "sighttime": 1760647980000,
+        "locality": "Nathan",
+        "objectid": 1071582,
+        "globalid": "{6790AFF3-7BA8-477E-918C-C90D1FABC93C}",
+        "sighttime": 1760743260000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.440399880000001,
-        "sighting_long_wgs84": 152.99097785000001
+        "sighting_lat_wgs84": -27.540099779999998,
+        "sighting_long_wgs84": 153.05020442999998
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1071583,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.07233868455342,
+          -27.544656638910059
+        ]
+      },
+      "properties": {
+        "locality": "Mount Gravatt",
+        "objectid": 1071583,
+        "globalid": "{CDE2393A-8A9B-48CD-9350-4BD675C914BD}",
+        "sighttime": 1760745180000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.544656639999999,
+        "sighting_long_wgs84": 153.07233868
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1071580,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.96107266894617,
+          -27.451422195167993
+        ]
+      },
+      "properties": {
+        "locality": "The Gap",
+        "objectid": 1071580,
+        "globalid": "{38D5F549-B327-40BB-83E0-A5A5DA83DC1D}",
+        "sighttime": 1760706480000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.451422189999999,
+        "sighting_long_wgs84": 152.96107267000002
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1069214,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.81344747240942,
+          -27.544021861743339
+        ]
+      },
+      "properties": {
+        "locality": "Wellcamp",
+        "objectid": 1069214,
+        "globalid": "{937E8046-DC92-4E62-84D4-09D1825D82DC}",
+        "sighttime": 1760773320000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Toowoomba Regional",
+        "sighting_lat_wgs84": -27.544021860000001,
+        "sighting_long_wgs84": 151.81344747
       }
     }
   ]
