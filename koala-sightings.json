@@ -233,94 +233,48 @@
     },
     {
       "type": "Feature",
-      "id": 1071582,
+      "id": 1072374,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.05020443310792,
-          -27.540099784251911
+          153.32439539447952,
+          -28.015265275496763
         ]
       },
       "properties": {
-        "locality": "Nathan",
-        "objectid": 1071582,
-        "globalid": "{6790AFF3-7BA8-477E-918C-C90D1FABC93C}",
-        "sighttime": 1760743260000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.540099779999998,
-        "sighting_long_wgs84": 153.05020442999998
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1071583,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.07233868455342,
-          -27.544656638910059
-        ]
-      },
-      "properties": {
-        "locality": "Mount Gravatt",
-        "objectid": 1071583,
-        "globalid": "{CDE2393A-8A9B-48CD-9350-4BD675C914BD}",
-        "sighttime": 1760745180000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.544656639999999,
-        "sighting_long_wgs84": 153.07233868
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1071580,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.96107266894617,
-          -27.451422195167993
-        ]
-      },
-      "properties": {
-        "locality": "The Gap",
-        "objectid": 1071580,
-        "globalid": "{38D5F549-B327-40BB-83E0-A5A5DA83DC1D}",
-        "sighttime": 1760706480000,
+        "locality": "Highland Park",
+        "objectid": 1072374,
+        "globalid": "{F405240C-5E8B-4234-8932-1150B7D5F335}",
+        "sighttime": 1760836620000,
         "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.451422189999999,
-        "sighting_long_wgs84": 152.96107267000002
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -28.015265280000001,
+        "sighting_long_wgs84": 153.32439539000001
       }
     },
     {
       "type": "Feature",
-      "id": 1069214,
+      "id": 1072776,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.81344747240942,
-          -27.544021861743339
+          153.18429352203239,
+          -28.192244604208618
         ]
       },
       "properties": {
-        "locality": "Wellcamp",
-        "objectid": 1069214,
-        "globalid": "{937E8046-DC92-4E62-84D4-09D1825D82DC}",
-        "sighttime": 1760773320000,
+        "locality": "Natural Bridge",
+        "objectid": 1072776,
+        "globalid": "{4E98B5B2-723F-443A-BC04-73A17E239692}",
+        "sighttime": 1760852460000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Toowoomba Regional",
-        "sighting_lat_wgs84": -27.544021860000001,
-        "sighting_long_wgs84": 151.81344747
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -28.192244599999999,
+        "sighting_long_wgs84": 153.18429352000001
       }
     }
   ]
