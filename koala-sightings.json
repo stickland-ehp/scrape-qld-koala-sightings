@@ -233,48 +233,71 @@
     },
     {
       "type": "Feature",
-      "id": 1072374,
+      "id": 1072781,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.32439539447952,
-          -28.015265275496763
+          153.20983158261586,
+          -27.488751973244153
         ]
       },
       "properties": {
-        "locality": "Highland Park",
-        "objectid": 1072374,
-        "globalid": "{F405240C-5E8B-4234-8932-1150B7D5F335}",
-        "sighttime": 1760836620000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
+        "locality": "Thorneside",
+        "objectid": 1072781,
+        "globalid": "{50197D3B-D0B4-492F-9285-33678D62A843}",
+        "sighttime": 1760911200000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
         "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -28.015265280000001,
-        "sighting_long_wgs84": 153.32439539000001
+        "lga": "Redland City",
+        "sighting_lat_wgs84": -27.488751970000003,
+        "sighting_long_wgs84": 153.20983158000001
       }
     },
     {
       "type": "Feature",
-      "id": 1072776,
+      "id": 1071603,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.18429352203239,
-          -28.192244604208618
+          153.07208446132802,
+          -27.543776554101822
         ]
       },
       "properties": {
-        "locality": "Natural Bridge",
-        "objectid": 1072776,
-        "globalid": "{4E98B5B2-723F-443A-BC04-73A17E239692}",
-        "sighttime": 1760852460000,
+        "locality": "Mount Gravatt",
+        "objectid": 1071603,
+        "globalid": "{8A591DF5-A56C-4C1C-A613-B153BD884200}",
+        "sighttime": 1760939400000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -28.192244599999999,
-        "sighting_long_wgs84": 153.18429352000001
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.54377655,
+        "sighting_long_wgs84": 153.07208446000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1071605,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.37709513063055,
+          -27.097000129441465
+        ]
+      },
+      "properties": {
+        "locality": "Toogoolawah",
+        "objectid": 1071605,
+        "globalid": "{4403921C-2149-49BF-9A4F-059BD01AE315}",
+        "sighttime": 1760945400000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -27.097000130000001,
+        "sighting_long_wgs84": 152.37709513000001
       }
     }
   ]
