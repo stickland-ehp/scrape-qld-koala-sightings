@@ -233,140 +233,94 @@
     },
     {
       "type": "Feature",
-      "id": 1071617,
+      "id": 1073585,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.18820126987512,
-          -28.180312981415273
+          152.99298019093257,
+          -27.393744775934884
         ]
       },
       "properties": {
-        "locality": "Natural Bridge",
-        "objectid": 1071617,
-        "globalid": "{F85B2056-B6C6-49A9-A75F-DA1FCD89AD43}",
-        "sighttime": 1761076140000,
+        "locality": "Everton Park",
+        "objectid": 1073585,
+        "globalid": "{86DDD3A0-A8C5-40EF-BAE5-F81A59A9A433}",
+        "sighttime": 1761172860000,
         "joeypresent": "No",
-        "numberofkoala": 2,
+        "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -28.18031298,
-        "sighting_long_wgs84": 153.18820127000001
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.394049599999999,
+        "sighting_long_wgs84": 152.9933557
       }
     },
     {
       "type": "Feature",
-      "id": 1071619,
+      "id": 1073584,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.04308588006438,
-          -27.534429973023784
+          152.91679888216473,
+          -27.404326619286497
         ]
       },
       "properties": {
-        "locality": "Tarragindi",
-        "objectid": 1071619,
-        "globalid": "{7F822535-91DF-48E3-AAEA-3A6F3B1A7044}",
-        "sighttime": 1761087180000,
+        "locality": "Ferny Grove",
+        "objectid": 1073584,
+        "globalid": "{DA68C88C-8329-48CC-9D5E-0490ECE213ED}",
+        "sighttime": 1761165300000,
         "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.534440680000003,
-        "sighting_long_wgs84": 153.04300675000002
+        "sighting_lat_wgs84": -27.404326619999999,
+        "sighting_long_wgs84": 152.91679887999999
       }
     },
     {
       "type": "Feature",
-      "id": 1071618,
+      "id": 1073184,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.79131504544225,
-          -26.308387620847711
+          153.07234749972133,
+          -27.52242019972687
         ]
       },
       "properties": {
-        "locality": "Greenview",
-        "objectid": 1071618,
-        "globalid": "{EE0C08D5-FF15-496B-858B-7526B189071D}",
-        "sighttime": 1761078360000,
+        "locality": "Holland Park",
+        "objectid": 1073184,
+        "globalid": "{6456EFBA-BB24-498B-8BB2-D25E3555192F}",
+        "sighttime": 1761161280000,
         "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "South Burnett Regional",
-        "sighting_lat_wgs84": -26.308387619999998,
-        "sighting_long_wgs84": 151.79131505000001
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1073581,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.46066740026373,
-          -26.66130960023202
-        ]
-      },
-      "properties": {
-        "locality": "Jimna",
-        "objectid": 1073581,
-        "globalid": "{715D0AAD-69D2-4F00-984D-7640D8CA6D1B}",
-        "sighttime": 1761121500000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -26.661309599999999,
-        "sighting_long_wgs84": 152.46066740000001
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1071620,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.6199199999088,
-          -27.399071666303804
-        ]
-      },
-      "properties": {
-        "locality": "Lake Wivenhoe",
-        "objectid": 1071620,
-        "globalid": "{1A4EB18A-8E59-4336-8726-7446A17FE730}",
-        "sighttime": 1761088380000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.399071670000001,
-        "sighting_long_wgs84": 152.61992000000001
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1071621,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.09638191616477,
-          -27.516601715994753
-        ]
-      },
-      "properties": {
-        "locality": "Carina Heights",
-        "objectid": 1071621,
-        "globalid": "{C9DFF21D-C921-4E98-9B2D-90F091532C97}",
-        "sighttime": 1761096900000,
-        "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.516601720000001,
-        "sighting_long_wgs84": 153.09638192000003
+        "sighting_lat_wgs84": -27.522420200000003,
+        "sighting_long_wgs84": 153.07234750000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1073586,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.42455421315381,
+          -27.293294845921878
+        ]
+      },
+      "properties": {
+        "locality": "Esk",
+        "objectid": 1073586,
+        "globalid": "{E35932D2-E6A7-4D69-84B2-4AE620D4F499}",
+        "sighttime": 1761190140000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -27.293294849999999,
+        "sighting_long_wgs84": 152.42455421
       }
     }
   ]
