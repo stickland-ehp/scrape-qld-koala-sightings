@@ -233,209 +233,71 @@
     },
     {
       "type": "Feature",
-      "id": 1073986,
+      "id": 1073994,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.38341674237157,
-          -27.131122075595222
+          152.87024059966566,
+          -27.538432374985945
         ]
       },
       "properties": {
-        "locality": null,
-        "objectid": 1073986,
-        "globalid": "{26D8227F-D8A2-4ED0-A4E8-A6F58B8325CE}",
-        "sighttime": 1761277380000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Dead",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.131122080000001,
-        "sighting_long_wgs84": 152.38341674
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1073987,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.3878232761825,
-          -27.073693978672569
-        ]
-      },
-      "properties": {
-        "locality": "Toogoolawah",
-        "objectid": 1073987,
-        "globalid": "{FD073972-F8CE-439B-9509-E813A098DFD6}",
-        "sighttime": 1761277620000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.073736969999999,
-        "sighting_long_wgs84": 152.38807539999999
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1073197,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.9692524189029,
-          -27.275123512157837
-        ]
-      },
-      "properties": {
-        "locality": "Lawnton",
-        "objectid": 1073197,
-        "globalid": "{7845F73F-9B43-49D8-A9AB-B9FB675C2B4C}",
-        "sighttime": 1761263640000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.275123509999997,
-        "sighting_long_wgs84": 152.96925242
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1073196,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.07274559981755,
-          -27.545925600010836
-        ]
-      },
-      "properties": {
-        "locality": "Mount Gravatt",
-        "objectid": 1073196,
-        "globalid": "{35BA6ED1-E225-4BFB-BDDF-F2523287F4FF}",
-        "sighttime": 1761263520000,
+        "locality": "Anstead",
+        "objectid": 1073994,
+        "globalid": "{10E08A55-EB75-4982-8802-570A684D7762}",
+        "sighttime": 1761308400000,
         "joeypresent": "Yes",
-        "numberofkoala": 2,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.5459256,
-        "sighting_long_wgs84": 153.07274559999999
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1073985,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.06802787971071,
-          -27.551102811966754
-        ]
-      },
-      "properties": {
-        "locality": "Upper Mount Gravatt",
-        "objectid": 1073985,
-        "globalid": "{A5391376-49A5-400F-B374-5D2331ED20BC}",
-        "sighttime": 1761250500000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Dead",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.551102810000003,
-        "sighting_long_wgs84": 153.06802788000002
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1073984,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.12162628065096,
-          -27.690270718801802
-        ]
-      },
-      "properties": {
-        "locality": "Waterford West",
-        "objectid": 1073984,
-        "globalid": "{F4308AE2-7269-4DF4-8D02-86D6DAA6008B}",
-        "sighttime": 1761255840000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Logan City",
-        "sighting_lat_wgs84": -27.690270720000001,
-        "sighting_long_wgs84": 153.12162627999999
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1073991,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.05368466911375,
-          -27.543638417326331
-        ]
-      },
-      "properties": {
-        "locality": "Nathan",
-        "objectid": 1073991,
-        "globalid": "{DC7E5549-43A3-4FFF-A94D-651B77C9005E}",
-        "sighttime": 1761291720000,
-        "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.543638420000001,
-        "sighting_long_wgs84": 153.05368467
+        "sighting_lat_wgs84": -27.53843238,
+        "sighting_long_wgs84": 152.87024060000002
       }
     },
     {
       "type": "Feature",
-      "id": 1073193,
+      "id": 1073996,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.18692689825349,
-          -28.184971819204645
+          153.1787867370513,
+          -27.914584981645049
         ]
       },
       "properties": {
-        "locality": "Binna Burra",
-        "objectid": 1073193,
-        "globalid": "{6788CBB6-B68B-4112-B352-B034CADDFA07}",
-        "sighttime": 1761250080000,
-        "joeypresent": "No",
+        "locality": "Tamborine Mountain",
+        "objectid": 1073996,
+        "globalid": "{BDD2D2BF-D2B9-4449-9CA9-37CB267F635C}",
+        "sighttime": 1761349740000,
+        "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Scenic Rim Regional",
-        "sighting_lat_wgs84": -28.184971819999998,
-        "sighting_long_wgs84": 153.1869269
+        "lga": null,
+        "sighting_lat_wgs84": -27.914584980000001,
+        "sighting_long_wgs84": 153.17878673999999
       }
     },
     {
       "type": "Feature",
-      "id": 1073983,
+      "id": 1073999,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.18697278419822,
-          -28.182989946043257
+          152.92909619317686,
+          -26.279226060671991
         ]
       },
       "properties": {
-        "locality": "Binna Burra",
-        "objectid": 1073983,
-        "globalid": "{FB2B2096-380A-47CE-8685-70CFC8172AF9}",
-        "sighttime": 1761250440000,
+        "locality": "Cootharaba",
+        "objectid": 1073999,
+        "globalid": "{524ED54F-7D6F-4902-8042-9C01E7987AFE}",
+        "sighttime": 1761334200000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Scenic Rim Regional",
-        "sighting_lat_wgs84": -28.18298995,
-        "sighting_long_wgs84": 153.18697278000002
+        "lga": "Noosa Shire",
+        "sighting_lat_wgs84": -26.279226059999999,
+        "sighting_long_wgs84": 152.92909619
       }
     }
   ]
