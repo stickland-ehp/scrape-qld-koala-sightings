@@ -233,98 +233,6 @@
     },
     {
       "type": "Feature",
-      "id": 1077221,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.11605095780698,
-          -27.520171673791154
-        ]
-      },
-      "properties": {
-        "locality": "Carindale",
-        "objectid": 1077221,
-        "globalid": "{E74DD4C1-AFA4-4FB4-93C1-6C7E4AD8949D}",
-        "sighttime": 1761776640000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.52017167,
-        "sighting_long_wgs84": 153.11605096000002
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1077222,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.27798725729542,
-          -27.867588928753037
-        ]
-      },
-      "properties": {
-        "locality": "Upper Coomera",
-        "objectid": 1077222,
-        "globalid": "{6ACA8C6E-3B7B-4EAC-BE07-6450A520BF38}",
-        "sighttime": 1761767700000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 2,
-        "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.86758893,
-        "sighting_long_wgs84": 153.27798725999997
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1077223,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.97095872117433,
-          -27.276736732537035
-        ]
-      },
-      "properties": {
-        "locality": "Lawnton",
-        "objectid": 1077223,
-        "globalid": "{4F02C554-ACF4-4E9B-9FEC-7607E880C3FC}",
-        "sighttime": 1761799800000,
-        "joeypresent": "No",
-        "numberofkoala": 2,
-        "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.27691553,
-        "sighting_long_wgs84": 152.97078438
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1077224,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.80583985143269,
-          -26.750522651484637
-        ]
-      },
-      "properties": {
-        "locality": "Reesville",
-        "objectid": 1077224,
-        "globalid": "{CAF50BCE-2275-4D25-ACD6-A32EF5C305AD}",
-        "sighttime": 1761802140000,
-        "joeypresent": "No",
-        "numberofkoala": 2,
-        "koalacondifinal": "Healthy",
-        "lga": "Sunshine Coast Regional",
-        "sighting_lat_wgs84": -26.750522649999997,
-        "sighting_long_wgs84": 152.80583985000001
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1077227,
       "geometry": {
         "type": "Point",
@@ -344,6 +252,75 @@
         "lga": "Ipswich City",
         "sighting_lat_wgs84": -27.56814567,
         "sighting_long_wgs84": 152.75234369999998
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1078426,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.37169224395737,
+          -28.099365751054492
+        ]
+      },
+      "properties": {
+        "locality": "Mudgeeraba",
+        "objectid": 1078426,
+        "globalid": "{608AC3E1-2396-4026-B474-5235B0180413}",
+        "sighttime": 1761873840000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -28.09936575,
+        "sighting_long_wgs84": 153.37169223999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1078428,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.22317403225716,
+          -27.950635943924645
+        ]
+      },
+      "properties": {
+        "locality": "Guanaba",
+        "objectid": 1078428,
+        "globalid": "{613BDEAC-72F1-4020-9E2B-A6552EACE691}",
+        "sighttime": 1761866580000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.950635940000002,
+        "sighting_long_wgs84": 153.22317403
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1078824,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.89756982989834,
+          -27.598487011132256
+        ]
+      },
+      "properties": {
+        "locality": "Drayton",
+        "objectid": 1078824,
+        "globalid": "{7D09D24A-9E18-4E09-844C-212EBFCEE6AB}",
+        "sighttime": 1761864240000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": "Toowoomba Regional",
+        "sighting_lat_wgs84": -27.598487010000003,
+        "sighting_long_wgs84": 151.89756983000001
       }
     }
   ]
