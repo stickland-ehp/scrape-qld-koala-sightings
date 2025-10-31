@@ -233,29 +233,6 @@
     },
     {
       "type": "Feature",
-      "id": 1077227,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.75234370302636,
-          -27.568145667833821
-        ]
-      },
-      "properties": {
-        "locality": "Muirlea",
-        "objectid": 1077227,
-        "globalid": "{29442519-F3CD-427C-AC85-4E139539D612}",
-        "sighttime": 1761813000000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Ipswich City",
-        "sighting_lat_wgs84": -27.56814567,
-        "sighting_long_wgs84": 152.75234369999998
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1078426,
       "geometry": {
         "type": "Point",
@@ -321,6 +298,29 @@
         "lga": "Toowoomba Regional",
         "sighting_lat_wgs84": -27.598487010000003,
         "sighting_long_wgs84": 151.89756983000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1079226,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.40524789691068,
+          -28.116606009296628
+        ]
+      },
+      "properties": {
+        "locality": "Reedy Creek",
+        "objectid": 1079226,
+        "globalid": "{6EE61A5E-EF93-4B07-8360-839067F550EB}",
+        "sighttime": 1761906420000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -28.116606009999998,
+        "sighting_long_wgs84": 153.40524790000001
       }
     }
   ]
