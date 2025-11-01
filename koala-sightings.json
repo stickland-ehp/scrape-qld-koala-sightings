@@ -233,94 +233,48 @@
     },
     {
       "type": "Feature",
-      "id": 1078426,
+      "id": 1078830,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.37169224395737,
-          -28.099365751054492
+          152.69366390622304,
+          -27.58846081223782
         ]
       },
       "properties": {
-        "locality": "Mudgeeraba",
-        "objectid": 1078426,
-        "globalid": "{608AC3E1-2396-4026-B474-5235B0180413}",
-        "sighttime": 1761873840000,
-        "joeypresent": "Yes",
-        "numberofkoala": 2,
-        "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -28.09936575,
-        "sighting_long_wgs84": 153.37169223999999
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1078428,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.22317403225716,
-          -27.950635943924645
-        ]
-      },
-      "properties": {
-        "locality": "Guanaba",
-        "objectid": 1078428,
-        "globalid": "{613BDEAC-72F1-4020-9E2B-A6552EACE691}",
-        "sighttime": 1761866580000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.950635940000002,
-        "sighting_long_wgs84": 153.22317403
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1078824,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.89756982989834,
-          -27.598487011132256
-        ]
-      },
-      "properties": {
-        "locality": "Drayton",
-        "objectid": 1078824,
-        "globalid": "{7D09D24A-9E18-4E09-844C-212EBFCEE6AB}",
-        "sighttime": 1761864240000,
-        "joeypresent": "Yes",
-        "numberofkoala": 2,
-        "koalacondifinal": "Healthy",
-        "lga": "Toowoomba Regional",
-        "sighting_lat_wgs84": -27.598487010000003,
-        "sighting_long_wgs84": 151.89756983000001
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1079226,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.40524789691068,
-          -28.116606009296628
-        ]
-      },
-      "properties": {
-        "locality": "Reedy Creek",
-        "objectid": 1079226,
-        "globalid": "{6EE61A5E-EF93-4B07-8360-839067F550EB}",
-        "sighttime": 1761906420000,
+        "locality": "Karrabin",
+        "objectid": 1078830,
+        "globalid": "{DDCE349F-A58E-4FDA-84C0-E9C4942E02A9}",
+        "sighttime": 1761956100000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -28.116606009999998,
-        "sighting_long_wgs84": 153.40524790000001
+        "lga": "Ipswich City",
+        "sighting_lat_wgs84": -27.588460810000001,
+        "sighting_long_wgs84": 152.69366391
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1078833,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.29848927615788,
+          -27.575312619363689
+        ]
+      },
+      "properties": {
+        "locality": "Victoria Point",
+        "objectid": 1078833,
+        "globalid": "{9B9E75EE-5128-4739-8BB4-27A424627568}",
+        "sighttime": 1761971280000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Redland City",
+        "sighting_lat_wgs84": -27.575312619999998,
+        "sighting_long_wgs84": 153.29848927999998
       }
     }
   ]
