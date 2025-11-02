@@ -233,48 +233,94 @@
     },
     {
       "type": "Feature",
-      "id": 1078830,
+      "id": 1078839,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.69366390622304,
-          -27.58846081223782
+          153.00463205881979,
+          -27.16183358874806
         ]
       },
       "properties": {
-        "locality": "Karrabin",
-        "objectid": 1078830,
-        "globalid": "{DDCE349F-A58E-4FDA-84C0-E9C4942E02A9}",
-        "sighttime": 1761956100000,
-        "joeypresent": "No",
+        "locality": "Burpengary East",
+        "objectid": 1078839,
+        "globalid": "{9F889039-FBBC-4A1F-BBB5-C3CF185396C0}",
+        "sighttime": 1762046520000,
+        "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Ipswich City",
-        "sighting_lat_wgs84": -27.588460810000001,
-        "sighting_long_wgs84": 152.69366391
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.161833590000001,
+        "sighting_long_wgs84": 153.00463206000001
       }
     },
     {
       "type": "Feature",
-      "id": 1078833,
+      "id": 1078841,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.29848927615788,
-          -27.575312619363689
+          153.04635377320153,
+          -27.541891433699636
         ]
       },
       "properties": {
-        "locality": "Victoria Point",
-        "objectid": 1078833,
-        "globalid": "{9B9E75EE-5128-4739-8BB4-27A424627568}",
-        "sighttime": 1761971280000,
+        "locality": "Nathan",
+        "objectid": 1078841,
+        "globalid": "{D475F970-82D1-4696-8E7C-8471A348C49F}",
+        "sighttime": 1762050000000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Redland City",
-        "sighting_lat_wgs84": -27.575312619999998,
-        "sighting_long_wgs84": 153.29848927999998
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.54189143,
+        "sighting_long_wgs84": 153.04635377
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1079629,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.62464194209753,
+          -27.625937445444698
+        ]
+      },
+      "properties": {
+        "locality": "Thagoona",
+        "objectid": 1079629,
+        "globalid": "{9766BC58-E985-4CC8-A281-12D9E98756CB}",
+        "sighttime": 1762055820000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": "Ipswich City",
+        "sighting_lat_wgs84": -27.625937450000002,
+        "sighting_long_wgs84": 152.62464193999998
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1078445,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.96774239582601,
+          -27.301391455752377
+        ]
+      },
+      "properties": {
+        "locality": "Strathpine",
+        "objectid": 1078445,
+        "globalid": "{D3ECB379-4D73-4C96-8C20-97AC8BC743FB}",
+        "sighttime": 1762062720000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.301391460000001,
+        "sighting_long_wgs84": 152.96774240000002
       }
     }
   ]
