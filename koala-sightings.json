@@ -233,140 +233,25 @@
     },
     {
       "type": "Feature",
-      "id": 1079632,
+      "id": 1079646,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.74781170037966,
-          -21.574363299868008
+          152.47309549969302,
+          -27.533149399709952
         ]
       },
       "properties": {
-        "locality": "Epsom",
-        "objectid": 1079632,
-        "globalid": "{BB7F4818-4F16-4C00-BFC7-B30B27EAAFCF}",
-        "sighttime": 1762110900000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Dead",
-        "lga": "Isaac Regional",
-        "sighting_lat_wgs84": -21.574363300000002,
-        "sighting_long_wgs84": 148.7478117
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1079633,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.74806216080395,
-          -28.255241255824185
-        ]
-      },
-      "properties": {
-        "locality": "Mount Barney",
-        "objectid": 1079633,
-        "globalid": "{108733CA-44F8-4D81-AC4D-80459EF340F6}",
-        "sighttime": 1762127160000,
+        "locality": "Kensington Grove",
+        "objectid": 1079646,
+        "globalid": "{BDBA05FC-C84D-4699-8D62-B41EB6F2AC8F}",
+        "sighttime": 1762241700000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Scenic Rim Regional",
-        "sighting_lat_wgs84": -28.255241259999998,
-        "sighting_long_wgs84": 152.74806215999999
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1079635,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.75240051787478,
-          -27.58005327046261
-        ]
-      },
-      "properties": {
-        "locality": "Muirlea",
-        "objectid": 1079635,
-        "globalid": "{60AFB16F-92DA-4497-B480-7D989BE86B88}",
-        "sighttime": 1762142700000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Dead",
-        "lga": "Ipswich City",
-        "sighting_lat_wgs84": -27.580053269999997,
-        "sighting_long_wgs84": 152.75240051999998
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1079634,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.90874493677194,
-          -26.695008259274289
-        ]
-      },
-      "properties": {
-        "locality": "Montville",
-        "objectid": 1079634,
-        "globalid": "{3B22702D-2F26-48EE-9823-F76B992FC644}",
-        "sighttime": 1762135260000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Sunshine Coast Regional",
-        "sighting_lat_wgs84": -26.695008260000002,
-        "sighting_long_wgs84": 152.90874494000002
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1079631,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.05137828324931,
-          -27.539589259996575
-        ]
-      },
-      "properties": {
-        "locality": "Nathan",
-        "objectid": 1079631,
-        "globalid": "{73DAE160-17BA-40C1-8D78-6C490EEE1CB6}",
-        "sighttime": 1762112820000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.53958926,
-        "sighting_long_wgs84": 153.05137827999999
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1078848,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.07622509201823,
-          -27.50440933293153
-        ]
-      },
-      "properties": {
-        "locality": "Camp Hill",
-        "objectid": 1078848,
-        "globalid": "{21205641-CED4-475E-AE2A-001FE1A7592C}",
-        "sighttime": 1762127460000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.504409330000001,
-        "sighting_long_wgs84": 153.07622509000001
+        "lga": "Lockyer Valley Regional",
+        "sighting_lat_wgs84": -27.533149400000003,
+        "sighting_long_wgs84": 152.4730955
       }
     }
   ]
