@@ -233,25 +233,140 @@
     },
     {
       "type": "Feature",
-      "id": 1079646,
+      "id": 1079647,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.47309549969302,
-          -27.533149399709952
+          153.05756347952618,
+          -27.544758440079537
         ]
       },
       "properties": {
-        "locality": "Kensington Grove",
-        "objectid": 1079646,
-        "globalid": "{BDBA05FC-C84D-4699-8D62-B41EB6F2AC8F}",
-        "sighttime": 1762241700000,
+        "locality": "Nathan",
+        "objectid": 1079647,
+        "globalid": "{F9BB5FE1-A05E-4242-9486-7A1BC6DA8CFB}",
+        "sighttime": 1762286460000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Lockyer Valley Regional",
-        "sighting_lat_wgs84": -27.533149400000003,
-        "sighting_long_wgs84": 152.4730955
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.544758439999999,
+        "sighting_long_wgs84": 153.05756348
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1079648,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.80178957059886,
+          -26.754841472579532
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1079648,
+        "globalid": "{0B0388E9-4CE2-43B2-BCB4-EF0F7C3A3F1E}",
+        "sighttime": 1762297200000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": null,
+        "sighting_lat_wgs84": null,
+        "sighting_long_wgs84": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1079650,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.24336640004449,
+          -27.937372800183901
+        ]
+      },
+      "properties": {
+        "locality": "Guanaba",
+        "objectid": 1079650,
+        "globalid": "{69219031-E526-4547-8A6F-0F1F47CCB506}",
+        "sighttime": 1762319460000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.937372800000002,
+        "sighting_long_wgs84": 153.24336640000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1079651,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.25460324716877,
+          -27.932970056169314
+        ]
+      },
+      "properties": {
+        "locality": "Guanaba",
+        "objectid": 1079651,
+        "globalid": "{C30C7D5B-D082-422B-883D-10174045F397}",
+        "sighttime": 1762321500000,
+        "joeypresent": "No",
+        "numberofkoala": 3,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.932970059999999,
+        "sighting_long_wgs84": 153.25460325
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1080431,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.11133000017182,
+          -27.542257599964731
+        ]
+      },
+      "properties": {
+        "locality": "Mansfield",
+        "objectid": 1080431,
+        "globalid": "{B9C44722-BE85-4FBF-A64A-BAEBB1076C5D}",
+        "sighttime": 1762325700000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.542257600000003,
+        "sighting_long_wgs84": 153.11133000000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1080831,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.36303102844937,
+          -27.929511595723557
+        ]
+      },
+      "properties": {
+        "locality": "Arundel",
+        "objectid": 1080831,
+        "globalid": "{C69BDF5A-A3E7-4368-B01C-4E1076AB71D3}",
+        "sighttime": 1762325400000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.929511600000001,
+        "sighting_long_wgs84": 153.36303103
       }
     }
   ]
