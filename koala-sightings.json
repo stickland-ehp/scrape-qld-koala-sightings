@@ -233,71 +233,94 @@
     },
     {
       "type": "Feature",
-      "id": 1079660,
+      "id": 1078862,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.36294744200885,
-          -27.929549959205133
+          152.90814939865433,
+          -27.298564691137589
         ]
       },
       "properties": {
-        "locality": "Arundel",
-        "objectid": 1079660,
-        "globalid": "{C4600AAA-8ABE-4E2E-915F-F67334AC483F}",
-        "sighttime": 1762408800000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Injured/Sick",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.929549959999999,
-        "sighting_long_wgs84": 153.36294744
+        "locality": "Cashmere",
+        "objectid": 1078862,
+        "globalid": "{0BEE01D6-9CF3-40F7-B008-683F6D02F768}",
+        "sighttime": 1762437360000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 3,
+        "koalacondifinal": "Healthy",
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.298564689999999,
+        "sighting_long_wgs84": 152.90814939999999
       }
     },
     {
       "type": "Feature",
-      "id": 1078858,
+      "id": 1078868,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.78953574702959,
-          -26.788560830754516
+          153.10202747558586,
+          -28.200884721905723
         ]
       },
       "properties": {
-        "locality": "Wootha",
-        "objectid": 1078858,
-        "globalid": "{F887602B-C350-483C-A04F-FEE4C058FB16}",
-        "sighttime": 1762375080000,
+        "locality": "O'Reilly",
+        "objectid": 1078868,
+        "globalid": "{4A333E93-1BED-46BD-B534-C98BE2D99FE7}",
+        "sighttime": 1762496160000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Sunshine Coast Regional",
-        "sighting_lat_wgs84": -26.788539279999998,
-        "sighting_long_wgs84": 152.78939894999999
+        "lga": "Scenic Rim Regional",
+        "sighting_lat_wgs84": -28.200884720000001,
+        "sighting_long_wgs84": 153.10202748
       }
     },
     {
       "type": "Feature",
-      "id": 1079652,
+      "id": 1079670,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.9653893838051,
-          -27.458827755873312
+          152.99568689752857,
+          -26.403653765821492
         ]
       },
       "properties": {
-        "locality": "Bardon",
-        "objectid": 1079652,
-        "globalid": "{60478598-A2F4-4274-B481-8D33E083CE15}",
-        "sighttime": 1762374660000,
+        "locality": "Tewantin",
+        "objectid": 1079670,
+        "globalid": "{0F8DCB82-E2FB-4F5B-B531-92FF2D6A3E30}",
+        "sighttime": 1762485060000,
         "joeypresent": "No",
         "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Noosa Shire",
+        "sighting_lat_wgs84": -26.403653770000002,
+        "sighting_long_wgs84": 152.99568690000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1079666,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.12058405705497,
+          -27.526827910457559
+        ]
+      },
+      "properties": {
+        "locality": "Carindale",
+        "objectid": 1079666,
+        "globalid": "{C4CE1E16-7973-49F0-A1D5-8FF3DF113233}",
+        "sighttime": 1762458300000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.458827759999998,
-        "sighting_long_wgs84": 152.96538938
+        "sighting_lat_wgs84": -27.526827910000002,
+        "sighting_long_wgs84": 153.12058406
       }
     }
   ]
