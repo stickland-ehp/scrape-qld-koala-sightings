@@ -233,117 +233,48 @@
     },
     {
       "type": "Feature",
-      "id": 1080837,
+      "id": 1078882,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.89684295179802,
-          -27.598860796731042
+          153.07537192606031,
+          -27.513440208866882
         ]
       },
       "properties": {
-        "locality": "Drayton",
-        "objectid": 1080837,
-        "globalid": "{22F575D7-DC90-48D8-8030-585C451CD493}",
-        "sighttime": 1762554180000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Toowoomba Regional",
-        "sighting_lat_wgs84": -27.598860800000001,
-        "sighting_long_wgs84": 151.89684295000001
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1078873,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.89117812620898,
-          -27.598803748298042
-        ]
-      },
-      "properties": {
-        "locality": "Drayton",
-        "objectid": 1078873,
-        "globalid": "{FCDC4AB0-256E-49AA-80EA-601246A56966}",
-        "sighttime": 1762552440000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Toowoomba Regional",
-        "sighting_lat_wgs84": -27.598803750000002,
-        "sighting_long_wgs84": 151.89117812999999
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1078872,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.89109339986678,
-          -27.524255199750716
-        ]
-      },
-      "properties": {
-        "locality": "Pullenvale",
-        "objectid": 1078872,
-        "globalid": "{5666D022-26CE-4997-A662-9A246739E9CA}",
-        "sighttime": 1762547460000,
+        "locality": "Camp Hill",
+        "objectid": 1078882,
+        "globalid": "{5AB65794-F729-4AFB-8BAE-5EEDB02EBEA4}",
+        "sighttime": 1762652040000,
         "joeypresent": "Yes",
-        "numberofkoala": 2,
+        "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.524255199999999,
-        "sighting_long_wgs84": 152.89109339999999
+        "sighting_lat_wgs84": -27.513440210000002,
+        "sighting_long_wgs84": 153.07537192999999
       }
     },
     {
       "type": "Feature",
-      "id": 1078874,
+      "id": 1080842,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.06859329995135,
-          -27.202820000008821
+          152.02054689979371,
+          -27.481195077079434
         ]
       },
       "properties": {
-        "locality": "Pierces Creek",
-        "objectid": 1078874,
-        "globalid": "{081A2331-9634-4A3D-9B4A-4ED7777095C2}",
-        "sighttime": 1762576680000,
-        "joeypresent": "Not Sure",
+        "locality": "Murphys Creek",
+        "objectid": 1080842,
+        "globalid": "{D0699857-AAE6-4237-88AA-6F787B3F98F7}",
+        "sighttime": 1762674960000,
+        "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Toowoomba Regional",
-        "sighting_lat_wgs84": -27.202819999999999,
-        "sighting_long_wgs84": 152.0685933
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1080838,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.09020591504313,
-          -27.534899804163228
-        ]
-      },
-      "properties": {
-        "locality": "Mount Gravatt East",
-        "objectid": 1080838,
-        "globalid": "{39A3D90E-75F0-4EE7-9388-9F2D8005BA09}",
-        "sighttime": 1762589460000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.534899800000002,
-        "sighting_long_wgs84": 153.09020592000002
+        "lga": "Lockyer Valley Regional",
+        "sighting_lat_wgs84": -27.481195080000003,
+        "sighting_long_wgs84": 152.0205469
       }
     }
   ]
