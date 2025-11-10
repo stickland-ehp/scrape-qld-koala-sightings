@@ -233,48 +233,25 @@
     },
     {
       "type": "Feature",
-      "id": 1078882,
+      "id": 1078891,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.07537192606031,
-          -27.513440208866882
+          153.10614399639223,
+          -27.507616337252919
         ]
       },
       "properties": {
-        "locality": "Camp Hill",
-        "objectid": 1078882,
-        "globalid": "{5AB65794-F729-4AFB-8BAE-5EEDB02EBEA4}",
-        "sighttime": 1762652040000,
-        "joeypresent": "Yes",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.513440210000002,
-        "sighting_long_wgs84": 153.07537192999999
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1080842,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.02054689979371,
-          -27.481195077079434
-        ]
-      },
-      "properties": {
-        "locality": "Murphys Creek",
-        "objectid": 1080842,
-        "globalid": "{D0699857-AAE6-4237-88AA-6F787B3F98F7}",
-        "sighttime": 1762674960000,
+        "locality": "Carindale",
+        "objectid": 1078891,
+        "globalid": "{1DDBE3E1-FEC7-4660-B091-DAE0E6534481}",
+        "sighttime": 1762719600000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Lockyer Valley Regional",
-        "sighting_lat_wgs84": -27.481195080000003,
-        "sighting_long_wgs84": 152.0205469
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.507616339999998,
+        "sighting_long_wgs84": 153.106144
       }
     }
   ]
