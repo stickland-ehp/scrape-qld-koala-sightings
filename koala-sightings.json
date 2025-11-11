@@ -233,25 +233,71 @@
     },
     {
       "type": "Feature",
-      "id": 1078891,
+      "id": 1078903,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.10614399639223,
-          -27.507616337252919
+          153.05804401532114,
+          -26.455334583585479
         ]
       },
       "properties": {
-        "locality": "Carindale",
-        "objectid": 1078891,
-        "globalid": "{1DDBE3E1-FEC7-4660-B091-DAE0E6534481}",
-        "sighttime": 1762719600000,
+        "locality": null,
+        "objectid": 1078903,
+        "globalid": "{292F1E68-5561-4FE6-8BD3-F68C12C665C7}",
+        "sighttime": 1762818780000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": null,
+        "sighting_lat_wgs84": -26.455334580000002,
+        "sighting_long_wgs84": 153.05804401999998
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1078907,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.05373039964985,
+          -27.554606999856073
+        ]
+      },
+      "properties": {
+        "locality": "Nathan",
+        "objectid": 1078907,
+        "globalid": "{00109A2E-BFD0-4BA3-BA0F-B106E1449C7E}",
+        "sighttime": 1762845840000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.507616339999998,
-        "sighting_long_wgs84": 153.106144
+        "sighting_lat_wgs84": -27.554607000000001,
+        "sighting_long_wgs84": 153.05373040000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1078909,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.28391233470373,
+          -27.837653792090357
+        ]
+      },
+      "properties": {
+        "locality": "Willow Vale",
+        "objectid": 1078909,
+        "globalid": "{F9D39F55-6A76-4112-AF69-4E3EA1B86EF5}",
+        "sighttime": 1762854120000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.837653789999997,
+        "sighting_long_wgs84": 153.28391232999999
       }
     }
   ]
