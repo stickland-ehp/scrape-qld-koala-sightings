@@ -233,48 +233,25 @@
     },
     {
       "type": "Feature",
-      "id": 1081264,
+      "id": 1081273,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.07308494470436,
-          -27.541013471763485
+          152.4128465095817,
+          -27.233108215298067
         ]
       },
       "properties": {
-        "locality": "Mount Gravatt",
-        "objectid": 1081264,
-        "globalid": "{739BFA0D-D927-4A40-8411-F451C983D2A1}",
-        "sighttime": 1763093700000,
+        "locality": "Esk",
+        "objectid": 1081273,
+        "globalid": "{C368FD00-D6A4-41A7-B5ED-D7D29A4FAD99}",
+        "sighttime": 1763159280000,
         "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.541013469999999,
-        "sighting_long_wgs84": 153.07308494
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1081261,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.05422929970416,
-          -27.557511800334701
-        ]
-      },
-      "properties": {
-        "locality": "Nathan",
-        "objectid": 1081261,
-        "globalid": "{62A3A202-B4D3-423D-A5DF-F54437D6792C}",
-        "sighttime": 1763067180000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.5575118,
-        "sighting_long_wgs84": 153.0542293
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -27.233108210000001,
+        "sighting_long_wgs84": 152.41284651000001
       }
     }
   ]
