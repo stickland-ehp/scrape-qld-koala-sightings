@@ -230,6 +230,98 @@
         "sighting_lat_wgs84": -27.748447580000001,
         "sighting_long_wgs84": 153.14911741
       }
+    },
+    {
+      "type": "Feature",
+      "id": 1082468,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.59451427194648,
+          -27.389584042374032
+        ]
+      },
+      "properties": {
+        "locality": "Lake Wivenhoe",
+        "objectid": 1082468,
+        "globalid": "{5EC2A44D-1795-4602-856D-7E456CAAD746}",
+        "sighttime": 1763409360000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -27.389584040000003,
+        "sighting_long_wgs84": 152.59451427000002
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1082469,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.9448797382459,
+          -27.270263803800216
+        ]
+      },
+      "properties": {
+        "locality": "Joyner",
+        "objectid": 1082469,
+        "globalid": "{98F58228-F8FC-4C26-8080-29169C7EAB7D}",
+        "sighttime": 1763413080000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.270263799999999,
+        "sighting_long_wgs84": 152.94487973999998
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1082869,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.36431278242603,
+          -27.937635105897005
+        ]
+      },
+      "properties": {
+        "locality": "Arundel",
+        "objectid": 1082869,
+        "globalid": "{3CBBE8B7-F61A-45E2-BD35-25F4B56483F1}",
+        "sighttime": 1763409960000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.937455020000002,
+        "sighting_long_wgs84": 153.36443079999998
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1082470,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.07452494679978,
+          -27.513986720249971
+        ]
+      },
+      "properties": {
+        "locality": "Holland Park",
+        "objectid": 1082470,
+        "globalid": "{1616A60C-3BF4-4600-B64A-1E25496557C4}",
+        "sighttime": 1763419620000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.513986719999998,
+        "sighting_long_wgs84": 153.07452495000001
+      }
     }
   ]
 }
