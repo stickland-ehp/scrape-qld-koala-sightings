@@ -233,94 +233,71 @@
     },
     {
       "type": "Feature",
-      "id": 1082468,
+      "id": 1082472,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.59451427194648,
-          -27.389584042374032
+          153.07761174137229,
+          -27.545977151541891
         ]
       },
       "properties": {
-        "locality": "Lake Wivenhoe",
-        "objectid": 1082468,
-        "globalid": "{5EC2A44D-1795-4602-856D-7E456CAAD746}",
-        "sighttime": 1763409360000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.389584040000003,
-        "sighting_long_wgs84": 152.59451427000002
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1082469,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.9448797382459,
-          -27.270263803800216
-        ]
-      },
-      "properties": {
-        "locality": "Joyner",
-        "objectid": 1082469,
-        "globalid": "{98F58228-F8FC-4C26-8080-29169C7EAB7D}",
-        "sighttime": 1763413080000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.270263799999999,
-        "sighting_long_wgs84": 152.94487973999998
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1082869,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.36431278242603,
-          -27.937635105897005
-        ]
-      },
-      "properties": {
-        "locality": "Arundel",
-        "objectid": 1082869,
-        "globalid": "{3CBBE8B7-F61A-45E2-BD35-25F4B56483F1}",
-        "sighttime": 1763409960000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.937455020000002,
-        "sighting_long_wgs84": 153.36443079999998
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1082470,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.07452494679978,
-          -27.513986720249971
-        ]
-      },
-      "properties": {
-        "locality": "Holland Park",
-        "objectid": 1082470,
-        "globalid": "{1616A60C-3BF4-4600-B64A-1E25496557C4}",
-        "sighttime": 1763419620000,
+        "locality": "Mount Gravatt",
+        "objectid": 1082472,
+        "globalid": "{BD284AA0-A72C-47FD-ABE5-F3D3146DA38A}",
+        "sighttime": 1763498280000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.513986719999998,
-        "sighting_long_wgs84": 153.07452495000001
+        "sighting_lat_wgs84": -27.545977149999999,
+        "sighting_long_wgs84": 153.07761173999998
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1082873,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.49588555902517,
+          -28.064964875837326
+        ]
+      },
+      "properties": {
+        "locality": "Moogerah",
+        "objectid": 1082873,
+        "globalid": "{59FB61D8-D73C-4A3E-B261-B0DA5147A49C}",
+        "sighttime": 1763501460000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Scenic Rim Regional",
+        "sighting_lat_wgs84": -28.064964880000002,
+        "sighting_long_wgs84": 152.49588556
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1082475,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.10869779445551,
+          -27.528802100598693
+        ]
+      },
+      "properties": {
+        "locality": "Mansfield",
+        "objectid": 1082475,
+        "globalid": "{65D700AC-49CF-46AA-81B9-1B328E165A23}",
+        "sighttime": 1763536080000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.5288021,
+        "sighting_long_wgs84": 153.10869779000001
       }
     }
   ]
