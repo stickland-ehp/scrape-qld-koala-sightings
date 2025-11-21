@@ -95,98 +95,6 @@
     },
     {
       "type": "Feature",
-      "id": 1082879,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.02946408042089,
-          -27.25181218719694
-        ]
-      },
-      "properties": {
-        "locality": "Mango Hill",
-        "objectid": 1082879,
-        "globalid": "{A33161D9-D39E-471F-8E85-DEA6980F8930}",
-        "sighttime": 1763591940000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.251670910000001,
-        "sighting_long_wgs84": 153.02946073000001
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1081281,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.02942087684565,
-          -27.251758183938414
-        ]
-      },
-      "properties": {
-        "locality": "Mango Hill",
-        "objectid": 1081281,
-        "globalid": "{237C4842-D190-401D-AABA-D0A0E00C1539}",
-        "sighttime": 1763585820000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.251758179999999,
-        "sighting_long_wgs84": 153.02942088
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1082878,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.366648763227,
-          -28.062290369409499
-        ]
-      },
-      "properties": {
-        "locality": "Tregony",
-        "objectid": 1082878,
-        "globalid": "{2AA09E6C-095E-4422-9FEA-60A12C9CE73E}",
-        "sighttime": 1763589120000,
-        "joeypresent": "No",
-        "numberofkoala": 2,
-        "koalacondifinal": "Healthy",
-        "lga": "Southern Downs Regional",
-        "sighting_lat_wgs84": -28.062290369999999,
-        "sighting_long_wgs84": 152.36664876
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1081280,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.09571779976008,
-          -27.545608499897376
-        ]
-      },
-      "properties": {
-        "locality": "Mansfield",
-        "objectid": 1081280,
-        "globalid": "{C1FB9F4F-8F94-46AC-AD52-1AD6E6933BD9}",
-        "sighttime": 1763584620000,
-        "joeypresent": "No",
-        "numberofkoala": 2,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.5456085,
-        "sighting_long_wgs84": 153.09571779999999
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1046603,
       "geometry": {
         "type": "Point",
@@ -229,52 +137,6 @@
         "lga": "Brisbane City",
         "sighting_lat_wgs84": -27.559770829999998,
         "sighting_long_wgs84": 153.05038017999999
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1081279,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.07256089990693,
-          -27.522672900162952
-        ]
-      },
-      "properties": {
-        "locality": "Holland Park",
-        "objectid": 1081279,
-        "globalid": "{99AACF84-D63A-4ABF-92BD-AD6EE7C909DF}",
-        "sighttime": 1763578560000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.5226729,
-        "sighting_long_wgs84": 153.07256089999998
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1083262,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.09718582839398,
-          -27.551334578045712
-        ]
-      },
-      "properties": {
-        "locality": "Wishart",
-        "objectid": 1083262,
-        "globalid": "{CA1DA793-9B02-4532-A253-48998BDE7B2C}",
-        "sighttime": 1763627160000,
-        "joeypresent": "Yes",
-        "numberofkoala": 2,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.551334580000002,
-        "sighting_long_wgs84": 153.09718583
       }
     },
     {
@@ -325,48 +187,71 @@
     },
     {
       "type": "Feature",
-      "id": 1082881,
+      "id": 1083267,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.08508647552773,
-          -27.517195864150622
+          153.06870017797107,
+          -27.518276402692365
         ]
       },
       "properties": {
-        "locality": "Mount Gravatt East",
-        "objectid": 1082881,
-        "globalid": "{DCD502D0-35CA-4B24-85CC-96643DB90858}",
-        "sighttime": 1763608260000,
-        "joeypresent": "Not Sure",
+        "locality": "Holland Park",
+        "objectid": 1083267,
+        "globalid": "{2F9FF913-3CD8-49F1-AA84-7220A8D7EFCF}",
+        "sighttime": 1763676420000,
+        "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.517195859999998,
-        "sighting_long_wgs84": 153.08508648
+        "sighting_lat_wgs84": -27.518402479999999,
+        "sighting_long_wgs84": 153.06847218999999
       }
     },
     {
       "type": "Feature",
-      "id": 1081282,
+      "id": 1083265,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.10770534830607,
-          -27.585313450554406
+          153.07215770007483,
+          -27.524031899817064
         ]
       },
       "properties": {
-        "locality": "Rochedale",
-        "objectid": 1081282,
-        "globalid": "{2E982631-EE1A-4381-A946-FA1D65C5A1CF}",
-        "sighttime": 1763608440000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 2,
+        "locality": "Holland Park",
+        "objectid": 1083265,
+        "globalid": "{9A333E31-5722-40DB-B7BD-0E438FAF76E3}",
+        "sighttime": 1763664840000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.585313450000001,
-        "sighting_long_wgs84": 153.10770535
+        "sighting_lat_wgs84": -27.524031900000001,
+        "sighting_long_wgs84": 153.07215770000002
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1083268,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.86591979657388,
+          -26.466990049755594
+        ]
+      },
+      "properties": {
+        "locality": "Ridgewood",
+        "objectid": 1083268,
+        "globalid": "{288E0A3B-EEE9-49C8-A718-5F6D298A4FE2}",
+        "sighttime": 1763677500000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Noosa Shire",
+        "sighting_lat_wgs84": -26.46699005,
+        "sighting_long_wgs84": 152.8659198
       }
     },
     {
@@ -390,75 +275,6 @@
         "lga": "Logan City",
         "sighting_lat_wgs84": -27.748447580000001,
         "sighting_long_wgs84": 153.14911741
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1083261,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.7896093891199,
-          -26.788332943748848
-        ]
-      },
-      "properties": {
-        "locality": "Wootha",
-        "objectid": 1083261,
-        "globalid": "{150596E5-711C-424C-8758-192824A3F133}",
-        "sighttime": 1763587440000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Sunshine Coast Regional",
-        "sighting_lat_wgs84": -26.788507729999999,
-        "sighting_long_wgs84": 152.78935189999999
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1083260,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.99422631766456,
-          -27.550997857176423
-        ]
-      },
-      "properties": {
-        "locality": null,
-        "objectid": 1083260,
-        "globalid": "{49057375-58AC-4B59-ABB7-34DC83A22083}",
-        "sighttime": 1763584860000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Toowoomba Regional",
-        "sighting_lat_wgs84": -27.550997859999999,
-        "sighting_long_wgs84": 151.99422632
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1082877,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.6074570997454,
-          -27.625541800386191
-        ]
-      },
-      "properties": {
-        "locality": "Rosewood",
-        "objectid": 1082877,
-        "globalid": "{F483141A-87CC-496E-BB7E-91B9CB16D6D3}",
-        "sighttime": 1763588220000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Dead",
-        "lga": "Ipswich City",
-        "sighting_lat_wgs84": -27.625541800000001,
-        "sighting_long_wgs84": 152.6074571
       }
     }
   ]
