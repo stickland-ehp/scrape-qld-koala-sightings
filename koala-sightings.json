@@ -164,25 +164,25 @@
     },
     {
       "type": "Feature",
-      "id": 1083665,
+      "id": 1084071,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.89404272519096,
-          -27.598727684205265
+          153.44192684927478,
+          -28.138713590327288
         ]
       },
       "properties": {
-        "locality": "Drayton",
-        "objectid": 1083665,
-        "globalid": "{CA46E691-E14F-41F0-82D5-8D737C32AC1F}",
-        "sighttime": 1763854200000,
+        "locality": "Elanora",
+        "objectid": 1084071,
+        "globalid": "{050687E4-2F12-425F-8D0D-6911A64CDC20}",
+        "sighttime": 1763975100000,
         "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Toowoomba Regional",
-        "sighting_lat_wgs84": -27.59872768,
-        "sighting_long_wgs84": 151.89404273
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -28.138713589999998,
+        "sighting_long_wgs84": 153.44192685000002
       }
     }
   ]
