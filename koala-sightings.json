@@ -161,29 +161,6 @@
         "sighting_lat_wgs84": -27.748447580000001,
         "sighting_long_wgs84": 153.14911741
       }
-    },
-    {
-      "type": "Feature",
-      "id": 1084071,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.44192684927478,
-          -28.138713590327288
-        ]
-      },
-      "properties": {
-        "locality": "Elanora",
-        "objectid": 1084071,
-        "globalid": "{050687E4-2F12-425F-8D0D-6911A64CDC20}",
-        "sighttime": 1763975100000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -28.138713589999998,
-        "sighting_long_wgs84": 153.44192685000002
-      }
     }
   ]
 }
