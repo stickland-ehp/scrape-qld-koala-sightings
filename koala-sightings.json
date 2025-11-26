@@ -161,6 +161,29 @@
         "sighting_lat_wgs84": -27.748447580000001,
         "sighting_long_wgs84": 153.14911741
       }
+    },
+    {
+      "type": "Feature",
+      "id": 1083677,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.10693866226219,
+          -27.771681481345308
+        ]
+      },
+      "properties": {
+        "locality": "Logan Village",
+        "objectid": 1083677,
+        "globalid": "{F3D116BD-31DF-410C-8A67-FBA7DBBB367C}",
+        "sighttime": 1764117780000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": "Logan City",
+        "sighting_lat_wgs84": -27.771681479999998,
+        "sighting_long_wgs84": 153.10693866
+      }
     }
   ]
 }
