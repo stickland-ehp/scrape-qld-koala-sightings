@@ -164,25 +164,25 @@
     },
     {
       "type": "Feature",
-      "id": 1083677,
+      "id": 1084080,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.10693866226219,
-          -27.771681481345308
+          153.36490038841967,
+          -27.931853953541555
         ]
       },
       "properties": {
-        "locality": "Logan Village",
-        "objectid": 1083677,
-        "globalid": "{F3D116BD-31DF-410C-8A67-FBA7DBBB367C}",
-        "sighttime": 1764117780000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 2,
+        "locality": "Arundel",
+        "objectid": 1084080,
+        "globalid": "{00A9454A-484F-4AF9-A395-BB32A7C9FA0B}",
+        "sighttime": 1764192480000,
+        "joeypresent": "Yes",
+        "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Logan City",
-        "sighting_lat_wgs84": -27.771681479999998,
-        "sighting_long_wgs84": 153.10693866
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.931853950000001,
+        "sighting_long_wgs84": 153.36490039
       }
     }
   ]
