@@ -161,29 +161,6 @@
         "sighting_lat_wgs84": -27.748447580000001,
         "sighting_long_wgs84": 153.14911741
       }
-    },
-    {
-      "type": "Feature",
-      "id": 1084080,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.36490038841967,
-          -27.931853953541555
-        ]
-      },
-      "properties": {
-        "locality": "Arundel",
-        "objectid": 1084080,
-        "globalid": "{00A9454A-484F-4AF9-A395-BB32A7C9FA0B}",
-        "sighttime": 1764192480000,
-        "joeypresent": "Yes",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.931853950000001,
-        "sighting_long_wgs84": 153.36490039
-      }
     }
   ]
 }
