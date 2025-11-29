@@ -161,6 +161,75 @@
         "sighting_lat_wgs84": -27.748447580000001,
         "sighting_long_wgs84": 153.14911741
       }
+    },
+    {
+      "type": "Feature",
+      "id": 1084465,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.37315381280609,
+          -27.942354710286928
+        ]
+      },
+      "properties": {
+        "locality": "Arundel",
+        "objectid": 1084465,
+        "globalid": "{A322FA5B-160F-4B15-83BD-0200D6AFFC6F}",
+        "sighttime": 1764363300000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.94235471,
+        "sighting_long_wgs84": 153.37315380999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1081291,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.08147426353202,
+          -27.508178099595575
+        ]
+      },
+      "properties": {
+        "locality": "Camp Hill",
+        "objectid": 1081291,
+        "globalid": "{8B485854-24F1-4389-AC71-6CF5B809467B}",
+        "sighttime": 1764370080000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.508178099999999,
+        "sighting_long_wgs84": 153.08147425999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1082901,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.41307383275591,
+          -27.233585676434913
+        ]
+      },
+      "properties": {
+        "locality": "Esk",
+        "objectid": 1082901,
+        "globalid": "{DF8BC03F-6A7B-4F3D-B057-5F0918FCAF4D}",
+        "sighttime": 1764369780000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -27.233585680000001,
+        "sighting_long_wgs84": 152.41307383
+      }
     }
   ]
 }
