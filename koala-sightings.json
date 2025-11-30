@@ -164,71 +164,48 @@
     },
     {
       "type": "Feature",
-      "id": 1084465,
+      "id": 1082904,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.37315381280609,
-          -27.942354710286928
+          153.30013744665067,
+          -27.826427421949603
         ]
       },
       "properties": {
-        "locality": "Arundel",
-        "objectid": 1084465,
-        "globalid": "{A322FA5B-160F-4B15-83BD-0200D6AFFC6F}",
-        "sighttime": 1764363300000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.94235471,
-        "sighting_long_wgs84": 153.37315380999999
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1081291,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.08147426353202,
-          -27.508178099595575
-        ]
-      },
-      "properties": {
-        "locality": "Camp Hill",
-        "objectid": 1081291,
-        "globalid": "{8B485854-24F1-4389-AC71-6CF5B809467B}",
-        "sighttime": 1764370080000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.508178099999999,
-        "sighting_long_wgs84": 153.08147425999999
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1082901,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.41307383275591,
-          -27.233585676434913
-        ]
-      },
-      "properties": {
-        "locality": "Esk",
-        "objectid": 1082901,
-        "globalid": "{DF8BC03F-6A7B-4F3D-B057-5F0918FCAF4D}",
-        "sighttime": 1764369780000,
+        "locality": "Pimpama",
+        "objectid": 1082904,
+        "globalid": "{25014399-2219-4EF1-870A-5E1E10D90598}",
+        "sighttime": 1764470700000,
         "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.233585680000001,
-        "sighting_long_wgs84": 152.41307383
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.826427419999998,
+        "sighting_long_wgs84": 153.30013744999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1081295,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.97292535156146,
+          -27.676787968364451
+        ]
+      },
+      "properties": {
+        "locality": "Preston",
+        "objectid": 1081295,
+        "globalid": "{D42FDD7E-43E0-430A-8562-32E590214E6D}",
+        "sighttime": 1764460860000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Toowoomba Regional",
+        "sighting_lat_wgs84": -27.676787969999999,
+        "sighting_long_wgs84": 151.97292535
       }
     }
   ]
