@@ -164,48 +164,25 @@
     },
     {
       "type": "Feature",
-      "id": 1082904,
+      "id": 1082910,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.30013744665067,
-          -27.826427421949603
+          152.47280890028645,
+          -27.534285000308248
         ]
       },
       "properties": {
-        "locality": "Pimpama",
-        "objectid": 1082904,
-        "globalid": "{25014399-2219-4EF1-870A-5E1E10D90598}",
-        "sighttime": 1764470700000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.826427419999998,
-        "sighting_long_wgs84": 153.30013744999999
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1081295,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.97292535156146,
-          -27.676787968364451
-        ]
-      },
-      "properties": {
-        "locality": "Preston",
-        "objectid": 1081295,
-        "globalid": "{D42FDD7E-43E0-430A-8562-32E590214E6D}",
-        "sighttime": 1764460860000,
+        "locality": "Kensington Grove",
+        "objectid": 1082910,
+        "globalid": "{E7B047B5-A72F-4935-9972-43E8EC6D6B61}",
+        "sighttime": 1764573240000,
         "joeypresent": "No",
         "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Toowoomba Regional",
-        "sighting_lat_wgs84": -27.676787969999999,
-        "sighting_long_wgs84": 151.97292535
+        "koalacondifinal": "Dead",
+        "lga": "Lockyer Valley Regional",
+        "sighting_lat_wgs84": -27.534284999999997,
+        "sighting_long_wgs84": 152.47280890000002
       }
     }
   ]
