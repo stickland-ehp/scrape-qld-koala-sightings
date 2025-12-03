@@ -164,71 +164,48 @@
     },
     {
       "type": "Feature",
-      "id": 1081301,
+      "id": 1085272,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.42464120780252,
-          -27.296128360114857
+          153.08115760020789,
+          -27.509955799643347
         ]
       },
       "properties": {
-        "locality": "Esk",
-        "objectid": 1081301,
-        "globalid": "{0B3D3473-E3D6-4727-9A38-C539E3B018A8}",
-        "sighttime": 1764607200000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Dead",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.296128360000001,
-        "sighting_long_wgs84": 152.42464121
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1081302,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.37496334048686,
-          -28.233730128205579
-        ]
-      },
-      "properties": {
-        "locality": "Currumbin Valley",
-        "objectid": 1081302,
-        "globalid": "{FA9470FE-C71A-4960-8D69-0A26351DFE8B}",
-        "sighttime": 1764639780000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -28.233730129999998,
-        "sighting_long_wgs84": 153.37496333999999
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1085668,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.36507566410461,
-          -27.931716815051395
-        ]
-      },
-      "properties": {
-        "locality": "Arundel",
-        "objectid": 1085668,
-        "globalid": "{39C2B3AD-D69F-4C30-90D0-8E5D21F26C7F}",
-        "sighttime": 1764660180000,
+        "locality": "Camp Hill",
+        "objectid": 1085272,
+        "globalid": "{79BADAF2-B713-470C-B9CB-07EB80D8193C}",
+        "sighttime": 1764721020000,
         "joeypresent": "Yes",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.931716819999998,
-        "sighting_long_wgs84": 153.36507566
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.5099558,
+        "sighting_long_wgs84": 153.08115759999998
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1081304,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.08291190036329,
+          -27.506417099786468
+        ]
+      },
+      "properties": {
+        "locality": "Camp Hill",
+        "objectid": 1081304,
+        "globalid": "{01663159-A2B6-46A1-A73A-D916916D7F50}",
+        "sighttime": 1764722700000,
+        "joeypresent": "Yes",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.5064171,
+        "sighting_long_wgs84": 153.0829119
       }
     }
   ]
