@@ -164,71 +164,48 @@
     },
     {
       "type": "Feature",
-      "id": 1085277,
+      "id": 1085281,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.9614555587076,
-          -27.462871936216956
+          152.95848813772034,
+          -27.270062723574231
         ]
       },
       "properties": {
-        "locality": "Highfields",
-        "objectid": 1085277,
-        "globalid": "{BF55E56C-6109-46E9-B681-229300200A41}",
-        "sighttime": 1764801300000,
-        "joeypresent": "No",
-        "numberofkoala": 2,
+        "locality": null,
+        "objectid": 1085281,
+        "globalid": "{DCB1FD13-BA94-4B80-9AE6-9B253676999C}",
+        "sighttime": 1764880920000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 51,
         "koalacondifinal": "Healthy",
-        "lga": "Toowoomba Regional",
-        "sighting_lat_wgs84": -27.462871940000003,
-        "sighting_long_wgs84": 151.96145555999999
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.270062719999999,
+        "sighting_long_wgs84": 152.95848814000001
       }
     },
     {
       "type": "Feature",
-      "id": 1085276,
+      "id": 1085286,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.10726930696543,
-          -27.505882072932074
+          153.08334060246804,
+          -27.530669388372104
         ]
       },
       "properties": {
-        "locality": "Carindale",
-        "objectid": 1085276,
-        "globalid": "{332EE521-57BF-451C-9E15-3097F2E33A81}",
-        "sighttime": 1764793320000,
-        "joeypresent": "No",
+        "locality": "Mount Gravatt East",
+        "objectid": 1085286,
+        "globalid": "{5BFB9811-D9F4-424C-ABE4-B0D2C2354598}",
+        "sighttime": 1764925680000,
+        "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.505882070000002,
-        "sighting_long_wgs84": 153.10726930999999
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1085280,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.91722150177665,
-          -27.396100828525206
-        ]
-      },
-      "properties": {
-        "locality": "Ferny Grove",
-        "objectid": 1085280,
-        "globalid": "{8491F0CE-00E8-4EC4-8B9D-77B25699DB49}",
-        "sighttime": 1764832380000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.396100830000002,
-        "sighting_long_wgs84": 152.91722150000001
+        "sighting_lat_wgs84": -27.53066939,
+        "sighting_long_wgs84": 153.08334060000001
       }
     }
   ]
