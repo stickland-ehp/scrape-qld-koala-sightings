@@ -161,52 +161,6 @@
         "sighting_lat_wgs84": -27.748447580000001,
         "sighting_long_wgs84": 153.14911741
       }
-    },
-    {
-      "type": "Feature",
-      "id": 1085281,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.95848813772034,
-          -27.270062723574231
-        ]
-      },
-      "properties": {
-        "locality": null,
-        "objectid": 1085281,
-        "globalid": "{DCB1FD13-BA94-4B80-9AE6-9B253676999C}",
-        "sighttime": 1764880920000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 51,
-        "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.270062719999999,
-        "sighting_long_wgs84": 152.95848814000001
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1085286,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.08334060246804,
-          -27.530669388372104
-        ]
-      },
-      "properties": {
-        "locality": "Mount Gravatt East",
-        "objectid": 1085286,
-        "globalid": "{5BFB9811-D9F4-424C-ABE4-B0D2C2354598}",
-        "sighttime": 1764925680000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.53066939,
-        "sighting_long_wgs84": 153.08334060000001
-      }
     }
   ]
 }
