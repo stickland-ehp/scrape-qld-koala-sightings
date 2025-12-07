@@ -161,6 +161,75 @@
         "sighting_lat_wgs84": -27.748447580000001,
         "sighting_long_wgs84": 153.14911741
       }
+    },
+    {
+      "type": "Feature",
+      "id": 1081309,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.42586020008349,
+          -27.241590900312577
+        ]
+      },
+      "properties": {
+        "locality": "Esk",
+        "objectid": 1081309,
+        "globalid": "{6E88F6B9-502F-4CBE-BAF6-35AF599FC793}",
+        "sighttime": 1765069260000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -27.241590899999998,
+        "sighting_long_wgs84": 152.42586020000002
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1085294,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.38007637411593,
+          -27.92155545227855
+        ]
+      },
+      "properties": {
+        "locality": "Coombabah",
+        "objectid": 1085294,
+        "globalid": "{8AADE50C-1AE7-458E-AD47-134E5114ABED}",
+        "sighttime": 1765086120000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Injured/Sick",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.921555450000003,
+        "sighting_long_wgs84": 153.38007636999998
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1081311,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.10993228087858,
+          -27.527069058546434
+        ]
+      },
+      "properties": {
+        "locality": "Carindale",
+        "objectid": 1081311,
+        "globalid": "{5BB51553-71FF-4B0F-AC4C-4797A4312FE4}",
+        "sighttime": 1765092600000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.527069060000002,
+        "sighting_long_wgs84": 153.10993228000001
+      }
     }
   ]
 }
