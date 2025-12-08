@@ -95,29 +95,6 @@
     },
     {
       "type": "Feature",
-      "id": 1046603,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.06888929220293,
-          -27.551086707845457
-        ]
-      },
-      "properties": {
-        "locality": "Upper Mount Gravatt",
-        "objectid": 1046603,
-        "globalid": "{43BA9E7B-9DBB-4575-8672-DD90F2B4A6F2}",
-        "sighttime": 1765065000000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Dead",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.55108671,
-        "sighting_long_wgs84": 153.06888929000002
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1045803,
       "geometry": {
         "type": "Point",
@@ -164,71 +141,25 @@
     },
     {
       "type": "Feature",
-      "id": 1081309,
+      "id": 1085298,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.42586020008349,
-          -27.241590900312577
+          153.04707394627664,
+          -27.542160174893137
         ]
       },
       "properties": {
-        "locality": "Esk",
-        "objectid": 1081309,
-        "globalid": "{6E88F6B9-502F-4CBE-BAF6-35AF599FC793}",
-        "sighttime": 1765069260000,
+        "locality": "Nathan",
+        "objectid": 1085298,
+        "globalid": "{A12BEBBF-E2E9-4302-88E4-0DB6A252A7B0}",
+        "sighttime": 1765178400000,
         "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.241590899999998,
-        "sighting_long_wgs84": 152.42586020000002
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1085294,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.38007637411593,
-          -27.92155545227855
-        ]
-      },
-      "properties": {
-        "locality": "Coombabah",
-        "objectid": 1085294,
-        "globalid": "{8AADE50C-1AE7-458E-AD47-134E5114ABED}",
-        "sighttime": 1765086120000,
-        "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Injured/Sick",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.921555450000003,
-        "sighting_long_wgs84": 153.38007636999998
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1081311,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.10993228087858,
-          -27.527069058546434
-        ]
-      },
-      "properties": {
-        "locality": "Carindale",
-        "objectid": 1081311,
-        "globalid": "{5BB51553-71FF-4B0F-AC4C-4797A4312FE4}",
-        "sighttime": 1765092600000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.527069060000002,
-        "sighting_long_wgs84": 153.10993228000001
+        "sighting_lat_wgs84": -27.542160170000002,
+        "sighting_long_wgs84": 153.04707395
       }
     }
   ]
