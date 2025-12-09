@@ -141,25 +141,209 @@
     },
     {
       "type": "Feature",
-      "id": 1085298,
+      "id": 1085300,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.04707394627664,
-          -27.542160174893137
+          151.9765549001439,
+          -26.155469699977591
         ]
       },
       "properties": {
-        "locality": "Nathan",
-        "objectid": 1085298,
-        "globalid": "{A12BEBBF-E2E9-4302-88E4-0DB6A252A7B0}",
-        "sighttime": 1765178400000,
+        "locality": "Tablelands",
+        "objectid": 1085300,
+        "globalid": "{6FE3A6AA-FB59-4C6B-A561-C344D24AE925}",
+        "sighttime": 1765230360000,
         "joeypresent": "No",
         "numberofkoala": 1,
-        "koalacondifinal": "Injured/Sick",
+        "koalacondifinal": "Healthy",
+        "lga": "South Burnett Regional",
+        "sighting_lat_wgs84": -26.155469700000001,
+        "sighting_long_wgs84": 151.9765549
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1085303,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.33512235066206,
+          -28.142330645173718
+        ]
+      },
+      "properties": {
+        "locality": "Bonogin",
+        "objectid": 1085303,
+        "globalid": "{AE0F37D4-F7CF-4C1D-82B5-79ABA5D7B941}",
+        "sighttime": 1765235280000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -28.137281009999999,
+        "sighting_long_wgs84": 153.32718301
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1085299,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.37697606438994,
+          -28.107861011544063
+        ]
+      },
+      "properties": {
+        "locality": "Bonogin",
+        "objectid": 1085299,
+        "globalid": "{8D49F015-3E6C-4BE7-9911-D40AE51ED1AD}",
+        "sighttime": 1765222200000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -28.107648080000001,
+        "sighting_long_wgs84": 153.37694388
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1085304,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.08161907824405,
+          -27.545256199701875
+        ]
+      },
+      "properties": {
+        "locality": "Mount Gravatt",
+        "objectid": 1085304,
+        "globalid": "{77F30F11-49D0-455A-861D-375089ABEEAC}",
+        "sighttime": 1765238400000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.542160170000002,
-        "sighting_long_wgs84": 153.04707395
+        "sighting_lat_wgs84": -27.545256200000001,
+        "sighting_long_wgs84": 153.08161908
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1085301,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.096298009924,
+          -27.534278008042541
+        ]
+      },
+      "properties": {
+        "locality": "Mansfield",
+        "objectid": 1085301,
+        "globalid": "{F72700AF-6958-4F86-8884-54759A42837B}",
+        "sighttime": 1765234440000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.534278009999998,
+        "sighting_long_wgs84": 153.09629801
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1085302,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.09520040069918,
+          -27.535069231300657
+        ]
+      },
+      "properties": {
+        "locality": "Mount Gravatt East",
+        "objectid": 1085302,
+        "globalid": "{E6ABD5DB-606D-4EED-A06B-131B36783F9C}",
+        "sighttime": 1765234800000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.53496458,
+        "sighting_long_wgs84": 153.09522722
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1085305,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.96206611222559,
+          -27.251720765291829
+        ]
+      },
+      "properties": {
+        "locality": "Kurwongbah",
+        "objectid": 1085305,
+        "globalid": "{A4359BA2-FF31-488A-8126-D21496978271}",
+        "sighttime": 1765251840000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.251720769999999,
+        "sighting_long_wgs84": 152.96206610999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1085306,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.95677887639826,
+          -27.2869947871595
+        ]
+      },
+      "properties": {
+        "locality": "Bray Park",
+        "objectid": 1085306,
+        "globalid": "{ED74DC4D-9397-44AD-B1A9-3988C417A3DC}",
+        "sighttime": 1765236600000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.286994789999998,
+        "sighting_long_wgs84": 152.95677888
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1081314,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.09976043323599,
+          -27.548800648115041
+        ]
+      },
+      "properties": {
+        "locality": "Wishart",
+        "objectid": 1081314,
+        "globalid": "{47E66679-C8F4-4741-A9ED-232251F610B0}",
+        "sighttime": 1765270260000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.54880065,
+        "sighting_long_wgs84": 153.09976043
       }
     }
   ]
