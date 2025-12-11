@@ -141,25 +141,71 @@
     },
     {
       "type": "Feature",
-      "id": 1085311,
+      "id": 1085316,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.38383710002563,
-          -27.322595600305256
+          153.41727225931535,
+          -28.131806067885375
         ]
       },
       "properties": {
-        "locality": "Mount Hallen",
-        "objectid": 1085311,
-        "globalid": "{7FF02EB3-519C-4FE6-8C36-D256C99D8CBC}",
-        "sighttime": 1765283400000,
-        "joeypresent": "Not Sure",
+        "locality": "Tallebudgera",
+        "objectid": 1085316,
+        "globalid": "{6E2A018C-90AF-435B-902F-09DE47BE1775}",
+        "sighttime": 1765417380000,
+        "joeypresent": "No",
         "numberofkoala": 2,
         "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.322595600000003,
-        "sighting_long_wgs84": 152.38383709999999
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -28.13180607,
+        "sighting_long_wgs84": 153.41727226
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1085315,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.09702047100808,
+          -27.551498191297551
+        ]
+      },
+      "properties": {
+        "locality": "Wishart",
+        "objectid": 1085315,
+        "globalid": "{BC16E35C-B42B-495A-BB27-78ABC7062047}",
+        "sighttime": 1765411560000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.55149819,
+        "sighting_long_wgs84": 153.09702047000002
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1085314,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.43699234413029,
+          -28.132723024240875
+        ]
+      },
+      "properties": {
+        "locality": "Elanora",
+        "objectid": 1085314,
+        "globalid": "{D0F49C56-EA0B-49BF-9FD4-BCC405B0E1A0}",
+        "sighttime": 1765410960000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -28.13272302,
+        "sighting_long_wgs84": 153.43699234000002
       }
     }
   ]
