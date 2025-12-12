@@ -141,71 +141,71 @@
     },
     {
       "type": "Feature",
-      "id": 1085316,
+      "id": 1085318,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.41727225931535,
-          -28.131806067885375
+          153.12513708093593,
+          -26.804585698537974
         ]
       },
       "properties": {
-        "locality": "Tallebudgera",
-        "objectid": 1085316,
-        "globalid": "{6E2A018C-90AF-435B-902F-09DE47BE1775}",
-        "sighttime": 1765417380000,
+        "locality": "Caloundra",
+        "objectid": 1085318,
+        "globalid": "{15B208CA-10FF-40F4-B8FB-B9DAFA9D0C47}",
+        "sighttime": 1765487520000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Sunshine Coast Regional",
+        "sighting_lat_wgs84": -26.805658209999997,
+        "sighting_long_wgs84": 153.12647819
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1085319,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.36480985081542,
+          -27.930594342138807
+        ]
+      },
+      "properties": {
+        "locality": "Arundel",
+        "objectid": 1085319,
+        "globalid": "{4D6F67AE-D47A-47B8-81A3-84CA17B37C34}",
+        "sighttime": 1765488600000,
         "joeypresent": "No",
-        "numberofkoala": 2,
+        "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -28.13180607,
-        "sighting_long_wgs84": 153.41727226
+        "sighting_lat_wgs84": -27.930594339999999,
+        "sighting_long_wgs84": 153.36480985
       }
     },
     {
       "type": "Feature",
-      "id": 1085315,
+      "id": 1085321,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.09702047100808,
-          -27.551498191297551
+          151.89108693103799,
+          -27.598983212728207
         ]
       },
       "properties": {
-        "locality": "Wishart",
-        "objectid": 1085315,
-        "globalid": "{BC16E35C-B42B-495A-BB27-78ABC7062047}",
-        "sighttime": 1765411560000,
-        "joeypresent": "Not Sure",
+        "locality": "Drayton",
+        "objectid": 1085321,
+        "globalid": "{80DA4488-3FF9-4BB1-8F5D-4260AAC23A34}",
+        "sighttime": 1765490400000,
+        "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.55149819,
-        "sighting_long_wgs84": 153.09702047000002
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1085314,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.43699234413029,
-          -28.132723024240875
-        ]
-      },
-      "properties": {
-        "locality": "Elanora",
-        "objectid": 1085314,
-        "globalid": "{D0F49C56-EA0B-49BF-9FD4-BCC405B0E1A0}",
-        "sighttime": 1765410960000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -28.13272302,
-        "sighting_long_wgs84": 153.43699234000002
+        "lga": "Toowoomba Regional",
+        "sighting_lat_wgs84": -27.59898321,
+        "sighting_long_wgs84": 151.89108693
       }
     }
   ]
