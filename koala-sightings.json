@@ -95,29 +95,6 @@
     },
     {
       "type": "Feature",
-      "id": 1045803,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.06661124010097,
-          -27.526527034230426
-        ]
-      },
-      "properties": {
-        "locality": "Holland Park West",
-        "objectid": 1045803,
-        "globalid": "{1CC282AE-41B2-44F7-822C-0C3EB2B7C362}",
-        "sighttime": 1765474200000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Injured/Sick",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.526527029999997,
-        "sighting_long_wgs84": 153.06661123999999
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1042197,
       "geometry": {
         "type": "Point",
@@ -141,71 +118,25 @@
     },
     {
       "type": "Feature",
-      "id": 1085318,
+      "id": 1085325,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.12513708093593,
-          -26.804585698537974
+          153.07045199967462,
+          -27.222308000165263
         ]
       },
       "properties": {
-        "locality": "Caloundra",
-        "objectid": 1085318,
-        "globalid": "{15B208CA-10FF-40F4-B8FB-B9DAFA9D0C47}",
-        "sighttime": 1765487520000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
+        "locality": "Kippa-Ring",
+        "objectid": 1085325,
+        "globalid": "{EAD755C5-8D64-4CC1-A897-0971FE473789}",
+        "sighttime": 1765580400000,
+        "joeypresent": "Yes",
+        "numberofkoala": 7,
         "koalacondifinal": "Healthy",
-        "lga": "Sunshine Coast Regional",
-        "sighting_lat_wgs84": -26.805658209999997,
-        "sighting_long_wgs84": 153.12647819
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1085319,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.36480985081542,
-          -27.930594342138807
-        ]
-      },
-      "properties": {
-        "locality": "Arundel",
-        "objectid": 1085319,
-        "globalid": "{4D6F67AE-D47A-47B8-81A3-84CA17B37C34}",
-        "sighttime": 1765488600000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.930594339999999,
-        "sighting_long_wgs84": 153.36480985
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1085321,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.89108693103799,
-          -27.598983212728207
-        ]
-      },
-      "properties": {
-        "locality": "Drayton",
-        "objectid": 1085321,
-        "globalid": "{80DA4488-3FF9-4BB1-8F5D-4260AAC23A34}",
-        "sighttime": 1765490400000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Toowoomba Regional",
-        "sighting_lat_wgs84": -27.59898321,
-        "sighting_long_wgs84": 151.89108693
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.222308000000002,
+        "sighting_long_wgs84": 153.07045200000002
       }
     }
   ]
