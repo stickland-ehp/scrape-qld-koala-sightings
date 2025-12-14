@@ -118,25 +118,48 @@
     },
     {
       "type": "Feature",
-      "id": 1085325,
+      "id": 1081323,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.07045199967462,
-          -27.222308000165263
+          152.93799827486026,
+          -27.273024471060104
         ]
       },
       "properties": {
-        "locality": "Kippa-Ring",
-        "objectid": 1085325,
-        "globalid": "{EAD755C5-8D64-4CC1-A897-0971FE473789}",
-        "sighttime": 1765580400000,
+        "locality": "Joyner",
+        "objectid": 1081323,
+        "globalid": "{9A4BFE49-3FDC-44A0-9588-1869D1F2D033}",
+        "sighttime": 1765681620000,
         "joeypresent": "Yes",
-        "numberofkoala": 7,
+        "numberofkoala": 2,
         "koalacondifinal": "Healthy",
         "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.222308000000002,
-        "sighting_long_wgs84": 153.07045200000002
+        "sighting_lat_wgs84": -27.273024469999999,
+        "sighting_long_wgs84": 152.93799827000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1085332,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.64188749978308,
+          -28.144151000006445
+        ]
+      },
+      "properties": {
+        "locality": "Coochin",
+        "objectid": 1085332,
+        "globalid": "{181F866F-ABA2-43BF-8C31-6B37A2F07A7F}",
+        "sighttime": 1765694400000,
+        "joeypresent": "No",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": "Scenic Rim Regional",
+        "sighting_lat_wgs84": -28.144151000000001,
+        "sighting_long_wgs84": 152.6418875
       }
     }
   ]
