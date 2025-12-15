@@ -118,48 +118,25 @@
     },
     {
       "type": "Feature",
-      "id": 1081323,
+      "id": 1081327,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.93799827486026,
-          -27.273024471060104
+          152.99650910844014,
+          -27.241266535121611
         ]
       },
       "properties": {
-        "locality": "Joyner",
-        "objectid": 1081323,
-        "globalid": "{9A4BFE49-3FDC-44A0-9588-1869D1F2D033}",
-        "sighttime": 1765681620000,
-        "joeypresent": "Yes",
-        "numberofkoala": 2,
+        "locality": "Kallangur",
+        "objectid": 1081327,
+        "globalid": "{BEBCFBCA-C296-4A87-8169-A803A4D51BF5}",
+        "sighttime": 1765775520000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.273024469999999,
-        "sighting_long_wgs84": 152.93799827000001
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1085332,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.64188749978308,
-          -28.144151000006445
-        ]
-      },
-      "properties": {
-        "locality": "Coochin",
-        "objectid": 1085332,
-        "globalid": "{181F866F-ABA2-43BF-8C31-6B37A2F07A7F}",
-        "sighttime": 1765694400000,
-        "joeypresent": "No",
-        "numberofkoala": 2,
-        "koalacondifinal": "Healthy",
-        "lga": "Scenic Rim Regional",
-        "sighting_lat_wgs84": -28.144151000000001,
-        "sighting_long_wgs84": 152.6418875
+        "sighting_lat_wgs84": -27.241266530000001,
+        "sighting_long_wgs84": 152.99650911000001
       }
     }
   ]
