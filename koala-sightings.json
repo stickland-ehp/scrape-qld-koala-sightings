@@ -95,25 +95,25 @@
     },
     {
       "type": "Feature",
-      "id": 1085343,
+      "id": 1081331,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.36469302581102,
-          -27.932201909010026
+          152.48675645869633,
+          -27.374277579090759
         ]
       },
       "properties": {
-        "locality": "Arundel",
-        "objectid": 1085343,
-        "globalid": "{9F6836AC-8DD4-4467-AD93-086462A79C3B}",
-        "sighttime": 1765867860000,
+        "locality": "Coominya",
+        "objectid": 1081331,
+        "globalid": "{2E8A6A1E-4C33-41A1-8089-6BA4E11CFE3B}",
+        "sighttime": 1765948200000,
         "joeypresent": "No",
-        "numberofkoala": 1,
+        "numberofkoala": 2,
         "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.932201910000003,
-        "sighting_long_wgs84": 153.36469302999998
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -27.374277579999998,
+        "sighting_long_wgs84": 152.48675646000001
       }
     }
   ]
