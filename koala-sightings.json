@@ -95,25 +95,117 @@
     },
     {
       "type": "Feature",
-      "id": 1081331,
+      "id": 1085349,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.48675645869633,
-          -27.374277579090759
+          152.62441455873616,
+          -27.625146045654347
         ]
       },
       "properties": {
-        "locality": "Coominya",
-        "objectid": 1081331,
-        "globalid": "{2E8A6A1E-4C33-41A1-8089-6BA4E11CFE3B}",
-        "sighttime": 1765948200000,
+        "locality": "Thagoona",
+        "objectid": 1085349,
+        "globalid": "{64C77278-3028-43BB-80AA-134820A475C0}",
+        "sighttime": 1765972800000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Ipswich City",
+        "sighting_lat_wgs84": -27.625146050000001,
+        "sighting_long_wgs84": 152.62441456000002
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1085350,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.32556831306792,
+          -27.980494351973547
+        ]
+      },
+      "properties": {
+        "locality": "Nerang",
+        "objectid": 1085350,
+        "globalid": "{A4CC8B68-1801-430F-9F4A-2CA25EF5DCF5}",
+        "sighttime": 1766008560000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.980494350000001,
+        "sighting_long_wgs84": 153.32556830999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1085351,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.05666742170837,
+          -27.209932122744092
+        ]
+      },
+      "properties": {
+        "locality": "Rothwell",
+        "objectid": 1085351,
+        "globalid": "{87CC5329-BC29-43C7-BF99-DB316ADFC64F}",
+        "sighttime": 1766013240000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.209932120000001,
+        "sighting_long_wgs84": 153.05666742
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1085352,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.57802676929157,
+          -28.11097288938841
+        ]
+      },
+      "properties": {
+        "locality": "Mount Alford",
+        "objectid": 1085352,
+        "globalid": "{AA341206-E02E-44C0-8785-905D8A6ED387}",
+        "sighttime": 1766034420000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Scenic Rim Regional",
+        "sighting_lat_wgs84": -28.110972889999999,
+        "sighting_long_wgs84": 152.57802677000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1085353,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.07564091130078,
+          -27.510412525418698
+        ]
+      },
+      "properties": {
+        "locality": "Camp Hill",
+        "objectid": 1085353,
+        "globalid": "{99E3ED06-ECE9-4839-8BDE-43BEFED5035F}",
+        "sighttime": 1766052480000,
         "joeypresent": "No",
         "numberofkoala": 2,
         "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.374277579999998,
-        "sighting_long_wgs84": 152.48675646000001
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.51041253,
+        "sighting_long_wgs84": 153.07564091
       }
     }
   ]
