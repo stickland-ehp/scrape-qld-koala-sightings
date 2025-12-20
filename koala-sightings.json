@@ -72,71 +72,94 @@
     },
     {
       "type": "Feature",
-      "id": 1085358,
+      "id": 1085359,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.97331459965889,
-          -26.163201700145894
+          152.07217206766907,
+          -27.501183852016979
         ]
       },
       "properties": {
-        "locality": "Tablelands",
-        "objectid": 1085358,
-        "globalid": "{B1A98501-E5C6-48B3-9614-071413772A8B}",
-        "sighttime": 1766109360000,
+        "locality": "Lockyer",
+        "objectid": 1085359,
+        "globalid": "{7A4EF2EF-DDA2-4F13-95D2-2D54CC59583E}",
+        "sighttime": 1766152980000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Dead",
+        "lga": "Lockyer Valley Regional",
+        "sighting_lat_wgs84": -27.50118385,
+        "sighting_long_wgs84": 152.07217206999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1081342,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.89745449519901,
+          -27.598547030778246
+        ]
+      },
+      "properties": {
+        "locality": "Drayton",
+        "objectid": 1081342,
+        "globalid": "{D5727308-A241-4473-8F58-5310FC057B42}",
+        "sighttime": 1766184600000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "South Burnett Regional",
-        "sighting_lat_wgs84": -26.163201699999998,
-        "sighting_long_wgs84": 151.97331459999998
+        "lga": "Toowoomba Regional",
+        "sighting_lat_wgs84": -27.598547030000002,
+        "sighting_long_wgs84": 151.89745450000001
       }
     },
     {
       "type": "Feature",
-      "id": 1081340,
+      "id": 1085360,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.97640349988248,
-          -26.156634399990143
+          153.06232792190926,
+          -27.536386334420339
         ]
       },
       "properties": {
-        "locality": "Tablelands",
-        "objectid": 1081340,
-        "globalid": "{6B13D3DF-E2EF-4B37-9021-3753123DB2BE}",
-        "sighttime": 1766110680000,
+        "locality": "Holland Park West",
+        "objectid": 1085360,
+        "globalid": "{4E4036D5-B9E2-4ED6-8181-9CE586F095AB}",
+        "sighttime": 1766196360000,
         "joeypresent": "No",
-        "numberofkoala": 3,
+        "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "South Burnett Regional",
-        "sighting_lat_wgs84": -26.156634400000002,
-        "sighting_long_wgs84": 151.9764035
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.536386329999999,
+        "sighting_long_wgs84": 153.06232792
       }
     },
     {
       "type": "Feature",
-      "id": 1081341,
+      "id": 1081343,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.62946795770512,
-          -27.69258594272063
+          153.01361251312184,
+          -27.262945765137975
         ]
       },
       "properties": {
-        "locality": "Ebenezer",
-        "objectid": 1081341,
-        "globalid": "{AFBC94C5-1E92-4ABC-8005-69828DEDF1C6}",
-        "sighttime": 1766141700000,
-        "joeypresent": "Yes",
-        "numberofkoala": 2,
+        "locality": "Murrumba Downs",
+        "objectid": 1081343,
+        "globalid": "{689D6B0F-5582-4A60-8B93-907725C07ACC}",
+        "sighttime": 1766212920000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Ipswich City",
-        "sighting_lat_wgs84": -27.692585940000001,
-        "sighting_long_wgs84": 152.62946796
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.262945769999998,
+        "sighting_long_wgs84": 153.01361251
       }
     },
     {
@@ -164,117 +187,25 @@
     },
     {
       "type": "Feature",
-      "id": 1085356,
+      "id": 1081344,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.25243008325762,
-          -27.630423569844769
-        ]
-      },
-      "properties": {
-        "locality": "Mount Cotton",
-        "objectid": 1085356,
-        "globalid": "{8EBB73B3-25B3-4955-8925-BDBC37CAFC72}",
-        "sighttime": 1766097180000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 2,
-        "koalacondifinal": "Healthy",
-        "lga": "Redland City",
-        "sighting_lat_wgs84": -27.630423570000001,
-        "sighting_long_wgs84": 153.25243007999998
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1081338,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.36370658220432,
-          -27.92929408255743
+          153.36394661743807,
+          -27.929093283995307
         ]
       },
       "properties": {
         "locality": "Arundel",
-        "objectid": 1081338,
-        "globalid": "{C7EF998F-C623-46AC-9F3A-0BABCFEC9A3D}",
-        "sighttime": 1766090520000,
+        "objectid": 1081344,
+        "globalid": "{D4C93A71-C7A9-4A11-A86F-CED07FCDBB03}",
+        "sighttime": 1766218500000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.929294080000002,
-        "sighting_long_wgs84": 153.36370657999998
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1081339,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.38079810031772,
-          -27.324666299833211
-        ]
-      },
-      "properties": {
-        "locality": "Mount Hallen",
-        "objectid": 1081339,
-        "globalid": "{0CA04B08-20D3-40D6-918F-1C39961B957B}",
-        "sighttime": 1766103060000,
-        "joeypresent": "No",
-        "numberofkoala": 2,
-        "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.324666300000001,
-        "sighting_long_wgs84": 152.38079809999999
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1085355,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.95395763723798,
-          -27.76299134233119
-        ]
-      },
-      "properties": {
-        "locality": "East Greenmount",
-        "objectid": 1085355,
-        "globalid": "{F671AD1A-4F33-44C5-9717-47EC89287695}",
-        "sighttime": 1766092560000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Toowoomba Regional",
-        "sighting_lat_wgs84": -27.762789599999998,
-        "sighting_long_wgs84": 151.95388521999999
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1085354,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.42063542148338,
-          -28.150954505575385
-        ]
-      },
-      "properties": {
-        "locality": "Tallebudgera",
-        "objectid": 1085354,
-        "globalid": "{714E5385-594A-4167-824E-A1743E76F5EA}",
-        "sighttime": 1766088900000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -28.150897749999999,
-        "sighting_long_wgs84": 153.42055496
+        "sighting_lat_wgs84": -27.92909328,
+        "sighting_long_wgs84": 153.36394662000001
       }
     }
   ]
