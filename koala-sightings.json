@@ -72,98 +72,6 @@
     },
     {
       "type": "Feature",
-      "id": 1085359,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.07217206766907,
-          -27.501183852016979
-        ]
-      },
-      "properties": {
-        "locality": "Lockyer",
-        "objectid": 1085359,
-        "globalid": "{7A4EF2EF-DDA2-4F13-95D2-2D54CC59583E}",
-        "sighttime": 1766152980000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Dead",
-        "lga": "Lockyer Valley Regional",
-        "sighting_lat_wgs84": -27.50118385,
-        "sighting_long_wgs84": 152.07217206999999
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1081342,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.89745449519901,
-          -27.598547030778246
-        ]
-      },
-      "properties": {
-        "locality": "Drayton",
-        "objectid": 1081342,
-        "globalid": "{D5727308-A241-4473-8F58-5310FC057B42}",
-        "sighttime": 1766184600000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Toowoomba Regional",
-        "sighting_lat_wgs84": -27.598547030000002,
-        "sighting_long_wgs84": 151.89745450000001
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1085360,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.06232792190926,
-          -27.536386334420339
-        ]
-      },
-      "properties": {
-        "locality": "Holland Park West",
-        "objectid": 1085360,
-        "globalid": "{4E4036D5-B9E2-4ED6-8181-9CE586F095AB}",
-        "sighttime": 1766196360000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.536386329999999,
-        "sighting_long_wgs84": 153.06232792
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1081343,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.01361251312184,
-          -27.262945765137975
-        ]
-      },
-      "properties": {
-        "locality": "Murrumba Downs",
-        "objectid": 1081343,
-        "globalid": "{689D6B0F-5582-4A60-8B93-907725C07ACC}",
-        "sighttime": 1766212920000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.262945769999998,
-        "sighting_long_wgs84": 153.01361251
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1042197,
       "geometry": {
         "type": "Point",
@@ -183,29 +91,6 @@
         "lga": "Logan City",
         "sighting_lat_wgs84": -27.748447580000001,
         "sighting_long_wgs84": 153.14911741
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1081344,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.36394661743807,
-          -27.929093283995307
-        ]
-      },
-      "properties": {
-        "locality": "Arundel",
-        "objectid": 1081344,
-        "globalid": "{D4C93A71-C7A9-4A11-A86F-CED07FCDBB03}",
-        "sighttime": 1766218500000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.92909328,
-        "sighting_long_wgs84": 153.36394662000001
       }
     }
   ]
