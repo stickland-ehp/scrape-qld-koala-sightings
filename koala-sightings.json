@@ -72,25 +72,71 @@
     },
     {
       "type": "Feature",
-      "id": 1092881,
+      "id": 1092482,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.03569101062928,
-          -27.876434754013225
+          152.79050014957249,
+          -26.788430806704046
         ]
       },
       "properties": {
-        "locality": "Cedar Vale",
-        "objectid": 1092881,
-        "globalid": "{05B1A989-8576-4C0A-8A84-F40747298CC3}",
-        "sighttime": 1766583900000,
-        "joeypresent": "Yes",
-        "numberofkoala": 2,
+        "locality": "Wootha",
+        "objectid": 1092482,
+        "globalid": "{B1FA8FFE-E56E-4179-A39F-B6783EA38A1A}",
+        "sighttime": 1766702580000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Logan City",
-        "sighting_lat_wgs84": -27.876434750000001,
-        "sighting_long_wgs84": 153.03569100999999
+        "lga": "Sunshine Coast Regional",
+        "sighting_lat_wgs84": -26.788430809999998,
+        "sighting_long_wgs84": 152.79050015000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1092083,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.93500382979389,
+          -27.275450254557455
+        ]
+      },
+      "properties": {
+        "locality": "Joyner",
+        "objectid": 1092083,
+        "globalid": "{0D9017D4-BDB0-40CC-A49D-EC4B3A05C684}",
+        "sighttime": 1766711100000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.275450250000002,
+        "sighting_long_wgs84": 152.93500383
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1093284,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.93177691151178,
+          -27.277810854178288
+        ]
+      },
+      "properties": {
+        "locality": "Joyner",
+        "objectid": 1093284,
+        "globalid": "{C1774730-6427-4D61-AB73-7E0D904DA0A7}",
+        "sighttime": 1766716200000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.277810849999998,
+        "sighting_long_wgs84": 152.93177691
       }
     }
   ]
