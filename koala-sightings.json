@@ -72,163 +72,48 @@
     },
     {
       "type": "Feature",
-      "id": 1091283,
+      "id": 1092886,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.08247009992337,
-          -27.507511799869121
+          151.89733647813026,
+          -27.598623095792469
         ]
       },
       "properties": {
-        "locality": "Camp Hill",
-        "objectid": 1091283,
-        "globalid": "{CD4080A6-B412-4750-975B-E8AA53E05B1C}",
-        "sighttime": 1766796300000,
-        "joeypresent": "Not Sure",
+        "locality": "Drayton",
+        "objectid": 1092886,
+        "globalid": "{CA8AFEE4-E42C-4D3B-8B10-A6AB5450B396}",
+        "sighttime": 1766876880000,
+        "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.5075118,
-        "sighting_long_wgs84": 153.08247009999999
+        "lga": "Toowoomba Regional",
+        "sighting_lat_wgs84": -27.598623100000001,
+        "sighting_long_wgs84": 151.89733648000001
       }
     },
     {
       "type": "Feature",
-      "id": 1090483,
+      "id": 1092085,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.08198800016157,
-          -27.508175200199787
+          153.07254200025167,
+          -27.543556600097979
         ]
       },
       "properties": {
-        "locality": "Camp Hill",
-        "objectid": 1090483,
-        "globalid": "{DDE29DF3-8A57-4FE9-9369-AA095732EFC8}",
-        "sighttime": 1766796660000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.5081752,
-        "sighting_long_wgs84": 153.081988
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1089683,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.08000800008762,
-          -27.507183999954151
-        ]
-      },
-      "properties": {
-        "locality": "Camp Hill",
-        "objectid": 1089683,
-        "globalid": "{B89DDBF3-099E-4BB4-9106-523BEC7E71AF}",
-        "sighttime": 1766797260000,
+        "locality": "Mount Gravatt",
+        "objectid": 1092085,
+        "globalid": "{CBF988E4-2176-4F5A-98A3-8F0F55AE0A39}",
+        "sighttime": 1766885940000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.507184000000002,
-        "sighting_long_wgs84": 153.08000800000002
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1092885,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.07893109972505,
-          -27.506857599776772
-        ]
-      },
-      "properties": {
-        "locality": "Camp Hill",
-        "objectid": 1092885,
-        "globalid": "{32F0C2AD-9F4E-4F6A-934A-3279B22AC957}",
-        "sighttime": 1766798880000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.5068576,
-        "sighting_long_wgs84": 153.07893110000001
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1092484,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.00955219091969,
-          -27.243292457300686
-        ]
-      },
-      "properties": {
-        "locality": "Kallangur",
-        "objectid": 1092484,
-        "globalid": "{FC909014-C83E-47ED-9FC7-F2B73B59559C}",
-        "sighttime": 1766799420000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.243292460000003,
-        "sighting_long_wgs84": 153.00955218999999
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1092084,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.00024582064603,
-          -27.241261923541057
-        ]
-      },
-      "properties": {
-        "locality": "Kallangur",
-        "objectid": 1092084,
-        "globalid": "{5354D6B2-C69E-4E96-AE60-74E09A1658E4}",
-        "sighttime": 1766800740000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.241261919999999,
-        "sighting_long_wgs84": 153.00024582
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1090484,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.36578714418269,
-          -27.930438045869828
-        ]
-      },
-      "properties": {
-        "locality": "Arundel",
-        "objectid": 1090484,
-        "globalid": "{F147CDC7-6553-477A-A081-7B557417BA83}",
-        "sighttime": 1766816400000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.930438049999999,
-        "sighting_long_wgs84": 153.36578714000001
+        "sighting_lat_wgs84": -27.543556600000002,
+        "sighting_long_wgs84": 153.072542
       }
     }
   ]
