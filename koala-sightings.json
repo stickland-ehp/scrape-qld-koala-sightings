@@ -72,48 +72,117 @@
     },
     {
       "type": "Feature",
-      "id": 1092886,
+      "id": 1092887,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.89733647813026,
-          -27.598623095792469
+          153.36530708179993,
+          -27.934797354500354
         ]
       },
       "properties": {
-        "locality": "Drayton",
-        "objectid": 1092886,
-        "globalid": "{CA8AFEE4-E42C-4D3B-8B10-A6AB5450B396}",
-        "sighttime": 1766876880000,
-        "joeypresent": "No",
+        "locality": "Arundel",
+        "objectid": 1092887,
+        "globalid": "{26E07D19-A81A-4B77-8AE2-F9F25B5DA04B}",
+        "sighttime": 1766970900000,
+        "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Toowoomba Regional",
-        "sighting_lat_wgs84": -27.598623100000001,
-        "sighting_long_wgs84": 151.89733648000001
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.93479735,
+        "sighting_long_wgs84": 153.36530707999998
       }
     },
     {
       "type": "Feature",
-      "id": 1092085,
+      "id": 1092086,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.07254200025167,
-          -27.543556600097979
+          152.61850294348073,
+          -27.399086980758536
         ]
       },
       "properties": {
-        "locality": "Mount Gravatt",
-        "objectid": 1092085,
-        "globalid": "{CBF988E4-2176-4F5A-98A3-8F0F55AE0A39}",
-        "sighttime": 1766885940000,
+        "locality": "Lake Wivenhoe",
+        "objectid": 1092086,
+        "globalid": "{70435EC5-1631-49B3-B0F1-2C0DB32F7ECA}",
+        "sighttime": 1766979060000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -27.39908698,
+        "sighting_long_wgs84": 152.61850294000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1090486,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.64066399975599,
+          -27.454152000044939
+        ]
+      },
+      "properties": {
+        "locality": "Fernvale",
+        "objectid": 1090486,
+        "globalid": "{0A6E36DC-6CD2-45E8-AF0F-CC86E8C84AD1}",
+        "sighttime": 1766990760000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -27.454152000000001,
+        "sighting_long_wgs84": 152.64066400000002
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1090086,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.09521596940135,
+          -27.535091468901715
+        ]
+      },
+      "properties": {
+        "locality": "Mount Gravatt East",
+        "objectid": 1090086,
+        "globalid": "{F061F2BA-3DAE-4806-8AB5-7186A2AB99B1}",
+        "sighttime": 1766999580000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.543556600000002,
-        "sighting_long_wgs84": 153.072542
+        "sighting_lat_wgs84": -27.535091470000001,
+        "sighting_long_wgs84": 153.09521597
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1089686,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.80709005388167,
+          -28.195961368134761
+        ]
+      },
+      "properties": {
+        "locality": "Rathdowney",
+        "objectid": 1089686,
+        "globalid": "{CA675F0B-F843-4855-82C9-3E5C24AD0BC3}",
+        "sighttime": 1766985840000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Injured/Sick",
+        "lga": "Scenic Rim Regional",
+        "sighting_lat_wgs84": -28.195961370000003,
+        "sighting_long_wgs84": 152.80709005
       }
     }
   ]
