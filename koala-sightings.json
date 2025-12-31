@@ -72,25 +72,25 @@
     },
     {
       "type": "Feature",
-      "id": 1088484,
+      "id": 1090487,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.08903129774055,
-          -27.769367334536511
+          153.02401660041826,
+          -26.718606299998136
         ]
       },
       "properties": {
-        "locality": null,
-        "objectid": 1088484,
-        "globalid": "{1E7703D5-F636-45A1-9A2F-CB151DF9F384}",
-        "sighttime": 1767048120000,
-        "joeypresent": "Yes",
-        "numberofkoala": 2,
+        "locality": "Tanawha",
+        "objectid": 1090487,
+        "globalid": "{322684F3-B4B6-4B93-8326-775D9B189EEC}",
+        "sighttime": 1767143940000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Logan City",
-        "sighting_lat_wgs84": -27.7694504,
-        "sighting_long_wgs84": 153.08954359999998
+        "lga": "Sunshine Coast Regional",
+        "sighting_lat_wgs84": -26.718606299999998,
+        "sighting_long_wgs84": 153.02401660000001
       }
     }
   ]
