@@ -72,25 +72,25 @@
     },
     {
       "type": "Feature",
-      "id": 1090487,
+      "id": 1092889,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.02401660041826,
-          -26.718606299998136
+          152.35946152769174,
+          -26.992119227340204
         ]
       },
       "properties": {
-        "locality": "Tanawha",
-        "objectid": 1090487,
-        "globalid": "{322684F3-B4B6-4B93-8326-775D9B189EEC}",
-        "sighttime": 1767143940000,
+        "locality": "Harlin",
+        "objectid": 1092889,
+        "globalid": "{7829A8BD-DE8B-4670-A23B-FEE47E2785A5}",
+        "sighttime": 1767249000000,
         "joeypresent": "No",
         "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Sunshine Coast Regional",
-        "sighting_lat_wgs84": -26.718606299999998,
-        "sighting_long_wgs84": 153.02401660000001
+        "koalacondifinal": "Dead",
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -26.99211923,
+        "sighting_long_wgs84": 152.35946153
       }
     }
   ]
