@@ -72,94 +72,48 @@
     },
     {
       "type": "Feature",
-      "id": 1086886,
+      "id": 1090089,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.97015757934943,
-          -27.27683766147906
+          152.9381824744093,
+          -27.273578043870238
         ]
       },
       "properties": {
-        "locality": "Lawnton",
-        "objectid": 1086886,
-        "globalid": "{D4698D31-AD50-448F-BB22-3FCF36AD5FA1}",
-        "sighttime": 1767325080000,
+        "locality": "Joyner",
+        "objectid": 1090089,
+        "globalid": "{53218240-8440-4C84-9B7E-EF683D9D0A73}",
+        "sighttime": 1767406200000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.276837660000002,
-        "sighting_long_wgs84": 152.97015758000001
+        "sighting_lat_wgs84": -27.273578039999997,
+        "sighting_long_wgs84": 152.93818246999999
       }
     },
     {
       "type": "Feature",
-      "id": 1093290,
+      "id": 1089689,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.74095852787895,
-          -27.833219743124037
+          152.93848477007882,
+          -27.27358001603767
         ]
       },
       "properties": {
-        "locality": "Washpool",
-        "objectid": 1093290,
-        "globalid": "{B1B407F7-78E4-41B6-B475-97B1AA412570}",
-        "sighttime": 1767276000000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Scenic Rim Regional",
-        "sighting_lat_wgs84": -27.832612529999999,
-        "sighting_long_wgs84": 152.74319012999999
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1086486,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.65099881167257,
-          -28.066688949075015
-        ]
-      },
-      "properties": {
-        "locality": "Wallaces Creek",
-        "objectid": 1086486,
-        "globalid": "{D5733007-30D2-481B-8DED-D4214887889B}",
-        "sighttime": 1767313800000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Injured/Sick",
-        "lga": "Scenic Rim Regional",
-        "sighting_lat_wgs84": -28.06668895,
-        "sighting_long_wgs84": 152.65099881
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1087286,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.43921533220035,
-          -28.141836128872221
-        ]
-      },
-      "properties": {
-        "locality": "Elanora",
-        "objectid": 1087286,
-        "globalid": "{DAF7BEDA-ADBB-40FD-B68B-3BC7B4182A92}",
-        "sighttime": 1767312600000,
+        "locality": "Joyner",
+        "objectid": 1089689,
+        "globalid": "{9137A26A-70BB-4C7C-8EA6-E4CEC0380C99}",
+        "sighttime": 1767408120000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -28.141836130000002,
-        "sighting_long_wgs84": 153.43921533
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.273580019999997,
+        "sighting_long_wgs84": 152.93848477
       }
     }
   ]
