@@ -72,71 +72,25 @@
     },
     {
       "type": "Feature",
-      "id": 1087687,
+      "id": 1088889,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.9569663215604,
-          -27.462256545787902
+          152.6196530691154,
+          -27.399420812534572
         ]
       },
       "properties": {
-        "locality": "Mount Coot-tha",
-        "objectid": 1087687,
-        "globalid": "{E11F0262-D3B8-4632-88E3-169B4AE4E8CB}",
-        "sighttime": 1767474900000,
+        "locality": "Lake Wivenhoe",
+        "objectid": 1088889,
+        "globalid": "{BC2CFD13-51B9-4C7E-BA5E-D050196D9BAE}",
+        "sighttime": 1767561840000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.462256549999999,
-        "sighting_long_wgs84": 152.95696631999999
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1087287,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.08279291940218,
-          -27.50754277235513
-        ]
-      },
-      "properties": {
-        "locality": "Camp Hill",
-        "objectid": 1087287,
-        "globalid": "{A22C29B3-9B3A-4C9A-ABDB-4C4990096B2B}",
-        "sighttime": 1767476460000,
-        "joeypresent": "No",
-        "numberofkoala": 2,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.507542770000001,
-        "sighting_long_wgs84": 153.08279291999997
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1092490,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.93968012678636,
-          -27.273005588459288
-        ]
-      },
-      "properties": {
-        "locality": "Joyner",
-        "objectid": 1092490,
-        "globalid": "{6E4DB516-5453-4314-88B1-0E496474973C}",
-        "sighttime": 1767511560000,
-        "joeypresent": "Yes",
-        "numberofkoala": 2,
-        "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.27300559,
-        "sighting_long_wgs84": 152.93968013
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -27.399420809999999,
+        "sighting_long_wgs84": 152.61965307
       }
     }
   ]
