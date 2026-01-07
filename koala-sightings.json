@@ -69,6 +69,29 @@
         "sighting_lat_wgs84": -27.748447580000001,
         "sighting_long_wgs84": 153.14911741
       }
+    },
+    {
+      "type": "Feature",
+      "id": 1090091,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.03663578767819,
+          -27.877129570416802
+        ]
+      },
+      "properties": {
+        "locality": "Cedar Vale",
+        "objectid": 1090091,
+        "globalid": "{691839BF-4D04-41BE-8454-DBBC57CFE4F0}",
+        "sighttime": 1767735300000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": "Logan City",
+        "sighting_lat_wgs84": -27.877129569999997,
+        "sighting_long_wgs84": 153.03663578999999
+      }
     }
   ]
 }
