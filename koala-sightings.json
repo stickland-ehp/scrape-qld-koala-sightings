@@ -72,25 +72,25 @@
     },
     {
       "type": "Feature",
-      "id": 1089694,
+      "id": 1088092,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.89649962917113,
-          -27.599041448844801
+          153.44778597506988,
+          -28.095956207524498
         ]
       },
       "properties": {
-        "locality": "Drayton",
-        "objectid": 1089694,
-        "globalid": "{4A19CD4C-EFA9-4A17-811D-1A8966A272D0}",
-        "sighttime": 1768087200000,
+        "locality": "Burleigh Heads",
+        "objectid": 1088092,
+        "globalid": "{73670398-4447-4D18-8875-665E981ACD88}",
+        "sighttime": 1768202760000,
         "joeypresent": "No",
-        "numberofkoala": 1,
+        "numberofkoala": 3,
         "koalacondifinal": "Healthy",
-        "lga": "Toowoomba Regional",
-        "sighting_lat_wgs84": -27.599041450000001,
-        "sighting_long_wgs84": 151.89649962999999
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -28.095956210000001,
+        "sighting_long_wgs84": 153.44778597999999
       }
     }
   ]
