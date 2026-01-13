@@ -72,25 +72,71 @@
     },
     {
       "type": "Feature",
-      "id": 1088092,
+      "id": 1087292,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.44778597506988,
-          -28.095956207524498
+          152.58059885885069,
+          -28.100621728977938
         ]
       },
       "properties": {
-        "locality": "Burleigh Heads",
-        "objectid": 1088092,
-        "globalid": "{73670398-4447-4D18-8875-665E981ACD88}",
-        "sighttime": 1768202760000,
+        "locality": "Mount Alford",
+        "objectid": 1087292,
+        "globalid": "{D227F62F-CBB4-411D-907D-7145C32494A6}",
+        "sighttime": 1768264860000,
         "joeypresent": "No",
-        "numberofkoala": 3,
+        "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -28.095956210000001,
-        "sighting_long_wgs84": 153.44778597999999
+        "lga": "Scenic Rim Regional",
+        "sighting_lat_wgs84": -28.099580669999998,
+        "sighting_long_wgs84": 152.57841017999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1091295,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.09161658085631,
+          -27.527261420438059
+        ]
+      },
+      "properties": {
+        "locality": "Mount Gravatt East",
+        "objectid": 1091295,
+        "globalid": "{3A44D8C5-7928-4BBC-80ED-6B480CECB816}",
+        "sighttime": 1768291260000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.527261420000002,
+        "sighting_long_wgs84": 153.09161657999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1086892,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.81102099622495,
+          -26.758320684185872
+        ]
+      },
+      "properties": {
+        "locality": "Reesville",
+        "objectid": 1086892,
+        "globalid": "{B44E3111-D4D4-414D-8DA6-561039D5A873}",
+        "sighttime": 1768267320000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": "Sunshine Coast Regional",
+        "sighting_lat_wgs84": -26.758320679999997,
+        "sighting_long_wgs84": 152.81102100000001
       }
     }
   ]
