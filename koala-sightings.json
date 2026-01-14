@@ -3,6 +3,29 @@
   "features": [
     {
       "type": "Feature",
+      "id": 1089695,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.02445387065413,
+          -27.271559841929886
+        ]
+      },
+      "properties": {
+        "locality": "Griffin",
+        "objectid": 1089695,
+        "globalid": "{AE4BE936-C278-45E9-8C8E-D427EDFDD81D}",
+        "sighttime": 1768365600000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.271379840000002,
+        "sighting_long_wgs84": 153.02456785999999
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1062315,
       "geometry": {
         "type": "Point",
@@ -68,75 +91,6 @@
         "lga": "Logan City",
         "sighting_lat_wgs84": -27.748447580000001,
         "sighting_long_wgs84": 153.14911741
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1087292,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.58059885885069,
-          -28.100621728977938
-        ]
-      },
-      "properties": {
-        "locality": "Mount Alford",
-        "objectid": 1087292,
-        "globalid": "{D227F62F-CBB4-411D-907D-7145C32494A6}",
-        "sighttime": 1768264860000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Scenic Rim Regional",
-        "sighting_lat_wgs84": -28.099580669999998,
-        "sighting_long_wgs84": 152.57841017999999
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1091295,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.09161658085631,
-          -27.527261420438059
-        ]
-      },
-      "properties": {
-        "locality": "Mount Gravatt East",
-        "objectid": 1091295,
-        "globalid": "{3A44D8C5-7928-4BBC-80ED-6B480CECB816}",
-        "sighttime": 1768291260000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.527261420000002,
-        "sighting_long_wgs84": 153.09161657999999
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1086892,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.81102099622495,
-          -26.758320684185872
-        ]
-      },
-      "properties": {
-        "locality": "Reesville",
-        "objectid": 1086892,
-        "globalid": "{B44E3111-D4D4-414D-8DA6-561039D5A873}",
-        "sighttime": 1768267320000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 2,
-        "koalacondifinal": "Healthy",
-        "lga": "Sunshine Coast Regional",
-        "sighting_lat_wgs84": -26.758320679999997,
-        "sighting_long_wgs84": 152.81102100000001
       }
     }
   ]
