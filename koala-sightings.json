@@ -3,29 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1089695,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.02445387065413,
-          -27.271559841929886
-        ]
-      },
-      "properties": {
-        "locality": "Griffin",
-        "objectid": 1089695,
-        "globalid": "{AE4BE936-C278-45E9-8C8E-D427EDFDD81D}",
-        "sighttime": 1768365600000,
-        "joeypresent": "Yes",
-        "numberofkoala": 2,
-        "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.271379840000002,
-        "sighting_long_wgs84": 153.02456785999999
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1062315,
       "geometry": {
         "type": "Point",
