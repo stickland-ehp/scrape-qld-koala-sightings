@@ -26,6 +26,121 @@
     },
     {
       "type": "Feature",
+      "id": 1086894,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.29492720003643,
+          -27.612496577360758
+        ]
+      },
+      "properties": {
+        "locality": "Redland Bay",
+        "objectid": 1086894,
+        "globalid": "{21F9F3C1-0084-4C0B-990B-3E6780CC8A4E}",
+        "sighttime": 1768523700000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Redland City",
+        "sighting_lat_wgs84": -27.612496580000002,
+        "sighting_long_wgs84": 153.29492720000002
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1086494,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.92860211617733,
+          -27.279598442482861
+        ]
+      },
+      "properties": {
+        "locality": "Joyner",
+        "objectid": 1086494,
+        "globalid": "{F7ED404C-A4AC-4C39-B48E-B83E7F1B6768}",
+        "sighttime": 1768540620000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.279598439999997,
+        "sighting_long_wgs84": 152.92860211999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1087294,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.57886493068935,
+          -28.100445771997933
+        ]
+      },
+      "properties": {
+        "locality": "Mount Alford",
+        "objectid": 1087294,
+        "globalid": "{89231436-2678-454A-B1F4-A3DDD9419EEC}",
+        "sighttime": 1768518000000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Injured/Sick",
+        "lga": "Scenic Rim Regional",
+        "sighting_lat_wgs84": -28.099593989999999,
+        "sighting_long_wgs84": 152.57837677000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1092497,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.07889218830016,
+          -26.690017234318724
+        ]
+      },
+      "properties": {
+        "locality": "Buderim",
+        "objectid": 1092497,
+        "globalid": "{F3BC2850-8DE5-4D62-8202-4FDD7143F4BE}",
+        "sighttime": 1768552620000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Sunshine Coast Regional",
+        "sighting_lat_wgs84": -26.690017230000002,
+        "sighting_long_wgs84": 153.07889219
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1091697,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.57307892416512,
+          -28.109101890630537
+        ]
+      },
+      "properties": {
+        "locality": "Mount Alford",
+        "objectid": 1091697,
+        "globalid": "{6B2DAE86-22DA-4D4B-AE4C-779364A95631}",
+        "sighttime": 1768554720000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": "Scenic Rim Regional",
+        "sighting_lat_wgs84": -28.109101890000002,
+        "sighting_long_wgs84": 152.57307892
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1042223,
       "geometry": {
         "type": "Point",
@@ -68,6 +183,29 @@
         "lga": "Logan City",
         "sighting_lat_wgs84": -27.748447580000001,
         "sighting_long_wgs84": 153.14911741
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1088494,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.19410066444939,
+          -27.739607819912699
+        ]
+      },
+      "properties": {
+        "locality": "Windaroo",
+        "objectid": 1088494,
+        "globalid": "{52E81F93-4F4C-4706-89D1-E868CB9F0B5A}",
+        "sighttime": 1768510620000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Logan City",
+        "sighting_lat_wgs84": -27.73960782,
+        "sighting_long_wgs84": 153.19410066
       }
     }
   ]
