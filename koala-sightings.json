@@ -3,52 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1090899,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.99771952630175,
-          -27.433811606561704
-        ]
-      },
-      "properties": {
-        "locality": "Alderley",
-        "objectid": 1090899,
-        "globalid": "{58C303FE-6A18-40B0-83DA-08F3315FF326}",
-        "sighttime": 1768809900000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.433811610000003,
-        "sighting_long_wgs84": 152.99771953000001
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1090500,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.11242973930223,
-          -27.525705546883305
-        ]
-      },
-      "properties": {
-        "locality": "Carindale",
-        "objectid": 1090500,
-        "globalid": "{E6028DFD-5CD7-4029-86AC-340B254DD830}",
-        "sighttime": 1768814040000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 2,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.525705550000001,
-        "sighting_long_wgs84": 153.11242974000001
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1062315,
       "geometry": {
         "type": "Point",
