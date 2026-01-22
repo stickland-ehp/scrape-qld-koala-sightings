@@ -26,25 +26,25 @@
     },
     {
       "type": "Feature",
-      "id": 1090100,
+      "id": 1087698,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.07920399623023,
-          -27.044013884189788
+          153.09094494645097,
+          -27.509401617867344
         ]
       },
       "properties": {
-        "locality": "Toorbul",
-        "objectid": 1090100,
-        "globalid": "{81CB4D38-9AC8-4CD0-A725-5D739F6CB6D7}",
-        "sighttime": 1768966020000,
-        "joeypresent": "No",
+        "locality": "Carina Heights",
+        "objectid": 1087698,
+        "globalid": "{25F38CFF-450A-4AAE-ACBB-0AFF549AAF66}",
+        "sighttime": 1769041080000,
+        "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.044013880000001,
-        "sighting_long_wgs84": 153.07920399999998
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.509401619999998,
+        "sighting_long_wgs84": 153.09094494999999
       }
     },
     {
