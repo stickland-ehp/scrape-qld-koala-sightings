@@ -26,29 +26,6 @@
     },
     {
       "type": "Feature",
-      "id": 1087698,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.09094494645097,
-          -27.509401617867344
-        ]
-      },
-      "properties": {
-        "locality": "Carina Heights",
-        "objectid": 1087698,
-        "globalid": "{25F38CFF-450A-4AAE-ACBB-0AFF549AAF66}",
-        "sighttime": 1769041080000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.509401619999998,
-        "sighting_long_wgs84": 153.09094494999999
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1042223,
       "geometry": {
         "type": "Point",
