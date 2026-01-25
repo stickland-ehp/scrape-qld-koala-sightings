@@ -26,6 +26,29 @@
     },
     {
       "type": "Feature",
+      "id": 1090502,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.89720907366677,
+          -27.598637654872359
+        ]
+      },
+      "properties": {
+        "locality": "Drayton",
+        "objectid": 1090502,
+        "globalid": "{350EBC55-5B5C-4978-8039-B0DC46AD7E3B}",
+        "sighttime": 1769297100000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Toowoomba Regional",
+        "sighting_lat_wgs84": -27.598637650000001,
+        "sighting_long_wgs84": 151.89720907
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1042223,
       "geometry": {
         "type": "Point",
