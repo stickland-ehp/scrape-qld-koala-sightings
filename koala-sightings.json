@@ -26,25 +26,25 @@
     },
     {
       "type": "Feature",
-      "id": 1090502,
+      "id": 1091303,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.89720907366677,
-          -27.598637654872359
+          152.37989377530437,
+          -27.095298897838859
         ]
       },
       "properties": {
-        "locality": "Drayton",
-        "objectid": 1090502,
-        "globalid": "{350EBC55-5B5C-4978-8039-B0DC46AD7E3B}",
-        "sighttime": 1769297100000,
+        "locality": "Toogoolawah",
+        "objectid": 1091303,
+        "globalid": "{314EF742-C123-467D-811F-F64CAA8B27F6}",
+        "sighttime": 1769416440000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Toowoomba Regional",
-        "sighting_lat_wgs84": -27.598637650000001,
-        "sighting_long_wgs84": 151.89720907
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -27.0952989,
+        "sighting_long_wgs84": 152.37989377999997
       }
     },
     {
