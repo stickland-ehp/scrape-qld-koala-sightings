@@ -26,25 +26,25 @@
     },
     {
       "type": "Feature",
-      "id": 1091303,
+      "id": 1087301,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.37989377530437,
-          -27.095298897838859
+          153.31035550003816,
+          -27.857922599863755
         ]
       },
       "properties": {
-        "locality": "Toogoolawah",
-        "objectid": 1091303,
-        "globalid": "{314EF742-C123-467D-811F-F64CAA8B27F6}",
-        "sighttime": 1769416440000,
-        "joeypresent": "No",
+        "locality": "Coomera",
+        "objectid": 1087301,
+        "globalid": "{21E9DC46-C066-4531-8E6A-6DAAE2A02222}",
+        "sighttime": 1769505480000,
+        "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.0952989,
-        "sighting_long_wgs84": 152.37989377999997
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.857922600000002,
+        "sighting_long_wgs84": 153.31035550000001
       }
     },
     {
@@ -72,6 +72,52 @@
     },
     {
       "type": "Feature",
+      "id": 1088902,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.80511263736247,
+          -26.749584381214234
+        ]
+      },
+      "properties": {
+        "locality": "Reesville",
+        "objectid": 1088902,
+        "globalid": "{905720C1-1D05-4052-9AA0-C6B227A9FDE9}",
+        "sighttime": 1769484780000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Sunshine Coast Regional",
+        "sighting_lat_wgs84": -26.749584380000002,
+        "sighting_long_wgs84": 152.80511264
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1087701,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.37992898836518,
+          -27.09530729415491
+        ]
+      },
+      "properties": {
+        "locality": "Toogoolawah",
+        "objectid": 1087701,
+        "globalid": "{F9DCEBCC-01D4-4916-86AE-8D0650620C82}",
+        "sighttime": 1769500800000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -27.095307290000001,
+        "sighting_long_wgs84": 152.37992899
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1042197,
       "geometry": {
         "type": "Point",
@@ -91,6 +137,29 @@
         "lga": "Logan City",
         "sighting_lat_wgs84": -27.748447580000001,
         "sighting_long_wgs84": 153.14911741
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1090503,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.95243049592557,
+          -27.27135667366904
+        ]
+      },
+      "properties": {
+        "locality": "Joyner",
+        "objectid": 1090503,
+        "globalid": "{A408A6ED-A8EF-43A6-A74B-5A18FAE30ACD}",
+        "sighttime": 1769463480000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.271356669999999,
+        "sighting_long_wgs84": 152.95243050000002
       }
     }
   ]
