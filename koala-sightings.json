@@ -49,25 +49,71 @@
     },
     {
       "type": "Feature",
-      "id": 1092905,
+      "id": 1086902,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.08329225244444,
-          -27.52815618443762
+          153.35899852707158,
+          -27.931638326082762
         ]
       },
       "properties": {
-        "locality": "Mount Gravatt East",
-        "objectid": 1092905,
-        "globalid": "{7FFF9BA2-7629-49DA-849B-96C6F5818D43}",
-        "sighttime": 1769566320000,
+        "locality": "Arundel",
+        "objectid": 1086902,
+        "globalid": "{503813BD-0625-462A-93DC-6038D9F60D46}",
+        "sighttime": 1769634600000,
         "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.52815618,
-        "sighting_long_wgs84": 153.08329225
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.931638329999998,
+        "sighting_long_wgs84": 153.35899853000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1091705,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.38038463004696,
+          -27.095359804104643
+        ]
+      },
+      "properties": {
+        "locality": "Toogoolawah",
+        "objectid": 1091705,
+        "globalid": "{5AA92F1C-FAA1-4CA6-A60D-B024507FE4E5}",
+        "sighttime": 1769672700000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -27.095359800000001,
+        "sighting_long_wgs84": 152.38038463000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1091305,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.37949812760883,
+          -27.095551645150056
+        ]
+      },
+      "properties": {
+        "locality": "Toogoolawah",
+        "objectid": 1091305,
+        "globalid": "{243757C8-A6B4-4997-95F1-47897130579D}",
+        "sighttime": 1769674200000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -27.09555164,
+        "sighting_long_wgs84": 152.37949813
       }
     },
     {
