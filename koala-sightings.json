@@ -49,94 +49,25 @@
     },
     {
       "type": "Feature",
-      "id": 1088904,
+      "id": 1090506,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.35871263104588,
-          -27.931776913114671
+          153.05713000018079,
+          -27.54468999996622
         ]
       },
       "properties": {
-        "locality": "Arundel",
-        "objectid": 1088904,
-        "globalid": "{1579CF6D-DFBE-43FC-B4D6-4356AE1F6AF7}",
-        "sighttime": 1769723100000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.93177691,
-        "sighting_long_wgs84": 153.35871262999999
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1090505,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.80611678945843,
-          -26.750916475203212
-        ]
-      },
-      "properties": {
-        "locality": "Reesville",
-        "objectid": 1090505,
-        "globalid": "{7D9F520E-1363-49C4-84F9-E6A8F84BDF37}",
-        "sighttime": 1769726400000,
+        "locality": "Nathan",
+        "objectid": 1090506,
+        "globalid": "{5C4CCCB3-840E-4868-9FAB-68B7563A4EF3}",
+        "sighttime": 1769819340000,
         "joeypresent": "No",
         "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Sunshine Coast Regional",
-        "sighting_lat_wgs84": -26.750916480000001,
-        "sighting_long_wgs84": 152.80611678999998
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1088503,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.37344001419859,
-          -27.032228778283873
-        ]
-      },
-      "properties": {
-        "locality": "Braemore",
-        "objectid": 1088503,
-        "globalid": "{B4753EA7-62F5-4B4E-BDDD-58B9FAD70BA8}",
-        "sighttime": 1769747820000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.032228780000001,
-        "sighting_long_wgs84": 152.37344001
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1086503,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.02947897448831,
-          -27.251781116679059
-        ]
-      },
-      "properties": {
-        "locality": "Mango Hill",
-        "objectid": 1086503,
-        "globalid": "{2273CAF6-0347-4D3B-BF79-5BF9783FC8BB}",
-        "sighttime": 1769760840000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.25178112,
-        "sighting_long_wgs84": 153.02947897000001
+        "koalacondifinal": "Dead",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.544689999999999,
+        "sighting_long_wgs84": 153.05713
       }
     },
     {
@@ -160,6 +91,52 @@
         "lga": "Logan City",
         "sighting_lat_wgs84": -27.748447580000001,
         "sighting_long_wgs84": 153.14911741
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1088905,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.3798913884807,
+          -27.09531173662878
+        ]
+      },
+      "properties": {
+        "locality": "Toogoolawah",
+        "objectid": 1088905,
+        "globalid": "{561A9486-5500-4F27-87A0-E49BC11E8ED4}",
+        "sighttime": 1769838300000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -27.095311740000003,
+        "sighting_long_wgs84": 152.37989138999998
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1086904,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.17446999973444,
+          -27.552430000078985
+        ]
+      },
+      "properties": {
+        "locality": "Burbank",
+        "objectid": 1086904,
+        "globalid": "{71FEC324-2458-444A-84E3-1E15064BDAFC}",
+        "sighttime": 1769851260000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.552429999999998,
+        "sighting_long_wgs84": 153.17446999999999
       }
     }
   ]
