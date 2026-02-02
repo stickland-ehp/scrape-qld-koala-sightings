@@ -49,94 +49,25 @@
     },
     {
       "type": "Feature",
-      "id": 1091707,
+      "id": 1086505,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.89398908139549,
-          -27.595285718022836
+          152.37949901244943,
+          -27.095495052699619
         ]
       },
       "properties": {
-        "locality": "Drayton",
-        "objectid": 1091707,
-        "globalid": "{60F744CF-2991-4DA9-80B8-DE2FEA03F219}",
-        "sighttime": 1769897880000,
+        "locality": "Toogoolawah",
+        "objectid": 1086505,
+        "globalid": "{B29111A2-AABD-4782-990B-9628CF541252}",
+        "sighttime": 1770016500000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Toowoomba Regional",
-        "sighting_lat_wgs84": -27.59528572,
-        "sighting_long_wgs84": 151.89398908000001
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1091307,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.89860784488729,
-          -27.597716261443747
-        ]
-      },
-      "properties": {
-        "locality": "Drayton",
-        "objectid": 1091307,
-        "globalid": "{4FA4FD97-BE22-4B13-8386-3C7523FB6564}",
-        "sighttime": 1769901120000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Toowoomba Regional",
-        "sighting_lat_wgs84": -27.597716259999999,
-        "sighting_long_wgs84": 151.89860784999999
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1090507,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.0953968559636,
-          -27.535447955743784
-        ]
-      },
-      "properties": {
-        "locality": "Mount Gravatt East",
-        "objectid": 1090507,
-        "globalid": "{E2888148-46CA-4FD5-A16B-4DCC4AC16D8A}",
-        "sighttime": 1769932920000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 2,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.535447959999999,
-        "sighting_long_wgs84": 153.09539686000002
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1042197,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.14911741430774,
-          -27.748447581213338
-        ]
-      },
-      "properties": {
-        "locality": "Buccan",
-        "objectid": 1042197,
-        "globalid": "{99791CBA-F934-4E51-B1E0-92B1EE0333E2}",
-        "sighttime": 1769898060000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Logan City",
-        "sighting_lat_wgs84": -27.748447580000001,
-        "sighting_long_wgs84": 153.14911741
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -27.09549505,
+        "sighting_long_wgs84": 152.37949901000002
       }
     }
   ]
