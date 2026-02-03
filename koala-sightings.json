@@ -26,6 +26,75 @@
     },
     {
       "type": "Feature",
+      "id": 1088506,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.35325387179654,
+          -27.939482408439968
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1088506,
+        "globalid": "{E8CCDB55-4E49-4AAB-9637-75DB06EDF733}",
+        "sighttime": 1770105720000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": null,
+        "sighting_lat_wgs84": null,
+        "sighting_long_wgs84": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1088106,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.37943571356124,
+          -27.095591353815834
+        ]
+      },
+      "properties": {
+        "locality": "Toogoolawah",
+        "objectid": 1088106,
+        "globalid": "{142792D3-B8CD-4DAD-89AD-D66AC175D8F1}",
+        "sighttime": 1770105600000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -27.095591350000003,
+        "sighting_long_wgs84": 152.37943571
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1090508,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.09519719281525,
+          -27.535418519713005
+        ]
+      },
+      "properties": {
+        "locality": "Mount Gravatt East",
+        "objectid": 1090508,
+        "globalid": "{B66D8D51-80F8-4354-A4C2-9B520589AD78}",
+        "sighttime": 1770093900000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.53541852,
+        "sighting_long_wgs84": 153.09519718999999
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1042223,
       "geometry": {
         "type": "Point",
@@ -49,25 +118,71 @@
     },
     {
       "type": "Feature",
-      "id": 1086505,
+      "id": 1091308,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.37949901244943,
-          -27.095495052699619
+          152.94438805076507,
+          -27.293957599723818
         ]
       },
       "properties": {
-        "locality": "Toogoolawah",
-        "objectid": 1086505,
-        "globalid": "{B29111A2-AABD-4782-990B-9628CF541252}",
-        "sighttime": 1770016500000,
-        "joeypresent": "No",
+        "locality": "Warner",
+        "objectid": 1091308,
+        "globalid": "{3D9C1AE3-15B2-44CB-9B4E-F8E5FABE3025}",
+        "sighttime": 1770070500000,
+        "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.09549505,
-        "sighting_long_wgs84": 152.37949901000002
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.293957600000002,
+        "sighting_long_wgs84": 152.94403399999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1091708,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.09986191681193,
+          -27.548804070511366
+        ]
+      },
+      "properties": {
+        "locality": "Wishart",
+        "objectid": 1091708,
+        "globalid": "{BA1ACB2C-8089-43A9-BE55-6178C01118BD}",
+        "sighttime": 1770065520000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.548804069999999,
+        "sighting_long_wgs84": 153.09986192
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1090108,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.36738123250217,
+          -27.934530132399665
+        ]
+      },
+      "properties": {
+        "locality": "Arundel",
+        "objectid": 1090108,
+        "globalid": "{338841A0-2976-46A7-867E-1CFDBBD217E4}",
+        "sighttime": 1770101460000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.934530129999999,
+        "sighting_long_wgs84": 153.36738123000001
       }
     }
   ]
