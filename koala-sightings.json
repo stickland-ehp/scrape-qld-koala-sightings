@@ -26,6 +26,52 @@
     },
     {
       "type": "Feature",
+      "id": 1090909,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.599661574507,
+          -27.384644596235706
+        ]
+      },
+      "properties": {
+        "locality": "Lake Wivenhoe",
+        "objectid": 1090909,
+        "globalid": "{EFBEE866-3C22-4363-B4B0-77E0B935F217}",
+        "sighttime": 1770252600000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -27.384644599999998,
+        "sighting_long_wgs84": 152.59966157000002
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1090509,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.4689276455581,
+          -27.927374120480444
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1090509,
+        "globalid": "{ACE8373A-82E1-4EAA-9618-72165E540C2B}",
+        "sighttime": 1770256620000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": null,
+        "sighting_lat_wgs84": null,
+        "sighting_long_wgs84": null
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1042223,
       "geometry": {
         "type": "Point",
@@ -45,6 +91,29 @@
         "lga": "Brisbane City",
         "sighting_lat_wgs84": -27.511279099999999,
         "sighting_long_wgs84": 153.0781044
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1091309,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.10841030931007,
+          -27.537399709329328
+        ]
+      },
+      "properties": {
+        "locality": "Mansfield",
+        "objectid": 1091309,
+        "globalid": "{9331EAD5-E1BE-4171-AC9A-50A44054C739}",
+        "sighttime": 1770245580000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.537399709999999,
+        "sighting_long_wgs84": 153.10841030999998
       }
     }
   ]
