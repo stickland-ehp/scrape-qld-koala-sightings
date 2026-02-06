@@ -26,52 +26,6 @@
     },
     {
       "type": "Feature",
-      "id": 1090909,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.599661574507,
-          -27.384644596235706
-        ]
-      },
-      "properties": {
-        "locality": "Lake Wivenhoe",
-        "objectid": 1090909,
-        "globalid": "{EFBEE866-3C22-4363-B4B0-77E0B935F217}",
-        "sighttime": 1770252600000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.384644599999998,
-        "sighting_long_wgs84": 152.59966157000002
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1090509,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.4689276455581,
-          -27.927374120480444
-        ]
-      },
-      "properties": {
-        "locality": null,
-        "objectid": 1090509,
-        "globalid": "{ACE8373A-82E1-4EAA-9618-72165E540C2B}",
-        "sighttime": 1770256620000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": null,
-        "sighting_lat_wgs84": null,
-        "sighting_long_wgs84": null
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1042223,
       "geometry": {
         "type": "Point",
@@ -95,25 +49,71 @@
     },
     {
       "type": "Feature",
-      "id": 1091309,
+      "id": 1087307,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.10841030931007,
-          -27.537399709329328
+          152.57838038122171,
+          -28.099595156914887
         ]
       },
       "properties": {
-        "locality": "Mansfield",
-        "objectid": 1091309,
-        "globalid": "{9331EAD5-E1BE-4171-AC9A-50A44054C739}",
-        "sighttime": 1770245580000,
+        "locality": "Mount Alford",
+        "objectid": 1087307,
+        "globalid": "{C684C7D8-5B9C-48BB-BF2F-6B6A2A00F87C}",
+        "sighttime": 1770333480000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Injured/Sick",
+        "lga": "Scenic Rim Regional",
+        "sighting_lat_wgs84": -28.09959516,
+        "sighting_long_wgs84": 152.57838038000003
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1086907,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.36295747259732,
+          -27.929382772074959
+        ]
+      },
+      "properties": {
+        "locality": "Arundel",
+        "objectid": 1086907,
+        "globalid": "{EEFC0816-5424-4E71-B0A5-6BC1E039AC46}",
+        "sighttime": 1770324900000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.92938277,
+        "sighting_long_wgs84": 153.36295747
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1086507,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.07514025234519,
+          -27.507021537392085
+        ]
+      },
+      "properties": {
+        "locality": "Coorparoo",
+        "objectid": 1086507,
+        "globalid": "{97C9EAAD-0464-42CE-A2CE-69B2FDED71BC}",
+        "sighttime": 1770339900000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.537399709999999,
-        "sighting_long_wgs84": 153.10841030999998
+        "sighting_lat_wgs84": -27.50702154,
+        "sighting_long_wgs84": 153.07514025
       }
     }
   ]
