@@ -49,71 +49,25 @@
     },
     {
       "type": "Feature",
-      "id": 1087307,
+      "id": 1092911,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.57838038122171,
-          -28.099595156914887
+          153.28319000028205,
+          -27.636799999671794
         ]
       },
       "properties": {
-        "locality": "Mount Alford",
-        "objectid": 1087307,
-        "globalid": "{C684C7D8-5B9C-48BB-BF2F-6B6A2A00F87C}",
-        "sighttime": 1770333480000,
+        "locality": "Redland Bay",
+        "objectid": 1092911,
+        "globalid": "{140B3FEB-7443-411C-87EB-B017D688BD10}",
+        "sighttime": 1770416340000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Injured/Sick",
-        "lga": "Scenic Rim Regional",
-        "sighting_lat_wgs84": -28.09959516,
-        "sighting_long_wgs84": 152.57838038000003
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1086907,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.36295747259732,
-          -27.929382772074959
-        ]
-      },
-      "properties": {
-        "locality": "Arundel",
-        "objectid": 1086907,
-        "globalid": "{EEFC0816-5424-4E71-B0A5-6BC1E039AC46}",
-        "sighttime": 1770324900000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.92938277,
-        "sighting_long_wgs84": 153.36295747
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1086507,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.07514025234519,
-          -27.507021537392085
-        ]
-      },
-      "properties": {
-        "locality": "Coorparoo",
-        "objectid": 1086507,
-        "globalid": "{97C9EAAD-0464-42CE-A2CE-69B2FDED71BC}",
-        "sighttime": 1770339900000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.50702154,
-        "sighting_long_wgs84": 153.07514025
+        "lga": null,
+        "sighting_lat_wgs84": -27.636800000000001,
+        "sighting_long_wgs84": 153.28318999999999
       }
     }
   ]
