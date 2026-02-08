@@ -49,25 +49,48 @@
     },
     {
       "type": "Feature",
-      "id": 1092911,
+      "id": 1090511,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.28319000028205,
-          -27.636799999671794
+          152.37993271367867,
+          -27.095339112820213
         ]
       },
       "properties": {
-        "locality": "Redland Bay",
-        "objectid": 1092911,
-        "globalid": "{140B3FEB-7443-411C-87EB-B017D688BD10}",
-        "sighttime": 1770416340000,
+        "locality": "Toogoolawah",
+        "objectid": 1090511,
+        "globalid": "{34FABDE9-F34A-470C-A6BA-CD39DD124956}",
+        "sighttime": 1770537000000,
         "joeypresent": "No",
         "numberofkoala": 1,
-        "koalacondifinal": "Injured/Sick",
-        "lga": null,
-        "sighting_lat_wgs84": -27.636800000000001,
-        "sighting_long_wgs84": 153.28318999999999
+        "koalacondifinal": "Healthy",
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -27.095339110000001,
+        "sighting_long_wgs84": 152.37993270999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1091311,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.08260415461493,
+          -27.50787650386415
+        ]
+      },
+      "properties": {
+        "locality": "Camp Hill",
+        "objectid": 1091311,
+        "globalid": "{BCB0BDBB-B3DB-4ECD-A016-82704BFBF7CD}",
+        "sighttime": 1770537840000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.507876499999998,
+        "sighting_long_wgs84": 153.08260415000001
       }
     }
   ]
