@@ -49,25 +49,25 @@
     },
     {
       "type": "Feature",
-      "id": 1086909,
+      "id": 1091712,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.41927980712578,
-          -28.150063645967297
+          153.35896973696501,
+          -27.931350575039211
         ]
       },
       "properties": {
-        "locality": "Tallebudgera",
-        "objectid": 1086909,
-        "globalid": "{4B531C2B-72FA-4064-B793-0D617812B8F8}",
-        "sighttime": 1770614580000,
-        "joeypresent": "No",
+        "locality": "Arundel",
+        "objectid": 1091712,
+        "globalid": "{5FE32647-E9D7-4CB3-BF70-B99956ABFF96}",
+        "sighttime": 1770678360000,
+        "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -28.15006365,
-        "sighting_long_wgs84": 153.41927980999998
+        "sighting_lat_wgs84": -27.931350569999999,
+        "sighting_long_wgs84": 153.35896973999999
       }
     }
   ]
