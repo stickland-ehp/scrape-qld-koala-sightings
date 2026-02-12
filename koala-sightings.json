@@ -49,25 +49,48 @@
     },
     {
       "type": "Feature",
-      "id": 1090913,
+      "id": 1087711,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.36347112658183,
-          -27.93421954387285
+          152.49815705162902,
+          -28.044645252609048
         ]
       },
       "properties": {
-        "locality": "Arundel",
-        "objectid": 1090913,
-        "globalid": "{D8F67070-13F1-4D9F-91F9-6AE41938EE32}",
-        "sighttime": 1770792720000,
-        "joeypresent": "Not Sure",
+        "locality": "Moogerah",
+        "objectid": 1087711,
+        "globalid": "{669A561D-AFAF-4A64-9938-CAF188453311}",
+        "sighttime": 1770852720000,
+        "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.934219540000001,
-        "sighting_long_wgs84": 153.36347113000002
+        "lga": "Scenic Rim Regional",
+        "sighting_lat_wgs84": -28.044645249999999,
+        "sighting_long_wgs84": 152.49815705
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1087311,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.5165294479221,
+          -27.219279693201319
+        ]
+      },
+      "properties": {
+        "locality": "Lake Wivenhoe",
+        "objectid": 1087311,
+        "globalid": "{7CC30E2A-2BF8-4B13-A55F-DDABFAA41983}",
+        "sighttime": 1770866100000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -27.21927969,
+        "sighting_long_wgs84": 152.51652945000001
       }
     }
   ]
