@@ -72,25 +72,48 @@
     },
     {
       "type": "Feature",
-      "id": 1090115,
+      "id": 1087313,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.37994994156924,
-          -27.095303641009775
+          153.40979048416472,
+          -28.116695034276905
         ]
       },
       "properties": {
-        "locality": "Toogoolawah",
-        "objectid": 1090115,
-        "globalid": "{C43106C1-6C90-4A40-B12E-9F6C1F0106DB}",
-        "sighttime": 1771227000000,
+        "locality": null,
+        "objectid": 1087313,
+        "globalid": "{AAC77DBE-6018-4370-8BE6-161C2793302C}",
+        "sighttime": 1771311720000,
         "joeypresent": "No",
         "numberofkoala": 1,
-        "koalacondifinal": "Injured/Sick",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.095303640000001,
-        "sighting_long_wgs84": 152.37994993999999
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -28.116695029999999,
+        "sighting_long_wgs84": 153.40979048
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1086513,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.95948410346907,
+          -26.315708814871712
+        ]
+      },
+      "properties": {
+        "locality": "Ringtail Creek",
+        "objectid": 1086513,
+        "globalid": "{C02E4D67-CF16-4FDB-9247-412C31F9D682}",
+        "sighttime": 1771315200000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Noosa Shire",
+        "sighting_lat_wgs84": -26.31570881,
+        "sighting_long_wgs84": 152.9594841
       }
     }
   ]
