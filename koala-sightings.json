@@ -26,29 +26,6 @@
     },
     {
       "type": "Feature",
-      "id": 1091716,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.36480985081542,
-          -27.930594342138807
-        ]
-      },
-      "properties": {
-        "locality": "Arundel",
-        "objectid": 1091716,
-        "globalid": "{9C7CD0B0-6E26-45C9-B4F4-B645ECBE3106}",
-        "sighttime": 1771363800000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.930594339999999,
-        "sighting_long_wgs84": 153.36480985
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1062315,
       "geometry": {
         "type": "Point",
@@ -72,6 +49,75 @@
     },
     {
       "type": "Feature",
+      "id": 1089716,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.08993880009507,
+          -27.535089099928715
+        ]
+      },
+      "properties": {
+        "locality": "Mount Gravatt East",
+        "objectid": 1089716,
+        "globalid": "{49F0A78E-5129-443F-9DBC-904928C68423}",
+        "sighttime": 1771449000000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.5350891,
+        "sighting_long_wgs84": 153.0899388
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1087714,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.9379394998879,
+          -27.273444900131746
+        ]
+      },
+      "properties": {
+        "locality": "Joyner",
+        "objectid": 1087714,
+        "globalid": "{2C78241C-F4C2-46B4-A58F-3635643CA7DC}",
+        "sighttime": 1771470120000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.273444899999998,
+        "sighting_long_wgs84": 152.93793950000003
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1087314,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.93722570035973,
+          -27.271777299882018
+        ]
+      },
+      "properties": {
+        "locality": "Joyner",
+        "objectid": 1087314,
+        "globalid": "{7EF223A3-302B-43E1-93AB-B9EDD4030972}",
+        "sighttime": 1771470600000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.2717773,
+        "sighting_long_wgs84": 152.9372257
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1042223,
       "geometry": {
         "type": "Point",
@@ -91,6 +137,29 @@
         "lga": "Brisbane City",
         "sighting_lat_wgs84": -27.511279099999999,
         "sighting_long_wgs84": 153.0781044
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1091717,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.03547458671437,
+          -27.876326027102444
+        ]
+      },
+      "properties": {
+        "locality": "Cedar Vale",
+        "objectid": 1091717,
+        "globalid": "{593E07B9-186B-45E4-8127-14F213944083}",
+        "sighttime": 1771480620000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": "Logan City",
+        "sighting_lat_wgs84": -27.876326030000001,
+        "sighting_long_wgs84": 153.03547459000001
       }
     }
   ]
