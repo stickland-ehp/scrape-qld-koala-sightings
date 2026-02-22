@@ -49,25 +49,48 @@
     },
     {
       "type": "Feature",
-      "id": 1088917,
+      "id": 1091719,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.36610405903517,
-          -27.929989869170406
+          153.05035006798184,
+          -27.545054877742562
+        ]
+      },
+      "properties": {
+        "locality": "Nathan",
+        "objectid": 1091719,
+        "globalid": "{CF08FF04-E98D-4779-A218-7B688FECBC21}",
+        "sighttime": 1771720440000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.545054880000002,
+        "sighting_long_wgs84": 153.05035006999998
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1088117,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.36698608426994,
+          -27.930109623517609
         ]
       },
       "properties": {
         "locality": "Arundel",
-        "objectid": 1088917,
-        "globalid": "{3890A62C-49D0-462B-B9D8-54DA57634234}",
-        "sighttime": 1771656360000,
+        "objectid": 1088117,
+        "globalid": "{60FD13CB-AADF-4B17-A87C-A911FDEF73FC}",
+        "sighttime": 1771742400000,
         "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.92998987,
-        "sighting_long_wgs84": 153.36610406
+        "sighting_lat_wgs84": -27.93010962,
+        "sighting_long_wgs84": 153.36698607999998
       }
     }
   ]
