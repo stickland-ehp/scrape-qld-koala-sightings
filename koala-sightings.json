@@ -49,48 +49,48 @@
     },
     {
       "type": "Feature",
-      "id": 1087720,
+      "id": 1087320,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.07366909487914,
-          -27.543580353313292
+          153.05115479498303,
+          -27.209238145250691
         ]
       },
       "properties": {
-        "locality": "Mount Gravatt",
-        "objectid": 1087720,
-        "globalid": "{417DC0C7-1D11-48C4-8AEA-2BAE197532B1}",
-        "sighttime": 1771904940000,
+        "locality": "Rothwell",
+        "objectid": 1087320,
+        "globalid": "{1779C3EB-DC03-4FFD-A88B-F778FC1220E3}",
+        "sighttime": 1771978800000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.543580350000003,
-        "sighting_long_wgs84": 153.07366909999999
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.209238150000001,
+        "sighting_long_wgs84": 153.05115479999998
       }
     },
     {
       "type": "Feature",
-      "id": 1091322,
+      "id": 1086520,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.36553235322202,
-          -27.935291023414784
+          153.10769315098116,
+          -27.514790387532219
         ]
       },
       "properties": {
-        "locality": "Arundel",
-        "objectid": 1091322,
-        "globalid": "{7F5991E9-D121-4ECC-BC5C-87FC1BA4324D}",
-        "sighttime": 1771933680000,
+        "locality": "Carindale",
+        "objectid": 1086520,
+        "globalid": "{8B71412F-5869-4A67-96C3-9A5A64094A1E}",
+        "sighttime": 1771980180000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.935291020000001,
-        "sighting_long_wgs84": 153.36553235
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.514790390000002,
+        "sighting_long_wgs84": 153.10769314999999
       }
     }
   ]
