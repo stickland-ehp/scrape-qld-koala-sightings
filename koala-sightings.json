@@ -49,48 +49,48 @@
     },
     {
       "type": "Feature",
-      "id": 1087320,
+      "id": 1090124,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.05115479498303,
-          -27.209238145250691
+          152.73249500012398,
+          -27.695535999823328
         ]
       },
       "properties": {
-        "locality": "Rothwell",
-        "objectid": 1087320,
-        "globalid": "{1779C3EB-DC03-4FFD-A88B-F778FC1220E3}",
-        "sighttime": 1771978800000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
+        "locality": "Purga",
+        "objectid": 1090124,
+        "globalid": "{1501FD2C-DA7B-4D25-8027-6398A8855A42}",
+        "sighttime": 1788486000000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
         "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.209238150000001,
-        "sighting_long_wgs84": 153.05115479999998
+        "lga": "Ipswich City",
+        "sighting_lat_wgs84": -27.695536000000001,
+        "sighting_long_wgs84": 152.732495
       }
     },
     {
       "type": "Feature",
-      "id": 1086520,
+      "id": 1088122,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.10769315098116,
-          -27.514790387532219
+          153.17451702653955,
+          -27.552381086186305
         ]
       },
       "properties": {
-        "locality": "Carindale",
-        "objectid": 1086520,
-        "globalid": "{8B71412F-5869-4A67-96C3-9A5A64094A1E}",
-        "sighttime": 1771980180000,
+        "locality": "Burbank",
+        "objectid": 1088122,
+        "globalid": "{06F4BFB7-FE83-46DB-89CE-FF0F30116674}",
+        "sighttime": 1772093460000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.514790390000002,
-        "sighting_long_wgs84": 153.10769314999999
+        "sighting_lat_wgs84": -27.552381089999997,
+        "sighting_long_wgs84": 153.17451703
       }
     }
   ]
