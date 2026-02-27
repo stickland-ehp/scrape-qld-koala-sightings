@@ -72,25 +72,48 @@
     },
     {
       "type": "Feature",
-      "id": 1088122,
+      "id": 1090125,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.17451702653955,
-          -27.552381086186305
+          153.0914466519439,
+          -27.826155995868806
         ]
       },
       "properties": {
-        "locality": "Burbank",
-        "objectid": 1088122,
-        "globalid": "{06F4BFB7-FE83-46DB-89CE-FF0F30116674}",
-        "sighttime": 1772093460000,
-        "joeypresent": "No",
+        "locality": "Tamborine",
+        "objectid": 1090125,
+        "globalid": "{A4359AD9-E2F4-4B70-8728-7DAA06D95D6A}",
+        "sighttime": 1772148000000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": "Logan City",
+        "sighting_lat_wgs84": -27.826156000000001,
+        "sighting_long_wgs84": 153.09144664999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1088124,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.36585017177961,
+          -27.930086394906983
+        ]
+      },
+      "properties": {
+        "locality": "Arundel",
+        "objectid": 1088124,
+        "globalid": "{33570C21-81CF-49D6-81A0-63094E67C29E}",
+        "sighttime": 1772176560000,
+        "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.552381089999997,
-        "sighting_long_wgs84": 153.17451703
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.93008639,
+        "sighting_long_wgs84": 153.36585017000002
       }
     }
   ]
