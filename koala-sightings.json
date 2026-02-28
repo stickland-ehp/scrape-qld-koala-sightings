@@ -72,48 +72,117 @@
     },
     {
       "type": "Feature",
-      "id": 1090125,
+      "id": 1091726,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.0914466519439,
-          -27.826155995868806
+          153.07359590014977,
+          -27.55483049968451
         ]
       },
       "properties": {
-        "locality": "Tamborine",
-        "objectid": 1090125,
-        "globalid": "{A4359AD9-E2F4-4B70-8728-7DAA06D95D6A}",
-        "sighttime": 1772148000000,
-        "joeypresent": "Yes",
-        "numberofkoala": 2,
+        "locality": "Upper Mount Gravatt",
+        "objectid": 1091726,
+        "globalid": "{5258D4BB-5955-4948-85C1-6D31EA97CC39}",
+        "sighttime": 1772229420000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Logan City",
-        "sighting_lat_wgs84": -27.826156000000001,
-        "sighting_long_wgs84": 153.09144664999999
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.554830500000001,
+        "sighting_long_wgs84": 153.07359589999999
       }
     },
     {
       "type": "Feature",
-      "id": 1088124,
+      "id": 1091326,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.36585017177961,
-          -27.930086394906983
+          153.07396739574054,
+          -27.554069001104796
+        ]
+      },
+      "properties": {
+        "locality": "Upper Mount Gravatt",
+        "objectid": 1091326,
+        "globalid": "{B8268216-290E-40D1-83BA-BAE0BF3FCFF4}",
+        "sighttime": 1772229540000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.554068999999998,
+        "sighting_long_wgs84": 153.07396740000002
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1087324,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.02977678397127,
+          -27.251965032040925
+        ]
+      },
+      "properties": {
+        "locality": "Mango Hill",
+        "objectid": 1087324,
+        "globalid": "{2B1BC2E3-3C33-42F4-A8C9-AF1EB40B3377}",
+        "sighttime": 1772236800000,
+        "joeypresent": "No",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.251965029999997,
+        "sighting_long_wgs84": 153.02977677999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1086924,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.99167999993301,
+          -26.597540000320972
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1086924,
+        "globalid": "{80F3E704-3630-479A-BC83-E082B2A514BC}",
+        "sighttime": 1772220900000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Sunshine Coast Regional",
+        "sighting_lat_wgs84": -26.597539999999999,
+        "sighting_long_wgs84": 152.99168
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1091327,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.36613633011342,
+          -27.929975466257684
         ]
       },
       "properties": {
         "locality": "Arundel",
-        "objectid": 1088124,
-        "globalid": "{33570C21-81CF-49D6-81A0-63094E67C29E}",
-        "sighttime": 1772176560000,
-        "joeypresent": "Not Sure",
+        "objectid": 1091327,
+        "globalid": "{7E2B255B-9FDF-440D-935C-F932BA72EA06}",
+        "sighttime": 1772261820000,
+        "joeypresent": "Yes",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.93008639,
-        "sighting_long_wgs84": 153.36585017000002
+        "sighting_lat_wgs84": -27.929975469999999,
+        "sighting_long_wgs84": 153.36613632999999
       }
     }
   ]
