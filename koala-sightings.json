@@ -26,52 +26,6 @@
     },
     {
       "type": "Feature",
-      "id": 1089729,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.50450139972978,
-          -27.356510400093239
-        ]
-      },
-      "properties": {
-        "locality": "Coominya",
-        "objectid": 1089729,
-        "globalid": "{C58B60D6-8158-4D94-9E98-48B8F6D79734}",
-        "sighttime": 1772508900000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.356510400000001,
-        "sighting_long_wgs84": 152.50450140000001
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1088928,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.42074149808494,
-          -27.30696257913522
-        ]
-      },
-      "properties": {
-        "locality": "Esk",
-        "objectid": 1088928,
-        "globalid": "{5E6E28C2-1211-4A29-A337-93EF0F4D429C}",
-        "sighttime": 1772514900000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.30696258,
-        "sighting_long_wgs84": 152.42074150000002
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1090124,
       "geometry": {
         "type": "Point",
@@ -91,29 +45,6 @@
         "lga": "Ipswich City",
         "sighting_lat_wgs84": -27.695536000000001,
         "sighting_long_wgs84": 152.732495
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1090129,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.54413110040991,
-          -27.396295799806484
-        ]
-      },
-      "properties": {
-        "locality": "Coominya",
-        "objectid": 1090129,
-        "globalid": "{72312770-0D68-415F-8B22-9BD2FA44EB7C}",
-        "sighttime": 1772508120000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Dead",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.396295800000001,
-        "sighting_long_wgs84": 152.54413109999999
       }
     },
     {
@@ -164,71 +95,25 @@
     },
     {
       "type": "Feature",
-      "id": 1091329,
+      "id": 1088128,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.64275949981922,
-          -27.900438349213196
-        ]
-      },
-      "properties": {
-        "locality": "Munbilla",
-        "objectid": 1091329,
-        "globalid": "{B61E07AE-2211-4D27-8A59-63E5F3F0DEB0}",
-        "sighttime": 1772499000000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Scenic Rim Regional",
-        "sighting_lat_wgs84": -27.900438350000002,
-        "sighting_long_wgs84": 152.64275949999998
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1092930,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.36286859957127,
-          -27.929544960587762
+          153.3662931750637,
+          -27.930017766226698
         ]
       },
       "properties": {
         "locality": "Arundel",
-        "objectid": 1092930,
-        "globalid": "{5A28ACCB-EF36-4994-997C-FB9A83375AAB}",
-        "sighttime": 1772484480000,
+        "objectid": 1088128,
+        "globalid": "{36D28200-CA29-4A3A-B690-1A236D1A7798}",
+        "sighttime": 1772605440000,
         "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.929544960000001,
-        "sighting_long_wgs84": 153.36286859999998
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1091729,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.64456492399577,
-          -27.899525024864229
-        ]
-      },
-      "properties": {
-        "locality": "Munbilla",
-        "objectid": 1091729,
-        "globalid": "{0BA92CB3-1AEC-48AC-9EE7-CDF4C75075FA}",
-        "sighttime": 1772498640000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Scenic Rim Regional",
-        "sighting_lat_wgs84": -27.899525019999999,
-        "sighting_long_wgs84": 152.64456491999999
+        "sighting_lat_wgs84": -27.930017769999999,
+        "sighting_long_wgs84": 153.36629317999999
       }
     }
   ]
