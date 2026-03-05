@@ -26,6 +26,29 @@
     },
     {
       "type": "Feature",
+      "id": 1088529,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.95080228420176,
+          -27.244025063869426
+        ]
+      },
+      "properties": {
+        "locality": "Kurwongbah",
+        "objectid": 1088529,
+        "globalid": "{1DA37D48-A27B-489D-848E-8854824B0457}",
+        "sighttime": 1772693100000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.244025059999998,
+        "sighting_long_wgs84": 152.95080227999998
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1090124,
       "geometry": {
         "type": "Point",
@@ -95,25 +118,48 @@
     },
     {
       "type": "Feature",
-      "id": 1088128,
+      "id": 1091331,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.3662931750637,
-          -27.930017766226698
+          152.64473183097562,
+          -27.899462519223395
         ]
       },
       "properties": {
-        "locality": "Arundel",
-        "objectid": 1088128,
-        "globalid": "{36D28200-CA29-4A3A-B690-1A236D1A7798}",
-        "sighttime": 1772605440000,
+        "locality": "Munbilla",
+        "objectid": 1091331,
+        "globalid": "{E9487FB6-E0F4-4CF9-BBC1-748143BE3A03}",
+        "sighttime": 1772666640000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Scenic Rim Regional",
+        "sighting_lat_wgs84": -27.89946252,
+        "sighting_long_wgs84": 152.64473183000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1090531,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.44990695494783,
+          -28.100975578748915
+        ]
+      },
+      "properties": {
+        "locality": "Burleigh Heads",
+        "objectid": 1090531,
+        "globalid": "{DAF46290-0847-48C0-AA83-83BE41A33F7D}",
+        "sighttime": 1772669040000,
         "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.930017769999999,
-        "sighting_long_wgs84": 153.36629317999999
+        "sighting_lat_wgs84": -28.10097558,
+        "sighting_long_wgs84": 153.44990695000001
       }
     }
   ]
