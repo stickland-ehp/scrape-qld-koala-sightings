@@ -26,48 +26,48 @@
     },
     {
       "type": "Feature",
-      "id": 1086529,
+      "id": 1092934,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.10890645153646,
-          -27.537545546168442
+          153.07360419968467,
+          -27.554747100344802
         ]
       },
       "properties": {
-        "locality": "Mansfield",
-        "objectid": 1086529,
-        "globalid": "{25B962F3-A7CD-4C0E-9606-04D44FCC900A}",
-        "sighttime": 1772750220000,
+        "locality": "Upper Mount Gravatt",
+        "objectid": 1092934,
+        "globalid": "{01E021A1-3A76-409C-AF7D-D41CD718A142}",
+        "sighttime": 1772863740000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.537545550000001,
-        "sighting_long_wgs84": 153.10890645000001
+        "sighting_lat_wgs84": -27.5547471,
+        "sighting_long_wgs84": 153.07360420000001
       }
     },
     {
       "type": "Feature",
-      "id": 1089732,
+      "id": 1091733,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.95084604293581,
-          -27.243991384347886
+          153.37738319974133,
+          -27.91831710003056
         ]
       },
       "properties": {
-        "locality": "Kurwongbah",
-        "objectid": 1089732,
-        "globalid": "{F50BB6A2-AEAA-4824-9576-0A1B3347DC6F}",
-        "sighttime": 1772773980000,
+        "locality": "Coombabah",
+        "objectid": 1091733,
+        "globalid": "{EF6A9B5B-7DD2-4D3B-980F-A4BB89E50CB0}",
+        "sighttime": 1772869260000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.243991380000001,
-        "sighting_long_wgs84": 152.95084603999999
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.918317099999999,
+        "sighting_long_wgs84": 153.3773832
       }
     },
     {
