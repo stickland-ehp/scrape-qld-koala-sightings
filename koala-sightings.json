@@ -26,48 +26,25 @@
     },
     {
       "type": "Feature",
-      "id": 1092934,
+      "id": 1090133,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.07360419968467,
-          -27.554747100344802
+          153.07455159981427,
+          -27.55573480001453
         ]
       },
       "properties": {
         "locality": "Upper Mount Gravatt",
-        "objectid": 1092934,
-        "globalid": "{01E021A1-3A76-409C-AF7D-D41CD718A142}",
-        "sighttime": 1772863740000,
+        "objectid": 1090133,
+        "globalid": "{0258E395-E01E-4477-9EC5-E3DF17D020BC}",
+        "sighttime": 1772916360000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.5547471,
-        "sighting_long_wgs84": 153.07360420000001
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1091733,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.37738319974133,
-          -27.91831710003056
-        ]
-      },
-      "properties": {
-        "locality": "Coombabah",
-        "objectid": 1091733,
-        "globalid": "{EF6A9B5B-7DD2-4D3B-980F-A4BB89E50CB0}",
-        "sighttime": 1772869260000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.918317099999999,
-        "sighting_long_wgs84": 153.3773832
+        "sighting_lat_wgs84": -27.555734800000003,
+        "sighting_long_wgs84": 153.07455160000001
       }
     },
     {
