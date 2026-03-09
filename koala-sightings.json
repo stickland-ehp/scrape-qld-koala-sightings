@@ -26,25 +26,25 @@
     },
     {
       "type": "Feature",
-      "id": 1090133,
+      "id": 1091734,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.07455159981427,
-          -27.55573480001453
+          152.95084213256942,
+          -27.243984312206109
         ]
       },
       "properties": {
-        "locality": "Upper Mount Gravatt",
-        "objectid": 1090133,
-        "globalid": "{0258E395-E01E-4477-9EC5-E3DF17D020BC}",
-        "sighttime": 1772916360000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
+        "locality": "Kurwongbah",
+        "objectid": 1091734,
+        "globalid": "{91A63D15-CE5F-4945-BD75-4D31B06CE09A}",
+        "sighttime": 1773042600000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
         "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.555734800000003,
-        "sighting_long_wgs84": 153.07455160000001
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.243984309999998,
+        "sighting_long_wgs84": 152.95084212999998
       }
     },
     {
