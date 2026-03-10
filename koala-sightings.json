@@ -3,6 +3,29 @@
   "features": [
     {
       "type": "Feature",
+      "id": 1092936,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.04527837841536,
+          -27.550332031984833
+        ]
+      },
+      "properties": {
+        "locality": "Nathan",
+        "objectid": 1092936,
+        "globalid": "{131333BB-6B86-45AA-A404-514139D7562A}",
+        "sighttime": 1773123720000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.55033203,
+        "sighting_long_wgs84": 153.04527837999998
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1062315,
       "geometry": {
         "type": "Point",
@@ -26,25 +49,25 @@
     },
     {
       "type": "Feature",
-      "id": 1091734,
+      "id": 1090534,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.95084213256942,
-          -27.243984312206109
+          153.07349570026631,
+          -27.555554900062464
         ]
       },
       "properties": {
-        "locality": "Kurwongbah",
-        "objectid": 1091734,
-        "globalid": "{91A63D15-CE5F-4945-BD75-4D31B06CE09A}",
-        "sighttime": 1773042600000,
-        "joeypresent": "Yes",
-        "numberofkoala": 2,
+        "locality": "Upper Mount Gravatt",
+        "objectid": 1090534,
+        "globalid": "{71F11B69-5C5C-49A3-B4DA-1868B1CD2953}",
+        "sighttime": 1773084960000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.243984309999998,
-        "sighting_long_wgs84": 152.95084212999998
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.555554899999997,
+        "sighting_long_wgs84": 153.0734957
       }
     },
     {
@@ -114,6 +137,29 @@
         "lga": "Moreton Bay City",
         "sighting_lat_wgs84": -27.24444089,
         "sighting_long_wgs84": 152.95243858000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1089734,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.36293581511407,
+          -27.929523872420109
+        ]
+      },
+      "properties": {
+        "locality": "Arundel",
+        "objectid": 1089734,
+        "globalid": "{1D47A66F-A6FD-45C8-A42D-579A7FCF5000}",
+        "sighttime": 1773090300000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.929523870000001,
+        "sighting_long_wgs84": 153.36293581999999
       }
     }
   ]
