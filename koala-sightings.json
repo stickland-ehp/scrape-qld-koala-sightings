@@ -26,6 +26,75 @@
     },
     {
       "type": "Feature",
+      "id": 1088937,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.07356110031398,
+          -27.554843200162797
+        ]
+      },
+      "properties": {
+        "locality": "Upper Mount Gravatt",
+        "objectid": 1088937,
+        "globalid": "{ED7A7845-61C5-4029-8340-D106C00019AD}",
+        "sighttime": 1773344280000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.554843200000001,
+        "sighting_long_wgs84": 153.07356110000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1088536,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.07502940023909,
+          -27.555833100247625
+        ]
+      },
+      "properties": {
+        "locality": "Upper Mount Gravatt",
+        "objectid": 1088536,
+        "globalid": "{EC65A749-1EA1-4852-9771-9A0E9F892A39}",
+        "sighttime": 1773344700000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.555833100000001,
+        "sighting_long_wgs84": 153.07502939999998
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1088938,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.36480985081542,
+          -27.930594342138807
+        ]
+      },
+      "properties": {
+        "locality": "Arundel",
+        "objectid": 1088938,
+        "globalid": "{77F3EBFE-30F9-4862-B8DF-EA26734856E5}",
+        "sighttime": 1773355500000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.930594339999999,
+        "sighting_long_wgs84": 153.36480985
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1090124,
       "geometry": {
         "type": "Point",
@@ -95,163 +164,25 @@
     },
     {
       "type": "Feature",
-      "id": 1088935,
+      "id": 1090538,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.95783685464775,
-          -26.465757396433521
+          152.79425316799745,
+          -27.400312308112735
         ]
       },
       "properties": {
-        "locality": "Eumundi",
-        "objectid": 1088935,
-        "globalid": "{93D1E57C-843B-43D2-83F1-04F774BCE821}",
-        "sighttime": 1773287400000,
+        "locality": "Mount Nebo",
+        "objectid": 1090538,
+        "globalid": "{2D6C6E94-B661-43AC-840E-6083C2712A15}",
+        "sighttime": 1773351000000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": null,
-        "sighting_lat_wgs84": -26.465757399999998,
-        "sighting_long_wgs84": 152.95783684999998
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1090536,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.78932951989145,
-          -26.78841590008637
-        ]
-      },
-      "properties": {
-        "locality": "Wootha",
-        "objectid": 1090536,
-        "globalid": "{198BF1BE-FB0A-4107-8E33-879AEE595CCC}",
-        "sighttime": 1773264180000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Sunshine Coast Regional",
-        "sighting_lat_wgs84": -26.7884159,
-        "sighting_long_wgs84": 152.78932952
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1086534,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.07358389955587,
-          -27.554880400044112
-        ]
-      },
-      "properties": {
-        "locality": "Upper Mount Gravatt",
-        "objectid": 1086534,
-        "globalid": "{93149D18-8D1B-4C10-A134-927B487A424C}",
-        "sighttime": 1773258540000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.554880400000002,
-        "sighting_long_wgs84": 153.07358389999999
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1092938,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.95758428965192,
-          -27.439276972847747
-        ]
-      },
-      "properties": {
-        "locality": "Highfields",
-        "objectid": 1092938,
-        "globalid": "{C58F553D-D439-44E5-8A5A-4D008AAA7E63}",
-        "sighttime": 1773290220000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Toowoomba Regional",
-        "sighting_lat_wgs84": -27.439276969999998,
-        "sighting_long_wgs84": 151.95758429
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1090136,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.07361069989406,
-          -27.554919799617732
-        ]
-      },
-      "properties": {
-        "locality": "Upper Mount Gravatt",
-        "objectid": 1090136,
-        "globalid": "{258EEC15-68D7-4B9D-9587-AB605BA841C7}",
-        "sighttime": 1773257820000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.5549198,
-        "sighting_long_wgs84": 153.07361069999999
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1088534,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.07366049979848,
-          -27.553929799710737
-        ]
-      },
-      "properties": {
-        "locality": "Upper Mount Gravatt",
-        "objectid": 1088534,
-        "globalid": "{D05F6417-6F9C-46DC-AE04-EA24BDAB5B7B}",
-        "sighttime": 1773258720000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.553929799999999,
-        "sighting_long_wgs84": 153.07366049999999
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1089738,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.61654305039778,
-          -27.3229820871464
-        ]
-      },
-      "properties": {
-        "locality": "Dundas",
-        "objectid": 1089738,
-        "globalid": "{1C2354AB-7613-4759-B1F4-31C3E487E520}",
-        "sighttime": 1773271920000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.32298209,
-        "sighting_long_wgs84": 152.61654304999999
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.40031231,
+        "sighting_long_wgs84": 152.79425316999999
       }
     }
   ]
