@@ -3,94 +3,48 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1062315,
+      "id": 1089739,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.04422146640573,
-          -28.258204400714465
-        ]
-      },
-      "properties": {
-        "locality": "Morgan Park",
-        "objectid": 1062315,
-        "globalid": "{917BAEC0-C86B-4A85-AC8F-869A194E1AF4}",
-        "sighttime": 1787006280000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Injured/Sick",
-        "lga": "Southern Downs Regional",
-        "sighting_lat_wgs84": -28.2582044,
-        "sighting_long_wgs84": 152.04422147
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1088937,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.07356110031398,
-          -27.554843200162797
+          153.07495060002236,
+          -27.555331700363944
         ]
       },
       "properties": {
         "locality": "Upper Mount Gravatt",
-        "objectid": 1088937,
-        "globalid": "{ED7A7845-61C5-4029-8340-D106C00019AD}",
-        "sighttime": 1773344280000,
+        "objectid": 1089739,
+        "globalid": "{1A2B207B-60A0-4D21-98C6-66001401A98B}",
+        "sighttime": 1773439860000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.554843200000001,
-        "sighting_long_wgs84": 153.07356110000001
+        "sighting_lat_wgs84": -27.5553317,
+        "sighting_long_wgs84": 153.07495060000002
       }
     },
     {
       "type": "Feature",
-      "id": 1088536,
+      "id": 1090139,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.07502940023909,
-          -27.555833100247625
+          153.07361690006616,
+          -27.553138900237766
         ]
       },
       "properties": {
         "locality": "Upper Mount Gravatt",
-        "objectid": 1088536,
-        "globalid": "{EC65A749-1EA1-4852-9771-9A0E9F892A39}",
-        "sighttime": 1773344700000,
+        "objectid": 1090139,
+        "globalid": "{2F3E84A0-FFA1-48C4-B219-99B73643769E}",
+        "sighttime": 1773440580000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.555833100000001,
-        "sighting_long_wgs84": 153.07502939999998
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1088938,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.36480985081542,
-          -27.930594342138807
-        ]
-      },
-      "properties": {
-        "locality": "Arundel",
-        "objectid": 1088938,
-        "globalid": "{77F3EBFE-30F9-4862-B8DF-EA26734856E5}",
-        "sighttime": 1773355500000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.930594339999999,
-        "sighting_long_wgs84": 153.36480985
+        "sighting_lat_wgs84": -27.5531389,
+        "sighting_long_wgs84": 153.07361689999999
       }
     },
     {
@@ -118,29 +72,6 @@
     },
     {
       "type": "Feature",
-      "id": 1086921,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.44619100005275,
-          -27.249523000074227
-        ]
-      },
-      "properties": {
-        "locality": "Glen Esk",
-        "objectid": 1086921,
-        "globalid": "{8C935D44-92D3-4AD1-AB8A-CF441D070A15}",
-        "sighttime": 1803419400000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Dead",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.249523,
-        "sighting_long_wgs84": 152.446191
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1092916,
       "geometry": {
         "type": "Point",
@@ -164,25 +95,48 @@
     },
     {
       "type": "Feature",
-      "id": 1090538,
+      "id": 1086921,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.79425316799745,
-          -27.400312308112735
+          152.44619100005275,
+          -27.249523000074227
         ]
       },
       "properties": {
-        "locality": "Mount Nebo",
-        "objectid": 1090538,
-        "globalid": "{2D6C6E94-B661-43AC-840E-6083C2712A15}",
-        "sighttime": 1773351000000,
+        "locality": "Glen Esk",
+        "objectid": 1086921,
+        "globalid": "{8C935D44-92D3-4AD1-AB8A-CF441D070A15}",
+        "sighttime": 1803419400000,
         "joeypresent": "No",
         "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.40031231,
-        "sighting_long_wgs84": 152.79425316999999
+        "koalacondifinal": "Dead",
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -27.249523,
+        "sighting_long_wgs84": 152.446191
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1062315,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.04422146640573,
+          -28.258204400714465
+        ]
+      },
+      "properties": {
+        "locality": "Morgan Park",
+        "objectid": 1062315,
+        "globalid": "{917BAEC0-C86B-4A85-AC8F-869A194E1AF4}",
+        "sighttime": 1787006280000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Injured/Sick",
+        "lga": "Southern Downs Regional",
+        "sighting_lat_wgs84": -28.2582044,
+        "sighting_long_wgs84": 152.04422147
       }
     }
   ]
