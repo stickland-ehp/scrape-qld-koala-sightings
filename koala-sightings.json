@@ -26,29 +26,6 @@
     },
     {
       "type": "Feature",
-      "id": 1090541,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.08174813201441,
-          -27.508321339530646
-        ]
-      },
-      "properties": {
-        "locality": "Camp Hill",
-        "objectid": 1090541,
-        "globalid": "{7E27B0E4-FAF7-4F12-9986-77B09BBA9B65}",
-        "sighttime": 1773528240000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.508321339999998,
-        "sighting_long_wgs84": 153.08174813000002
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1092916,
       "geometry": {
         "type": "Point",
@@ -114,52 +91,6 @@
         "lga": "Southern Downs Regional",
         "sighting_lat_wgs84": -28.2582044,
         "sighting_long_wgs84": 152.04422147
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1091741,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.93782770005922,
-          -27.273313299638076
-        ]
-      },
-      "properties": {
-        "locality": "Joyner",
-        "objectid": 1091741,
-        "globalid": "{364A4BD9-C261-48B1-9E37-0BAC5FF05D66}",
-        "sighttime": 1773535800000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.273313299999998,
-        "sighting_long_wgs84": 152.93782770000001
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1090141,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.07010515565182,
-          -27.225106033500168
-        ]
-      },
-      "properties": {
-        "locality": "Kippa-Ring",
-        "objectid": 1090141,
-        "globalid": "{9563D0D5-1AA0-41C3-A11B-90D63CF0FF1E}",
-        "sighttime": 1773535440000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 2,
-        "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.225106030000003,
-        "sighting_long_wgs84": 153.07010516
       }
     }
   ]
