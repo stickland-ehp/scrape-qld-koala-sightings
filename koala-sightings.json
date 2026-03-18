@@ -26,29 +26,6 @@
     },
     {
       "type": "Feature",
-      "id": 1088942,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.95119630325163,
-          -27.243792123886411
-        ]
-      },
-      "properties": {
-        "locality": "Kurwongbah",
-        "objectid": 1088942,
-        "globalid": "{C397F3A8-3348-4205-B7FA-04E157B0D3AC}",
-        "sighttime": 1773719640000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.243792120000002,
-        "sighting_long_wgs84": 152.95119629999999
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1092916,
       "geometry": {
         "type": "Point",
