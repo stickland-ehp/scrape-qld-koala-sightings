@@ -26,6 +26,29 @@
     },
     {
       "type": "Feature",
+      "id": 1090548,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.04670983573578,
+          -27.542092989258119
+        ]
+      },
+      "properties": {
+        "locality": "Nathan",
+        "objectid": 1090548,
+        "globalid": "{0BF02D27-A22C-4772-878B-DB739419D7C1}",
+        "sighttime": 1774076400000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.54209299,
+        "sighting_long_wgs84": 153.04670983999998
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1092916,
       "geometry": {
         "type": "Point",
@@ -91,29 +114,6 @@
         "lga": "Southern Downs Regional",
         "sighting_lat_wgs84": -28.2582044,
         "sighting_long_wgs84": 152.04422147
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1086545,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.93692930033345,
-          -27.27536589987772
-        ]
-      },
-      "properties": {
-        "locality": "Joyner",
-        "objectid": 1086545,
-        "globalid": "{455D2902-0462-4B2E-9B6D-EA0A6801C5C5}",
-        "sighttime": 1773982440000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.275365900000001,
-        "sighting_long_wgs84": 152.9369293
       }
     }
   ]
