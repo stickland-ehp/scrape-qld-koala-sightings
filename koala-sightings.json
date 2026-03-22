@@ -26,25 +26,48 @@
     },
     {
       "type": "Feature",
-      "id": 1090548,
+      "id": 1091749,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.04670983573578,
-          -27.542092989258119
+          153.05397579962252,
+          -27.542376599974641
         ]
       },
       "properties": {
         "locality": "Nathan",
-        "objectid": 1090548,
-        "globalid": "{0BF02D27-A22C-4772-878B-DB739419D7C1}",
-        "sighttime": 1774076400000,
+        "objectid": 1091749,
+        "globalid": "{4C2A2ACD-C6E8-4C23-87B1-C6C07AA888DE}",
+        "sighttime": 1774132980000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.54209299,
-        "sighting_long_wgs84": 153.04670983999998
+        "sighting_lat_wgs84": -27.542376600000001,
+        "sighting_long_wgs84": 153.05397579999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1092951,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.37994384739832,
+          -27.095334132932191
+        ]
+      },
+      "properties": {
+        "locality": "Toogoolawah",
+        "objectid": 1092951,
+        "globalid": "{5FD87DF8-C4C3-4A9B-81E9-330C56C32EEE}",
+        "sighttime": 1774162200000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -27.095334130000001,
+        "sighting_long_wgs84": 152.37994384999999
       }
     },
     {
@@ -114,6 +137,52 @@
         "lga": "Southern Downs Regional",
         "sighting_lat_wgs84": -28.2582044,
         "sighting_long_wgs84": 152.04422147
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1090150,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.36668214737836,
+          -27.929773074455092
+        ]
+      },
+      "properties": {
+        "locality": "Arundel",
+        "objectid": 1090150,
+        "globalid": "{55350458-89EF-4A14-B566-17A437321495}",
+        "sighttime": 1774161180000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.92977307,
+        "sighting_long_wgs84": 153.36668215
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1091751,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.37919213716856,
+          -27.095660636219058
+        ]
+      },
+      "properties": {
+        "locality": "Toogoolawah",
+        "objectid": 1091751,
+        "globalid": "{160590D4-FF8C-4193-A651-520530C6CBFB}",
+        "sighttime": 1774162800000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -27.095660640000002,
+        "sighting_long_wgs84": 152.37919213999999
       }
     }
   ]
