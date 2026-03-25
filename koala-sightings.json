@@ -92,6 +92,29 @@
         "sighting_lat_wgs84": -28.2582044,
         "sighting_long_wgs84": 152.04422147
       }
+    },
+    {
+      "type": "Feature",
+      "id": 1092955,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.93745010041607,
+          -27.275174900365982
+        ]
+      },
+      "properties": {
+        "locality": "Joyner",
+        "objectid": 1092955,
+        "globalid": "{FA774C3C-E797-4114-AFEC-A1295CA68D35}",
+        "sighttime": 1774424820000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.2751749,
+        "sighting_long_wgs84": 152.93745010000001
+      }
     }
   ]
 }
