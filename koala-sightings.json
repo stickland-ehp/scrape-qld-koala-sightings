@@ -3,6 +3,98 @@
   "features": [
     {
       "type": "Feature",
+      "id": 1091763,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.07365649960047,
+          -27.554796800044866
+        ]
+      },
+      "properties": {
+        "locality": "Upper Mount Gravatt",
+        "objectid": 1091763,
+        "globalid": "{B74731A1-9EF4-4A1F-B64D-033093C25B43}",
+        "sighttime": 1774733040000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.554796800000002,
+        "sighting_long_wgs84": 153.0736565
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1089764,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.07363310028401,
+          -27.553148000250495
+        ]
+      },
+      "properties": {
+        "locality": "Upper Mount Gravatt",
+        "objectid": 1089764,
+        "globalid": "{0F97B0EE-D179-439F-9775-9E5CC95B3D96}",
+        "sighttime": 1774749600000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.553148,
+        "sighting_long_wgs84": 153.0736331
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1092965,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.37925710602485,
+          -27.095605935968663
+        ]
+      },
+      "properties": {
+        "locality": "Toogoolawah",
+        "objectid": 1092965,
+        "globalid": "{3CFB64D4-CF8B-4DCE-968B-CD81DD54FA20}",
+        "sighttime": 1774765200000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -27.095605940000002,
+        "sighting_long_wgs84": 152.37925711
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1086563,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.62009051811603,
+          -27.415874470161267
+        ]
+      },
+      "properties": {
+        "locality": "Wivenhoe Pocket",
+        "objectid": 1086563,
+        "globalid": "{32EC99C0-07DD-4A81-BF3B-5F9460A77A04}",
+        "sighttime": 1774768500000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -27.415874470000002,
+        "sighting_long_wgs84": 152.62009051999999
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1090124,
       "geometry": {
         "type": "Point",
@@ -26,71 +118,25 @@
     },
     {
       "type": "Feature",
-      "id": 1088958,
+      "id": 1086561,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.07514310000465,
-          -27.555821600075003
+          153.07393879967015,
+          -27.553958499664141
         ]
       },
       "properties": {
         "locality": "Upper Mount Gravatt",
-        "objectid": 1088958,
-        "globalid": "{850596F1-3D43-4276-B991-4AD27CAFE4CC}",
-        "sighttime": 1774649220000,
+        "objectid": 1086561,
+        "globalid": "{8D6E675C-1A35-405E-8125-3472C6BF594D}",
+        "sighttime": 1774731720000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.555821600000002,
-        "sighting_long_wgs84": 153.07514309999999
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1086557,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.07514310000465,
-          -27.555821600075003
-        ]
-      },
-      "properties": {
-        "locality": "Upper Mount Gravatt",
-        "objectid": 1086557,
-        "globalid": "{55114C66-F971-4B71-88F7-E36E03EAA34B}",
-        "sighttime": 1774649220000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.555821600000002,
-        "sighting_long_wgs84": 153.07514309999999
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1090162,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.37917884120407,
-          -27.095570194735956
-        ]
-      },
-      "properties": {
-        "locality": "Toogoolawah",
-        "objectid": 1090162,
-        "globalid": "{6549719F-98F5-4CB2-BFC3-1AB8D634FD86}",
-        "sighttime": 1774683000000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.09557019,
-        "sighting_long_wgs84": 152.37917883999998
+        "sighting_lat_wgs84": -27.5539585,
+        "sighting_long_wgs84": 153.07393880000001
       }
     },
     {
@@ -164,25 +210,48 @@
     },
     {
       "type": "Feature",
-      "id": 1089761,
+      "id": 1086562,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.08742907787115,
-          -27.510028711988873
+          153.07547969963994,
+          -27.55586060030922
         ]
       },
       "properties": {
-        "locality": "Carina Heights",
-        "objectid": 1089761,
-        "globalid": "{4C3E51FF-5547-4F00-A6ED-0F8D2E612543}",
-        "sighttime": 1774675020000,
+        "locality": "Upper Mount Gravatt",
+        "objectid": 1086562,
+        "globalid": "{4F871BC9-394F-451F-85A5-380000D63FC8}",
+        "sighttime": 1774749060000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.51002871,
-        "sighting_long_wgs84": 153.08742907999999
+        "sighting_lat_wgs84": -27.555860600000003,
+        "sighting_long_wgs84": 153.07547969999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1091765,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.36652448136786,
+          -27.930139688873904
+        ]
+      },
+      "properties": {
+        "locality": "Arundel",
+        "objectid": 1091765,
+        "globalid": "{F2B2437B-7B60-4E81-A6A5-37F3BA6AD59B}",
+        "sighttime": 1774767240000,
+        "joeypresent": "Yes",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.930139690000001,
+        "sighting_long_wgs84": 153.36652448000001
       }
     }
   ]
