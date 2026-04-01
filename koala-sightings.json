@@ -26,71 +26,25 @@
     },
     {
       "type": "Feature",
-      "id": 1088966,
+      "id": 1089768,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.07702586283892,
-          -27.540860916903796
+          153.11108120007574,
+          -27.5422774003863
         ]
       },
       "properties": {
-        "locality": "Mount Gravatt",
-        "objectid": 1088966,
-        "globalid": "{F26DBDEF-A222-43A9-9935-38EC355C97FB}",
-        "sighttime": 1774902000000,
+        "locality": "Mansfield",
+        "objectid": 1089768,
+        "globalid": "{1185A47B-0D83-49E7-8636-93ED3869A6CA}",
+        "sighttime": 1774989300000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.54086092,
-        "sighting_long_wgs84": 153.07702585999999
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1090167,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.07715385120738,
-          -27.541083708721676
-        ]
-      },
-      "properties": {
-        "locality": "Mount Gravatt",
-        "objectid": 1090167,
-        "globalid": "{D643F72B-A3BA-4798-9D5D-3BBDEC55736D}",
-        "sighttime": 1774902060000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 3,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.541083709999999,
-        "sighting_long_wgs84": 153.07715385
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1086565,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.07714131342095,
-          -27.542954289259406
-        ]
-      },
-      "properties": {
-        "locality": "Mount Gravatt",
-        "objectid": 1086565,
-        "globalid": "{CE1FB35A-98E6-496B-B552-B04237BE1C7D}",
-        "sighttime": 1774902420000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.542954290000001,
-        "sighting_long_wgs84": 153.07714131
+        "sighting_lat_wgs84": -27.5422774,
+        "sighting_long_wgs84": 153.1110812
       }
     },
     {
@@ -160,6 +114,29 @@
         "lga": "Southern Downs Regional",
         "sighting_lat_wgs84": -28.2582044,
         "sighting_long_wgs84": 152.04422147
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1088969,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.36604008641055,
+          -27.930783268514851
+        ]
+      },
+      "properties": {
+        "locality": "Arundel",
+        "objectid": 1088969,
+        "globalid": "{DB0F22EF-C093-4AE5-904F-E71F92D9B30F}",
+        "sighttime": 1774990500000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.930783270000003,
+        "sighting_long_wgs84": 153.36604009000001
       }
     }
   ]
