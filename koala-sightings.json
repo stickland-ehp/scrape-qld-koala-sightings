@@ -26,29 +26,6 @@
     },
     {
       "type": "Feature",
-      "id": 1089768,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.11108120007574,
-          -27.5422774003863
-        ]
-      },
-      "properties": {
-        "locality": "Mansfield",
-        "objectid": 1089768,
-        "globalid": "{1185A47B-0D83-49E7-8636-93ED3869A6CA}",
-        "sighttime": 1774989300000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.5422774,
-        "sighting_long_wgs84": 153.1110812
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1092916,
       "geometry": {
         "type": "Point",
@@ -118,25 +95,71 @@
     },
     {
       "type": "Feature",
-      "id": 1088969,
+      "id": 1092973,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.36604008641055,
-          -27.930783268514851
+          152.53797887769389,
+          -27.474030659104415
         ]
       },
       "properties": {
-        "locality": "Arundel",
-        "objectid": 1088969,
-        "globalid": "{DB0F22EF-C093-4AE5-904F-E71F92D9B30F}",
-        "sighttime": 1774990500000,
+        "locality": "Lowood",
+        "objectid": 1092973,
+        "globalid": "{3485CB97-C8DD-4FFB-A42F-B8A686B3D569}",
+        "sighttime": 1775121120000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -27.47403066,
+        "sighting_long_wgs84": 152.53797888
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1092972,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.42244160018433,
+          -27.245161599982413
+        ]
+      },
+      "properties": {
+        "locality": "Esk",
+        "objectid": 1092972,
+        "globalid": "{B51982A4-BA6A-4C97-84B0-C5273B26AA71}",
+        "sighttime": 1775077740000,
         "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.930783270000003,
-        "sighting_long_wgs84": 153.36604009000001
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -27.245161599999999,
+        "sighting_long_wgs84": 152.42244160000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1086570,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.57664036877085,
+          -27.447550260238586
+        ]
+      },
+      "properties": {
+        "locality": "Lowood",
+        "objectid": 1086570,
+        "globalid": "{7DCC2AA2-D314-4B77-9E8D-2E1E894A6AF9}",
+        "sighttime": 1775117640000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -27.44755026,
+        "sighting_long_wgs84": 152.57664037000001
       }
     }
   ]
