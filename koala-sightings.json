@@ -3,6 +3,121 @@
   "features": [
     {
       "type": "Feature",
+      "id": 1092976,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.08768580020967,
+          -27.510154599665231
+        ]
+      },
+      "properties": {
+        "locality": "Carina Heights",
+        "objectid": 1092976,
+        "globalid": "{87D780DD-91D1-46D8-ACB2-2F84329EBC32}",
+        "sighttime": 1775174880000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.5101546,
+        "sighting_long_wgs84": 153.0876858
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1089775,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.08202099977353,
+          -27.507910499944543
+        ]
+      },
+      "properties": {
+        "locality": "Camp Hill",
+        "objectid": 1089775,
+        "globalid": "{BA8249C5-A1C1-4AE0-B91B-471A6E2CC4F7}",
+        "sighttime": 1775176140000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.507910499999998,
+        "sighting_long_wgs84": 153.082021
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1088974,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.08255770003669,
+          -27.507894199865863
+        ]
+      },
+      "properties": {
+        "locality": "Camp Hill",
+        "objectid": 1088974,
+        "globalid": "{CE3FDFCC-9C1F-4D26-9531-8511821FFB46}",
+        "sighttime": 1775176500000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.507894199999999,
+        "sighting_long_wgs84": 153.08255770000002
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1092977,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0809636000391,
+          -27.508587300057858
+        ]
+      },
+      "properties": {
+        "locality": "Camp Hill",
+        "objectid": 1092977,
+        "globalid": "{0D3E0684-447E-4AF7-9BC9-699251F52CE9}",
+        "sighttime": 1775178420000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.508587300000002,
+        "sighting_long_wgs84": 153.08096360000002
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1089776,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.07938869973415,
+          -27.51383409999627
+        ]
+      },
+      "properties": {
+        "locality": "Carina Heights",
+        "objectid": 1089776,
+        "globalid": "{AE21CE93-AE86-4BFD-A653-98F6FFA99DD6}",
+        "sighttime": 1775180400000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.5138341,
+        "sighting_long_wgs84": 153.07938869999998
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1090124,
       "geometry": {
         "type": "Point",
@@ -22,6 +137,75 @@
         "lga": "Ipswich City",
         "sighting_lat_wgs84": -27.695536000000001,
         "sighting_long_wgs84": 152.732495
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1089772,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.35750339716384,
+          -27.843879206952096
+        ]
+      },
+      "properties": {
+        "locality": "Coomera",
+        "objectid": 1089772,
+        "globalid": "{FDD64CC9-1967-4EC3-ABF3-1D782AFCFCD0}",
+        "sighttime": 1775160900000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.843879210000001,
+        "sighting_long_wgs84": 153.35750339999998
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1086573,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.07849650018048,
+          -27.505810499604852
+        ]
+      },
+      "properties": {
+        "locality": "Camp Hill",
+        "objectid": 1086573,
+        "globalid": "{06F24CA2-1B81-44F1-B7ED-1B3C16937161}",
+        "sighttime": 1775177160000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.505810499999999,
+        "sighting_long_wgs84": 153.0784965
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1092975,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.08017651864503,
+          -27.5080582323443
+        ]
+      },
+      "properties": {
+        "locality": "Camp Hill",
+        "objectid": 1092975,
+        "globalid": "{3AACF2C2-6906-4316-90DE-13CACBC2A311}",
+        "sighttime": 1775174100000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.50805823,
+        "sighting_long_wgs84": 153.08017651999998
       }
     },
     {
@@ -95,71 +279,117 @@
     },
     {
       "type": "Feature",
-      "id": 1092973,
+      "id": 1090174,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.53797887769389,
-          -27.474030659104415
+          153.08105730150973,
+          -27.50883305353096
         ]
       },
       "properties": {
-        "locality": "Lowood",
-        "objectid": 1092973,
-        "globalid": "{3485CB97-C8DD-4FFB-A42F-B8A686B3D569}",
-        "sighttime": 1775121120000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
+        "locality": "Camp Hill",
+        "objectid": 1090174,
+        "globalid": "{A069F526-528D-413E-B825-24855ACE66EE}",
+        "sighttime": 1775172720000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
         "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.47403066,
-        "sighting_long_wgs84": 152.53797888
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.50883305,
+        "sighting_long_wgs84": 153.0810573
       }
     },
     {
       "type": "Feature",
-      "id": 1092972,
+      "id": 1091774,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.42244160018433,
-          -27.245161599982413
+          153.08020312494713,
+          -27.507317045812094
         ]
       },
       "properties": {
-        "locality": "Esk",
-        "objectid": 1092972,
-        "globalid": "{B51982A4-BA6A-4C97-84B0-C5273B26AA71}",
-        "sighttime": 1775077740000,
-        "joeypresent": "Not Sure",
+        "locality": "Camp Hill",
+        "objectid": 1091774,
+        "globalid": "{507D0235-5DB8-4D11-94F1-94F0097FF6F2}",
+        "sighttime": 1775173680000,
+        "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.245161599999999,
-        "sighting_long_wgs84": 152.42244160000001
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.507317050000001,
+        "sighting_long_wgs84": 153.08020311999999
       }
     },
     {
       "type": "Feature",
-      "id": 1086570,
+      "id": 1091775,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.57664036877085,
-          -27.447550260238586
+          153.07844871699388,
+          -27.505662964177535
+        ]
+      },
+      "properties": {
+        "locality": "Camp Hill",
+        "objectid": 1091775,
+        "globalid": "{9B2648E0-7676-45F7-B8B7-5323B0CC12BC}",
+        "sighttime": 1775174940000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.505662960000002,
+        "sighting_long_wgs84": 153.07844871999998
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1090175,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.08160930008216,
+          -27.508336399795244
+        ]
+      },
+      "properties": {
+        "locality": "Camp Hill",
+        "objectid": 1090175,
+        "globalid": "{6E639393-62F6-4D9C-B7F6-A26A491D974D}",
+        "sighttime": 1775178300000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.508336399999997,
+        "sighting_long_wgs84": 153.0816093
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1094081,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.54630669067069,
+          -27.461373333162804
         ]
       },
       "properties": {
         "locality": "Lowood",
-        "objectid": 1086570,
-        "globalid": "{7DCC2AA2-D314-4B77-9E8D-2E1E894A6AF9}",
-        "sighttime": 1775117640000,
+        "objectid": 1094081,
+        "globalid": "{CD1D703D-5B41-4242-BA91-83E81F536B32}",
+        "sighttime": 1775202540000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.44755026,
-        "sighting_long_wgs84": 152.57664037000001
+        "sighting_lat_wgs84": -27.461373330000001,
+        "sighting_long_wgs84": 152.54630668999999
       }
     }
   ]
