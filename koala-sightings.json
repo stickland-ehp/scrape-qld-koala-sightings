@@ -3,25 +3,140 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1094082,
+      "id": 1095685,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.44805350773453,
-          -28.095614251883436
+          153.08775240040652,
+          -27.511082699629434
         ]
       },
       "properties": {
-        "locality": "Burleigh Heads",
-        "objectid": 1094082,
-        "globalid": "{9773201F-042B-4CFD-908A-5547D71FDEA1}",
-        "sighttime": 1775249280000,
+        "locality": "Carina Heights",
+        "objectid": 1095685,
+        "globalid": "{8E817E0E-80A0-4DFF-9D0C-13654F0B8222}",
+        "sighttime": 1775341140000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -28.095614250000001,
-        "sighting_long_wgs84": 153.44805350999999
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.511082699999999,
+        "sighting_long_wgs84": 153.0877524
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1095285,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.08613610034337,
+          -27.508948900331401
+        ]
+      },
+      "properties": {
+        "locality": "Carina Heights",
+        "objectid": 1095285,
+        "globalid": "{313842CF-A85D-48E9-9829-B6C87C60BE60}",
+        "sighttime": 1775341620000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.5089489,
+        "sighting_long_wgs84": 153.08613609999998
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1094885,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.08207870036082,
+          -27.507999700166131
+        ]
+      },
+      "properties": {
+        "locality": "Camp Hill",
+        "objectid": 1094885,
+        "globalid": "{D214D9F6-00A3-427B-A437-67CC43F8535A}",
+        "sighttime": 1775342940000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.507999699999999,
+        "sighting_long_wgs84": 153.08207869999998
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1094485,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.08114130027707,
+          -27.508515800198168
+        ]
+      },
+      "properties": {
+        "locality": "Camp Hill",
+        "objectid": 1094485,
+        "globalid": "{B92BD6D5-29A4-4602-99C6-7C3AF98EF1DE}",
+        "sighttime": 1775343360000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.508515800000001,
+        "sighting_long_wgs84": 153.08114129999998
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1095686,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0759982000354,
+          -27.513040900218119
+        ]
+      },
+      "properties": {
+        "locality": "Camp Hill",
+        "objectid": 1095686,
+        "globalid": "{978B0345-9BEE-4A86-B2A5-25C65E197FDE}",
+        "sighttime": 1775344440000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.5130409,
+        "sighting_long_wgs84": 153.07599819999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1095286,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.07490100044231,
+          -27.513889999911534
+        ]
+      },
+      "properties": {
+        "locality": "Holland Park",
+        "objectid": 1095286,
+        "globalid": "{F3938729-7B19-4C5F-94DD-CA5971BD874C}",
+        "sighttime": 1775344620000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.51389,
+        "sighting_long_wgs84": 153.07490100000001
       }
     },
     {
@@ -118,25 +233,71 @@
     },
     {
       "type": "Feature",
-      "id": 1095284,
+      "id": 1093687,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.12523207059067,
-          -27.766741862464642
+          153.44901768480028,
+          -28.095745411929339
         ]
       },
       "properties": {
-        "locality": "Logan Village",
-        "objectid": 1095284,
-        "globalid": "{2AEE8FA9-3589-4ABC-97D9-A3CCD4BD910C}",
-        "sighttime": 1775279280000,
+        "locality": "Burleigh Heads",
+        "objectid": 1093687,
+        "globalid": "{5B12C27D-5EB7-4B7D-AE45-643DAA54B262}",
+        "sighttime": 1775368500000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -28.095745409999999,
+        "sighting_long_wgs84": 153.44901768000003
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1095688,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.44885136442036,
+          -28.09668278832342
+        ]
+      },
+      "properties": {
+        "locality": "Burleigh Heads",
+        "objectid": 1095688,
+        "globalid": "{50D042A9-D74A-40CC-A164-3301FC7564FC}",
+        "sighttime": 1775368980000,
         "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Logan City",
-        "sighting_lat_wgs84": -27.76674186,
-        "sighting_long_wgs84": 153.12523207000001
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -28.096682789999999,
+        "sighting_long_wgs84": 153.44885135999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1094088,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.44886184326816,
+          -28.096696587298631
+        ]
+      },
+      "properties": {
+        "locality": "Burleigh Heads",
+        "objectid": 1094088,
+        "globalid": "{E3DD21C8-8BA3-4B24-8A70-E890BAF8543A}",
+        "sighttime": 1775368740000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -28.096696589999997,
+        "sighting_long_wgs84": 153.44886184000001
       }
     }
   ]
