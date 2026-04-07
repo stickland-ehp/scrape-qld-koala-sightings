@@ -3,25 +3,25 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1094090,
+      "id": 1094892,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.07357569973394,
-          -27.554917500360581
+          153.07452140025103,
+          -27.555772600087835
         ]
       },
       "properties": {
         "locality": "Upper Mount Gravatt",
-        "objectid": 1094090,
-        "globalid": "{437E230C-FE75-47A8-BD25-9AE935175FD1}",
-        "sighttime": 1775428860000,
+        "objectid": 1094892,
+        "globalid": "{FB31FABF-9E4D-4FBA-86C2-95243626DD0A}",
+        "sighttime": 1775503800000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.554917499999998,
-        "sighting_long_wgs84": 153.07357569999999
+        "sighting_lat_wgs84": -27.555772600000001,
+        "sighting_long_wgs84": 153.07452140000001
       }
     },
     {
@@ -118,25 +118,48 @@
     },
     {
       "type": "Feature",
-      "id": 1093689,
+      "id": 1095692,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.4478932770339,
-          -28.096524428452906
+          151.82803549997249,
+          -26.418905599744097
         ]
       },
       "properties": {
-        "locality": "Burleigh Heads",
-        "objectid": 1093689,
-        "globalid": "{B3255D8D-F776-4492-AC94-BF22D3B49C89}",
-        "sighttime": 1775422440000,
+        "locality": "Wooroolin",
+        "objectid": 1095692,
+        "globalid": "{09564A83-C7D5-48E8-8B90-B082AD9246FA}",
+        "sighttime": 1775527200000,
         "joeypresent": "No",
-        "numberofkoala": 3,
+        "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -28.096524429999999,
-        "sighting_long_wgs84": 153.44789327999999
+        "lga": "South Burnett Regional",
+        "sighting_lat_wgs84": -26.418905600000002,
+        "sighting_long_wgs84": 151.8280355
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1094092,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.5566191533409,
+          -27.612641547068684
+        ]
+      },
+      "properties": {
+        "locality": "Mount Tyson",
+        "objectid": 1094092,
+        "globalid": "{0661D73D-1B01-4A1C-96A4-CD2C1DA755BC}",
+        "sighttime": 1775521260000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Toowoomba Regional",
+        "sighting_lat_wgs84": -27.612641549999999,
+        "sighting_long_wgs84": 151.55661915000002
       }
     }
   ]
