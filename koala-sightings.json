@@ -3,25 +3,25 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1094892,
+      "id": 1093695,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.07452140025103,
-          -27.555772600087835
+          153.07354689974593,
+          -27.554756900276224
         ]
       },
       "properties": {
         "locality": "Upper Mount Gravatt",
-        "objectid": 1094892,
-        "globalid": "{FB31FABF-9E4D-4FBA-86C2-95243626DD0A}",
-        "sighttime": 1775503800000,
+        "objectid": 1093695,
+        "globalid": "{DD3F8E5F-D1A3-4D79-BF6C-85871C1423B9}",
+        "sighttime": 1775633160000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.555772600000001,
-        "sighting_long_wgs84": 153.07452140000001
+        "sighting_lat_wgs84": -27.554756900000001,
+        "sighting_long_wgs84": 153.0735469
       }
     },
     {
@@ -118,48 +118,48 @@
     },
     {
       "type": "Feature",
-      "id": 1095692,
+      "id": 1094895,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.82803549997249,
-          -26.418905599744097
+          153.07859286964751,
+          -27.044374083894954
         ]
       },
       "properties": {
-        "locality": "Wooroolin",
-        "objectid": 1095692,
-        "globalid": "{09564A83-C7D5-48E8-8B90-B082AD9246FA}",
-        "sighttime": 1775527200000,
+        "locality": "Toorbul",
+        "objectid": 1094895,
+        "globalid": "{8D68283B-218E-4BFE-9D15-44C57BC6D77F}",
+        "sighttime": 1775631060000,
         "joeypresent": "No",
-        "numberofkoala": 1,
+        "numberofkoala": -1,
         "koalacondifinal": "Healthy",
-        "lga": "South Burnett Regional",
-        "sighting_lat_wgs84": -26.418905600000002,
-        "sighting_long_wgs84": 151.8280355
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.044374080000001,
+        "sighting_long_wgs84": 153.07859286999999
       }
     },
     {
       "type": "Feature",
-      "id": 1094092,
+      "id": 1094095,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.5566191533409,
-          -27.612641547068684
+          153.0792278060768,
+          -27.044217352012193
         ]
       },
       "properties": {
-        "locality": "Mount Tyson",
-        "objectid": 1094092,
-        "globalid": "{0661D73D-1B01-4A1C-96A4-CD2C1DA755BC}",
-        "sighttime": 1775521260000,
-        "joeypresent": "Not Sure",
+        "locality": "Toorbul",
+        "objectid": 1094095,
+        "globalid": "{C9A700FB-FFF3-44FD-B60C-3A12AD0C2358}",
+        "sighttime": 1775631960000,
+        "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Toowoomba Regional",
-        "sighting_lat_wgs84": -27.612641549999999,
-        "sighting_long_wgs84": 151.55661915000002
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.04421735,
+        "sighting_long_wgs84": 153.07922780999999
       }
     }
   ]
