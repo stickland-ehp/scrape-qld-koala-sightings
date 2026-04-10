@@ -3,6 +3,52 @@
   "features": [
     {
       "type": "Feature",
+      "id": 1095699,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0824535376845,
+          -27.507444957178276
+        ]
+      },
+      "properties": {
+        "locality": "Camp Hill",
+        "objectid": 1095699,
+        "globalid": "{E3589E25-B1CB-46C1-BAEF-E4348C3DFBDF}",
+        "sighttime": 1775771040000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.507444960000001,
+        "sighting_long_wgs84": 153.08245354000002
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1094899,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.08274758502307,
+          -27.507751834216371
+        ]
+      },
+      "properties": {
+        "locality": "Camp Hill",
+        "objectid": 1094899,
+        "globalid": "{3A5549C6-7BDC-400C-89E3-7A9AA634180A}",
+        "sighttime": 1775772600000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.50775183,
+        "sighting_long_wgs84": 153.08274757999999
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1090124,
       "geometry": {
         "type": "Point",
@@ -95,94 +141,25 @@
     },
     {
       "type": "Feature",
-      "id": 1094497,
+      "id": 1094100,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.20859171169101,
-          -27.914159483074631
+          153.0810437522203,
+          -27.514441390507177
         ]
       },
       "properties": {
-        "locality": "Tamborine Mountain",
-        "objectid": 1094497,
-        "globalid": "{38F5A703-0ED2-43E1-8213-39C7F2504F59}",
-        "sighttime": 1775700780000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 2,
-        "koalacondifinal": "Healthy",
-        "lga": "Scenic Rim Regional",
-        "sighting_lat_wgs84": -27.914159480000002,
-        "sighting_long_wgs84": 153.20859170999998
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1095697,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.69910275874523,
-          -27.554263804551308
-        ]
-      },
-      "properties": {
-        "locality": "Biddeston",
-        "objectid": 1095697,
-        "globalid": "{A98918EE-6799-4E1C-8A9A-7C0EDE8EA66F}",
-        "sighttime": 1775689740000,
+        "locality": "Carina Heights",
+        "objectid": 1094100,
+        "globalid": "{98CFC328-57DC-4D93-BDDE-FFF7F66E964C}",
+        "sighttime": 1775783100000,
         "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Dead",
-        "lga": "Toowoomba Regional",
-        "sighting_lat_wgs84": -27.554263800000001,
-        "sighting_long_wgs84": 151.69910275999999
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1094897,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.02205286344423,
-          -27.251173629051014
-        ]
-      },
-      "properties": {
-        "locality": "Griffin",
-        "objectid": 1094897,
-        "globalid": "{9293E487-AE40-4D0C-85AD-F6C31458FB85}",
-        "sighttime": 1775691180000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.2529763,
-        "sighting_long_wgs84": 153.02061520000001
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1094097,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.06435620014156,
-          -27.533687900000277
-        ]
-      },
-      "properties": {
-        "locality": "Holland Park West",
-        "objectid": 1094097,
-        "globalid": "{253D3020-E041-43AA-A67D-B576B457B80C}",
-        "sighttime": 1775704440000,
-        "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.5336879,
-        "sighting_long_wgs84": 153.06435619999999
+        "sighting_lat_wgs84": -27.514441389999998,
+        "sighting_long_wgs84": 153.08104374999999
       }
     }
   ]
