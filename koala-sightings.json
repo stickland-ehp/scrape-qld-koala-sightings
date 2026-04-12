@@ -26,29 +26,6 @@
     },
     {
       "type": "Feature",
-      "id": 1093701,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.00751397552384,
-          -27.211949924727506
-        ]
-      },
-      "properties": {
-        "locality": "North Lakes",
-        "objectid": 1093701,
-        "globalid": "{6560269F-1BB2-48C4-BBC1-B9FC8A4981B2}",
-        "sighttime": 1775877360000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.211949919999999,
-        "sighting_long_wgs84": 153.00751398
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1092916,
       "geometry": {
         "type": "Point",
@@ -118,117 +95,25 @@
     },
     {
       "type": "Feature",
-      "id": 1095702,
+      "id": 1094105,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.64478496452799,
-          -27.899826057628335
+          153.36672517398554,
+          -27.92964565752369
         ]
       },
       "properties": {
-        "locality": "Munbilla",
-        "objectid": 1095702,
-        "globalid": "{30A36C69-0077-4952-824E-928181DDFA7A}",
-        "sighttime": 1775878200000,
-        "joeypresent": "Not Sure",
+        "locality": "Arundel",
+        "objectid": 1094105,
+        "globalid": "{2DC8E095-BA94-4F35-AB84-EA7C151B3EA0}",
+        "sighttime": 1775978580000,
+        "joeypresent": "Yes",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Scenic Rim Regional",
-        "sighting_lat_wgs84": -27.89966961,
-        "sighting_long_wgs84": 152.64486006999999
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1095703,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.96717979982822,
-          -27.302023400099571
-        ]
-      },
-      "properties": {
-        "locality": "Bray Park",
-        "objectid": 1095703,
-        "globalid": "{61DEB9AE-BBEE-4E62-B138-DBFE8B912D41}",
-        "sighttime": 1775881020000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.302023399999999,
-        "sighting_long_wgs84": 152.9671798
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1094902,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.96782670002051,
-          -27.302468400220768
-        ]
-      },
-      "properties": {
-        "locality": "Strathpine",
-        "objectid": 1094902,
-        "globalid": "{C1C4A1AE-6684-45E9-8A83-1B88C87BF5A9}",
-        "sighttime": 1775879340000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.302468399999999,
-        "sighting_long_wgs84": 152.96782670000002
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1093702,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.96675870016577,
-          -27.30258700036455
-        ]
-      },
-      "properties": {
-        "locality": "Bray Park",
-        "objectid": 1093702,
-        "globalid": "{DA604DE7-860C-4D3C-A87C-113E4D5EAE18}",
-        "sighttime": 1775880540000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.302586999999999,
-        "sighting_long_wgs84": 152.96675870000001
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1094101,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.07525192101986,
-          -27.510721141425545
-        ]
-      },
-      "properties": {
-        "locality": "Coorparoo",
-        "objectid": 1094101,
-        "globalid": "{05147783-EEF7-4223-A63C-62794D71F983}",
-        "sighttime": 1775857980000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.51101851,
-        "sighting_long_wgs84": 153.07438557
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.929645660000002,
+        "sighting_long_wgs84": 153.36672517
       }
     }
   ]
