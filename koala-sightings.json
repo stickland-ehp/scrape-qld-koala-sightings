@@ -95,25 +95,48 @@
     },
     {
       "type": "Feature",
-      "id": 1094105,
+      "id": 1094106,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.36672517398554,
-          -27.92964565752369
+          153.00338200010134,
+          -27.269012999695786
+        ]
+      },
+      "properties": {
+        "locality": "Murrumba Downs",
+        "objectid": 1094106,
+        "globalid": "{42A3CB7D-FD30-4B7B-A23E-5DD9F59D6EEC}",
+        "sighttime": 1776008100000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.269012999999998,
+        "sighting_long_wgs84": 153.00338199999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1093707,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.3666688208711,
+          -27.931166478351859
         ]
       },
       "properties": {
         "locality": "Arundel",
-        "objectid": 1094105,
-        "globalid": "{2DC8E095-BA94-4F35-AB84-EA7C151B3EA0}",
-        "sighttime": 1775978580000,
-        "joeypresent": "Yes",
+        "objectid": 1093707,
+        "globalid": "{57FA80F3-5E2E-4349-B130-0739966CB283}",
+        "sighttime": 1776024660000,
+        "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.929645660000002,
-        "sighting_long_wgs84": 153.36672517
+        "sighting_lat_wgs84": -27.931166480000002,
+        "sighting_long_wgs84": 153.36666882
       }
     }
   ]
