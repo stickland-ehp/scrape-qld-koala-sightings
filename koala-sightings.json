@@ -26,29 +26,6 @@
     },
     {
       "type": "Feature",
-      "id": 1094110,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.07934544764984,
-          -27.542795123710853
-        ]
-      },
-      "properties": {
-        "locality": "Mount Gravatt",
-        "objectid": 1094110,
-        "globalid": "{AA6EDF3E-EB03-49EE-BBF4-0BAC84DC7B7C}",
-        "sighttime": 1776112620000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.542795120000001,
-        "sighting_long_wgs84": 153.07934544999998
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1092916,
       "geometry": {
         "type": "Point",
@@ -118,140 +95,25 @@
     },
     {
       "type": "Feature",
-      "id": 1093709,
+      "id": 1094916,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.07753146971513,
-          -27.542828002650193
+          153.24730168125069,
+          -27.511348181815293
         ]
       },
       "properties": {
-        "locality": "Mount Gravatt",
-        "objectid": 1093709,
-        "globalid": "{C3D676EF-C044-41A7-A28D-AEA47D57B0AA}",
-        "sighttime": 1776111660000,
+        "locality": null,
+        "objectid": 1094916,
+        "globalid": "{7B0CCD85-C029-44DA-9652-F23353EC1B79}",
+        "sighttime": 1776211080000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.542828,
-        "sighting_long_wgs84": 153.07753147
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1094910,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.07928032338501,
-          -27.542782348560802
-        ]
-      },
-      "properties": {
-        "locality": "Mount Gravatt",
-        "objectid": 1094910,
-        "globalid": "{01EBA41B-7F50-4099-AC59-F55D97F9325B}",
-        "sighttime": 1776112620000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.54278235,
-        "sighting_long_wgs84": 153.07928031999998
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1093710,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.02948558519049,
-          -26.383221190561791
-        ]
-      },
-      "properties": {
-        "locality": "Tewantin",
-        "objectid": 1093710,
-        "globalid": "{C4C702A9-B4B4-41F5-8274-246B9717905C}",
-        "sighttime": 1776112980000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Noosa Shire",
-        "sighting_lat_wgs84": -26.383221189999997,
-        "sighting_long_wgs84": 153.02948559000001
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1093711,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.08003529988915,
-          -27.507238900123934
-        ]
-      },
-      "properties": {
-        "locality": "Camp Hill",
-        "objectid": 1093711,
-        "globalid": "{29971131-89DD-44DC-B16D-F7175A3DA6BD}",
-        "sighttime": 1776126360000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.507238900000001,
-        "sighting_long_wgs84": 153.08003530000002
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1094912,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.0785143766546,
-          -27.505648414279499
-        ]
-      },
-      "properties": {
-        "locality": "Camp Hill",
-        "objectid": 1094912,
-        "globalid": "{64AB9FEF-2091-43B3-913B-B1A5C5845EFA}",
-        "sighttime": 1776127380000,
-        "joeypresent": "No",
-        "numberofkoala": 5,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.505648410000003,
-        "sighting_long_wgs84": 153.07851438
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1093712,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.61088519932869,
-          -27.423935208776506
-        ]
-      },
-      "properties": {
-        "locality": "Wivenhoe Pocket",
-        "objectid": 1093712,
-        "globalid": "{17FEC1B0-0835-406B-AB0C-9C790009FF13}",
-        "sighttime": 1776148920000,
-        "joeypresent": "Yes",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.42393521,
-        "sighting_long_wgs84": 152.61088520000001
+        "lga": "Redland City",
+        "sighting_lat_wgs84": -27.511348179999999,
+        "sighting_long_wgs84": 153.24730167999999
       }
     }
   ]
