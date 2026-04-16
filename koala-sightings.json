@@ -26,6 +26,29 @@
     },
     {
       "type": "Feature",
+      "id": 1094917,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.08467897456202,
+          -27.509415159383874
+        ]
+      },
+      "properties": {
+        "locality": "Camp Hill",
+        "objectid": 1094917,
+        "globalid": "{7BE8868F-6627-4F14-BA42-93500556BF0A}",
+        "sighttime": 1776284520000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.50941516,
+        "sighting_long_wgs84": 153.08467897
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1092916,
       "geometry": {
         "type": "Point",
@@ -95,25 +118,25 @@
     },
     {
       "type": "Feature",
-      "id": 1094916,
+      "id": 1094117,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.24730168125069,
-          -27.511348181815293
+          153.15649122633428,
+          -27.901958282049225
         ]
       },
       "properties": {
-        "locality": null,
-        "objectid": 1094916,
-        "globalid": "{7B0CCD85-C029-44DA-9652-F23353EC1B79}",
-        "sighttime": 1776211080000,
+        "locality": "Tamborine",
+        "objectid": 1094117,
+        "globalid": "{5E8A7893-ED7F-4928-9A03-CEB189F52A61}",
+        "sighttime": 1776292500000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Redland City",
-        "sighting_lat_wgs84": -27.511348179999999,
-        "sighting_long_wgs84": 153.24730167999999
+        "lga": "Scenic Rim Regional",
+        "sighting_lat_wgs84": -27.901958280000002,
+        "sighting_long_wgs84": 153.15649123
       }
     }
   ]
