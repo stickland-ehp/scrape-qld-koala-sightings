@@ -3,71 +3,25 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1090124,
+      "id": 1062315,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.73249500012398,
-          -27.695535999823328
+          152.04422146640573,
+          -28.258204400714465
         ]
       },
       "properties": {
-        "locality": "Purga",
-        "objectid": 1090124,
-        "globalid": "{1501FD2C-DA7B-4D25-8027-6398A8855A42}",
-        "sighttime": 1788486000000,
-        "joeypresent": "Yes",
-        "numberofkoala": 2,
-        "koalacondifinal": "Healthy",
-        "lga": "Ipswich City",
-        "sighting_lat_wgs84": -27.695536000000001,
-        "sighting_long_wgs84": 152.732495
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1094917,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.08467897456202,
-          -27.509415159383874
-        ]
-      },
-      "properties": {
-        "locality": "Camp Hill",
-        "objectid": 1094917,
-        "globalid": "{7BE8868F-6627-4F14-BA42-93500556BF0A}",
-        "sighttime": 1776284520000,
-        "joeypresent": "Not Sure",
+        "locality": "Morgan Park",
+        "objectid": 1062315,
+        "globalid": "{917BAEC0-C86B-4A85-AC8F-869A194E1AF4}",
+        "sighttime": 1787006280000,
+        "joeypresent": "No",
         "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.50941516,
-        "sighting_long_wgs84": 153.08467897
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1092916,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.95243857986478,
-          -27.2444408905126
-        ]
-      },
-      "properties": {
-        "locality": "Kurwongbah",
-        "objectid": 1092916,
-        "globalid": "{205CAEFB-4FF9-42B0-AFDB-95C57E393972}",
-        "sighttime": 1831937340000,
-        "joeypresent": "Yes",
-        "numberofkoala": 2,
-        "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.24444089,
-        "sighting_long_wgs84": 152.95243858000001
+        "koalacondifinal": "Injured/Sick",
+        "lga": "Southern Downs Regional",
+        "sighting_lat_wgs84": -28.2582044,
+        "sighting_long_wgs84": 152.04422147
       }
     },
     {
@@ -95,48 +49,48 @@
     },
     {
       "type": "Feature",
-      "id": 1062315,
+      "id": 1090124,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.04422146640573,
-          -28.258204400714465
+          152.73249500012398,
+          -27.695535999823328
         ]
       },
       "properties": {
-        "locality": "Morgan Park",
-        "objectid": 1062315,
-        "globalid": "{917BAEC0-C86B-4A85-AC8F-869A194E1AF4}",
-        "sighttime": 1787006280000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Injured/Sick",
-        "lga": "Southern Downs Regional",
-        "sighting_lat_wgs84": -28.2582044,
-        "sighting_long_wgs84": 152.04422147
+        "locality": "Purga",
+        "objectid": 1090124,
+        "globalid": "{1501FD2C-DA7B-4D25-8027-6398A8855A42}",
+        "sighttime": 1788486000000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": "Ipswich City",
+        "sighting_lat_wgs84": -27.695536000000001,
+        "sighting_long_wgs84": 152.732495
       }
     },
     {
       "type": "Feature",
-      "id": 1094117,
+      "id": 1092916,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.15649122633428,
-          -27.901958282049225
+          152.95243857986478,
+          -27.2444408905126
         ]
       },
       "properties": {
-        "locality": "Tamborine",
-        "objectid": 1094117,
-        "globalid": "{5E8A7893-ED7F-4928-9A03-CEB189F52A61}",
-        "sighttime": 1776292500000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
+        "locality": "Kurwongbah",
+        "objectid": 1092916,
+        "globalid": "{205CAEFB-4FF9-42B0-AFDB-95C57E393972}",
+        "sighttime": 1831937340000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
         "koalacondifinal": "Healthy",
-        "lga": "Scenic Rim Regional",
-        "sighting_lat_wgs84": -27.901958280000002,
-        "sighting_long_wgs84": 153.15649123
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.24444089,
+        "sighting_long_wgs84": 152.95243858000001
       }
     }
   ]
