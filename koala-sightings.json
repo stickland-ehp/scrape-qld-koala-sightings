@@ -26,6 +26,29 @@
     },
     {
       "type": "Feature",
+      "id": 1086577,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.372016666929,
+          -27.944766666856754
+        ]
+      },
+      "properties": {
+        "locality": "Arundel",
+        "objectid": 1086577,
+        "globalid": "{92227814-9665-4B6A-A61B-B5C790BAB306}",
+        "sighttime": 1776737400000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Injured/Sick",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.94476667,
+        "sighting_long_wgs84": 153.37201667000002
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1086921,
       "geometry": {
         "type": "Point",
@@ -95,25 +118,25 @@
     },
     {
       "type": "Feature",
-      "id": 1093726,
+      "id": 1093736,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.08054662993197,
-          -27.514100121290703
+          153.10015067666671,
+          -27.548974877978971
         ]
       },
       "properties": {
-        "locality": "Carina Heights",
-        "objectid": 1093726,
-        "globalid": "{D3ADA80F-63DC-44E9-B599-6000F2D09736}",
-        "sighttime": 1776638940000,
+        "locality": "Wishart",
+        "objectid": 1093736,
+        "globalid": "{C2D461FA-457D-4390-A5D2-E7700C8E1738}",
+        "sighttime": 1776757260000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.514100119999998,
-        "sighting_long_wgs84": 153.08054663000001
+        "sighting_lat_wgs84": -27.548974879999999,
+        "sighting_long_wgs84": 153.10015067999998
       }
     }
   ]
