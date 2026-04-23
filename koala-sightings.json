@@ -3,52 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1062315,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.04422146640573,
-          -28.258204400714465
-        ]
-      },
-      "properties": {
-        "locality": "Morgan Park",
-        "objectid": 1062315,
-        "globalid": "{917BAEC0-C86B-4A85-AC8F-869A194E1AF4}",
-        "sighttime": 1787006280000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Injured/Sick",
-        "lga": "Southern Downs Regional",
-        "sighting_lat_wgs84": -28.2582044,
-        "sighting_long_wgs84": 152.04422147
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1086921,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.44619100005275,
-          -27.249523000074227
-        ]
-      },
-      "properties": {
-        "locality": "Glen Esk",
-        "objectid": 1086921,
-        "globalid": "{8C935D44-92D3-4AD1-AB8A-CF441D070A15}",
-        "sighttime": 1803419400000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Dead",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.249523,
-        "sighting_long_wgs84": 152.446191
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1090124,
       "geometry": {
         "type": "Point",
@@ -91,6 +45,52 @@
         "lga": "Moreton Bay City",
         "sighting_lat_wgs84": -27.24444089,
         "sighting_long_wgs84": 152.95243858000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1086921,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.44619100005275,
+          -27.249523000074227
+        ]
+      },
+      "properties": {
+        "locality": "Glen Esk",
+        "objectid": 1086921,
+        "globalid": "{8C935D44-92D3-4AD1-AB8A-CF441D070A15}",
+        "sighttime": 1803419400000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Dead",
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -27.249523,
+        "sighting_long_wgs84": 152.446191
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1062315,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.04422146640573,
+          -28.258204400714465
+        ]
+      },
+      "properties": {
+        "locality": "Morgan Park",
+        "objectid": 1062315,
+        "globalid": "{917BAEC0-C86B-4A85-AC8F-869A194E1AF4}",
+        "sighttime": 1787006280000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Injured/Sick",
+        "lga": "Southern Downs Regional",
+        "sighting_lat_wgs84": -28.2582044,
+        "sighting_long_wgs84": 152.04422147
       }
     }
   ]
