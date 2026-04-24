@@ -26,6 +26,29 @@
     },
     {
       "type": "Feature",
+      "id": 1093746,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.06098659076468,
+          -27.533376216317851
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1093746,
+        "globalid": "{5EB6A1EF-0EEE-49BF-A7FB-1DFC25FB3B5D}",
+        "sighttime": 1776994380000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.533376220000001,
+        "sighting_long_wgs84": 153.06098659
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1092916,
       "geometry": {
         "type": "Point",
@@ -91,6 +114,52 @@
         "lga": "Southern Downs Regional",
         "sighting_lat_wgs84": -28.2582044,
         "sighting_long_wgs84": 152.04422147
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1094146,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.08995730449161,
+          -27.509395222376437
+        ]
+      },
+      "properties": {
+        "locality": "Carina Heights",
+        "objectid": 1094146,
+        "globalid": "{7B7BFC63-6457-4627-869C-9F2D6E9B8666}",
+        "sighttime": 1776990840000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.509395219999998,
+        "sighting_long_wgs84": 153.08995730000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1094147,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.93135185746539,
+          -27.576933567576571
+        ]
+      },
+      "properties": {
+        "locality": "Wacol",
+        "objectid": 1094147,
+        "globalid": "{C731DA11-F0E3-4024-8191-8A329E6AE652}",
+        "sighttime": 1776991080000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.576933569999998,
+        "sighting_long_wgs84": 152.93135186000001
       }
     }
   ]
