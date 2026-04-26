@@ -92,52 +92,6 @@
         "sighting_lat_wgs84": -28.2582044,
         "sighting_long_wgs84": 152.04422147
       }
-    },
-    {
-      "type": "Feature",
-      "id": 1094150,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.93511384736507,
-          -27.462178974705747
-        ]
-      },
-      "properties": {
-        "locality": "The Gap",
-        "objectid": 1094150,
-        "globalid": "{D1F36EA2-9480-4280-894C-C5CCED9AF3F2}",
-        "sighttime": 1777074060000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.462178980000001,
-        "sighting_long_wgs84": 152.93511384999999
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1094151,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.02943463005258,
-          -27.18162648454199
-        ]
-      },
-      "properties": {
-        "locality": "Deception Bay",
-        "objectid": 1094151,
-        "globalid": "{5023634A-5B2A-40B8-9A8F-44E304DC5B37}",
-        "sighttime": 1777081920000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": null,
-        "sighting_lat_wgs84": -27.181626479999998,
-        "sighting_long_wgs84": 153.02943463
-      }
     }
   ]
 }
