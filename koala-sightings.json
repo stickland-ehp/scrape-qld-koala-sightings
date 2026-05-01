@@ -92,6 +92,52 @@
         "sighting_lat_wgs84": -28.2582044,
         "sighting_long_wgs84": 152.04422147
       }
+    },
+    {
+      "type": "Feature",
+      "id": 1094179,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.57996425833085,
+          -28.918113323466891
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1094179,
+        "globalid": "{9BE67166-6008-4E76-B796-669617B98437}",
+        "sighttime": 1777586940000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": null,
+        "sighting_lat_wgs84": -28.91811332,
+        "sighting_long_wgs84": 151.57996426
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1094180,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.3541681824826,
+          -27.843386484070834
+        ]
+      },
+      "properties": {
+        "locality": "Coomera",
+        "objectid": 1094180,
+        "globalid": "{643BE61D-0821-4125-B50E-9316614662A3}",
+        "sighttime": 1777592220000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.843386479999999,
+        "sighting_long_wgs84": 153.35416817999999
+      }
     }
   ]
 }
