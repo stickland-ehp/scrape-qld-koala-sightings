@@ -92,6 +92,29 @@
         "sighting_lat_wgs84": -28.2582044,
         "sighting_long_wgs84": 152.04422147
       }
+    },
+    {
+      "type": "Feature",
+      "id": 1086587,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.93798579546439,
+          -27.273414454456834
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1086587,
+        "globalid": "{1B075D03-D6A4-448F-9708-AB17039B9226}",
+        "sighttime": 1777940640000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": null,
+        "sighting_lat_wgs84": -27.273414449999997,
+        "sighting_long_wgs84": 152.93798580000001
+      }
     }
   ]
 }
