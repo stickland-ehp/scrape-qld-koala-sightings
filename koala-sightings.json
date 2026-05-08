@@ -92,6 +92,29 @@
         "sighting_lat_wgs84": -28.2582044,
         "sighting_long_wgs84": 152.04422147
       }
+    },
+    {
+      "type": "Feature",
+      "id": 1081363,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.95164150022163,
+          -27.283299100255281
+        ]
+      },
+      "properties": {
+        "locality": "Bray Park",
+        "objectid": 1081363,
+        "globalid": "{DE667D5F-6015-4E47-92EA-B872FC1A7FA3}",
+        "sighttime": 1778214780000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": null,
+        "sighting_lat_wgs84": -27.283299100000001,
+        "sighting_long_wgs84": 152.95164150000002
+      }
     }
   ]
 }
