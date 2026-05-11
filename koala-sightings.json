@@ -3,6 +3,190 @@
   "features": [
     {
       "type": "Feature",
+      "id": 1081368,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.36480985081542,
+          -27.930594342138807
+        ]
+      },
+      "properties": {
+        "locality": "Arundel",
+        "objectid": 1081368,
+        "globalid": "{00D52A72-0409-4BC4-AE40-E6B371EAEF33}",
+        "sighttime": 1778449800000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.930594339999999,
+        "sighting_long_wgs84": 153.36480985
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1092997,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.61911969890707,
+          -27.399493891312162
+        ]
+      },
+      "properties": {
+        "locality": "Lake Wivenhoe",
+        "objectid": 1092997,
+        "globalid": "{B6502EF4-C92E-48B1-855B-F283CE91ACAA}",
+        "sighttime": 1778453940000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -27.399493889999999,
+        "sighting_long_wgs84": 152.6191197
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1086594,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.07947201668009,
+          -27.506804314461672
+        ]
+      },
+      "properties": {
+        "locality": "Camp Hill",
+        "objectid": 1086594,
+        "globalid": "{D18306EF-876C-4515-9423-E5411CE8D2AF}",
+        "sighttime": 1778454000000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.50680431,
+        "sighting_long_wgs84": 153.07947202
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1091798,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.08328709970797,
+          -27.512101500053681
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1091798,
+        "globalid": "{38CA1FA4-232A-4BD8-94CE-F63E4C75988F}",
+        "sighttime": 1778464980000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.5121015,
+        "sighting_long_wgs84": 153.08328710000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1090197,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.08268760002002,
+          -27.51043960023382
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1090197,
+        "globalid": "{C9D9246B-9755-4BCF-98E0-8BEB568870F9}",
+        "sighttime": 1778464440000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.510439600000002,
+        "sighting_long_wgs84": 153.08268760000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1085387,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.08315790041055,
+          -27.51615710023794
+        ]
+      },
+      "properties": {
+        "locality": "Carina Heights",
+        "objectid": 1085387,
+        "globalid": "{CE15D5A0-23CE-44FB-98AC-065A758DE164}",
+        "sighttime": 1778465580000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.516157100000001,
+        "sighting_long_wgs84": 153.0831579
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1088996,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.07900570031782,
+          -27.513747100254086
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1088996,
+        "globalid": "{98BC36A9-0FF0-42CE-B45C-F2DB40D033E6}",
+        "sighttime": 1778466420000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.5137471,
+        "sighting_long_wgs84": 153.07900570000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1092999,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.06097689973942,
+          -27.848969200161918
+        ]
+      },
+      "properties": {
+        "locality": "Jimboomba",
+        "objectid": 1092999,
+        "globalid": "{450C6953-1E1E-47A4-A664-F3DF90FFFE07}",
+        "sighttime": 1778453400000,
+        "joeypresent": "No",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": "Logan City",
+        "sighting_lat_wgs84": -27.848969199999999,
+        "sighting_long_wgs84": 153.06097690000001
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1090124,
       "geometry": {
         "type": "Point",
