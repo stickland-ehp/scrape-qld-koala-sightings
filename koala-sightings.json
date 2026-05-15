@@ -3,6 +3,52 @@
   "features": [
     {
       "type": "Feature",
+      "id": 1089000,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.08615711103954,
+          -27.509114061028079
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1089000,
+        "globalid": "{248B2E7F-EC3B-4BE4-B471-1ACC5EE8F5AF}",
+        "sighttime": 1778798940000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.509114060000002,
+        "sighting_long_wgs84": 153.08615710999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1093002,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.08242117946963,
+          -27.510261957391698
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1093002,
+        "globalid": "{615C49EA-4549-48F7-BE80-231A69E749CD}",
+        "sighttime": 1778799600000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.510261960000001,
+        "sighting_long_wgs84": 153.08242118000001
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1090124,
       "geometry": {
         "type": "Point",
