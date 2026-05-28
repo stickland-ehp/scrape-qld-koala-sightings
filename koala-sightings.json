@@ -3,25 +3,48 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1096105,
+      "id": 1090219,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.07969646794035,
-          -27.50681131166154
+          152.32330679978813,
+          -27.624885299683811
         ]
       },
       "properties": {
-        "locality": "Camp Hill",
-        "objectid": 1096105,
-        "globalid": "{06A508C0-957B-4C21-A783-034534213FA5}",
-        "sighttime": 1779835140000,
+        "locality": "Glen Cairn",
+        "objectid": 1090219,
+        "globalid": "{E3D8F503-24F5-4D72-8F1E-16FB2ADA012F}",
+        "sighttime": 1779920400000,
         "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Lockyer Valley Regional",
+        "sighting_lat_wgs84": -27.624885299999999,
+        "sighting_long_wgs84": 152.32330679999998
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1093021,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.25120244828531,
+          -27.515424693769191
+        ]
+      },
+      "properties": {
+        "locality": "Ormiston",
+        "objectid": 1093021,
+        "globalid": "{7060DEA1-6EFE-465E-A55E-089C9D6CC964}",
+        "sighttime": 1779951300000,
+        "joeypresent": "Yes",
         "numberofkoala": 2,
         "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.50681131,
-        "sighting_long_wgs84": 153.07969646999999
+        "lga": "Redland City",
+        "sighting_lat_wgs84": -27.51542469,
+        "sighting_long_wgs84": 153.25120245000002
       }
     },
     {
