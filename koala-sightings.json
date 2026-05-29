@@ -3,48 +3,25 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1090219,
+      "id": 1093024,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.32330679978813,
-          -27.624885299683811
+          153.36669462677432,
+          -27.930331927267389
         ]
       },
       "properties": {
-        "locality": "Glen Cairn",
-        "objectid": 1090219,
-        "globalid": "{E3D8F503-24F5-4D72-8F1E-16FB2ADA012F}",
-        "sighttime": 1779920400000,
-        "joeypresent": "No",
+        "locality": "Arundel",
+        "objectid": 1093024,
+        "globalid": "{A7BAD387-3138-4B1A-9847-66C82F1DA268}",
+        "sighttime": 1780034400000,
+        "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Lockyer Valley Regional",
-        "sighting_lat_wgs84": -27.624885299999999,
-        "sighting_long_wgs84": 152.32330679999998
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1093021,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.25120244828531,
-          -27.515424693769191
-        ]
-      },
-      "properties": {
-        "locality": "Ormiston",
-        "objectid": 1093021,
-        "globalid": "{7060DEA1-6EFE-465E-A55E-089C9D6CC964}",
-        "sighttime": 1779951300000,
-        "joeypresent": "Yes",
-        "numberofkoala": 2,
-        "koalacondifinal": "Healthy",
-        "lga": "Redland City",
-        "sighting_lat_wgs84": -27.51542469,
-        "sighting_long_wgs84": 153.25120245000002
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.930331929999998,
+        "sighting_long_wgs84": 153.36669463000001
       }
     },
     {
