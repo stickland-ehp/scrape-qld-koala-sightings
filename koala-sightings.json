@@ -3,7 +3,122 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1086625,
+      "id": 1086627,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.08298031066542,
+          -27.506183102845743
+        ]
+      },
+      "properties": {
+        "locality": "Camp Hill",
+        "objectid": 1086627,
+        "globalid": "{DEE0E96B-D217-49CB-8CA1-E6F4E435713E}",
+        "sighttime": 1780182960000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.506183100000001,
+        "sighting_long_wgs84": 153.08298030999998
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1096885,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.08525092920851,
+          -27.508418336458309
+        ]
+      },
+      "properties": {
+        "locality": "Camp Hill",
+        "objectid": 1096885,
+        "globalid": "{A456149B-FDED-4545-BAC0-E63379E6B317}",
+        "sighttime": 1780183740000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.508418340000002,
+        "sighting_long_wgs84": 153.08525092999997
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1097286,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.08185389606268,
+          -27.510172917555867
+        ]
+      },
+      "properties": {
+        "locality": "Carina Heights",
+        "objectid": 1097286,
+        "globalid": "{A33F91F0-AD1A-46F3-84DF-D9BF8EC641E5}",
+        "sighttime": 1780184460000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.510172920000002,
+        "sighting_long_wgs84": 153.0818539
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1097686,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0809616848309,
+          -27.509068359473183
+        ]
+      },
+      "properties": {
+        "locality": "Camp Hill",
+        "objectid": 1097686,
+        "globalid": "{3BCD3C4A-0943-43F4-8B93-083BE72E271E}",
+        "sighttime": 1780184700000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.509068360000001,
+        "sighting_long_wgs84": 153.08096169000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1098086,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.08092368339948,
+          -27.509031152848124
+        ]
+      },
+      "properties": {
+        "locality": "Camp Hill",
+        "objectid": 1098086,
+        "globalid": "{5D63D877-F62D-4722-9F07-F45958566D9C}",
+        "sighttime": 1780184820000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.509031150000002,
+        "sighting_long_wgs84": 153.08092368000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1096487,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,15 +128,38 @@
       },
       "properties": {
         "locality": null,
-        "objectid": 1086625,
-        "globalid": "{48858CBD-66C7-4E77-8F5D-54594C2886E5}",
-        "sighttime": 1780127580000,
+        "objectid": 1096487,
+        "globalid": "{5DF367C2-0D69-4BED-8302-DB84CDF79FBE}",
+        "sighttime": 1780197240000,
         "joeypresent": null,
         "numberofkoala": null,
         "koalacondifinal": null,
         "lga": null,
         "sighting_lat_wgs84": null,
         "sighting_long_wgs84": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1097688,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.6382658339173,
+          -27.452852063162052
+        ]
+      },
+      "properties": {
+        "locality": "Fernvale",
+        "objectid": 1097688,
+        "globalid": "{8E308273-A752-45F9-97D2-3B4EB031A186}",
+        "sighttime": 1780211460000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Injured/Sick",
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -27.452852060000001,
+        "sighting_long_wgs84": 152.63826583000002
       }
     },
     {
