@@ -3,71 +3,48 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1096891,
+      "id": 1097292,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.37230052108404,
-          -27.914312739623966
+          153.07613232299886,
+          -27.556100944820372
         ]
       },
       "properties": {
-        "locality": "Coombabah",
-        "objectid": 1096891,
-        "globalid": "{698CE33D-ED58-4862-B63F-5A198D9C963D}",
-        "sighttime": 1780272120000,
-        "joeypresent": "Yes",
-        "numberofkoala": 3,
-        "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.91431274,
-        "sighting_long_wgs84": 153.37230051999998
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1097690,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.37954299402617,
-          -27.916924406034742
-        ]
-      },
-      "properties": {
-        "locality": "Coombabah",
-        "objectid": 1097690,
-        "globalid": "{5660761F-330E-499D-8959-A39F10F5C64A}",
-        "sighttime": 1780269360000,
+        "locality": "Upper Mount Gravatt",
+        "objectid": 1097292,
+        "globalid": "{D49ACFD6-9904-495C-9480-8D87515BDF48}",
+        "sighttime": 1780342380000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.91692441,
-        "sighting_long_wgs84": 153.37954299
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.55610094,
+        "sighting_long_wgs84": 153.07613232
       }
     },
     {
       "type": "Feature",
-      "id": 1096890,
+      "id": 1097294,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.37713704428555,
-          -27.918475085493608
+          153.18285404006156,
+          -27.767167377655216
         ]
       },
       "properties": {
-        "locality": "Coombabah",
-        "objectid": 1096890,
-        "globalid": "{DA3BCE3C-4FC9-45FA-A07C-9BF48500B40C}",
-        "sighttime": 1780270260000,
-        "joeypresent": "Not Sure",
+        "locality": "Belivah",
+        "objectid": 1097294,
+        "globalid": "{04DBE11F-0F40-452E-B60E-6661291C4044}",
+        "sighttime": 1780390920000,
+        "joeypresent": "No",
         "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.918475089999998,
-        "sighting_long_wgs84": 153.37713704000001
+        "koalacondifinal": "Injured/Sick",
+        "lga": "Logan City",
+        "sighting_lat_wgs84": -27.76716738,
+        "sighting_long_wgs84": 153.18285404
       }
     },
     {
