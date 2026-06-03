@@ -3,52 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1097292,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.07613232299886,
-          -27.556100944820372
-        ]
-      },
-      "properties": {
-        "locality": "Upper Mount Gravatt",
-        "objectid": 1097292,
-        "globalid": "{D49ACFD6-9904-495C-9480-8D87515BDF48}",
-        "sighttime": 1780342380000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.55610094,
-        "sighting_long_wgs84": 153.07613232
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1097294,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.18285404006156,
-          -27.767167377655216
-        ]
-      },
-      "properties": {
-        "locality": "Belivah",
-        "objectid": 1097294,
-        "globalid": "{04DBE11F-0F40-452E-B60E-6661291C4044}",
-        "sighttime": 1780390920000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Injured/Sick",
-        "lga": "Logan City",
-        "sighting_lat_wgs84": -27.76716738,
-        "sighting_long_wgs84": 153.18285404
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1090124,
       "geometry": {
         "type": "Point",
