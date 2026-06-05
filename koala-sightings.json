@@ -3,25 +3,25 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1097297,
+      "id": 1096498,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          153.08350436983591,
+          -27.510270577333159
         ]
       },
       "properties": {
-        "locality": null,
-        "objectid": 1097297,
-        "globalid": "{101B9251-6240-4313-894D-CFDF9DBA841F}",
-        "sighttime": 1780548780000,
-        "joeypresent": null,
-        "numberofkoala": null,
-        "koalacondifinal": null,
-        "lga": null,
-        "sighting_lat_wgs84": null,
-        "sighting_long_wgs84": null
+        "locality": "Carina Heights",
+        "objectid": 1096498,
+        "globalid": "{189D6D5E-1D8B-4112-86FE-CC297268F90E}",
+        "sighttime": 1780617900000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.51027058,
+        "sighting_long_wgs84": 153.08350436999999
       }
     },
     {
