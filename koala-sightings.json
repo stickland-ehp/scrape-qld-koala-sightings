@@ -3,71 +3,25 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1096504,
+      "id": 1097308,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.08082157100279,
-          -27.508856032636611
+          0,
+          0
         ]
       },
       "properties": {
-        "locality": "Camp Hill",
-        "objectid": 1096504,
-        "globalid": "{46F7F990-4C0D-45AC-81EE-98ACF43F14F5}",
-        "sighttime": 1780783560000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.50885603,
-        "sighting_long_wgs84": 153.08082157000001
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1096905,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.08072574321983,
-          -27.507656156135603
-        ]
-      },
-      "properties": {
-        "locality": "Camp Hill",
-        "objectid": 1096905,
-        "globalid": "{14F16906-9A63-47B5-ACF0-8CFCE9874E97}",
-        "sighttime": 1780783980000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.50765616,
-        "sighting_long_wgs84": 153.08072574000002
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1097306,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.06950357726225,
-          -27.50917221734468
-        ]
-      },
-      "properties": {
-        "locality": "Coorparoo",
-        "objectid": 1097306,
-        "globalid": "{4D6A6F78-52B0-49B8-ACCD-B75DDDBAF4EC}",
-        "sighttime": 1780804440000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.50917222,
-        "sighting_long_wgs84": 153.06950358
+        "locality": null,
+        "objectid": 1097308,
+        "globalid": "{297A0C17-7123-4BCA-8FE5-C2AFD3BB3B15}",
+        "sighttime": 1780902060000,
+        "joeypresent": null,
+        "numberofkoala": null,
+        "koalacondifinal": null,
+        "lga": null,
+        "sighting_lat_wgs84": null,
+        "sighting_long_wgs84": null
       }
     },
     {
