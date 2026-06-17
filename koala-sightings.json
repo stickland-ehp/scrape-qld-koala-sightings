@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1098898,
+      "id": 1099301,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,32 +13,9 @@
       },
       "properties": {
         "locality": null,
-        "objectid": 1098898,
-        "globalid": "{82684C80-E029-4004-8DC7-E22079257217}",
-        "sighttime": 1781564040000,
-        "joeypresent": null,
-        "numberofkoala": null,
-        "koalacondifinal": null,
-        "lga": null,
-        "sighting_lat_wgs84": null,
-        "sighting_long_wgs84": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1099700,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "locality": null,
-        "objectid": 1099700,
-        "globalid": "{5F6C9AE4-CCCF-45D2-856F-3210A01C9A9B}",
-        "sighttime": 1781584320000,
+        "objectid": 1099301,
+        "globalid": "{F749AF10-0BFF-4277-8296-0D84C9EAF50F}",
+        "sighttime": 1781654700000,
         "joeypresent": null,
         "numberofkoala": null,
         "koalacondifinal": null,
