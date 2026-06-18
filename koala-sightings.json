@@ -3,25 +3,25 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1099301,
+      "id": 1099704,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          153.08005102938978,
+          -27.507280613844866
         ]
       },
       "properties": {
-        "locality": null,
-        "objectid": 1099301,
-        "globalid": "{F749AF10-0BFF-4277-8296-0D84C9EAF50F}",
-        "sighttime": 1781654700000,
-        "joeypresent": null,
-        "numberofkoala": null,
-        "koalacondifinal": null,
-        "lga": null,
-        "sighting_lat_wgs84": null,
-        "sighting_long_wgs84": null
+        "locality": "Camp Hill",
+        "objectid": 1099704,
+        "globalid": "{F6BA304E-CC9C-4294-8B7D-330DB4AA4380}",
+        "sighttime": 1781742180000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.507280610000002,
+        "sighting_long_wgs84": 153.08005103000002
       }
     },
     {
