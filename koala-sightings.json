@@ -3,25 +3,48 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1099704,
+      "id": 1099305,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.08005102938978,
-          -27.507280613844866
+          153.36579461277594,
+          -27.930329500201481
         ]
       },
       "properties": {
-        "locality": "Camp Hill",
-        "objectid": 1099704,
-        "globalid": "{F6BA304E-CC9C-4294-8B7D-330DB4AA4380}",
-        "sighttime": 1781742180000,
+        "locality": "Arundel",
+        "objectid": 1099305,
+        "globalid": "{3636D9D4-0032-41D2-AB08-3E8C56BE33D4}",
+        "sighttime": 1781822640000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.930329499999999,
+        "sighting_long_wgs84": 153.36579460999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1098906,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.92784860033387,
+          -27.279504200301901
+        ]
+      },
+      "properties": {
+        "locality": "Joyner",
+        "objectid": 1098906,
+        "globalid": "{E47B2F77-6E4A-43A2-BD24-8617D7FC6A81}",
+        "sighttime": 1781845200000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.507280610000002,
-        "sighting_long_wgs84": 153.08005103000002
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.279504199999998,
+        "sighting_long_wgs84": 152.9278486
       }
     },
     {
