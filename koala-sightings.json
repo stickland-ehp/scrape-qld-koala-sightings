@@ -3,29 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1098929,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "locality": null,
-        "objectid": 1098929,
-        "globalid": "{259D5AF8-BBC2-49CD-807F-046BD1344F29}",
-        "sighttime": 1782427680000,
-        "joeypresent": null,
-        "numberofkoala": null,
-        "koalacondifinal": null,
-        "lga": null,
-        "sighting_lat_wgs84": null,
-        "sighting_long_wgs84": null
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1090124,
       "geometry": {
         "type": "Point",
