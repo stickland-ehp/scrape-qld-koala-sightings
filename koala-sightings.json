@@ -3,6 +3,52 @@
   "features": [
     {
       "type": "Feature",
+      "id": 1097727,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.41541700013966,
+          -27.242797099688712
+        ]
+      },
+      "properties": {
+        "locality": "Esk",
+        "objectid": 1097727,
+        "globalid": "{EE22276A-F237-4215-BC99-12918FFE1013}",
+        "sighttime": 1782603420000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -27.242797100000001,
+        "sighting_long_wgs84": 152.41541700000002
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1099332,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.95582559769352,
+          -27.245375788770733
+        ]
+      },
+      "properties": {
+        "locality": "Kurwongbah",
+        "objectid": 1099332,
+        "globalid": "{EA5679A0-FB28-4D21-82A6-8FF6903EB6E7}",
+        "sighttime": 1782616320000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.245375790000001,
+        "sighting_long_wgs84": 152.9558256
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1090124,
       "geometry": {
         "type": "Point",
