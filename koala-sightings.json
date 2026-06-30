@@ -3,30 +3,76 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1096528,
+      "id": 1097332,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.89090021267339,
-          -27.504181050248221
+          153.08651339994921,
+          -27.509683100365951
         ]
       },
       "properties": {
-        "locality": "Pullenvale",
-        "objectid": 1096528,
-        "globalid": "{827E7020-2CFD-46AF-B7FD-9A967587960B}",
-        "sighttime": 1782716700000,
-        "joeypresent": "Not Sure",
+        "locality": "Carina Heights",
+        "objectid": 1097332,
+        "globalid": "{B6FA274A-1677-49A1-87E8-04C4505586D9}",
+        "sighttime": 1782773820000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.5096831,
+        "sighting_long_wgs84": 153.0865134
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1096532,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.07970949980017,
+          -27.506877499796012
+        ]
+      },
+      "properties": {
+        "locality": "Camp Hill",
+        "objectid": 1096532,
+        "globalid": "{6058A712-78E4-4DDD-A75C-2FAEB55334B4}",
+        "sighttime": 1782774960000,
+        "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.50418105,
-        "sighting_long_wgs84": 152.89090020999998
+        "sighting_lat_wgs84": -27.506877499999998,
+        "sighting_long_wgs84": 153.07970950000001
       }
     },
     {
       "type": "Feature",
-      "id": 1099335,
+      "id": 1096533,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.08107919974145,
+          -27.509423499733384
+        ]
+      },
+      "properties": {
+        "locality": "Camp Hill",
+        "objectid": 1096533,
+        "globalid": "{EB718A6C-535C-4D2B-8D3E-D16F520637BA}",
+        "sighttime": 1782777180000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.5094235,
+        "sighting_long_wgs84": 153.08107919999998
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1097335,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -36,9 +82,9 @@
       },
       "properties": {
         "locality": null,
-        "objectid": 1099335,
-        "globalid": "{92530E2F-998E-4613-884F-481BBE640C83}",
-        "sighttime": 1782721560000,
+        "objectid": 1097335,
+        "globalid": "{066C2D5B-0BDC-48D2-8FA7-74FBA9805D35}",
+        "sighttime": 1782807720000,
         "joeypresent": null,
         "numberofkoala": null,
         "koalacondifinal": null,
@@ -49,7 +95,7 @@
     },
     {
       "type": "Feature",
-      "id": 1097730,
+      "id": 1099341,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -59,9 +105,9 @@
       },
       "properties": {
         "locality": null,
-        "objectid": 1097730,
-        "globalid": "{F11BD443-581B-4F36-89D1-E77BF77AF933}",
-        "sighttime": 1782722220000,
+        "objectid": 1099341,
+        "globalid": "{38487AB1-B3E7-4773-8772-57F80935574C}",
+        "sighttime": 1782808080000,
         "joeypresent": null,
         "numberofkoala": null,
         "koalacondifinal": null,
@@ -72,7 +118,7 @@
     },
     {
       "type": "Feature",
-      "id": 1099336,
+      "id": 1093037,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -82,9 +128,9 @@
       },
       "properties": {
         "locality": null,
-        "objectid": 1099336,
-        "globalid": "{D81B23F9-C016-449A-882E-6580249E2287}",
-        "sighttime": 1782722640000,
+        "objectid": 1093037,
+        "globalid": "{4C54CC10-FA39-4A61-8CBB-F29B135C271D}",
+        "sighttime": 1782808320000,
         "joeypresent": null,
         "numberofkoala": null,
         "koalacondifinal": null,
@@ -95,7 +141,7 @@
     },
     {
       "type": "Feature",
-      "id": 1086632,
+      "id": 1086634,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -105,9 +151,9 @@
       },
       "properties": {
         "locality": null,
-        "objectid": 1086632,
-        "globalid": "{C5D90274-65EB-4E73-8116-31765BEA32C2}",
-        "sighttime": 1782726360000,
+        "objectid": 1086634,
+        "globalid": "{3991F48A-8D29-4E7F-8871-9E697D4643BC}",
+        "sighttime": 1782809220000,
         "joeypresent": null,
         "numberofkoala": null,
         "koalacondifinal": null,
@@ -118,7 +164,7 @@
     },
     {
       "type": "Feature",
-      "id": 1086633,
+      "id": 1100492,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -128,9 +174,32 @@
       },
       "properties": {
         "locality": null,
-        "objectid": 1086633,
-        "globalid": "{82DB109E-ADD2-4892-8A0F-B78282196C19}",
-        "sighttime": 1782730020000,
+        "objectid": 1100492,
+        "globalid": "{6C0B6998-A9D3-46BA-8E46-633F4A6831CC}",
+        "sighttime": 1782809580000,
+        "joeypresent": null,
+        "numberofkoala": null,
+        "koalacondifinal": null,
+        "lga": null,
+        "sighting_lat_wgs84": null,
+        "sighting_long_wgs84": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1100892,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1100892,
+        "globalid": "{A18BA636-FBF9-4E9E-8063-C653D8FC4656}",
+        "sighttime": 1782810000000,
         "joeypresent": null,
         "numberofkoala": null,
         "koalacondifinal": null,
