@@ -3,6 +3,98 @@
   "features": [
     {
       "type": "Feature",
+      "id": 1100496,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1100496,
+        "globalid": "{EC5A4870-74C9-4430-8C9B-72E80B8A2AE6}",
+        "sighttime": 1782934740000,
+        "joeypresent": null,
+        "numberofkoala": null,
+        "koalacondifinal": null,
+        "lga": null,
+        "sighting_lat_wgs84": null,
+        "sighting_long_wgs84": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1099342,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1099342,
+        "globalid": "{23E0000D-353F-40D9-834C-CE012A4B2D98}",
+        "sighttime": 1782935280000,
+        "joeypresent": null,
+        "numberofkoala": null,
+        "koalacondifinal": null,
+        "lga": null,
+        "sighting_lat_wgs84": null,
+        "sighting_long_wgs84": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1100500,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1100500,
+        "globalid": "{FDA96A46-25F4-4946-8E67-C1AF7E3C931E}",
+        "sighttime": 1782963420000,
+        "joeypresent": null,
+        "numberofkoala": null,
+        "koalacondifinal": null,
+        "lga": null,
+        "sighting_lat_wgs84": null,
+        "sighting_long_wgs84": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1099343,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.9384800000247,
+          -27.273280000265054
+        ]
+      },
+      "properties": {
+        "locality": "Joyner",
+        "objectid": 1099343,
+        "globalid": "{CF798D99-7822-4AFF-83FA-BAE3E754C0EB}",
+        "sighttime": 1782994320000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.27328,
+        "sighting_long_wgs84": 152.93848
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1090124,
       "geometry": {
         "type": "Point",
