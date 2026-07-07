@@ -3,30 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1100896,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.05368550005531,
-          -27.556427800087317
-        ]
-      },
-      "properties": {
-        "locality": "Nathan",
-        "objectid": 1100896,
-        "globalid": "{EC5916EF-3386-4F4F-8215-16AA3CC0FD54}",
-        "sighttime": 1783286280000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.556427800000002,
-        "sighting_long_wgs84": 153.0536855
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1104497,
+      "id": 1100898,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -36,9 +13,9 @@
       },
       "properties": {
         "locality": null,
-        "objectid": 1104497,
-        "globalid": "{492D0E4A-C776-4C14-8D29-9F42D022F174}",
-        "sighttime": 1783290840000,
+        "objectid": 1100898,
+        "globalid": "{CECC91BD-7609-438C-8C4D-7C7F088497F0}",
+        "sighttime": 1783410000000,
         "joeypresent": null,
         "numberofkoala": null,
         "koalacondifinal": null,
@@ -49,7 +26,7 @@
     },
     {
       "type": "Feature",
-      "id": 1100897,
+      "id": 1104899,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -59,9 +36,9 @@
       },
       "properties": {
         "locality": null,
-        "objectid": 1100897,
-        "globalid": "{9F1C389B-24FC-461C-8407-07E320DA0493}",
-        "sighttime": 1783328100000,
+        "objectid": 1104899,
+        "globalid": "{8FC78332-6AB8-4F03-820F-851689D45A67}",
+        "sighttime": 1783410420000,
         "joeypresent": null,
         "numberofkoala": null,
         "koalacondifinal": null,
@@ -72,7 +49,7 @@
     },
     {
       "type": "Feature",
-      "id": 1104898,
+      "id": 1104900,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -82,9 +59,9 @@
       },
       "properties": {
         "locality": null,
-        "objectid": 1104898,
-        "globalid": "{1B651CB8-057C-4B91-860F-6C1807847076}",
-        "sighttime": 1783328820000,
+        "objectid": 1104900,
+        "globalid": "{4F48A996-4E3F-4EA7-8C32-A748E2DC57B1}",
+        "sighttime": 1783410660000,
         "joeypresent": null,
         "numberofkoala": null,
         "koalacondifinal": null,
