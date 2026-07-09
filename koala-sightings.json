@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1102899,
+      "id": 1100899,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,9 +13,9 @@
       },
       "properties": {
         "locality": null,
-        "objectid": 1102899,
-        "globalid": "{44B79110-B0E0-4665-849E-FD86A60EBF4F}",
-        "sighttime": 1783497600000,
+        "objectid": 1100899,
+        "globalid": "{2E67224F-AD93-4F5B-8734-A118B75EE7A5}",
+        "sighttime": 1783544460000,
         "joeypresent": null,
         "numberofkoala": null,
         "koalacondifinal": null,
@@ -26,7 +26,7 @@
     },
     {
       "type": "Feature",
-      "id": 1102499,
+      "id": 1102500,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -36,78 +36,9 @@
       },
       "properties": {
         "locality": null,
-        "objectid": 1102499,
-        "globalid": "{BA4F0018-0446-4076-861D-0AC306CCEA51}",
-        "sighttime": 1783497900000,
-        "joeypresent": null,
-        "numberofkoala": null,
-        "koalacondifinal": null,
-        "lga": null,
-        "sighting_lat_wgs84": null,
-        "sighting_long_wgs84": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1102099,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "locality": null,
-        "objectid": 1102099,
-        "globalid": "{749AEECC-0932-4B60-8E08-6F77248305F6}",
-        "sighttime": 1783498200000,
-        "joeypresent": null,
-        "numberofkoala": null,
-        "koalacondifinal": null,
-        "lga": null,
-        "sighting_lat_wgs84": null,
-        "sighting_long_wgs84": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1101699,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "locality": null,
-        "objectid": 1101699,
-        "globalid": "{718AA7DA-BCFE-4935-8012-BDAC0845FF60}",
-        "sighttime": 1783498560000,
-        "joeypresent": null,
-        "numberofkoala": null,
-        "koalacondifinal": null,
-        "lga": null,
-        "sighting_lat_wgs84": null,
-        "sighting_long_wgs84": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1101299,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "locality": null,
-        "objectid": 1101299,
-        "globalid": "{8797E1C6-4F89-4930-839A-E12B2CA01E5E}",
-        "sighttime": 1783498800000,
+        "objectid": 1102500,
+        "globalid": "{2F56B669-EEFF-4986-8832-8BB3F1AC700E}",
+        "sighttime": 1783602360000,
         "joeypresent": null,
         "numberofkoala": null,
         "koalacondifinal": null,
