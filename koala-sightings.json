@@ -3,6 +3,52 @@
   "features": [
     {
       "type": "Feature",
+      "id": 1104507,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1104507,
+        "globalid": "{617B792E-692F-4D18-8CEE-92EF578A03D5}",
+        "sighttime": 1783972380000,
+        "joeypresent": null,
+        "numberofkoala": null,
+        "koalacondifinal": null,
+        "lga": null,
+        "sighting_lat_wgs84": null,
+        "sighting_long_wgs84": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1103707,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1103707,
+        "globalid": "{1E55FE9E-91D7-498A-82C5-1621A84F6856}",
+        "sighttime": 1783972680000,
+        "joeypresent": null,
+        "numberofkoala": null,
+        "koalacondifinal": null,
+        "lga": null,
+        "sighting_lat_wgs84": null,
+        "sighting_long_wgs84": null
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1090124,
       "geometry": {
         "type": "Point",
@@ -22,6 +68,52 @@
         "lga": "Ipswich City",
         "sighting_lat_wgs84": -27.695536000000001,
         "sighting_long_wgs84": 152.732495
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1102508,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1102508,
+        "globalid": "{E86FFF41-8FC7-4002-887B-1E6C77DA8DB6}",
+        "sighttime": 1784021880000,
+        "joeypresent": null,
+        "numberofkoala": null,
+        "koalacondifinal": null,
+        "lga": null,
+        "sighting_lat_wgs84": null,
+        "sighting_long_wgs84": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1102108,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1102108,
+        "globalid": "{1CD41D46-63CD-490A-8B76-9A837C4D025D}",
+        "sighttime": 1784022120000,
+        "joeypresent": null,
+        "numberofkoala": null,
+        "koalacondifinal": null,
+        "lga": null,
+        "sighting_lat_wgs84": null,
+        "sighting_long_wgs84": null
       }
     },
     {
