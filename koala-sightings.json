@@ -26,7 +26,7 @@
     },
     {
       "type": "Feature",
-      "id": 1102514,
+      "id": 1103316,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -36,9 +36,9 @@
       },
       "properties": {
         "locality": null,
-        "objectid": 1102514,
-        "globalid": "{9012F7D1-6E23-43D6-8597-F0DE4EC4CC8E}",
-        "sighttime": 1784439300000,
+        "objectid": 1103316,
+        "globalid": "{08C49344-7D37-4805-8E86-8C36DB070991}",
+        "sighttime": 1784524440000,
         "joeypresent": null,
         "numberofkoala": null,
         "koalacondifinal": null,
@@ -49,7 +49,7 @@
     },
     {
       "type": "Feature",
-      "id": 1101314,
+      "id": 1103716,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -59,9 +59,55 @@
       },
       "properties": {
         "locality": null,
-        "objectid": 1101314,
-        "globalid": "{6BFC030C-E3EA-4EA9-8BEB-FB278906CEE2}",
-        "sighttime": 1784440080000,
+        "objectid": 1103716,
+        "globalid": "{FDA6B234-6BBD-467B-8625-C5CEE349FF9B}",
+        "sighttime": 1784530440000,
+        "joeypresent": null,
+        "numberofkoala": null,
+        "koalacondifinal": null,
+        "lga": null,
+        "sighting_lat_wgs84": null,
+        "sighting_long_wgs84": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1102116,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.62026036887505,
+          -27.418478650973121
+        ]
+      },
+      "properties": {
+        "locality": "Wivenhoe Pocket",
+        "objectid": 1102116,
+        "globalid": "{156AB44C-F409-4149-8E21-6DA4BEB6CA09}",
+        "sighttime": 1784537280000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -27.418478649999997,
+        "sighting_long_wgs84": 152.62026037000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1101316,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1101316,
+        "globalid": "{4C4294EE-BC27-40CB-8F5A-B95EF54D482C}",
+        "sighttime": 1784538780000,
         "joeypresent": null,
         "numberofkoala": null,
         "koalacondifinal": null,
