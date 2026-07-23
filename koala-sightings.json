@@ -26,94 +26,25 @@
     },
     {
       "type": "Feature",
-      "id": 1102118,
+      "id": 1104920,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.07196249975684,
-          -27.543185600206101
-        ]
-      },
-      "properties": {
-        "locality": "Mount Gravatt",
-        "objectid": 1102118,
-        "globalid": "{FF5078D1-B620-4A41-8A32-85B4316897A3}",
-        "sighttime": 1784680980000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.543185599999997,
-        "sighting_long_wgs84": 153.07196250000001
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1100517,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.08105939548273,
-          -27.509381198028525
-        ]
-      },
-      "properties": {
-        "locality": "Camp Hill",
-        "objectid": 1100517,
-        "globalid": "{8C5DA1A0-A41E-42D9-94D4-98EAE217BC4D}",
-        "sighttime": 1784681880000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.5093812,
-        "sighting_long_wgs84": 153.08105939999999
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1103719,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.54635139982236,
-          -27.450708099620211
+          0,
+          0
         ]
       },
       "properties": {
         "locality": null,
-        "objectid": 1103719,
-        "globalid": "{D6E92562-1A81-43D3-AC26-01E5B1A8387F}",
-        "sighttime": 1784690160000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.4507081,
-        "sighting_long_wgs84": 152.54635139999999
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1102119,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.93729300034423,
-          -27.273025699878268
-        ]
-      },
-      "properties": {
-        "locality": "Joyner",
-        "objectid": 1102119,
-        "globalid": "{5211F613-938E-4B99-B79A-8DD26CFC26D7}",
-        "sighttime": 1784702820000,
-        "joeypresent": "Yes",
-        "numberofkoala": 2,
-        "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.273025699999998,
-        "sighting_long_wgs84": 152.93729299999998
+        "objectid": 1104920,
+        "globalid": "{5CA5374B-DCEA-4C3E-8359-8F21D66A2695}",
+        "sighttime": 1784776080000,
+        "joeypresent": null,
+        "numberofkoala": null,
+        "koalacondifinal": null,
+        "lga": null,
+        "sighting_lat_wgs84": null,
+        "sighting_long_wgs84": null
       }
     },
     {
