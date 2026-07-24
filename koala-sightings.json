@@ -26,29 +26,6 @@
     },
     {
       "type": "Feature",
-      "id": 1104920,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "locality": null,
-        "objectid": 1104920,
-        "globalid": "{5CA5374B-DCEA-4C3E-8359-8F21D66A2695}",
-        "sighttime": 1784776080000,
-        "joeypresent": null,
-        "numberofkoala": null,
-        "koalacondifinal": null,
-        "lga": null,
-        "sighting_lat_wgs84": null,
-        "sighting_long_wgs84": null
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1092916,
       "geometry": {
         "type": "Point",
