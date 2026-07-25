@@ -26,6 +26,52 @@
     },
     {
       "type": "Feature",
+      "id": 1102522,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.61162929992969,
+          -27.423339500292368
+        ]
+      },
+      "properties": {
+        "locality": "Wivenhoe Pocket",
+        "objectid": 1102522,
+        "globalid": "{813F7353-327B-4EC1-931C-D66C9E447E95}",
+        "sighttime": 1784934540000,
+        "joeypresent": "Yes",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -27.423339500000001,
+        "sighting_long_wgs84": 152.6116293
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1101324,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1101324,
+        "globalid": "{C4735464-D590-4D88-83E0-21CB52AF1568}",
+        "sighttime": 1784971800000,
+        "joeypresent": null,
+        "numberofkoala": null,
+        "koalacondifinal": null,
+        "lga": null,
+        "sighting_lat_wgs84": null,
+        "sighting_long_wgs84": null
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1092916,
       "geometry": {
         "type": "Point",
