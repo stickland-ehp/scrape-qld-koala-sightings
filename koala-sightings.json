@@ -26,30 +26,7 @@
     },
     {
       "type": "Feature",
-      "id": 1102522,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.61162929992969,
-          -27.423339500292368
-        ]
-      },
-      "properties": {
-        "locality": "Wivenhoe Pocket",
-        "objectid": 1102522,
-        "globalid": "{813F7353-327B-4EC1-931C-D66C9E447E95}",
-        "sighttime": 1784934540000,
-        "joeypresent": "Yes",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.423339500000001,
-        "sighting_long_wgs84": 152.6116293
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1101324,
+      "id": 1101325,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -59,9 +36,423 @@
       },
       "properties": {
         "locality": null,
-        "objectid": 1101324,
-        "globalid": "{C4735464-D590-4D88-83E0-21CB52AF1568}",
-        "sighttime": 1784971800000,
+        "objectid": 1101325,
+        "globalid": "{BA23458D-9F74-4EB3-8FA6-C0912697B6CC}",
+        "sighttime": 1785038820000,
+        "joeypresent": null,
+        "numberofkoala": null,
+        "koalacondifinal": null,
+        "lga": null,
+        "sighting_lat_wgs84": null,
+        "sighting_long_wgs84": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1104925,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1104925,
+        "globalid": "{30D09112-441D-47D9-89F7-D2F8510F4D66}",
+        "sighttime": 1785039720000,
+        "joeypresent": null,
+        "numberofkoala": null,
+        "koalacondifinal": null,
+        "lga": null,
+        "sighting_lat_wgs84": null,
+        "sighting_long_wgs84": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1104525,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1104525,
+        "globalid": "{061F0168-C9D1-4DBD-8FFC-8A2A27202E73}",
+        "sighttime": 1785040320000,
+        "joeypresent": null,
+        "numberofkoala": null,
+        "koalacondifinal": null,
+        "lga": null,
+        "sighting_lat_wgs84": null,
+        "sighting_long_wgs84": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1102525,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.93691240032803,
+          -27.271455100321599
+        ]
+      },
+      "properties": {
+        "locality": "Joyner",
+        "objectid": 1102525,
+        "globalid": "{60351594-CC00-4DA1-A50A-888CC95CAE76}",
+        "sighttime": 1785040620000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.271455100000001,
+        "sighting_long_wgs84": 152.93691240000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1100525,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1100525,
+        "globalid": "{24497E4D-2261-4122-8494-B7D4B312C31C}",
+        "sighttime": 1785040800000,
+        "joeypresent": null,
+        "numberofkoala": null,
+        "koalacondifinal": null,
+        "lga": null,
+        "sighting_lat_wgs84": null,
+        "sighting_long_wgs84": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1101326,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1101326,
+        "globalid": "{D10BED8C-9981-407A-8F11-703D6221D9CF}",
+        "sighttime": 1785041160000,
+        "joeypresent": null,
+        "numberofkoala": null,
+        "koalacondifinal": null,
+        "lga": null,
+        "sighting_lat_wgs84": null,
+        "sighting_long_wgs84": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1099348,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1099348,
+        "globalid": "{92E80493-1BB1-47E8-86E9-963D108DAEDB}",
+        "sighttime": 1785041640000,
+        "joeypresent": null,
+        "numberofkoala": null,
+        "koalacondifinal": null,
+        "lga": null,
+        "sighting_lat_wgs84": null,
+        "sighting_long_wgs84": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1097343,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.93982420038824,
+          -27.273128899793281
+        ]
+      },
+      "properties": {
+        "locality": "Joyner",
+        "objectid": 1097343,
+        "globalid": "{B7669934-D51E-4E3E-B98F-02696FDFE1FA}",
+        "sighttime": 1785042000000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.2731289,
+        "sighting_long_wgs84": 152.9398242
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1096542,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1096542,
+        "globalid": "{54E83C0A-EBA8-4BE2-8923-B49EDCB30098}",
+        "sighttime": 1785041940000,
+        "joeypresent": null,
+        "numberofkoala": null,
+        "koalacondifinal": null,
+        "lga": null,
+        "sighting_lat_wgs84": null,
+        "sighting_long_wgs84": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1086637,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1086637,
+        "globalid": "{570CD8DB-412E-40A0-8E86-96C2EDDAD216}",
+        "sighttime": 1785042360000,
+        "joeypresent": null,
+        "numberofkoala": null,
+        "koalacondifinal": null,
+        "lga": null,
+        "sighting_lat_wgs84": null,
+        "sighting_long_wgs84": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1099349,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.93962249986089,
+          -27.273209200039968
+        ]
+      },
+      "properties": {
+        "locality": "Joyner",
+        "objectid": 1099349,
+        "globalid": "{612782A3-7178-4594-8C00-A1BFBED1900D}",
+        "sighttime": 1785043320000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.2732092,
+        "sighting_long_wgs84": 152.93962250000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1104527,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1104527,
+        "globalid": "{44B25158-9EA8-4665-8EDF-B58FBAEA115D}",
+        "sighttime": 1785042780000,
+        "joeypresent": null,
+        "numberofkoala": null,
+        "koalacondifinal": null,
+        "lga": null,
+        "sighting_lat_wgs84": null,
+        "sighting_long_wgs84": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1093042,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1093042,
+        "globalid": "{EF0EFAE8-DD95-4AE0-8A85-C9182CC86E28}",
+        "sighttime": 1785043860000,
+        "joeypresent": null,
+        "numberofkoala": null,
+        "koalacondifinal": null,
+        "lga": null,
+        "sighting_lat_wgs84": null,
+        "sighting_long_wgs84": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1097344,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1097344,
+        "globalid": "{4066656C-97B4-4F5E-8213-EF544AFE7C44}",
+        "sighttime": 1785044040000,
+        "joeypresent": null,
+        "numberofkoala": null,
+        "koalacondifinal": null,
+        "lga": null,
+        "sighting_lat_wgs84": null,
+        "sighting_long_wgs84": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1102526,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1102526,
+        "globalid": "{47E33368-1FC2-45DA-837A-A2DC10A0D3FC}",
+        "sighttime": 1785044700000,
+        "joeypresent": null,
+        "numberofkoala": null,
+        "koalacondifinal": null,
+        "lga": null,
+        "sighting_lat_wgs84": null,
+        "sighting_long_wgs84": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1105294,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1105294,
+        "globalid": "{BEFD1070-8B74-425F-84F2-2FB5B972A012}",
+        "sighttime": 1785044940000,
+        "joeypresent": null,
+        "numberofkoala": null,
+        "koalacondifinal": null,
+        "lga": null,
+        "sighting_lat_wgs84": null,
+        "sighting_long_wgs84": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1105694,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1105694,
+        "globalid": "{B5724954-5415-4F64-8453-76083DB29130}",
+        "sighttime": 1785045480000,
+        "joeypresent": null,
+        "numberofkoala": null,
+        "koalacondifinal": null,
+        "lga": null,
+        "sighting_lat_wgs84": null,
+        "sighting_long_wgs84": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1105295,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1105295,
+        "globalid": "{8D291FAC-6393-4500-8C6E-5545196CB47A}",
+        "sighttime": 1785045780000,
+        "joeypresent": null,
+        "numberofkoala": null,
+        "koalacondifinal": null,
+        "lga": null,
+        "sighting_lat_wgs84": null,
+        "sighting_long_wgs84": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1104927,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1104927,
+        "globalid": "{F2B2A51B-FC55-46A8-8804-07E0174F22D7}",
+        "sighttime": 1785046260000,
         "joeypresent": null,
         "numberofkoala": null,
         "koalacondifinal": null,
