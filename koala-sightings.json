@@ -26,6 +26,98 @@
     },
     {
       "type": "Feature",
+      "id": 1105308,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.36632023860827,
+          -27.929852733870568
+        ]
+      },
+      "properties": {
+        "locality": "Arundel",
+        "objectid": 1105308,
+        "globalid": "{C1C3C1E7-3E70-4F4E-9983-4ABD38CAADBA}",
+        "sighttime": 1785274740000,
+        "joeypresent": "Yes",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.92985273,
+        "sighting_long_wgs84": 153.36632023999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1105309,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.08069384763738,
+          -27.507603744456588
+        ]
+      },
+      "properties": {
+        "locality": "Camp Hill",
+        "objectid": 1105309,
+        "globalid": "{0D2207B9-0F13-444F-8440-F497B3FEE866}",
+        "sighttime": 1785285240000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.50760374,
+        "sighting_long_wgs84": 153.08069385000002
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1105310,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.08166341279826,
+          -27.510242556744604
+        ]
+      },
+      "properties": {
+        "locality": "Camp Hill",
+        "objectid": 1105310,
+        "globalid": "{42C43BDD-CC6E-4E8A-9D28-FD13C3BCDD4C}",
+        "sighttime": 1785287160000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.510242560000002,
+        "sighting_long_wgs84": 153.08166341
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1105313,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1105313,
+        "globalid": "{CCB4AABF-92A8-4BF8-87B8-FB9A19A155E7}",
+        "sighttime": 1785311760000,
+        "joeypresent": null,
+        "numberofkoala": null,
+        "koalacondifinal": null,
+        "lga": null,
+        "sighting_lat_wgs84": null,
+        "sighting_long_wgs84": null
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1092916,
       "geometry": {
         "type": "Point",
