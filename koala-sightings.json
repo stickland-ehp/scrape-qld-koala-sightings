@@ -26,7 +26,7 @@
     },
     {
       "type": "Feature",
-      "id": 1100535,
+      "id": 1105340,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -36,9 +36,9 @@
       },
       "properties": {
         "locality": null,
-        "objectid": 1100535,
-        "globalid": "{786B7B50-807B-4CB4-8C33-71F23AF60AE5}",
-        "sighttime": 1785731220000,
+        "objectid": 1105340,
+        "globalid": "{97213F1E-3963-4661-8ABF-75AEF2EF24E2}",
+        "sighttime": 1785807300000,
         "joeypresent": null,
         "numberofkoala": null,
         "koalacondifinal": null,
@@ -49,7 +49,7 @@
     },
     {
       "type": "Feature",
-      "id": 1100536,
+      "id": 1105341,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -59,9 +59,9 @@
       },
       "properties": {
         "locality": null,
-        "objectid": 1100536,
-        "globalid": "{DA930C8A-F592-44DD-8006-E478EBCFCF3F}",
-        "sighttime": 1785744060000,
+        "objectid": 1105341,
+        "globalid": "{66678C76-6636-4EEE-88AF-F6D75B846A2B}",
+        "sighttime": 1785812880000,
         "joeypresent": null,
         "numberofkoala": null,
         "koalacondifinal": null,
@@ -72,7 +72,7 @@
     },
     {
       "type": "Feature",
-      "id": 1105338,
+      "id": 1105342,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -82,9 +82,9 @@
       },
       "properties": {
         "locality": null,
-        "objectid": 1105338,
-        "globalid": "{67509E37-827D-495D-8740-F8CAC836B6A2}",
-        "sighttime": 1785744540000,
+        "objectid": 1105342,
+        "globalid": "{4EFFA580-B040-4828-8FC7-64989AF11928}",
+        "sighttime": 1785826860000,
         "joeypresent": null,
         "numberofkoala": null,
         "koalacondifinal": null,
@@ -95,7 +95,7 @@
     },
     {
       "type": "Feature",
-      "id": 1105339,
+      "id": 1102541,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -105,9 +105,9 @@
       },
       "properties": {
         "locality": null,
-        "objectid": 1105339,
-        "globalid": "{C5657A3C-CE48-4956-8B61-8C3638B9173C}",
-        "sighttime": 1785745080000,
+        "objectid": 1102541,
+        "globalid": "{BC7A974A-33D0-49F5-8CA7-D4E4FF60ABB0}",
+        "sighttime": 1785828120000,
         "joeypresent": null,
         "numberofkoala": null,
         "koalacondifinal": null,
@@ -118,7 +118,7 @@
     },
     {
       "type": "Feature",
-      "id": 1099352,
+      "id": 1100541,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -128,9 +128,9 @@
       },
       "properties": {
         "locality": null,
-        "objectid": 1099352,
-        "globalid": "{FB58CBE7-D652-4BFB-8F4D-2BCEF6943E1B}",
-        "sighttime": 1785745740000,
+        "objectid": 1100541,
+        "globalid": "{DAD2EFE0-45E4-42E9-86E2-7ECFD620D8FE}",
+        "sighttime": 1785828420000,
         "joeypresent": null,
         "numberofkoala": null,
         "koalacondifinal": null,
@@ -141,7 +141,7 @@
     },
     {
       "type": "Feature",
-      "id": 1096545,
+      "id": 1097347,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -151,32 +151,9 @@
       },
       "properties": {
         "locality": null,
-        "objectid": 1096545,
-        "globalid": "{AE990D99-F87C-4DE2-8636-6D944A9FFD2E}",
-        "sighttime": 1785745440000,
-        "joeypresent": null,
-        "numberofkoala": null,
-        "koalacondifinal": null,
-        "lga": null,
-        "sighting_lat_wgs84": null,
-        "sighting_long_wgs84": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1096546,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "locality": null,
-        "objectid": 1096546,
-        "globalid": "{EE105221-FD87-4655-82B6-9E35A3930ADA}",
-        "sighttime": 1785748020000,
+        "objectid": 1097347,
+        "globalid": "{2B575C23-337C-44E8-8E3C-742B9DD85672}",
+        "sighttime": 1785829020000,
         "joeypresent": null,
         "numberofkoala": null,
         "koalacondifinal": null,
