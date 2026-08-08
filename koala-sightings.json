@@ -26,7 +26,7 @@
     },
     {
       "type": "Feature",
-      "id": 1105351,
+      "id": 1105356,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -36,9 +36,9 @@
       },
       "properties": {
         "locality": null,
-        "objectid": 1105351,
-        "globalid": "{34EA069C-6FCC-4C5B-8D36-16BC97679F95}",
-        "sighttime": 1786047000000,
+        "objectid": 1105356,
+        "globalid": "{8947378A-9027-4FEB-818B-DDAEB6B052CD}",
+        "sighttime": 1786148280000,
         "joeypresent": null,
         "numberofkoala": null,
         "koalacondifinal": null,
@@ -49,25 +49,25 @@
     },
     {
       "type": "Feature",
-      "id": 1105354,
+      "id": 1100554,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.93734570001033,
-          -27.272910199697222
+          153.03117259614118,
+          -27.525755113141667
         ]
       },
       "properties": {
-        "locality": "Joyner",
-        "objectid": 1105354,
-        "globalid": "{4E90946F-F238-444C-BE8C-5CE7C4B9FCD9}",
-        "sighttime": 1786086840000,
-        "joeypresent": "Yes",
-        "numberofkoala": 2,
+        "locality": "Moorooka",
+        "objectid": 1100554,
+        "globalid": "{A0394475-F164-4001-8F66-5AF53C86F92D}",
+        "sighttime": 1786163880000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.272910199999998,
-        "sighting_long_wgs84": 152.93734569999998
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.525755110000002,
+        "sighting_long_wgs84": 153.03117260000002
       }
     },
     {
