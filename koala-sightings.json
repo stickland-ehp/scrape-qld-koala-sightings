@@ -26,7 +26,7 @@
     },
     {
       "type": "Feature",
-      "id": 1097355,
+      "id": 1096559,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -36,9 +36,9 @@
       },
       "properties": {
         "locality": null,
-        "objectid": 1097355,
-        "globalid": "{56E3FCA8-202F-43E2-85B7-E8E503B4977B}",
-        "sighttime": 1786312320000,
+        "objectid": 1096559,
+        "globalid": "{19714A2F-2B09-4DE2-89DA-E80F3C708340}",
+        "sighttime": 1786407840000,
         "joeypresent": null,
         "numberofkoala": null,
         "koalacondifinal": null,
@@ -49,53 +49,7 @@
     },
     {
       "type": "Feature",
-      "id": 1099361,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.09068241650417,
-          -27.527383597663324
-        ]
-      },
-      "properties": {
-        "locality": "Mount Gravatt East",
-        "objectid": 1099361,
-        "globalid": "{9E3F5AEB-83D0-46D4-9C5E-960268370130}",
-        "sighttime": 1786315080000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.5273836,
-        "sighting_long_wgs84": 153.09068242000001
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1097356,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.09006936752672,
-          -27.526680923414098
-        ]
-      },
-      "properties": {
-        "locality": "Mount Gravatt East",
-        "objectid": 1097356,
-        "globalid": "{C8B6819E-BFA5-4C3E-8249-39A7F7CFDD26}",
-        "sighttime": 1786315200000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.526680919999997,
-        "sighting_long_wgs84": 153.09006937000001
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1100565,
+      "id": 1102567,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -105,9 +59,9 @@
       },
       "properties": {
         "locality": null,
-        "objectid": 1100565,
-        "globalid": "{85CA8276-F332-4549-88F0-D9C2CFDFEF29}",
-        "sighttime": 1786361400000,
+        "objectid": 1102567,
+        "globalid": "{5A218FB0-5BEB-4024-896F-F1B36FD50AF3}",
+        "sighttime": 1786444980000,
         "joeypresent": null,
         "numberofkoala": null,
         "koalacondifinal": null,
