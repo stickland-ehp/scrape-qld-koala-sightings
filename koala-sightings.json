@@ -26,7 +26,53 @@
     },
     {
       "type": "Feature",
-      "id": 1096559,
+      "id": 1100567,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.08119007071215,
+          -27.508496560187432
+        ]
+      },
+      "properties": {
+        "locality": "Camp Hill",
+        "objectid": 1100567,
+        "globalid": "{C0FAF601-0CA5-413B-84FB-88F61CBD8AE5}",
+        "sighttime": 1786483200000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.508496560000001,
+        "sighting_long_wgs84": 153.08119006999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1105369,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.08363243456111,
+          -27.510825061475771
+        ]
+      },
+      "properties": {
+        "locality": "Carina Heights",
+        "objectid": 1105369,
+        "globalid": "{317909A1-6BCB-4D40-8604-49745446C485}",
+        "sighttime": 1786485480000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.510825059999998,
+        "sighting_long_wgs84": 153.08363242999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1097362,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -36,9 +82,9 @@
       },
       "properties": {
         "locality": null,
-        "objectid": 1096559,
-        "globalid": "{19714A2F-2B09-4DE2-89DA-E80F3C708340}",
-        "sighttime": 1786407840000,
+        "objectid": 1097362,
+        "globalid": "{C789EC59-A013-4F77-87A3-C2E07AE19B9A}",
+        "sighttime": 1786495560000,
         "joeypresent": null,
         "numberofkoala": null,
         "koalacondifinal": null,
@@ -49,7 +95,30 @@
     },
     {
       "type": "Feature",
-      "id": 1102567,
+      "id": 1102568,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.54999059978329,
+          -23.364931699761026
+        ]
+      },
+      "properties": {
+        "locality": "Koongal",
+        "objectid": 1102568,
+        "globalid": "{41C487AE-8332-4CE9-9CD3-9A2DC2F28005}",
+        "sighttime": 1786453560000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Rockhampton Regional",
+        "sighting_lat_wgs84": -23.3649317,
+        "sighting_long_wgs84": 150.5499906
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1097363,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -59,9 +128,9 @@
       },
       "properties": {
         "locality": null,
-        "objectid": 1102567,
-        "globalid": "{5A218FB0-5BEB-4024-896F-F1B36FD50AF3}",
-        "sighttime": 1786444980000,
+        "objectid": 1097363,
+        "globalid": "{FC6D9455-08B8-4D61-81A8-1D1B588449C3}",
+        "sighttime": 1786504380000,
         "joeypresent": null,
         "numberofkoala": null,
         "koalacondifinal": null,
