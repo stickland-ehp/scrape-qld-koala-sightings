@@ -3,6 +3,29 @@
   "features": [
     {
       "type": "Feature",
+      "id": 1105350,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.96184157203209,
+          -27.251558219439481
+        ]
+      },
+      "properties": {
+        "locality": "Kurwongbah",
+        "objectid": 1105350,
+        "globalid": "{9C5BD43D-7416-4CA9-832C-C2EE42C5FD85}",
+        "sighttime": 1816143720000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Dead",
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.25155822,
+        "sighting_long_wgs84": 152.96184157000002
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1090124,
       "geometry": {
         "type": "Point",
@@ -26,117 +49,25 @@
     },
     {
       "type": "Feature",
-      "id": 1100567,
+      "id": 1100569,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.08119007071215,
-          -27.508496560187432
+          152.9891096998179,
+          -27.29178879987251
         ]
       },
       "properties": {
-        "locality": "Camp Hill",
-        "objectid": 1100567,
-        "globalid": "{C0FAF601-0CA5-413B-84FB-88F61CBD8AE5}",
-        "sighttime": 1786483200000,
-        "joeypresent": "No",
+        "locality": "Lawnton",
+        "objectid": 1100569,
+        "globalid": "{6F6451E7-2970-45FE-83A4-7347540C22E6}",
+        "sighttime": 1786584900000,
+        "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.508496560000001,
-        "sighting_long_wgs84": 153.08119006999999
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1105369,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.08363243456111,
-          -27.510825061475771
-        ]
-      },
-      "properties": {
-        "locality": "Carina Heights",
-        "objectid": 1105369,
-        "globalid": "{317909A1-6BCB-4D40-8604-49745446C485}",
-        "sighttime": 1786485480000,
-        "joeypresent": "Yes",
-        "numberofkoala": 2,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.510825059999998,
-        "sighting_long_wgs84": 153.08363242999999
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1097362,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "locality": null,
-        "objectid": 1097362,
-        "globalid": "{C789EC59-A013-4F77-87A3-C2E07AE19B9A}",
-        "sighttime": 1786495560000,
-        "joeypresent": null,
-        "numberofkoala": null,
-        "koalacondifinal": null,
-        "lga": null,
-        "sighting_lat_wgs84": null,
-        "sighting_long_wgs84": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1102568,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.54999059978329,
-          -23.364931699761026
-        ]
-      },
-      "properties": {
-        "locality": "Koongal",
-        "objectid": 1102568,
-        "globalid": "{41C487AE-8332-4CE9-9CD3-9A2DC2F28005}",
-        "sighttime": 1786453560000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Rockhampton Regional",
-        "sighting_lat_wgs84": -23.3649317,
-        "sighting_long_wgs84": 150.5499906
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1097363,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "locality": null,
-        "objectid": 1097363,
-        "globalid": "{FC6D9455-08B8-4D61-81A8-1D1B588449C3}",
-        "sighttime": 1786504380000,
-        "joeypresent": null,
-        "numberofkoala": null,
-        "koalacondifinal": null,
-        "lga": null,
-        "sighting_lat_wgs84": null,
-        "sighting_long_wgs84": null
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.291788799999999,
+        "sighting_long_wgs84": 152.9891097
       }
     },
     {
