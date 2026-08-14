@@ -49,25 +49,140 @@
     },
     {
       "type": "Feature",
-      "id": 1100569,
+      "id": 1102571,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.9891096998179,
-          -27.29178879987251
+          153.11056453404018,
+          -27.538647458875911
         ]
       },
       "properties": {
-        "locality": "Lawnton",
-        "objectid": 1100569,
-        "globalid": "{6F6451E7-2970-45FE-83A4-7347540C22E6}",
-        "sighttime": 1786584900000,
-        "joeypresent": "Not Sure",
+        "locality": "Mansfield",
+        "objectid": 1102571,
+        "globalid": "{AB3720E5-4C87-4A92-B21D-0D7CBADA9D07}",
+        "sighttime": 1786659540000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.53864746,
+        "sighting_long_wgs84": 153.11056453
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1096563,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1096563,
+        "globalid": "{01B95401-B777-4D2B-84C2-79D9909107B2}",
+        "sighttime": 1786661940000,
+        "joeypresent": null,
+        "numberofkoala": null,
+        "koalacondifinal": null,
+        "lga": null,
+        "sighting_lat_wgs84": null,
+        "sighting_long_wgs84": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1099369,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1099369,
+        "globalid": "{FC3CC998-35A6-4F79-86DB-9801AD1C5F2A}",
+        "sighttime": 1786670700000,
+        "joeypresent": null,
+        "numberofkoala": null,
+        "koalacondifinal": null,
+        "lga": null,
+        "sighting_lat_wgs84": null,
+        "sighting_long_wgs84": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1100570,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.02400700012279,
+          -27.259519499855504
+        ]
+      },
+      "properties": {
+        "locality": "Griffin",
+        "objectid": 1100570,
+        "globalid": "{DF53444D-B4ED-4799-9E6B-135598AD45EE}",
+        "sighttime": 1786669620000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.2595195,
+        "sighting_long_wgs84": 153.02400700000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1105372,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.97995736276769,
+          -27.237086859219303
+        ]
+      },
+      "properties": {
+        "locality": "Kallangur",
+        "objectid": 1105372,
+        "globalid": "{49D6BEC8-620E-469A-977C-E8534EE76DAD}",
+        "sighttime": 1786660860000,
+        "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.291788799999999,
-        "sighting_long_wgs84": 152.9891097
+        "sighting_lat_wgs84": -27.237086859999998,
+        "sighting_long_wgs84": 152.97995735999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1099370,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1099370,
+        "globalid": "{71D5B0C3-579E-4844-83CF-706C908E12E9}",
+        "sighttime": 1786695120000,
+        "joeypresent": null,
+        "numberofkoala": null,
+        "koalacondifinal": null,
+        "lga": null,
+        "sighting_lat_wgs84": null,
+        "sighting_long_wgs84": null
       }
     },
     {
