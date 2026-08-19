@@ -49,48 +49,25 @@
     },
     {
       "type": "Feature",
-      "id": 1109699,
+      "id": 1108099,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.15258528769849,
-          -27.603295290885885
+          152.62115990047803,
+          -27.985272216791184
         ]
       },
       "properties": {
-        "locality": "Priestdale",
-        "objectid": 1109699,
-        "globalid": "{8A9A19D6-5933-4212-A18A-8D95F0A92E00}",
-        "sighttime": 1787008200000,
+        "locality": "Mount French",
+        "objectid": 1108099,
+        "globalid": "{956D1887-CFD3-414D-9660-48495A696832}",
+        "sighttime": 1787111640000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Logan City",
-        "sighting_lat_wgs84": -27.603295290000002,
-        "sighting_long_wgs84": 153.15258528999999
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1108899,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.61087119998331,
-          -27.42288709972679
-        ]
-      },
-      "properties": {
-        "locality": "Wivenhoe Pocket",
-        "objectid": 1108899,
-        "globalid": "{9EE830C4-E99E-4D1B-8E0C-47352D38B8CB}",
-        "sighttime": 1787036880000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.422887099999997,
-        "sighting_long_wgs84": 152.61087120000002
+        "lga": "Scenic Rim Regional",
+        "sighting_lat_wgs84": -27.985272219999999,
+        "sighting_long_wgs84": 152.62115990000001
       }
     },
     {
@@ -137,29 +114,6 @@
         "lga": "Somerset Regional",
         "sighting_lat_wgs84": -27.249523,
         "sighting_long_wgs84": 152.446191
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1062315,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.04422146640573,
-          -28.258204400714465
-        ]
-      },
-      "properties": {
-        "locality": "Morgan Park",
-        "objectid": 1062315,
-        "globalid": "{917BAEC0-C86B-4A85-AC8F-869A194E1AF4}",
-        "sighttime": 1787006280000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Injured/Sick",
-        "lga": "Southern Downs Regional",
-        "sighting_lat_wgs84": -28.2582044,
-        "sighting_long_wgs84": 152.04422147
       }
     }
   ]
