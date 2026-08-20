@@ -49,25 +49,25 @@
     },
     {
       "type": "Feature",
-      "id": 1108099,
+      "id": 1108100,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.62115990047803,
-          -27.985272216791184
+          153.09715155227599,
+          -27.551326854933496
         ]
       },
       "properties": {
-        "locality": "Mount French",
-        "objectid": 1108099,
-        "globalid": "{956D1887-CFD3-414D-9660-48495A696832}",
-        "sighttime": 1787111640000,
-        "joeypresent": "No",
+        "locality": "Wishart",
+        "objectid": 1108100,
+        "globalid": "{217C6B74-BB0F-4935-BC70-552718F9CB79}",
+        "sighttime": 1787205660000,
+        "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Scenic Rim Regional",
-        "sighting_lat_wgs84": -27.985272219999999,
-        "sighting_long_wgs84": 152.62115990000001
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.55132686,
+        "sighting_long_wgs84": 153.09715155000001
       }
     },
     {
