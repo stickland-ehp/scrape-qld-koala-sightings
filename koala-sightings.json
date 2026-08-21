@@ -49,25 +49,48 @@
     },
     {
       "type": "Feature",
-      "id": 1108100,
+      "id": 1107300,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.09715155227599,
-          -27.551326854933496
+          152.89071865057804,
+          -27.504058565981421
         ]
       },
       "properties": {
-        "locality": "Wishart",
-        "objectid": 1108100,
-        "globalid": "{217C6B74-BB0F-4935-BC70-552718F9CB79}",
-        "sighttime": 1787205660000,
+        "locality": "Pullenvale",
+        "objectid": 1107300,
+        "globalid": "{20A6D04B-FD2F-42B2-9980-26E50CA05928}",
+        "sighttime": 1787271360000,
         "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Dead",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.504058570000002,
+        "sighting_long_wgs84": 152.89071865
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1109701,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.04804180014688,
+          -27.551495700026191
+        ]
+      },
+      "properties": {
+        "locality": "Nathan",
+        "objectid": 1109701,
+        "globalid": "{EC4187CD-5FD8-4027-8DE0-069FD2FFCD25}",
+        "sighttime": 1787260860000,
+        "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.55132686,
-        "sighting_long_wgs84": 153.09715155000001
+        "sighting_lat_wgs84": -27.5514957,
+        "sighting_long_wgs84": 153.04804179999999
       }
     },
     {
