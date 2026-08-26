@@ -49,7 +49,7 @@
     },
     {
       "type": "Feature",
-      "id": 1109312,
+      "id": 1109323,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -59,9 +59,9 @@
       },
       "properties": {
         "locality": null,
-        "objectid": 1109312,
-        "globalid": "{3C31A7F4-8244-41A5-8F75-D90C9C9E441C}",
-        "sighttime": 1787600400000,
+        "objectid": 1109323,
+        "globalid": "{C0E125E2-0E1E-43DF-8F5F-15424195DA6C}",
+        "sighttime": 1787682180000,
         "joeypresent": null,
         "numberofkoala": null,
         "koalacondifinal": null,
@@ -72,30 +72,7 @@
     },
     {
       "type": "Feature",
-      "id": 1109317,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.36659682359607,
-          -27.930351522370238
-        ]
-      },
-      "properties": {
-        "locality": "Arundel",
-        "objectid": 1109317,
-        "globalid": "{604AE682-C844-4D89-A6A4-714BB4C44AC7}",
-        "sighttime": 1787634000000,
-        "joeypresent": "Yes",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.930351519999999,
-        "sighting_long_wgs84": 153.36659682000001
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1105712,
+      "id": 1102584,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -105,9 +82,9 @@
       },
       "properties": {
         "locality": null,
-        "objectid": 1105712,
-        "globalid": "{AEF74B58-37DE-4FC9-8CF0-AA7750389427}",
-        "sighttime": 1787600700000,
+        "objectid": 1102584,
+        "globalid": "{080F31A1-88FF-43CC-805B-26132146863E}",
+        "sighttime": 1787683140000,
         "joeypresent": null,
         "numberofkoala": null,
         "koalacondifinal": null,
@@ -118,7 +95,7 @@
     },
     {
       "type": "Feature",
-      "id": 1096574,
+      "id": 1109330,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -128,9 +105,9 @@
       },
       "properties": {
         "locality": null,
-        "objectid": 1096574,
-        "globalid": "{E1F1FF63-5734-4CE4-8756-F6AB6263BA4F}",
-        "sighttime": 1787601000000,
+        "objectid": 1109330,
+        "globalid": "{48729C41-0D2E-47C3-83B0-D28FF7D4DF91}",
+        "sighttime": 1787725740000,
         "joeypresent": null,
         "numberofkoala": null,
         "koalacondifinal": null,
@@ -141,76 +118,76 @@
     },
     {
       "type": "Feature",
-      "id": 1109313,
+      "id": 1096579,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.9641384851619,
-          -27.457154235786085
+          0,
+          0
         ]
       },
       "properties": {
-        "locality": "Bardon",
-        "objectid": 1109313,
-        "globalid": "{FBD058DD-5FE9-43AF-8F55-1AE9F3918356}",
-        "sighttime": 1787608200000,
+        "locality": null,
+        "objectid": 1096579,
+        "globalid": "{D9E0574E-033C-467C-809F-E7C83F6E8D93}",
+        "sighttime": 1787712540000,
+        "joeypresent": null,
+        "numberofkoala": null,
+        "koalacondifinal": null,
+        "lga": null,
+        "sighting_lat_wgs84": null,
+        "sighting_long_wgs84": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1100585,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.02962169971894,
+          -27.182454999792348
+        ]
+      },
+      "properties": {
+        "locality": "Deception Bay",
+        "objectid": 1100585,
+        "globalid": "{61A118A1-7F14-4CD4-9987-6F5259AEA878}",
+        "sighttime": 1787729040000,
         "joeypresent": "Not Sure",
         "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.457154240000001,
-        "sighting_long_wgs84": 152.96413848
+        "koalacondifinal": "Injured/Sick",
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.182455000000001,
+        "sighting_long_wgs84": 153.02962169999998
       }
     },
     {
       "type": "Feature",
-      "id": 1109314,
+      "id": 1102587,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.09075810675333,
-          -27.527240068685394
+          153.08568450736857,
+          -27.03808275742464
         ]
       },
       "properties": {
-        "locality": "Mount Gravatt East",
-        "objectid": 1109314,
-        "globalid": "{FAFC7592-9E6D-4024-98E8-82AFBBBE215F}",
-        "sighttime": 1787610960000,
+        "locality": "Toorbul",
+        "objectid": 1102587,
+        "globalid": "{28CD701D-51A2-46C3-BAF3-3F14AC88AA48}",
+        "sighttime": 1787703000000,
         "joeypresent": "Not Sure",
-        "numberofkoala": 1,
+        "numberofkoala": 4,
         "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.527240070000001,
-        "sighting_long_wgs84": 153.09075811
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.038082760000002,
+        "sighting_long_wgs84": 153.08568450999999
       }
     },
     {
       "type": "Feature",
-      "id": 1100583,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.98426740044914,
-          -26.46306379996831
-        ]
-      },
-      "properties": {
-        "locality": "Doonan",
-        "objectid": 1100583,
-        "globalid": "{46DD0BA2-26BC-4412-887C-E12F130B55BB}",
-        "sighttime": 1787638380000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Sunshine Coast Regional",
-        "sighting_lat_wgs84": -26.4630638,
-        "sighting_long_wgs84": 152.98426739999999
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1109320,
+      "id": 1109332,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -220,32 +197,9 @@
       },
       "properties": {
         "locality": null,
-        "objectid": 1109320,
-        "globalid": "{01B2843E-2551-4A8B-82D2-D28D4F6B9529}",
-        "sighttime": 1787645400000,
-        "joeypresent": null,
-        "numberofkoala": null,
-        "koalacondifinal": null,
-        "lga": null,
-        "sighting_lat_wgs84": null,
-        "sighting_long_wgs84": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1109321,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "locality": null,
-        "objectid": 1109321,
-        "globalid": "{9FC438F3-2CCE-4654-8AB3-15F47093B8F9}",
-        "sighttime": 1787646000000,
+        "objectid": 1109332,
+        "globalid": "{D2302B13-107D-4901-82F8-F1D01E953DED}",
+        "sighttime": 1787732100000,
         "joeypresent": null,
         "numberofkoala": null,
         "koalacondifinal": null,
