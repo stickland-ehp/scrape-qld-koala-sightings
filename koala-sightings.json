@@ -49,71 +49,25 @@
     },
     {
       "type": "Feature",
-      "id": 1096581,
+      "id": 1102593,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "locality": null,
-        "objectid": 1096581,
-        "globalid": "{0D1DE397-5452-451D-82CD-282E9E169CE2}",
-        "sighttime": 1787806560000,
-        "joeypresent": null,
-        "numberofkoala": null,
-        "koalacondifinal": null,
-        "lga": null,
-        "sighting_lat_wgs84": null,
-        "sighting_long_wgs84": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1102589,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "locality": null,
-        "objectid": 1102589,
-        "globalid": "{4EC2E2DE-EDCF-43D0-8858-67DAE27BA6D0}",
-        "sighttime": 1787816160000,
-        "joeypresent": null,
-        "numberofkoala": null,
-        "koalacondifinal": null,
-        "lga": null,
-        "sighting_lat_wgs84": null,
-        "sighting_long_wgs84": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1096583,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.04872270786086,
-          -27.540599390608239
+          152.42536590030176,
+          -27.238494099715844
         ]
       },
       "properties": {
         "locality": "@javascript error:TypeError: Cannot read property '0' of undefined in getSuburb.js:getSuburb",
-        "objectid": 1096583,
-        "globalid": "{2C3252E1-0CB2-4EFA-8738-FDB325E4CE47}",
-        "sighttime": 1787806260000,
-        "joeypresent": "No",
+        "objectid": 1102593,
+        "globalid": "{EC3291E1-2B16-4B69-9FA2-2905765F9B87}",
+        "sighttime": 1787867700000,
+        "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.540599390000001,
-        "sighting_long_wgs84": 153.04872270999999
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -27.238494099999997,
+        "sighting_long_wgs84": 152.4253659
       }
     },
     {
