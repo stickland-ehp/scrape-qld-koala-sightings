@@ -49,25 +49,117 @@
     },
     {
       "type": "Feature",
-      "id": 1102593,
+      "id": 1110099,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.42536590030176,
-          -27.238494099715844
+          153.1469461557233,
+          -27.647821803614157
         ]
       },
       "properties": {
-        "locality": "@javascript error:TypeError: Cannot read property '0' of undefined in getSuburb.js:getSuburb",
-        "objectid": 1102593,
-        "globalid": "{EC3291E1-2B16-4B69-9FA2-2905765F9B87}",
-        "sighttime": 1787867700000,
-        "joeypresent": "Not Sure",
+        "locality": null,
+        "objectid": 1110099,
+        "globalid": "{065824D1-74EC-43B6-8CEA-77E04C383CC9}",
+        "sighttime": 1787958000000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Injured/Sick",
+        "lga": null,
+        "sighting_lat_wgs84": -27.647821799999999,
+        "sighting_long_wgs84": 153.14694616
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1086653,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.92889970018322,
+          -27.281124100317619
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1086653,
+        "globalid": "{4C1F2745-F692-4CBC-B97D-67D32769E63B}",
+        "sighttime": 1787973960000,
+        "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.238494099999997,
-        "sighting_long_wgs84": 152.4253659
+        "lga": null,
+        "sighting_lat_wgs84": -27.2811241,
+        "sighting_long_wgs84": 152.92889969999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1086654,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.92704499982008,
+          -27.278165399882976
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1086654,
+        "globalid": "{AF9F9E4E-F17E-4918-B765-E5B104AF6683}",
+        "sighttime": 1787975160000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": null,
+        "sighting_lat_wgs84": -27.278165399999999,
+        "sighting_long_wgs84": 152.92704499999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1110100,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.92794500034361,
+          -27.27948489963903
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1110100,
+        "globalid": "{0DB16038-3865-489C-8266-E5196D3CAFE8}",
+        "sighttime": 1787975880000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": null,
+        "sighting_lat_wgs84": -27.2794849,
+        "sighting_long_wgs84": 152.92794499999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1086657,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.93736280034008,
+          -27.272827199662363
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1086657,
+        "globalid": "{C010175C-2383-4F3A-B183-BC7C66F76C53}",
+        "sighttime": 1787986260000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": null,
+        "sighting_lat_wgs84": -27.272827200000002,
+        "sighting_long_wgs84": 152.93736279999999
       }
     },
     {
@@ -114,6 +206,29 @@
         "lga": "Somerset Regional",
         "sighting_lat_wgs84": -27.249523,
         "sighting_long_wgs84": 152.446191
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1093058,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.93995089967427,
+          -27.273325899980872
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1093058,
+        "globalid": "{69DF59A2-034B-43EB-AB8C-314A6C44401C}",
+        "sighttime": 1787988360000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": null,
+        "sighting_lat_wgs84": -27.2733259,
+        "sighting_long_wgs84": 152.93995089999999
       }
     }
   ]
