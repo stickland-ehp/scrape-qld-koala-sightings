@@ -49,6 +49,29 @@
     },
     {
       "type": "Feature",
+      "id": 1093067,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.18396799143801,
+          -28.194171091262028
+        ]
+      },
+      "properties": {
+        "locality": "Binna Burra",
+        "objectid": 1093067,
+        "globalid": "{A3A9084A-5174-44C3-93F8-600B0DD5DB65}",
+        "sighttime": 1788217080000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": null,
+        "sighting_lat_wgs84": -28.194171089999998,
+        "sighting_long_wgs84": 153.18396798999999
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1092916,
       "geometry": {
         "type": "Point",
