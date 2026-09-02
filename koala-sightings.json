@@ -49,25 +49,25 @@
     },
     {
       "type": "Feature",
-      "id": 1093067,
+      "id": 1110910,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.18396799143801,
-          -28.194171091262028
+          153.08341468922444,
+          -27.510649771227452
         ]
       },
       "properties": {
-        "locality": "Binna Burra",
-        "objectid": 1093067,
-        "globalid": "{A3A9084A-5174-44C3-93F8-600B0DD5DB65}",
-        "sighttime": 1788217080000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
+        "locality": null,
+        "objectid": 1110910,
+        "globalid": "{061F6733-5013-4757-8943-19049EA25671}",
+        "sighttime": 1788309240000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
         "koalacondifinal": "Healthy",
-        "lga": null,
-        "sighting_lat_wgs84": -28.194171089999998,
-        "sighting_long_wgs84": 153.18396798999999
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.510649770000001,
+        "sighting_long_wgs84": 153.08341469000001
       }
     },
     {
