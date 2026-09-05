@@ -26,29 +26,6 @@
     },
     {
       "type": "Feature",
-      "id": 1090124,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.73249500012398,
-          -27.695535999823328
-        ]
-      },
-      "properties": {
-        "locality": "Purga",
-        "objectid": 1090124,
-        "globalid": "{1501FD2C-DA7B-4D25-8027-6398A8855A42}",
-        "sighttime": 1788486000000,
-        "joeypresent": "Yes",
-        "numberofkoala": 2,
-        "koalacondifinal": "Healthy",
-        "lga": "Ipswich City",
-        "sighting_lat_wgs84": -27.695536000000001,
-        "sighting_long_wgs84": 152.732495
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1092916,
       "geometry": {
         "type": "Point",
@@ -91,6 +68,52 @@
         "lga": "Somerset Regional",
         "sighting_lat_wgs84": -27.249523,
         "sighting_long_wgs84": 152.446191
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1118912,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.01261941838877,
+          -26.388650625419405
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1118912,
+        "globalid": "{D99F56E4-5455-4A9E-90BD-0E27302E2513}",
+        "sighttime": 1788558000000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": null,
+        "sighting_lat_wgs84": -26.388650630000001,
+        "sighting_long_wgs84": 153.01261941999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1113712,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.94012549623287,
+          -27.273255336924915
+        ]
+      },
+      "properties": {
+        "locality": "Joyner",
+        "objectid": 1113712,
+        "globalid": "{698B64B8-FC54-44CB-8127-B2D262B57465}",
+        "sighttime": 1788573840000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.273255339999999,
+        "sighting_long_wgs84": 152.94012549999999
       }
     }
   ]
