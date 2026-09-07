@@ -72,48 +72,48 @@
     },
     {
       "type": "Feature",
-      "id": 1114513,
+      "id": 1118116,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.96366070809316,
-          -27.253611133502169
+          152.9802805766069,
+          -27.236707439200064
         ]
       },
       "properties": {
-        "locality": null,
-        "objectid": 1114513,
-        "globalid": "{04D4F1C2-8FF8-4073-955A-653856A2FDCC}",
-        "sighttime": 1788652980000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
+        "locality": "Kallangur",
+        "objectid": 1118116,
+        "globalid": "{10C58023-2518-4605-B92D-5AE9D4D56FDA}",
+        "sighttime": 1788778980000,
+        "joeypresent": "Yes",
+        "numberofkoala": 4,
         "koalacondifinal": "Healthy",
         "lga": null,
-        "sighting_lat_wgs84": -27.253611129999999,
-        "sighting_long_wgs84": 152.96366071000003
+        "sighting_lat_wgs84": -27.23670744,
+        "sighting_long_wgs84": 152.98028058
       }
     },
     {
       "type": "Feature",
-      "id": 1119314,
+      "id": 1117316,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.02867621389925,
-          -27.251402729048124
+          152.90606858784255,
+          -27.391196853300453
         ]
       },
       "properties": {
-        "locality": "Mango Hill",
-        "objectid": 1119314,
-        "globalid": "{8010A4BC-675F-416C-85AF-5D79A7B43095}",
-        "sighttime": 1788656100000,
-        "joeypresent": "Yes",
-        "numberofkoala": 3,
+        "locality": "Ferny Hills",
+        "objectid": 1117316,
+        "globalid": "{FBD7CC70-68F6-483D-9AB3-28CA3FBBE51B}",
+        "sighttime": 1788795300000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.251402729999999,
-        "sighting_long_wgs84": 153.02867621000001
+        "lga": null,
+        "sighting_lat_wgs84": -27.39119685,
+        "sighting_long_wgs84": 152.90606859000002
       }
     }
   ]
