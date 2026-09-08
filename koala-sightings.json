@@ -72,29 +72,6 @@
     },
     {
       "type": "Feature",
-      "id": 1118116,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.9802805766069,
-          -27.236707439200064
-        ]
-      },
-      "properties": {
-        "locality": "Kallangur",
-        "objectid": 1118116,
-        "globalid": "{10C58023-2518-4605-B92D-5AE9D4D56FDA}",
-        "sighttime": 1788778980000,
-        "joeypresent": "Yes",
-        "numberofkoala": 4,
-        "koalacondifinal": "Healthy",
-        "lga": null,
-        "sighting_lat_wgs84": -27.23670744,
-        "sighting_long_wgs84": 152.98028058
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1117316,
       "geometry": {
         "type": "Point",
@@ -114,6 +91,52 @@
         "lga": null,
         "sighting_lat_wgs84": -27.39119685,
         "sighting_long_wgs84": 152.90606859000002
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1112915,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.98698590012825,
+          -27.291573799993945
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1112915,
+        "globalid": "{C307F0E2-D4E0-4ED1-B7FA-7313E2E0B83C}",
+        "sighttime": 1788823860000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": null,
+        "sighting_lat_wgs84": -27.291573799999998,
+        "sighting_long_wgs84": 152.98698589999998
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1112115,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.98752110020482,
+          -27.29438790037208
+        ]
+      },
+      "properties": {
+        "locality": "Strathpine",
+        "objectid": 1112115,
+        "globalid": "{FD23CBA6-97CD-4839-84B1-3C1F08648A9D}",
+        "sighttime": 1788826740000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": null,
+        "sighting_lat_wgs84": -27.2943879,
+        "sighting_long_wgs84": 152.98752110000001
       }
     }
   ]
