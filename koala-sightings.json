@@ -72,71 +72,48 @@
     },
     {
       "type": "Feature",
-      "id": 1117316,
+      "id": 1112516,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.90606858784255,
-          -27.391196853300453
+          153.44557387727599,
+          -28.105902572007274
         ]
       },
       "properties": {
-        "locality": "Ferny Hills",
-        "objectid": 1117316,
-        "globalid": "{FBD7CC70-68F6-483D-9AB3-28CA3FBBE51B}",
-        "sighttime": 1788795300000,
+        "locality": "Burleigh Heads",
+        "objectid": 1112516,
+        "globalid": "{0554CA3B-B939-4029-8D9B-11ECFE8CFB59}",
+        "sighttime": 1788901140000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": null,
-        "sighting_lat_wgs84": -27.39119685,
-        "sighting_long_wgs84": 152.90606859000002
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -28.105902569999998,
+        "sighting_long_wgs84": 153.44557388000001
       }
     },
     {
       "type": "Feature",
-      "id": 1112915,
+      "id": 1112116,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.98698590012825,
-          -27.291573799993945
+          152.41779749970993,
+          -27.24903310004926
         ]
       },
       "properties": {
-        "locality": null,
-        "objectid": 1112915,
-        "globalid": "{C307F0E2-D4E0-4ED1-B7FA-7313E2E0B83C}",
-        "sighttime": 1788823860000,
-        "joeypresent": "Yes",
-        "numberofkoala": 2,
+        "locality": "Esk",
+        "objectid": 1112116,
+        "globalid": "{DBEFA43A-651D-4303-AC4D-8950FB0FA75B}",
+        "sighttime": 1788903600000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": null,
-        "sighting_lat_wgs84": -27.291573799999998,
-        "sighting_long_wgs84": 152.98698589999998
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1112115,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.98752110020482,
-          -27.29438790037208
-        ]
-      },
-      "properties": {
-        "locality": "Strathpine",
-        "objectid": 1112115,
-        "globalid": "{FD23CBA6-97CD-4839-84B1-3C1F08648A9D}",
-        "sighttime": 1788826740000,
-        "joeypresent": "Yes",
-        "numberofkoala": 2,
-        "koalacondifinal": "Healthy",
-        "lga": null,
-        "sighting_lat_wgs84": -27.2943879,
-        "sighting_long_wgs84": 152.98752110000001
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -27.249033099999998,
+        "sighting_long_wgs84": 152.41779750000001
       }
     }
   ]
