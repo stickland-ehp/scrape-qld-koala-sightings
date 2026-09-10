@@ -72,48 +72,25 @@
     },
     {
       "type": "Feature",
-      "id": 1112516,
+      "id": 1113720,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.44557387727599,
-          -28.105902572007274
+          152.60924733161386,
+          -27.395897861283938
         ]
       },
       "properties": {
-        "locality": "Burleigh Heads",
-        "objectid": 1112516,
-        "globalid": "{0554CA3B-B939-4029-8D9B-11ECFE8CFB59}",
-        "sighttime": 1788901140000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -28.105902569999998,
-        "sighting_long_wgs84": 153.44557388000001
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1112116,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.41779749970993,
-          -27.24903310004926
-        ]
-      },
-      "properties": {
-        "locality": "Esk",
-        "objectid": 1112116,
-        "globalid": "{DBEFA43A-651D-4303-AC4D-8950FB0FA75B}",
-        "sighttime": 1788903600000,
+        "locality": "Lake Wivenhoe",
+        "objectid": 1113720,
+        "globalid": "{72A8F7DB-00F5-443D-94BF-CE374D2D4918}",
+        "sighttime": 1789006020000,
         "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.249033099999998,
-        "sighting_long_wgs84": 152.41779750000001
+        "sighting_lat_wgs84": -27.395897860000002,
+        "sighting_long_wgs84": 152.60924732999999
       }
     }
   ]
