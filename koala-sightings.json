@@ -72,25 +72,25 @@
     },
     {
       "type": "Feature",
-      "id": 1113720,
+      "id": 1112121,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.60924733161386,
-          -27.395897861283938
+          152.6598467977079,
+          -27.466223464119818
         ]
       },
       "properties": {
-        "locality": "Lake Wivenhoe",
-        "objectid": 1113720,
-        "globalid": "{72A8F7DB-00F5-443D-94BF-CE374D2D4918}",
-        "sighttime": 1789006020000,
-        "joeypresent": "Not Sure",
+        "locality": "Fernvale",
+        "objectid": 1112121,
+        "globalid": "{3DC4600F-99A6-452A-AB84-A81FBB2D45CA}",
+        "sighttime": 1789105980000,
+        "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.395897860000002,
-        "sighting_long_wgs84": 152.60924732999999
+        "sighting_lat_wgs84": -27.466223460000002,
+        "sighting_long_wgs84": 152.6598468
       }
     }
   ]
