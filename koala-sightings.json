@@ -72,25 +72,48 @@
     },
     {
       "type": "Feature",
-      "id": 1112121,
+      "id": 1120123,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.6598467977079,
-          -27.466223464119818
+          152.93508360737766,
+          -27.274963776686302
         ]
       },
       "properties": {
-        "locality": "Fernvale",
-        "objectid": 1112121,
-        "globalid": "{3DC4600F-99A6-452A-AB84-A81FBB2D45CA}",
-        "sighttime": 1789105980000,
+        "locality": null,
+        "objectid": 1120123,
+        "globalid": "{4B652758-105E-46E6-B0AE-3EF99BE32E56}",
+        "sighttime": 1789187460000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.466223460000002,
-        "sighting_long_wgs84": 152.6598468
+        "lga": null,
+        "sighting_lat_wgs84": -27.27496378,
+        "sighting_long_wgs84": 152.93508360999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1116923,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.08135064546747,
+          -27.5083904126021
+        ]
+      },
+      "properties": {
+        "locality": "Camp Hill",
+        "objectid": 1116923,
+        "globalid": "{B9E577C9-0C35-49E3-BB9B-FBB51DDA9053}",
+        "sighttime": 1789192980000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.508390409999997,
+        "sighting_long_wgs84": 153.08135064999999
       }
     }
   ]
