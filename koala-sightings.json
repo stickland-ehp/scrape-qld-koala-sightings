@@ -72,48 +72,186 @@
     },
     {
       "type": "Feature",
-      "id": 1120123,
+      "id": 1111324,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.93508360737766,
-          -27.274963776686302
+          153.08294010027669,
+          -27.516047699951169
         ]
       },
       "properties": {
-        "locality": null,
-        "objectid": 1120123,
-        "globalid": "{4B652758-105E-46E6-B0AE-3EF99BE32E56}",
-        "sighttime": 1789187460000,
+        "locality": "Carina Heights",
+        "objectid": 1111324,
+        "globalid": "{55733F4C-D960-4526-B925-2A0C8B856AD4}",
+        "sighttime": 1789266120000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": null,
-        "sighting_lat_wgs84": -27.27496378,
-        "sighting_long_wgs84": 152.93508360999999
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.516047699999998,
+        "sighting_long_wgs84": 153.0829401
       }
     },
     {
       "type": "Feature",
-      "id": 1116923,
+      "id": 1113327,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.08135064546747,
-          -27.5083904126021
+          153.08614789971463,
+          -27.509344899801636
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1113327,
+        "globalid": "{08507D09-CF1F-4C3A-87FD-B582F02E5DE6}",
+        "sighttime": 1789268700000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.509344899999999,
+        "sighting_long_wgs84": 153.08614789999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1120128,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.89548575371055,
+          -27.599838930723536
+        ]
+      },
+      "properties": {
+        "locality": "Drayton",
+        "objectid": 1120128,
+        "globalid": "{044A96E3-A9C8-4394-852D-DAAEA5B5B241}",
+        "sighttime": 1789261200000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Toowoomba Regional",
+        "sighting_lat_wgs84": -27.599838929999997,
+        "sighting_long_wgs84": 151.89548575000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1113727,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.89471327802468,
+          -27.598812068327447
+        ]
+      },
+      "properties": {
+        "locality": "Drayton",
+        "objectid": 1113727,
+        "globalid": "{6AFE08CE-3E33-4662-8A49-9A89AD2AE814}",
+        "sighttime": 1789261500000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Toowoomba Regional",
+        "sighting_lat_wgs84": -27.598812070000001,
+        "sighting_long_wgs84": 151.89471327999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1112126,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.08512089986777,
+          -27.509183399716001
         ]
       },
       "properties": {
         "locality": "Camp Hill",
-        "objectid": 1116923,
-        "globalid": "{B9E577C9-0C35-49E3-BB9B-FBB51DDA9053}",
-        "sighttime": 1789192980000,
-        "joeypresent": "Not Sure",
+        "objectid": 1112126,
+        "globalid": "{67260735-0391-46B9-B17A-B92E8FC4A6A2}",
+        "sighttime": 1789269120000,
+        "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.508390409999997,
-        "sighting_long_wgs84": 153.08135064999999
+        "sighting_lat_wgs84": -27.509183400000001,
+        "sighting_long_wgs84": 153.08512090000002
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1118927,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.08330730012378,
+          -27.51141180014756
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1118927,
+        "globalid": "{E0D6CBB6-49B8-4878-9ADC-C9D3E496ED27}",
+        "sighttime": 1789269600000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.511411800000001,
+        "sighting_long_wgs84": 153.0833073
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1111326,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.07743100033716,
+          -27.515468000183237
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1111326,
+        "globalid": "{34FCB189-C58D-4C94-8CB9-87D61A07F623}",
+        "sighttime": 1789271340000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.515467999999998,
+        "sighting_long_wgs84": 153.07743100000002
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1120129,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0412532306465,
+          -27.537030844104383
+        ]
+      },
+      "properties": {
+        "locality": "Nathan",
+        "objectid": 1120129,
+        "globalid": "{D32E8874-A039-406A-87DF-DF325D0C1B1C}",
+        "sighttime": 1789282800000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.53703084,
+        "sighting_long_wgs84": 153.04125323
       }
     }
   ]
