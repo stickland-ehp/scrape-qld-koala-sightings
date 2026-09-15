@@ -72,25 +72,48 @@
     },
     {
       "type": "Feature",
-      "id": 1113330,
+      "id": 1111328,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.0465297783185,
-          -27.541977636962763
+          152.9802670452838,
+          -27.237602514223422
         ]
       },
       "properties": {
-        "locality": "Nathan",
-        "objectid": 1113330,
-        "globalid": "{38D89177-E518-4642-8079-839F83EC5C59}",
-        "sighttime": 1789377660000,
-        "joeypresent": "No",
-        "numberofkoala": 2,
+        "locality": "Kallangur",
+        "objectid": 1111328,
+        "globalid": "{63CF8975-0039-411A-B909-91AD347477D9}",
+        "sighttime": 1789423200000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.541977639999999,
-        "sighting_long_wgs84": 153.04652978000001
+        "lga": null,
+        "sighting_lat_wgs84": -27.237602510000002,
+        "sighting_long_wgs84": 152.98026705000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1118931,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.01632995458559,
+          -26.372693267832549
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1118931,
+        "globalid": "{DDEB79CE-0269-4868-AA15-F03654322D78}",
+        "sighttime": 1789445700000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": null,
+        "sighting_lat_wgs84": -26.372693269999999,
+        "sighting_long_wgs84": 153.01632996000001
       }
     }
   ]
