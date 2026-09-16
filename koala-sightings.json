@@ -3,48 +3,48 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1105350,
+      "id": 1063651,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.96184157203209,
-          -27.251558219439481
+          152.62071226907364,
+          -27.305547226143524
         ]
       },
       "properties": {
-        "locality": "Kurwongbah",
-        "objectid": 1105350,
-        "globalid": "{9C5BD43D-7416-4CA9-832C-C2EE42C5FD85}",
-        "sighttime": 1816143720000,
-        "joeypresent": "No",
+        "locality": "Dundas",
+        "objectid": 1063651,
+        "globalid": "{3C14A054-8EA3-4B00-BEED-035C21B23793}",
+        "sighttime": 1789952100000,
+        "joeypresent": "Not Sure",
         "numberofkoala": 1,
-        "koalacondifinal": "Dead",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.25155822,
-        "sighting_long_wgs84": 152.96184157000002
+        "koalacondifinal": "Healthy",
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -27.305547229999998,
+        "sighting_long_wgs84": 152.62071227000001
       }
     },
     {
       "type": "Feature",
-      "id": 1092916,
+      "id": 1086667,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.95243857986478,
-          -27.2444408905126
+          153.07173100031488,
+          -27.499980000210748
         ]
       },
       "properties": {
-        "locality": "Kurwongbah",
-        "objectid": 1092916,
-        "globalid": "{205CAEFB-4FF9-42B0-AFDB-95C57E393972}",
-        "sighttime": 1831937340000,
+        "locality": "Coorparoo",
+        "objectid": 1086667,
+        "globalid": "{4F62FE24-A41A-42A6-8A5F-D01BF1B5D053}",
+        "sighttime": 1790376120000,
         "joeypresent": "Yes",
         "numberofkoala": 2,
         "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.24444089,
-        "sighting_long_wgs84": 152.95243858000001
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.499980000000001,
+        "sighting_long_wgs84": 153.071731
       }
     },
     {
@@ -72,48 +72,140 @@
     },
     {
       "type": "Feature",
-      "id": 1111328,
+      "id": 1092916,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.9802670452838,
-          -27.237602514223422
+          152.95243857986478,
+          -27.2444408905126
         ]
       },
       "properties": {
-        "locality": "Kallangur",
-        "objectid": 1111328,
-        "globalid": "{63CF8975-0039-411A-B909-91AD347477D9}",
-        "sighttime": 1789423200000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
+        "locality": "Kurwongbah",
+        "objectid": 1092916,
+        "globalid": "{205CAEFB-4FF9-42B0-AFDB-95C57E393972}",
+        "sighttime": 1831937340000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
         "koalacondifinal": "Healthy",
-        "lga": null,
-        "sighting_lat_wgs84": -27.237602510000002,
-        "sighting_long_wgs84": 152.98026705000001
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.24444089,
+        "sighting_long_wgs84": 152.95243858000001
       }
     },
     {
       "type": "Feature",
-      "id": 1118931,
+      "id": 1105350,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.01632995458559,
-          -26.372693267832549
+          152.96184157203209,
+          -27.251558219439481
+        ]
+      },
+      "properties": {
+        "locality": "Kurwongbah",
+        "objectid": 1105350,
+        "globalid": "{9C5BD43D-7416-4CA9-832C-C2EE42C5FD85}",
+        "sighttime": 1816143720000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Dead",
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.25155822,
+        "sighting_long_wgs84": 152.96184157000002
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1112532,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.07750439988237,
+          -27.538728699882661
         ]
       },
       "properties": {
         "locality": null,
-        "objectid": 1118931,
-        "globalid": "{DDEB79CE-0269-4868-AA15-F03654322D78}",
-        "sighttime": 1789445700000,
-        "joeypresent": "Not Sure",
+        "objectid": 1112532,
+        "globalid": "{9F3460DF-EF49-49D4-9AA4-F16680C4AD85}",
+        "sighttime": 1789507020000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.5387287,
+        "sighting_long_wgs84": 153.07750439999998
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1112533,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.06537972979649,
+          -27.549713674681726
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1112533,
+        "globalid": "{EDC3416F-D8D3-4E5C-BF4E-1748FFE26A00}",
+        "sighttime": 1789512360000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.549713670000003,
+        "sighting_long_wgs84": 153.06537973000002
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1113733,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.95048271123434,
+          -27.344114777317728
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1113733,
+        "globalid": "{6BC253C2-A77F-415B-8B2D-B90F3758BDFA}",
+        "sighttime": 1789501800000,
+        "joeypresent": "Yes",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": null,
-        "sighting_lat_wgs84": -26.372693269999999,
-        "sighting_long_wgs84": 153.01632996000001
+        "sighting_lat_wgs84": -27.344114780000002,
+        "sighting_long_wgs84": 152.95048270999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1118933,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.08946779991689,
+          -27.535252899874457
+        ]
+      },
+      "properties": {
+        "locality": "Mount Gravatt East",
+        "objectid": 1118933,
+        "globalid": "{6B6F489C-B57D-45CA-9671-0E630C533CDC}",
+        "sighttime": 1789503180000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.5352529,
+        "sighting_long_wgs84": 153.08946780000002
       }
     }
   ]
