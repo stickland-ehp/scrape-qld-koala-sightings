@@ -3,48 +3,25 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1116939,
+      "id": 1118944,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.05503799995387,
-          -27.54280899962966
+          153.06579511078382,
+          -27.905157592958371
         ]
       },
       "properties": {
-        "locality": "Nathan",
-        "objectid": 1116939,
-        "globalid": "{BE4BA770-85BD-43EB-8FC8-AB1B97E37B86}",
-        "sighttime": 1789698900000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.542808999999998,
-        "sighting_long_wgs84": 153.055038
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1111337,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.52888760003179,
-          -27.34678619963794
-        ]
-      },
-      "properties": {
-        "locality": "Moombra",
-        "objectid": 1111337,
-        "globalid": "{F54B822E-2620-4320-9789-941B8279EA5E}",
-        "sighttime": 1789701360000,
+        "locality": "Mundoolun",
+        "objectid": 1118944,
+        "globalid": "{2465980A-C7BC-485A-8D8B-C7A192ECA7E5}",
+        "sighttime": 1789802640000,
         "joeypresent": "Yes",
-        "numberofkoala": 1,
+        "numberofkoala": 2,
         "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.346786199999997,
-        "sighting_long_wgs84": 152.52888759999999
+        "lga": "Logan City",
+        "sighting_lat_wgs84": -27.905157590000002,
+        "sighting_long_wgs84": 153.06579510999998
       }
     },
     {
