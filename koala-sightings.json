@@ -3,25 +3,117 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1118944,
+      "id": 1118945,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.06579511078382,
-          -27.905157592958371
+          153.08014619960588,
+          -27.507322299663301
         ]
       },
       "properties": {
-        "locality": "Mundoolun",
-        "objectid": 1118944,
-        "globalid": "{2465980A-C7BC-485A-8D8B-C7A192ECA7E5}",
-        "sighttime": 1789802640000,
+        "locality": "Camp Hill",
+        "objectid": 1118945,
+        "globalid": "{B723DC4D-DC49-40AC-8417-100C9976FFA5}",
+        "sighttime": 1789858080000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.507322300000002,
+        "sighting_long_wgs84": 153.0801462
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1110539,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.25670514503352,
+          -27.996561844359537
+        ]
+      },
+      "properties": {
+        "locality": "Clagiraba",
+        "objectid": 1110539,
+        "globalid": "{1E3E4D7B-1233-4718-96FF-3A7AE9F301B5}",
+        "sighttime": 1789860120000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.996561840000002,
+        "sighting_long_wgs84": 153.25670514000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1113746,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.08058709993389,
+          -27.507412700284899
+        ]
+      },
+      "properties": {
+        "locality": "Camp Hill",
+        "objectid": 1113746,
+        "globalid": "{CEA242FE-8F4B-4671-8A1C-70C91832865E}",
+        "sighttime": 1789862580000,
         "joeypresent": "Yes",
         "numberofkoala": 2,
         "koalacondifinal": "Healthy",
-        "lga": "Logan City",
-        "sighting_lat_wgs84": -27.905157590000002,
-        "sighting_long_wgs84": 153.06579510999998
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.5074127,
+        "sighting_long_wgs84": 153.0805871
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1112150,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.94194269372952,
+          -27.454728244983613
+        ]
+      },
+      "properties": {
+        "locality": "The Gap",
+        "objectid": 1112150,
+        "globalid": "{4AD95666-A471-49D8-8D43-2AB1790EDDD0}",
+        "sighttime": 1789884780000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.454728249999999,
+        "sighting_long_wgs84": 152.94194268999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1120916,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.18907294921272,
+          -27.700122444644069
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1120916,
+        "globalid": "{F95604EC-1582-4614-A762-CFABB97C97FA}",
+        "sighttime": 1789891140000,
+        "joeypresent": "Yes",
+        "numberofkoala": 3,
+        "koalacondifinal": "Healthy",
+        "lga": null,
+        "sighting_lat_wgs84": -27.700122439999998,
+        "sighting_long_wgs84": 153.18907295
       }
     },
     {
