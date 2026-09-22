@@ -3,25 +3,25 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1063651,
+      "id": 1121720,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.62071226907364,
-          -27.305547226143524
+          153.09000010023178,
+          -27.534827100279195
         ]
       },
       "properties": {
-        "locality": "Dundas",
-        "objectid": 1063651,
-        "globalid": "{3C14A054-8EA3-4B00-BEED-035C21B23793}",
-        "sighttime": 1789952100000,
+        "locality": "Mount Gravatt East",
+        "objectid": 1121720,
+        "globalid": "{57502C94-32A6-4D28-8113-741BEF0D832A}",
+        "sighttime": 1790021100000,
         "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.305547229999998,
-        "sighting_long_wgs84": 152.62071227000001
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.534827100000001,
+        "sighting_long_wgs84": 153.0900001
       }
     },
     {
