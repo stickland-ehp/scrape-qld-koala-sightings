@@ -3,29 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1113750,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.61235743387482,
-          -27.68902571267612
-        ]
-      },
-      "properties": {
-        "locality": "Ebenezer",
-        "objectid": 1113750,
-        "globalid": "{B0E2E16D-A2EC-4F7B-855F-2043B6058B3E}",
-        "sighttime": 1790107260000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Ipswich City",
-        "sighting_lat_wgs84": -27.689025709999999,
-        "sighting_long_wgs84": 152.61235743
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1086667,
       "geometry": {
         "type": "Point",
