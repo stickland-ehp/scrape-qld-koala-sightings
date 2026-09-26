@@ -3,25 +3,71 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1112152,
+      "id": 1110553,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.9090359864324,
-          -27.297022583234632
+          153.08145199878771,
+          -27.508109528347532
         ]
       },
       "properties": {
-        "locality": null,
-        "objectid": 1112152,
-        "globalid": "{A034C853-E34B-47B2-BD08-7BE6AEE0C00A}",
-        "sighttime": 1790294280000,
+        "locality": "Camp Hill",
+        "objectid": 1110553,
+        "globalid": "{316CAC0D-E553-4B39-AD07-0B917D13BBE1}",
+        "sighttime": 1790380800000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": null,
-        "sighting_lat_wgs84": -27.29702258,
-        "sighting_long_wgs84": 152.90903598999998
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.508109529999999,
+        "sighting_long_wgs84": 153.08145200000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1086679,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.08057026281048,
+          -27.507603023388484
+        ]
+      },
+      "properties": {
+        "locality": "Camp Hill",
+        "objectid": 1086679,
+        "globalid": "{A9F1E94E-2962-4D15-ABF9-B09211D734F0}",
+        "sighttime": 1790380620000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.507603020000001,
+        "sighting_long_wgs84": 153.08057026
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1122516,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.08077802966099,
+          -27.509365875777004
+        ]
+      },
+      "properties": {
+        "locality": "Camp Hill",
+        "objectid": 1122516,
+        "globalid": "{D3D9345D-276E-4CDB-9877-299563878FB6}",
+        "sighttime": 1790381940000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.509365880000001,
+        "sighting_long_wgs84": 153.08077803
       }
     },
     {
