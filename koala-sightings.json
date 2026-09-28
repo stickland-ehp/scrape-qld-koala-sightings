@@ -3,52 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1122519,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.00439640916122,
-          -27.27033019035321
-        ]
-      },
-      "properties": {
-        "locality": null,
-        "objectid": 1122519,
-        "globalid": "{30D3C9E7-9192-43C4-88AB-A2F35E69D62A}",
-        "sighttime": 1790477040000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": null,
-        "sighting_lat_wgs84": -27.270330189999999,
-        "sighting_long_wgs84": 153.00439641
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1122523,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.32567572372812,
-          -27.906576941224184
-        ]
-      },
-      "properties": {
-        "locality": "Helensvale",
-        "objectid": 1122523,
-        "globalid": "{ED6FA2B6-EE4D-499C-8712-10880B794D44}",
-        "sighttime": 1790492400000,
-        "joeypresent": "Yes",
-        "numberofkoala": 2,
-        "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.906576940000001,
-        "sighting_long_wgs84": 153.32567572000002
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1086921,
       "geometry": {
         "type": "Point",
@@ -114,52 +68,6 @@
         "lga": "Moreton Bay City",
         "sighting_lat_wgs84": -27.25155822,
         "sighting_long_wgs84": 152.96184157000002
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1122121,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.04649471976791,
-          -27.542178260446619
-        ]
-      },
-      "properties": {
-        "locality": "Nathan",
-        "objectid": 1122121,
-        "globalid": "{CA816E79-B6E3-4E46-87BA-6D0431702175}",
-        "sighttime": 1790506620000,
-        "joeypresent": "Yes",
-        "numberofkoala": 2,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.54217826,
-        "sighting_long_wgs84": 153.04649472
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1122922,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.22026923905608,
-          -27.958429607860701
-        ]
-      },
-      "properties": {
-        "locality": "Tamborine Mountain",
-        "objectid": 1122922,
-        "globalid": "{970A8DF1-30FD-4BDA-8C2B-91D880AD4AB1}",
-        "sighttime": 1790496000000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Scenic Rim Regional",
-        "sighting_lat_wgs84": -27.95842961,
-        "sighting_long_wgs84": 153.22026923999999
       }
     }
   ]
