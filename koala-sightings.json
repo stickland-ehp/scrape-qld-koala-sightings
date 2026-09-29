@@ -3,6 +3,75 @@
   "features": [
     {
       "type": "Feature",
+      "id": 1122126,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.89999610587935,
+          -27.644949751915505
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1122126,
+        "globalid": "{6C635C6F-1527-48E0-A59C-0920E5E5D95B}",
+        "sighttime": 1790634300000,
+        "joeypresent": "No",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": null,
+        "sighting_lat_wgs84": -27.644949749999999,
+        "sighting_long_wgs84": 152.89999610999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1122928,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.36651243316334,
+          -27.933066340353196
+        ]
+      },
+      "properties": {
+        "locality": "Arundel",
+        "objectid": 1122928,
+        "globalid": "{5A7F53AD-9749-4880-8766-054CE6DD0266}",
+        "sighttime": 1790660760000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.93306634,
+        "sighting_long_wgs84": 153.36651243
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1122528,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.61864131188224,
+          -27.420503567639756
+        ]
+      },
+      "properties": {
+        "locality": "Wivenhoe Pocket",
+        "objectid": 1122528,
+        "globalid": "{19C967A8-6151-4BE7-8A09-8846A3578DFA}",
+        "sighttime": 1790641980000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -27.420503570000001,
+        "sighting_long_wgs84": 152.61864130999999
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1086921,
       "geometry": {
         "type": "Point",
