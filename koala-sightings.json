@@ -3,48 +3,25 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1122529,
+      "id": 1125322,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.62947569489467,
-          -27.461064271956079
+          153.10000704952753,
+          -27.549221062063449
         ]
       },
       "properties": {
-        "locality": null,
-        "objectid": 1122529,
-        "globalid": "{6E57F792-3160-470C-B53D-86936357D75C}",
-        "sighttime": 1790718660000,
-        "joeypresent": "No",
+        "locality": "Wishart",
+        "objectid": 1125322,
+        "globalid": "{193FEA4E-29D0-427F-890C-E05286A1C668}",
+        "sighttime": 1790841600000,
+        "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.461064269999998,
-        "sighting_long_wgs84": 152.6294757
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1110559,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.048723847823,
-          -27.828996404807562
-        ]
-      },
-      "properties": {
-        "locality": "Jimboomba",
-        "objectid": 1110559,
-        "globalid": "{84FA4A08-7122-4369-A2F5-EB66FD344CD6}",
-        "sighttime": 1790754300000,
-        "joeypresent": "Yes",
-        "numberofkoala": 2,
-        "koalacondifinal": "Healthy",
-        "lga": "Logan City",
-        "sighting_lat_wgs84": -27.828996400000001,
-        "sighting_long_wgs84": 153.04872384999999
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.549221060000001,
+        "sighting_long_wgs84": 153.10000704999999
       }
     },
     {
