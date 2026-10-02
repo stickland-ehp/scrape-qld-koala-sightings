@@ -3,25 +3,48 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1125322,
+      "id": 1124523,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.10000704952753,
-          -27.549221062063449
+          152.49875968374241,
+          -28.044887838885465
         ]
       },
       "properties": {
-        "locality": "Wishart",
-        "objectid": 1125322,
-        "globalid": "{193FEA4E-29D0-427F-890C-E05286A1C668}",
-        "sighttime": 1790841600000,
-        "joeypresent": "Not Sure",
+        "locality": null,
+        "objectid": 1124523,
+        "globalid": "{666747FA-A807-48E6-9A10-F66EA39A6646}",
+        "sighttime": 1790922180000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": "Scenic Rim Regional",
+        "sighting_lat_wgs84": -28.044887839999998,
+        "sighting_long_wgs84": 152.49875968000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1122933,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.01555351732932,
+          -26.394585338809986
+        ]
+      },
+      "properties": {
+        "locality": "Tewantin",
+        "objectid": 1122933,
+        "globalid": "{7BF2EBAE-57AB-4853-8786-227A1A5B05A8}",
+        "sighttime": 1790940120000,
+        "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.549221060000001,
-        "sighting_long_wgs84": 153.10000704999999
+        "lga": "Noosa Shire",
+        "sighting_lat_wgs84": -26.394585339999999,
+        "sighting_long_wgs84": 153.01555352
       }
     },
     {
