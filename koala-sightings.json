@@ -3,71 +3,71 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1132125,
+      "id": 1128127,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.93798987201916,
-          -27.310537068656515
+          153.44805819334704,
+          -28.096952310603903
         ]
       },
       "properties": {
-        "locality": "Cashmere",
-        "objectid": 1132125,
-        "globalid": "{152A6079-D939-4B65-AE47-2B0595537934}",
-        "sighttime": 1791316800000,
-        "joeypresent": "Yes",
-        "numberofkoala": 2,
+        "locality": "Burleigh Heads",
+        "objectid": 1128127,
+        "globalid": "{CEE2BBC4-0CD1-40EA-935F-AE6A55A1F751}",
+        "sighttime": 1791423540000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": null,
-        "sighting_lat_wgs84": -27.310537070000002,
-        "sighting_long_wgs84": 152.93798987000002
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -28.096952310000002,
+        "sighting_long_wgs84": 153.44805819000001
       }
     },
     {
       "type": "Feature",
-      "id": 1131727,
+      "id": 1132129,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.41751543775436,
-          -28.131300676843264
+          153.0748440059308,
+          -27.504425009645079
         ]
       },
       "properties": {
         "locality": null,
-        "objectid": 1131727,
-        "globalid": "{4205A318-12E3-4ABC-97AE-6CDFD14648ED}",
-        "sighttime": 1791348840000,
+        "objectid": 1132129,
+        "globalid": "{87397607-7AFD-4784-9B29-612130CA979A}",
+        "sighttime": 1791426720000,
         "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -28.131300679999999,
-        "sighting_long_wgs84": 153.41751543999999
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.504425010000002,
+        "sighting_long_wgs84": 153.07484401000002
       }
     },
     {
       "type": "Feature",
-      "id": 1132128,
+      "id": 1127727,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.36653778182404,
-          -27.93024909111158
+          153.44865742443875,
+          -28.094339853828775
         ]
       },
       "properties": {
-        "locality": "Arundel",
-        "objectid": 1132128,
-        "globalid": "{7EB94874-3761-46C6-9998-ED4C0C5652FB}",
-        "sighttime": 1791348780000,
-        "joeypresent": "Yes",
-        "numberofkoala": 2,
+        "locality": "Burleigh Heads",
+        "objectid": 1127727,
+        "globalid": "{D28FC2C1-D521-44CF-8845-524D7A216A81}",
+        "sighttime": 1791420660000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.93024909,
-        "sighting_long_wgs84": 153.36653778000002
+        "sighting_lat_wgs84": -28.094339850000001,
+        "sighting_long_wgs84": 153.44865741999999
       }
     },
     {
