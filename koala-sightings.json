@@ -3,6 +3,98 @@
   "features": [
     {
       "type": "Feature",
+      "id": 1129730,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.61185129968752,
+          -27.423346100120881
+        ]
+      },
+      "properties": {
+        "locality": "Wivenhoe Pocket",
+        "objectid": 1129730,
+        "globalid": "{70C3D240-BFB6-458D-A9EB-82DA3BCDA6F7}",
+        "sighttime": 1791579420000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Injured/Sick",
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -27.4233461,
+        "sighting_long_wgs84": 152.61185129999998
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1128130,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.42577163703666,
+          -28.125335433071939
+        ]
+      },
+      "properties": {
+        "locality": "Tallebudgera Valley",
+        "objectid": 1128130,
+        "globalid": "{16C1DC1A-4858-4337-864D-1AF1995FE5EE}",
+        "sighttime": 1791582480000,
+        "joeypresent": "No",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -28.12533543,
+        "sighting_long_wgs84": 153.42577163999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1124129,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.08478349983355,
+          -27.506441100057444
+        ]
+      },
+      "properties": {
+        "locality": "Camp Hill",
+        "objectid": 1124129,
+        "globalid": "{11C5E27D-AF77-41CD-8011-07530B638622}",
+        "sighttime": 1791589920000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.5064411,
+        "sighting_long_wgs84": 153.08478349999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1124531,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.72966780968537,
+          -27.695735655756295
+        ]
+      },
+      "properties": {
+        "locality": "Purga",
+        "objectid": 1124531,
+        "globalid": "{C43674EA-C6B3-4092-8FAA-D1EF969980C6}",
+        "sighttime": 1791617160000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": "Ipswich City",
+        "sighting_lat_wgs84": -27.69573566,
+        "sighting_long_wgs84": 152.72966781
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1086921,
       "geometry": {
         "type": "Point",
