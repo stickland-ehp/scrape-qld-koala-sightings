@@ -3,25 +3,48 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1127344,
+      "id": 1122942,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.08089090207812,
-          -27.508976502955452
+          153.44869761416626,
+          -28.098385500950855
         ]
       },
       "properties": {
-        "locality": "Camp Hill",
-        "objectid": 1127344,
-        "globalid": "{ECA4EC74-F819-4B89-9E3D-FD3E72F9BC92}",
-        "sighttime": 1792041840000,
+        "locality": "Burleigh Heads",
+        "objectid": 1122942,
+        "globalid": "{D0A7BBDD-3C78-42C5-930D-D0887627CC1E}",
+        "sighttime": 1792113000000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -28.098385499999999,
+        "sighting_long_wgs84": 153.44869761000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1124145,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.88517472025995,
+          -27.15109536822856
+        ]
+      },
+      "properties": {
+        "locality": "Moorina",
+        "objectid": 1124145,
+        "globalid": "{DF71874A-C1C3-409A-8D0D-51AE39AEF916}",
+        "sighttime": 1792122060000,
         "joeypresent": "No",
         "numberofkoala": 1,
-        "koalacondifinal": "Injured/Sick",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.508976499999999,
-        "sighting_long_wgs84": 153.08089090000001
+        "koalacondifinal": "Healthy",
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.15109537,
+        "sighting_long_wgs84": 152.88517471999998
       }
     },
     {
