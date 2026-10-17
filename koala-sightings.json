@@ -3,48 +3,48 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1122942,
+      "id": 1122944,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.44869761416626,
-          -28.098385500950855
+          153.08393000688889,
+          -27.530860992777558
         ]
       },
       "properties": {
-        "locality": "Burleigh Heads",
-        "objectid": 1122942,
-        "globalid": "{D0A7BBDD-3C78-42C5-930D-D0887627CC1E}",
-        "sighttime": 1792113000000,
-        "joeypresent": "Not Sure",
+        "locality": "Mount Gravatt East",
+        "objectid": 1122944,
+        "globalid": "{0EFAE35B-CAA3-4DE2-BE42-D5BAB81D32F7}",
+        "sighttime": 1792181940000,
+        "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -28.098385499999999,
-        "sighting_long_wgs84": 153.44869761000001
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.530860990000001,
+        "sighting_long_wgs84": 153.08393000999999
       }
     },
     {
       "type": "Feature",
-      "id": 1124145,
+      "id": 1127352,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.88517472025995,
-          -27.15109536822856
+          153.08214558083208,
+          -27.479274879059922
         ]
       },
       "properties": {
-        "locality": "Moorina",
-        "objectid": 1124145,
-        "globalid": "{DF71874A-C1C3-409A-8D0D-51AE39AEF916}",
-        "sighttime": 1792122060000,
-        "joeypresent": "No",
+        "locality": "Seven Hills",
+        "objectid": 1127352,
+        "globalid": "{2D2A0DB2-8C9B-4D5F-8446-C06B22FDE474}",
+        "sighttime": 1792218780000,
+        "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.15109537,
-        "sighting_long_wgs84": 152.88517471999998
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.479274879999998,
+        "sighting_long_wgs84": 153.08214558
       }
     },
     {
