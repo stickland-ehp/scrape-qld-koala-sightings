@@ -3,48 +3,209 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1122944,
+      "id": 1133325,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.08393000688889,
-          -27.530860992777558
+          153.36643273013973,
+          -27.93054516836817
         ]
       },
       "properties": {
-        "locality": "Mount Gravatt East",
-        "objectid": 1122944,
-        "globalid": "{0EFAE35B-CAA3-4DE2-BE42-D5BAB81D32F7}",
-        "sighttime": 1792181940000,
-        "joeypresent": "No",
+        "locality": "Arundel",
+        "objectid": 1133325,
+        "globalid": "{5B822C4D-DAF9-4BA0-826E-ACC8C151FA18}",
+        "sighttime": 1792305300000,
+        "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.530860990000001,
-        "sighting_long_wgs84": 153.08393000999999
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.930545169999998,
+        "sighting_long_wgs84": 153.36643272999999
       }
     },
     {
       "type": "Feature",
-      "id": 1127352,
+      "id": 1122952,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.08214558083208,
-          -27.479274879059922
+          153.09889726363903,
+          -27.549330469158928
         ]
       },
       "properties": {
-        "locality": "Seven Hills",
-        "objectid": 1127352,
-        "globalid": "{2D2A0DB2-8C9B-4D5F-8446-C06B22FDE474}",
-        "sighttime": 1792218780000,
+        "locality": "Wishart",
+        "objectid": 1122952,
+        "globalid": "{C306BC83-E7D0-4D3B-834A-EB84364DE632}",
+        "sighttime": 1792267200000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.549330469999997,
+        "sighting_long_wgs84": 153.09889726
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1124155,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.19604753555399,
+          -27.649258309258158
+        ]
+      },
+      "properties": {
+        "locality": "Cornubia",
+        "objectid": 1124155,
+        "globalid": "{257963E0-074C-4C16-9658-91C993F4DE09}",
+        "sighttime": 1792274100000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": null,
+        "sighting_lat_wgs84": -27.64925831,
+        "sighting_long_wgs84": 153.19604754
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1124156,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.42562869525165,
+          -27.239676968527881
+        ]
+      },
+      "properties": {
+        "locality": "Esk",
+        "objectid": 1124156,
+        "globalid": "{954EEA10-63DD-4BBC-B76A-42637B4B3976}",
+        "sighttime": 1792277280000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -27.239676969999998,
+        "sighting_long_wgs84": 152.4256287
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1124160,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.44094847523425,
+          -27.393032227112347
+        ]
+      },
+      "properties": {
+        "locality": "Amity",
+        "objectid": 1124160,
+        "globalid": "{6578DA33-46D2-4EA2-8C00-5538A89AFA68}",
+        "sighttime": 1792298460000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": null,
+        "sighting_lat_wgs84": -27.393032229999999,
+        "sighting_long_wgs84": 153.44094848
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1127361,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.44077611817562,
+          -27.393022460641991
+        ]
+      },
+      "properties": {
+        "locality": "Amity",
+        "objectid": 1127361,
+        "globalid": "{0F63A1E8-C9C7-4F8D-ABC4-F9B4F3BF368D}",
+        "sighttime": 1792298700000,
+        "joeypresent": "Yes",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": null,
+        "sighting_lat_wgs84": -27.393022460000001,
+        "sighting_long_wgs84": 153.44077611999998
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1122957,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.44153622675495,
+          -27.394255934697345
+        ]
+      },
+      "properties": {
+        "locality": "Amity",
+        "objectid": 1122957,
+        "globalid": "{B56D9E02-54BA-4736-8F47-FCB620AACBB7}",
+        "sighttime": 1792299360000,
+        "joeypresent": "No",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": null,
+        "sighting_lat_wgs84": -27.39425593,
+        "sighting_long_wgs84": 153.44153623
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1133324,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.03393381161041,
+          -27.529444648913845
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1133324,
+        "globalid": "{FAE9F86E-F058-4F0C-9ECD-8C06F8C95474}",
+        "sighttime": 1792309020000,
         "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.479274879999998,
-        "sighting_long_wgs84": 153.08214558
+        "sighting_lat_wgs84": -27.529444649999999,
+        "sighting_long_wgs84": 153.03393380999998
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1133724,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.09932337140924,
+          -27.549284801842756
+        ]
+      },
+      "properties": {
+        "locality": "Wishart",
+        "objectid": 1133724,
+        "globalid": "{707D6811-4D25-4E0C-8F25-4162CB6A3130}",
+        "sighttime": 1792311000000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.549284799999999,
+        "sighting_long_wgs84": 153.09932337000001
       }
     },
     {
