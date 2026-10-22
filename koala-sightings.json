@@ -3,25 +3,48 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1133342,
+      "id": 1136935,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.36466679141145,
-          -27.933034158332418
+          152.98217239176429,
+          -27.297291176938156
         ]
       },
       "properties": {
-        "locality": "Arundel",
-        "objectid": 1133342,
-        "globalid": "{49D428DB-1D2E-44A1-997B-902E098819D9}",
-        "sighttime": 1792558380000,
+        "locality": "Bray Park",
+        "objectid": 1136935,
+        "globalid": "{F042A056-A768-47CC-95B8-A90FF0600F4C}",
+        "sighttime": 1792650600000,
         "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.933034159999998,
-        "sighting_long_wgs84": 153.36466679
+        "lga": null,
+        "sighting_lat_wgs84": -27.297291179999998,
+        "sighting_long_wgs84": 152.98217239000002
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1137336,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.05113746378623,
+          -27.524816692297879
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1137336,
+        "globalid": "{CB152571-49E7-4566-B3E6-69EC012AEE8B}",
+        "sighttime": 1792623240000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.524816689999998,
+        "sighting_long_wgs84": 153.05113745999998
       }
     },
     {
