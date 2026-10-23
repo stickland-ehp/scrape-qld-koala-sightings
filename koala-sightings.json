@@ -3,48 +3,25 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1136935,
+      "id": 1136942,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.98217239176429,
-          -27.297291176938156
+          152.94290827216716,
+          -27.454839734925752
         ]
       },
       "properties": {
-        "locality": "Bray Park",
-        "objectid": 1136935,
-        "globalid": "{F042A056-A768-47CC-95B8-A90FF0600F4C}",
-        "sighttime": 1792650600000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": null,
-        "sighting_lat_wgs84": -27.297291179999998,
-        "sighting_long_wgs84": 152.98217239000002
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1137336,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.05113746378623,
-          -27.524816692297879
-        ]
-      },
-      "properties": {
-        "locality": null,
-        "objectid": 1137336,
-        "globalid": "{CB152571-49E7-4566-B3E6-69EC012AEE8B}",
-        "sighttime": 1792623240000,
-        "joeypresent": "Not Sure",
+        "locality": "The Gap",
+        "objectid": 1136942,
+        "globalid": "{3F390CEE-6E41-45E2-87F5-C3FA37538DB6}",
+        "sighttime": 1792741500000,
+        "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.524816689999998,
-        "sighting_long_wgs84": 153.05113745999998
+        "sighting_lat_wgs84": -27.454839739999997,
+        "sighting_long_wgs84": 152.94290827
       }
     },
     {
