@@ -3,29 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1136942,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.94290827216716,
-          -27.454839734925752
-        ]
-      },
-      "properties": {
-        "locality": "The Gap",
-        "objectid": 1136942,
-        "globalid": "{3F390CEE-6E41-45E2-87F5-C3FA37538DB6}",
-        "sighttime": 1792741500000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.454839739999997,
-        "sighting_long_wgs84": 152.94290827
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1086921,
       "geometry": {
         "type": "Point",
