@@ -69,6 +69,121 @@
         "sighting_lat_wgs84": -27.25155822,
         "sighting_long_wgs84": 152.96184157000002
       }
+    },
+    {
+      "type": "Feature",
+      "id": 1123337,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.22233889997847,
+          -27.96436930000446
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1123337,
+        "globalid": "{B4B7F436-F580-4FCF-8DBC-C77117D185BE}",
+        "sighttime": 1883633040000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": null,
+        "sighting_lat_wgs84": -27.964369300000001,
+        "sighting_long_wgs84": 153.22233889999998
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1126121,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.08503835098136,
+          -27.54273589635363
+        ]
+      },
+      "properties": {
+        "locality": "Mount Gravatt East",
+        "objectid": 1126121,
+        "globalid": "{A2C9C396-4555-4699-8DF5-ACEAE54274C3}",
+        "sighttime": 1793243100000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.5427359,
+        "sighting_long_wgs84": 153.08503835000002
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1138146,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.06434599977143,
+          -27.533675000322859
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1138146,
+        "globalid": "{F4B9D70C-496B-4D35-A8AB-DDB5A01C890B}",
+        "sighttime": 1793047440000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.533674999999999,
+        "sighting_long_wgs84": 153.064346
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1138147,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.00030076071053,
+          -27.284442650221976
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1138147,
+        "globalid": "{2887A63D-29D3-4C96-820F-2456A8E49A5B}",
+        "sighttime": 1793051340000,
+        "joeypresent": "No",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": null,
+        "sighting_lat_wgs84": -27.284442650000003,
+        "sighting_long_wgs84": 153.00030076000002
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1138547,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.99953514635678,
+          -27.284069699699476
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1138547,
+        "globalid": "{30CE78B2-A75F-4D2D-8AE1-BD531DCD328A}",
+        "sighttime": 1793051160000,
+        "joeypresent": "No",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": null,
+        "sighting_lat_wgs84": -27.2840697,
+        "sighting_long_wgs84": 152.99953515000001
+      }
     }
   ]
 }
