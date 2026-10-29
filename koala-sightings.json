@@ -3,29 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1139746,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.94437922655359,
-          -27.614736639330406
-        ]
-      },
-      "properties": {
-        "locality": "Kearneys Spring",
-        "objectid": 1139746,
-        "globalid": "{FEB030D2-36B4-4DDB-B147-F2DB0C86F9D5}",
-        "sighttime": 1793146140000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Dead",
-        "lga": null,
-        "sighting_lat_wgs84": -27.61473664,
-        "sighting_long_wgs84": 151.94437923000001
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1086921,
       "geometry": {
         "type": "Point",
@@ -141,94 +118,25 @@
     },
     {
       "type": "Feature",
-      "id": 1138151,
+      "id": 1139752,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.98697791230873,
-          -27.295263859805967
+          153.22758271573656,
+          -27.514982774090825
         ]
       },
       "properties": {
-        "locality": "Strathpine",
-        "objectid": 1138151,
-        "globalid": "{7763A46E-1D71-440C-B27F-BB238268ABB9}",
-        "sighttime": 1793150880000,
-        "joeypresent": "Yes",
-        "numberofkoala": 2,
-        "koalacondifinal": "Healthy",
-        "lga": null,
-        "sighting_lat_wgs84": -27.295263860000002,
-        "sighting_long_wgs84": 152.98697790999998
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1139345,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.97609253103934,
-          -26.459182215253204
-        ]
-      },
-      "properties": {
-        "locality": "Eumundi",
-        "objectid": 1139345,
-        "globalid": "{2E55976B-A322-4B3C-BCD7-FBF61133800B}",
-        "sighttime": 1793137200000,
+        "locality": "Birkdale",
+        "objectid": 1139752,
+        "globalid": "{B838D884-BBE1-454A-89A6-6A56D4EFE62E}",
+        "sighttime": 1793227860000,
         "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": null,
-        "sighting_lat_wgs84": -26.459182219999999,
-        "sighting_long_wgs84": 152.97609252999999
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1139749,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.98743266735337,
-          -27.294271886740859
-        ]
-      },
-      "properties": {
-        "locality": "Strathpine",
-        "objectid": 1139749,
-        "globalid": "{6026C35D-EF16-4A98-817C-5517F8318B01}",
-        "sighttime": 1793147100000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": null,
-        "sighting_lat_wgs84": -27.294271890000001,
-        "sighting_long_wgs84": 152.98743267
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1139751,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.99342012646989,
-          -27.143448012128356
-        ]
-      },
-      "properties": {
-        "locality": "Burpengary East",
-        "objectid": 1139751,
-        "globalid": "{F0F37914-ED00-4C50-A029-F3205431A124}",
-        "sighttime": 1793178420000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": null,
-        "sighting_lat_wgs84": -27.14344801,
-        "sighting_long_wgs84": 152.99342013
+        "lga": "Redland City",
+        "sighting_lat_wgs84": -27.51498277,
+        "sighting_long_wgs84": 153.22758271999999
       }
     }
   ]
