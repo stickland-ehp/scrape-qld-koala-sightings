@@ -3,6 +3,52 @@
   "features": [
     {
       "type": "Feature",
+      "id": 1142949,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.36729325689308,
+          -27.930136399868285
+        ]
+      },
+      "properties": {
+        "locality": "Arundel",
+        "objectid": 1142949,
+        "globalid": "{90015EA3-04F7-43A6-9610-A2F253592EB7}",
+        "sighttime": 1793336400000,
+        "joeypresent": "Yes",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.930136399999999,
+        "sighting_long_wgs84": 153.36729326
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1143349,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.36724247782502,
+          -27.929648515574581
+        ]
+      },
+      "properties": {
+        "locality": "Arundel",
+        "objectid": 1143349,
+        "globalid": "{845DD0FD-462D-46F0-AADE-374998BA4952}",
+        "sighttime": 1793337300000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Gold Coast City",
+        "sighting_lat_wgs84": -27.929648520000001,
+        "sighting_long_wgs84": 153.36724247999999
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1086921,
       "geometry": {
         "type": "Point",
@@ -91,52 +137,6 @@
         "lga": null,
         "sighting_lat_wgs84": -27.964369300000001,
         "sighting_long_wgs84": 153.22233889999998
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1126121,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.08503835098136,
-          -27.54273589635363
-        ]
-      },
-      "properties": {
-        "locality": "Mount Gravatt East",
-        "objectid": 1126121,
-        "globalid": "{A2C9C396-4555-4699-8DF5-ACEAE54274C3}",
-        "sighttime": 1793243100000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.5427359,
-        "sighting_long_wgs84": 153.08503835000002
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1139752,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.22758271573656,
-          -27.514982774090825
-        ]
-      },
-      "properties": {
-        "locality": "Birkdale",
-        "objectid": 1139752,
-        "globalid": "{B838D884-BBE1-454A-89A6-6A56D4EFE62E}",
-        "sighttime": 1793227860000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Redland City",
-        "sighting_lat_wgs84": -27.51498277,
-        "sighting_long_wgs84": 153.22758271999999
       }
     }
   ]
