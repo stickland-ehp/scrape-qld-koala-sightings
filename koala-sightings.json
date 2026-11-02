@@ -3,25 +3,48 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1144953,
+      "id": 1141754,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.01618128071109,
-          -26.372373091557083
+          153.03979929208779,
+          -27.796699263753734
+        ]
+      },
+      "properties": {
+        "locality": "Jimboomba",
+        "objectid": 1141754,
+        "globalid": "{588159F8-702F-43E1-8B1C-7EF6BA7951B6}",
+        "sighttime": 1793594880000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Logan City",
+        "sighting_lat_wgs84": -27.79669926,
+        "sighting_long_wgs84": 153.03979929000002
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1143755,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.07601459967921,
+          -27.555812599835203
         ]
       },
       "properties": {
         "locality": null,
-        "objectid": 1144953,
-        "globalid": "{DA6D3A14-9C81-469B-889A-A3E6460749B3}",
-        "sighttime": 1793505840000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
+        "objectid": 1143755,
+        "globalid": "{F40E89EB-032C-484D-A10C-141086508DA3}",
+        "sighttime": 1793605680000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
         "koalacondifinal": "Healthy",
-        "lga": null,
-        "sighting_lat_wgs84": -26.37237309,
-        "sighting_long_wgs84": 153.01618127999998
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.555812600000003,
+        "sighting_long_wgs84": 153.07601459999998
       }
     },
     {
@@ -114,6 +137,29 @@
         "lga": null,
         "sighting_lat_wgs84": -27.964369300000001,
         "sighting_long_wgs84": 153.22233889999998
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1144555,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.9328062263171,
+          -27.35872017989027
+        ]
+      },
+      "properties": {
+        "locality": "Bunya",
+        "objectid": 1144555,
+        "globalid": "{E1AAEBCA-769B-4B0A-8C1B-324B004365B5}",
+        "sighttime": 1793754180000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": null,
+        "sighting_lat_wgs84": -27.358720179999999,
+        "sighting_long_wgs84": 152.93280622999998
       }
     }
   ]
