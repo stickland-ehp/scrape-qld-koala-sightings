@@ -3,52 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1141754,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.03979929208779,
-          -27.796699263753734
-        ]
-      },
-      "properties": {
-        "locality": "Jimboomba",
-        "objectid": 1141754,
-        "globalid": "{588159F8-702F-43E1-8B1C-7EF6BA7951B6}",
-        "sighttime": 1793594880000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Logan City",
-        "sighting_lat_wgs84": -27.79669926,
-        "sighting_long_wgs84": 153.03979929000002
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1143755,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.07601459967921,
-          -27.555812599835203
-        ]
-      },
-      "properties": {
-        "locality": null,
-        "objectid": 1143755,
-        "globalid": "{F40E89EB-032C-484D-A10C-141086508DA3}",
-        "sighttime": 1793605680000,
-        "joeypresent": "Yes",
-        "numberofkoala": 2,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.555812600000003,
-        "sighting_long_wgs84": 153.07601459999998
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1086921,
       "geometry": {
         "type": "Point",
