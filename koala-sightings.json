@@ -3,52 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1141356,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.15923203118186,
-          -27.726872366394481
-        ]
-      },
-      "properties": {
-        "locality": "Bahrs Scrub",
-        "objectid": 1141356,
-        "globalid": "{E1921337-A3C3-4167-8573-D975468B1E7A}",
-        "sighttime": 1793757300000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Logan City",
-        "sighting_lat_wgs84": -27.726872370000002,
-        "sighting_long_wgs84": 153.15923203
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1142558,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.98567750301862,
-          -26.597271896146086
-        ]
-      },
-      "properties": {
-        "locality": null,
-        "objectid": 1142558,
-        "globalid": "{A0AA33A5-A5CD-43EC-A7DD-A8EF875AFB91}",
-        "sighttime": 1793736000000,
-        "joeypresent": "Yes",
-        "numberofkoala": 2,
-        "koalacondifinal": "Healthy",
-        "lga": null,
-        "sighting_lat_wgs84": -26.597271899999999,
-        "sighting_long_wgs84": 152.98567750000001
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1086921,
       "geometry": {
         "type": "Point",
@@ -137,75 +91,6 @@
         "lga": null,
         "sighting_lat_wgs84": -27.964369300000001,
         "sighting_long_wgs84": 153.22233889999998
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1144555,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.9328062263171,
-          -27.35872017989027
-        ]
-      },
-      "properties": {
-        "locality": "Bunya",
-        "objectid": 1144555,
-        "globalid": "{E1AAEBCA-769B-4B0A-8C1B-324B004365B5}",
-        "sighttime": 1793754180000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": null,
-        "sighting_lat_wgs84": -27.358720179999999,
-        "sighting_long_wgs84": 152.93280622999998
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1142158,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.36618440435416,
-          -27.930377891504598
-        ]
-      },
-      "properties": {
-        "locality": "Arundel",
-        "objectid": 1142158,
-        "globalid": "{F0D72EE0-1AEC-49CF-821B-0AFDF23B6D5E}",
-        "sighttime": 1793778000000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.930377889999999,
-        "sighting_long_wgs84": 153.36618439999998
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1144958,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.04653592728664,
-          -27.542175797638222
-        ]
-      },
-      "properties": {
-        "locality": "Nathan",
-        "objectid": 1144958,
-        "globalid": "{093426D0-6EA3-4D67-8D42-9675B2777552}",
-        "sighttime": 1793739600000,
-        "joeypresent": "Yes",
-        "numberofkoala": 2,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.542175800000003,
-        "sighting_long_wgs84": 153.04653593
       }
     }
   ]
