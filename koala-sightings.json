@@ -3,6 +3,29 @@
   "features": [
     {
       "type": "Feature",
+      "id": 1142162,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.94618243823999,
+          -27.709635828042767
+        ]
+      },
+      "properties": {
+        "locality": "Greenbank",
+        "objectid": 1142162,
+        "globalid": "{EB998385-D3D9-4F28-AA59-66C41E657C82}",
+        "sighttime": 1794063600000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": "Logan City",
+        "sighting_lat_wgs84": -27.709635830000003,
+        "sighting_long_wgs84": 152.94618244
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1086921,
       "geometry": {
         "type": "Point",
@@ -91,6 +114,29 @@
         "lga": null,
         "sighting_lat_wgs84": -27.964369300000001,
         "sighting_long_wgs84": 153.22233889999998
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1144561,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.78140779483041,
+          -26.758229374255215
+        ]
+      },
+      "properties": {
+        "locality": "Reesville",
+        "objectid": 1144561,
+        "globalid": "{FDFC863A-5312-4D26-8D1A-C961DCC29349}",
+        "sighttime": 1793993640000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Sunshine Coast Regional",
+        "sighting_lat_wgs84": -26.758229369999999,
+        "sighting_long_wgs84": 152.78140779
       }
     }
   ]
