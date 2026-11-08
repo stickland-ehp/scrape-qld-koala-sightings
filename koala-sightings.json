@@ -3,7 +3,53 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1142162,
+      "id": 1142564,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.37911919306919,
+          -27.095932074590127
+        ]
+      },
+      "properties": {
+        "locality": null,
+        "objectid": 1142564,
+        "globalid": "{C6D14A4C-AD2B-4978-95D2-B951928A6401}",
+        "sighttime": 1794114420000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -27.09593207,
+        "sighting_long_wgs84": 152.37911918999998
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1143365,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.98452910664085,
+          -26.464155612542033
+        ]
+      },
+      "properties": {
+        "locality": "Doonan",
+        "objectid": 1143365,
+        "globalid": "{550A6A2D-4D7C-44CD-8015-B29C621C7E6B}",
+        "sighttime": 1794126600000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": null,
+        "sighting_lat_wgs84": -26.464155609999999,
+        "sighting_long_wgs84": 152.98452911000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1142566,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,11 +59,11 @@
       },
       "properties": {
         "locality": "Greenbank",
-        "objectid": 1142162,
-        "globalid": "{EB998385-D3D9-4F28-AA59-66C41E657C82}",
-        "sighttime": 1794063600000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 2,
+        "objectid": 1142566,
+        "globalid": "{28F65806-92D3-449E-A5A2-D36BB202CF85}",
+        "sighttime": 1794134040000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
         "koalacondifinal": "Healthy",
         "lga": "Logan City",
         "sighting_lat_wgs84": -27.709635830000003,
@@ -114,29 +160,6 @@
         "lga": null,
         "sighting_lat_wgs84": -27.964369300000001,
         "sighting_long_wgs84": 153.22233889999998
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1144561,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.78140779483041,
-          -26.758229374255215
-        ]
-      },
-      "properties": {
-        "locality": "Reesville",
-        "objectid": 1144561,
-        "globalid": "{FDFC863A-5312-4D26-8D1A-C961DCC29349}",
-        "sighttime": 1793993640000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Sunshine Coast Regional",
-        "sighting_lat_wgs84": -26.758229369999999,
-        "sighting_long_wgs84": 152.78140779
       }
     }
   ]
