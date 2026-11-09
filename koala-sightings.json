@@ -3,71 +3,25 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1142564,
+      "id": 1145751,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.37911919306919,
-          -27.095932074590127
+          153.03685367674524,
+          -27.536689188575956
         ]
       },
       "properties": {
         "locality": null,
-        "objectid": 1142564,
-        "globalid": "{C6D14A4C-AD2B-4978-95D2-B951928A6401}",
-        "sighttime": 1794114420000,
+        "objectid": 1145751,
+        "globalid": "{51DC1F4B-7DB6-4476-B497-991A4E7A696A}",
+        "sighttime": 1794207120000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.09593207,
-        "sighting_long_wgs84": 152.37911918999998
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1143365,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.98452910664085,
-          -26.464155612542033
-        ]
-      },
-      "properties": {
-        "locality": "Doonan",
-        "objectid": 1143365,
-        "globalid": "{550A6A2D-4D7C-44CD-8015-B29C621C7E6B}",
-        "sighttime": 1794126600000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": null,
-        "sighting_lat_wgs84": -26.464155609999999,
-        "sighting_long_wgs84": 152.98452911000001
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1142566,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.94618243823999,
-          -27.709635828042767
-        ]
-      },
-      "properties": {
-        "locality": "Greenbank",
-        "objectid": 1142566,
-        "globalid": "{28F65806-92D3-449E-A5A2-D36BB202CF85}",
-        "sighttime": 1794134040000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Logan City",
-        "sighting_lat_wgs84": -27.709635830000003,
-        "sighting_long_wgs84": 152.94618244
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.536689190000001,
+        "sighting_long_wgs84": 153.03685368000001
       }
     },
     {
@@ -91,52 +45,6 @@
         "lga": "Somerset Regional",
         "sighting_lat_wgs84": -27.249523,
         "sighting_long_wgs84": 152.446191
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1092916,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.95243857986478,
-          -27.2444408905126
-        ]
-      },
-      "properties": {
-        "locality": "Kurwongbah",
-        "objectid": 1092916,
-        "globalid": "{205CAEFB-4FF9-42B0-AFDB-95C57E393972}",
-        "sighttime": 1831937340000,
-        "joeypresent": "Yes",
-        "numberofkoala": 2,
-        "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.24444089,
-        "sighting_long_wgs84": 152.95243858000001
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1105350,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.96184157203209,
-          -27.251558219439481
-        ]
-      },
-      "properties": {
-        "locality": "Kurwongbah",
-        "objectid": 1105350,
-        "globalid": "{9C5BD43D-7416-4CA9-832C-C2EE42C5FD85}",
-        "sighttime": 1816143720000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Dead",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.25155822,
-        "sighting_long_wgs84": 152.96184157000002
       }
     },
     {
