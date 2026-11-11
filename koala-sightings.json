@@ -3,6 +3,52 @@
   "features": [
     {
       "type": "Feature",
+      "id": 1145758,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.93981656470831,
+          -27.274612423312846
+        ]
+      },
+      "properties": {
+        "locality": "Joyner",
+        "objectid": 1145758,
+        "globalid": "{B134D900-7BDB-46B8-8A66-570C2B199D9C}",
+        "sighttime": 1794352080000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.27461242,
+        "sighting_long_wgs84": 152.93981657
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1146154,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.93983048410368,
+          -27.274638829347978
+        ]
+      },
+      "properties": {
+        "locality": "Joyner",
+        "objectid": 1146154,
+        "globalid": "{F99A5E16-776E-408F-88E8-DB02D9D09672}",
+        "sighttime": 1794352140000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.274638830000001,
+        "sighting_long_wgs84": 152.93983047999998
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1086921,
       "geometry": {
         "type": "Point",
