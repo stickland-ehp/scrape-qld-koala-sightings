@@ -3,48 +3,71 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1145758,
+      "id": 1146956,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.93981656470831,
-          -27.274612423312846
+          153.0963961823098,
+          -27.499972644009485
         ]
       },
       "properties": {
-        "locality": "Joyner",
-        "objectid": 1145758,
-        "globalid": "{B134D900-7BDB-46B8-8A66-570C2B199D9C}",
-        "sighttime": 1794352080000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 2,
+        "locality": "Carina Heights",
+        "objectid": 1146956,
+        "globalid": "{47573C81-E253-4FDD-8CC1-8071AAD27D57}",
+        "sighttime": 1794426960000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.27461242,
-        "sighting_long_wgs84": 152.93981657
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.499972639999999,
+        "sighting_long_wgs84": 153.09639618000003
       }
     },
     {
       "type": "Feature",
-      "id": 1146154,
+      "id": 1146957,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.93983048410368,
-          -27.274638829347978
+          152.90424370256369,
+          -26.689201241342108
         ]
       },
       "properties": {
-        "locality": "Joyner",
-        "objectid": 1146154,
-        "globalid": "{F99A5E16-776E-408F-88E8-DB02D9D09672}",
-        "sighttime": 1794352140000,
+        "locality": null,
+        "objectid": 1146957,
+        "globalid": "{F35027C3-9ADC-4586-8B59-D64096A9522A}",
+        "sighttime": 1794430440000,
         "joeypresent": "Not Sure",
-        "numberofkoala": 2,
+        "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.274638830000001,
-        "sighting_long_wgs84": 152.93983047999998
+        "lga": "Sunshine Coast Regional",
+        "sighting_lat_wgs84": -26.689201239999999,
+        "sighting_long_wgs84": 152.90424369999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1146961,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.01333323588321,
+          -27.265752596039462
+        ]
+      },
+      "properties": {
+        "locality": "Murrumba Downs",
+        "objectid": 1146961,
+        "globalid": "{3E9772EF-BA47-4E48-8BD2-AB624E6091A4}",
+        "sighttime": 1794464460000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": null,
+        "sighting_lat_wgs84": -27.265752599999999,
+        "sighting_long_wgs84": 153.01333323999998
       }
     },
     {
