@@ -3,25 +3,25 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1146978,
+      "id": 1150172,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.08157890019467,
-          -27.510205900268257
+          152.93756166668274,
+          -27.272858332966656
         ]
       },
       "properties": {
-        "locality": "Camp Hill",
-        "objectid": 1146978,
-        "globalid": "{53C6666F-4359-473E-83C6-4842BBED7779}",
-        "sighttime": 1794722760000,
-        "joeypresent": "Yes",
+        "locality": "Joyner",
+        "objectid": 1150172,
+        "globalid": "{940EF808-20E8-4A1C-8266-72473E0E7C18}",
+        "sighttime": 1794788040000,
+        "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.510205900000003,
-        "sighting_long_wgs84": 153.08157890000001
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.272858330000002,
+        "sighting_long_wgs84": 152.93756167000001
       }
     },
     {
