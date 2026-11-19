@@ -49,71 +49,25 @@
     },
     {
       "type": "Feature",
-      "id": 1149373,
+      "id": 1153375,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.42046359706532,
-          -27.552656315749701
+          153.2953382358728,
+          -27.616309506659711
         ]
       },
       "properties": {
-        "locality": "Glenore Grove",
-        "objectid": 1149373,
-        "globalid": "{3C07B126-9AB3-492E-82FE-6D7E014AB8CB}",
-        "sighttime": 1794947280000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Lockyer Valley Regional",
-        "sighting_lat_wgs84": -27.552656319999997,
-        "sighting_long_wgs84": 152.42046360000001
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1148173,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.36481904237738,
-          -27.933057560120456
-        ]
-      },
-      "properties": {
-        "locality": "Arundel",
-        "objectid": 1148173,
-        "globalid": "{0623F1C2-23CD-4752-9346-6B1281AEEC45}",
-        "sighttime": 1794962700000,
+        "locality": "Redland Bay",
+        "objectid": 1153375,
+        "globalid": "{466399FC-1689-49C0-80F6-4D809A8B7521}",
+        "sighttime": 1795035300000,
         "joeypresent": "Not Sure",
         "numberofkoala": 1,
-        "koalacondifinal": "Injured/Sick",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.933057559999998,
-        "sighting_long_wgs84": 153.36481904000001
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1150174,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.37642369565123,
-          -27.097246140942357
-        ]
-      },
-      "properties": {
-        "locality": "Toogoolawah",
-        "objectid": 1150174,
-        "globalid": "{75C04599-9823-458A-AB10-7B94B243ACC9}",
-        "sighttime": 1794984600000,
-        "joeypresent": "No",
-        "numberofkoala": 2,
         "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.097246139999999,
-        "sighting_long_wgs84": 152.3764237
+        "lga": "Redland City",
+        "sighting_lat_wgs84": -27.616309510000001,
+        "sighting_long_wgs84": 153.29533824000001
       }
     }
   ]
