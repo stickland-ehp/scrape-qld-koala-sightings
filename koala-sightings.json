@@ -46,29 +46,6 @@
         "sighting_lat_wgs84": -27.964369300000001,
         "sighting_long_wgs84": 153.22233889999998
       }
-    },
-    {
-      "type": "Feature",
-      "id": 1153375,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.2953382358728,
-          -27.616309506659711
-        ]
-      },
-      "properties": {
-        "locality": "Redland Bay",
-        "objectid": 1153375,
-        "globalid": "{466399FC-1689-49C0-80F6-4D809A8B7521}",
-        "sighttime": 1795035300000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Redland City",
-        "sighting_lat_wgs84": -27.616309510000001,
-        "sighting_long_wgs84": 153.29533824000001
-      }
     }
   ]
 }
