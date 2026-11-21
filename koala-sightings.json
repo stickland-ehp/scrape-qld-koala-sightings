@@ -46,6 +46,29 @@
         "sighting_lat_wgs84": -27.964369300000001,
         "sighting_long_wgs84": 153.22233889999998
       }
+    },
+    {
+      "type": "Feature",
+      "id": 1148577,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.28903893462979,
+          -26.894506377305245
+        ]
+      },
+      "properties": {
+        "locality": "Moore",
+        "objectid": 1148577,
+        "globalid": "{352728CA-2103-46B8-88FF-03725FFC48AC}",
+        "sighttime": 1795215840000,
+        "joeypresent": "Not Sure",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -26.894506379999999,
+        "sighting_long_wgs84": 152.28903892999998
+      }
     }
   ]
 }
