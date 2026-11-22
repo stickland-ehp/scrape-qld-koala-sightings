@@ -49,25 +49,71 @@
     },
     {
       "type": "Feature",
-      "id": 1148577,
+      "id": 1149382,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.28903893462979,
-          -26.894506377305245
+          152.95573969988774,
+          -27.245186100239945
         ]
       },
       "properties": {
-        "locality": "Moore",
-        "objectid": 1148577,
-        "globalid": "{352728CA-2103-46B8-88FF-03725FFC48AC}",
-        "sighttime": 1795215840000,
+        "locality": "Kurwongbah",
+        "objectid": 1149382,
+        "globalid": "{98D939C6-7372-4628-A6D0-22A3AB826DF8}",
+        "sighttime": 1795340520000,
         "joeypresent": "Not Sure",
+        "numberofkoala": 2,
+        "koalacondifinal": "Healthy",
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.245186100000002,
+        "sighting_long_wgs84": 152.95573970000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1148182,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.96699814520642,
+          -27.302964718032555
+        ]
+      },
+      "properties": {
+        "locality": "Strathpine",
+        "objectid": 1148182,
+        "globalid": "{EBF1391C-77F6-4231-9CD7-68D499E66E7E}",
+        "sighttime": 1795326000000,
+        "joeypresent": "Yes",
+        "numberofkoala": 5,
+        "koalacondifinal": "Healthy",
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.302964720000002,
+        "sighting_long_wgs84": 152.96699815000002
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1148583,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.95776310026798,
+          -27.245677299834238
+        ]
+      },
+      "properties": {
+        "locality": "Kurwongbah",
+        "objectid": 1148583,
+        "globalid": "{2C2728A1-504E-4AAD-8399-46103272915E}",
+        "sighttime": 1795342200000,
+        "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -26.894506379999999,
-        "sighting_long_wgs84": 152.28903892999998
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.245677300000001,
+        "sighting_long_wgs84": 152.95776309999999
       }
     }
   ]
