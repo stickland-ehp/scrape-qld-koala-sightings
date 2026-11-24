@@ -3,52 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1148584,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.0731875475812,
-          -27.546843829163073
-        ]
-      },
-      "properties": {
-        "locality": "Mount Gravatt",
-        "objectid": 1148584,
-        "globalid": "{91677393-2AA1-46B1-847D-F559DAE7CDDD}",
-        "sighttime": 1795416120000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.54684383,
-        "sighting_long_wgs84": 153.07318755
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1149384,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.0732838981836,
-          -27.546975471432948
-        ]
-      },
-      "properties": {
-        "locality": "Mount Gravatt",
-        "objectid": 1149384,
-        "globalid": "{A4E28F0F-FF47-4289-A350-294220D1DB3C}",
-        "sighttime": 1795416240000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.54697547,
-        "sighting_long_wgs84": 153.07328390000001
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1086921,
       "geometry": {
         "type": "Point",
@@ -72,48 +26,48 @@
     },
     {
       "type": "Feature",
-      "id": 1150984,
+      "id": 1153773,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.36480985081542,
-          -27.930594342138807
+          152.95531439970298,
+          -27.244767500256014
         ]
       },
       "properties": {
-        "locality": "Arundel",
-        "objectid": 1150984,
-        "globalid": "{42E8B651-618B-4D45-9058-FBFAD7A3BFFE}",
-        "sighttime": 1795388400000,
+        "locality": "Kurwongbah",
+        "objectid": 1153773,
+        "globalid": "{84B2CF18-0D48-4A73-8E1D-38DFA31DCC5B}",
+        "sighttime": 1795514820000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Gold Coast City",
-        "sighting_lat_wgs84": -27.930594339999999,
-        "sighting_long_wgs84": 153.36480985
+        "lga": "Moreton Bay City",
+        "sighting_lat_wgs84": -27.244767500000002,
+        "sighting_long_wgs84": 152.95531439999999
       }
     },
     {
       "type": "Feature",
-      "id": 1148586,
+      "id": 1153772,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.94617344610398,
-          -27.709655993474719
+          152.99745260089821,
+          -27.434198409096716
         ]
       },
       "properties": {
-        "locality": "Greenbank",
-        "objectid": 1148586,
-        "globalid": "{7D1630C0-5817-4860-9F26-E0CB1A538497}",
-        "sighttime": 1795431900000,
+        "locality": "Alderley",
+        "objectid": 1153772,
+        "globalid": "{F82B70B8-9B39-4FA4-830D-93F15B13610C}",
+        "sighttime": 1795489200000,
         "joeypresent": "No",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Logan City",
-        "sighting_lat_wgs84": -27.709655990000002,
-        "sighting_long_wgs84": 152.94617345
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.43419841,
+        "sighting_long_wgs84": 152.9974526
       }
     },
     {
