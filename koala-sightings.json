@@ -26,48 +26,25 @@
     },
     {
       "type": "Feature",
-      "id": 1153773,
+      "id": 1147002,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.95531439970298,
-          -27.244767500256014
+          152.41782670034661,
+          -27.24892530004761
         ]
       },
       "properties": {
-        "locality": "Kurwongbah",
-        "objectid": 1153773,
-        "globalid": "{84B2CF18-0D48-4A73-8E1D-38DFA31DCC5B}",
-        "sighttime": 1795514820000,
-        "joeypresent": "No",
+        "locality": "Esk",
+        "objectid": 1147002,
+        "globalid": "{D7E76ACE-46B4-4C59-ACAD-B9F7DB0CCFEB}",
+        "sighttime": 1795638360000,
+        "joeypresent": "Not Sure",
         "numberofkoala": 1,
         "koalacondifinal": "Healthy",
-        "lga": "Moreton Bay City",
-        "sighting_lat_wgs84": -27.244767500000002,
-        "sighting_long_wgs84": 152.95531439999999
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1153772,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.99745260089821,
-          -27.434198409096716
-        ]
-      },
-      "properties": {
-        "locality": "Alderley",
-        "objectid": 1153772,
-        "globalid": "{F82B70B8-9B39-4FA4-830D-93F15B13610C}",
-        "sighttime": 1795489200000,
-        "joeypresent": "No",
-        "numberofkoala": 1,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.43419841,
-        "sighting_long_wgs84": 152.9974526
+        "lga": "Somerset Regional",
+        "sighting_lat_wgs84": -27.2489253,
+        "sighting_long_wgs84": 152.41782670000001
       }
     },
     {
