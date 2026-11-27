@@ -26,25 +26,25 @@
     },
     {
       "type": "Feature",
-      "id": 1147002,
+      "id": 1153777,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.41782670034661,
-          -27.24892530004761
+          153.08403824489741,
+          -27.529167250198366
         ]
       },
       "properties": {
-        "locality": "Esk",
-        "objectid": 1147002,
-        "globalid": "{D7E76ACE-46B4-4C59-ACAD-B9F7DB0CCFEB}",
-        "sighttime": 1795638360000,
-        "joeypresent": "Not Sure",
-        "numberofkoala": 1,
+        "locality": "Mount Gravatt East",
+        "objectid": 1153777,
+        "globalid": "{28F60CD2-7862-4920-A937-568121B32D85}",
+        "sighttime": 1795726080000,
+        "joeypresent": "Yes",
+        "numberofkoala": 2,
         "koalacondifinal": "Healthy",
-        "lga": "Somerset Regional",
-        "sighting_lat_wgs84": -27.2489253,
-        "sighting_long_wgs84": 152.41782670000001
+        "lga": "Brisbane City",
+        "sighting_lat_wgs84": -27.52916725,
+        "sighting_long_wgs84": 153.08403824000001
       }
     },
     {
