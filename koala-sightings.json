@@ -26,29 +26,6 @@
     },
     {
       "type": "Feature",
-      "id": 1153777,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.08403824489741,
-          -27.529167250198366
-        ]
-      },
-      "properties": {
-        "locality": "Mount Gravatt East",
-        "objectid": 1153777,
-        "globalid": "{28F60CD2-7862-4920-A937-568121B32D85}",
-        "sighttime": 1795726080000,
-        "joeypresent": "Yes",
-        "numberofkoala": 2,
-        "koalacondifinal": "Healthy",
-        "lga": "Brisbane City",
-        "sighting_lat_wgs84": -27.52916725,
-        "sighting_long_wgs84": 153.08403824000001
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1123337,
       "geometry": {
         "type": "Point",
@@ -68,6 +45,52 @@
         "lga": null,
         "sighting_lat_wgs84": -27.964369300000001,
         "sighting_long_wgs84": 153.22233889999998
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1156182,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.00000000020134,
+          -27.551696000293507
+        ]
+      },
+      "properties": {
+        "locality": "Prince Henry Heights",
+        "objectid": 1156182,
+        "globalid": "{B7056EB4-6EC8-4673-8DF6-F08DD58CCAE1}",
+        "sighttime": 1795825380000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Injured/Sick",
+        "lga": "Toowoomba Regional",
+        "sighting_lat_wgs84": -27.551696,
+        "sighting_long_wgs84": 152
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1156985,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.99767721116027,
+          -27.893970160707543
+        ]
+      },
+      "properties": {
+        "locality": "Woodhill",
+        "objectid": 1156985,
+        "globalid": "{D1FCCB50-A24D-46EA-8799-0D9E423225B5}",
+        "sighttime": 1795854420000,
+        "joeypresent": "No",
+        "numberofkoala": 1,
+        "koalacondifinal": "Healthy",
+        "lga": "Logan City",
+        "sighting_lat_wgs84": -27.893970159999999,
+        "sighting_long_wgs84": 152.99767721000001
       }
     }
   ]
